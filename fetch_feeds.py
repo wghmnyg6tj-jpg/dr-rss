@@ -34,10 +34,8 @@ TOPIC_FEEDS = [
     ("GearJunkie", "Outdoor", "https://gearjunkie.com/feed", "outdoor"),
     ("SectionHiker", "Outdoor", "https://sectionhiker.com/feed/", "outdoor"),
     ("The Trek", "Outdoor", "https://thetrek.co/feed/", "outdoor"),
-    ("Outdoor Life", "Outdoor", "https://www.outdoorlife.com/feed/", "outdoor"),
     ("Outside", "Outdoor", "https://www.outsideonline.com/feed/", "outdoor"),
     ("Backpacker", "Outdoor", "https://www.backpacker.com/feed/", "outdoor"),
-    ("Netnatur", "Outdoor", "https://netnatur.dk/feed/", "outdoor"),
     ("Copenhagen Post", "Danmark", "https://cphpost.dk/feed/", "danmark"),
 ]
 MAX_PER_FEED = 15
