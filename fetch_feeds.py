@@ -33,6 +33,8 @@ TOPIC_FEEDS = [
     ("The Neuron", "AI", "https://www.theneuron.ai/feed", "ai"),
     ("GearJunkie", "Outdoor", "https://gearjunkie.com/feed", "outdoor"),
     ("SectionHiker", "Outdoor", "https://sectionhiker.com/feed/", "outdoor"),
+    ("The Trek", "Outdoor", "https://thetrek.co/feed/", "outdoor"),
+    ("Outdoor Life", "Outdoor", "https://www.outdoorlife.com/feed/", "outdoor"),
     ("Copenhagen Post", "Danmark", "https://cphpost.dk/feed/", "danmark"),
 ]
 MAX_PER_FEED = 15
