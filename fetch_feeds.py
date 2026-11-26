@@ -18,6 +18,24 @@ FEEDS = [
     ("BT", "Nyheder", "https://www.bt.dk/nyheder/seneste/rss"),
     ("BT", "Seneste", "https://www.bt.dk/bt/seneste/rss"),
 ]
+FEEDS = [(a, b, c, "alment") for a, b, c in FEEDS]
+# Emnefeeds: fjerde felt er emnet (teknologi, ai, outdoor, foto, dagpenge, indvandring).
+# Ikke alle adresser er verificeret. Et feed med status != "ok" kan fjernes.
+TOPIC_FEEDS = [
+    ("PetaPixel", "Foto", "https://petapixel.com/feed/", "foto"),
+    ("Fuji Rumors", "Foto", "https://www.fujirumors.com/feed/", "foto"),
+    ("Fstoppers", "Foto", "https://fstoppers.com/feed", "foto"),
+    ("Version2", "Teknologi", "https://www.version2.dk/rss", "teknologi"),
+    ("Ingeniøren", "Teknologi", "https://ing.dk/rss/nyheder", "teknologi"),
+    ("Ars Technica", "Teknologi", "https://feeds.arstechnica.com/arstechnica/index", "teknologi"),
+    ("The Verge", "AI", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "ai"),
+    ("TechCrunch", "AI", "https://techcrunch.com/category/artificial-intelligence/feed/", "ai"),
+    ("The Neuron", "AI", "https://www.theneuron.ai/feed", "ai"),
+    ("GearJunkie", "Outdoor", "https://gearjunkie.com/feed", "outdoor"),
+    ("SectionHiker", "Outdoor", "https://sectionhiker.com/feed/", "outdoor"),
+    ("Copenhagen Post", "Danmark", "https://cphpost.dk/feed/", "danmark"),
+    ("A-kasser.dk", "Dagpenge", "https://www.a-kasser.dk/feed/", "dagpenge"),
+]
 MAX_PER_FEED = 15
 UA = "dagens-oversigt-rss/1.0 (privat nyhedsoverblik; hentes hvert kvarter)"
 
@@ -46,12 +64,34 @@ def parse(body):
         if not title or not link.startswith("https://"):
             continue
         items.append({"title": title, "link": link, "published": iso(it.findtext("pubDate"))})
+    if not items:
+        ns = "{http://www.w3.org/2005/Atom}"
+        for it in root.iter(ns + "entry"):
+            title = (it.findtext(ns + "title") or "").strip()
+            link = ""
+            for l in it.findall(ns + "link"):
+                if l.get("rel", "alternate") == "alternate":
+                    link = l.get("href", "")
+                    break
+            when = it.findtext(ns + "published") or it.findtext(ns + "updated")
+            pub = None
+            if when:
+                try:
+                    dt = datetime.fromisoformat(when.strip().replace("Z", "+00:00"))
+                    if dt.tzinfo is None:
+                        dt = dt.replace(tzinfo=timezone.utc)
+                    pub = dt.astimezone(timezone.utc).isoformat(timespec="minutes")
+                except Exception:
+                    pub = None
+            if title and link.startswith("https://"):
+                items.append({"title": title, "link": link, "published": pub})
+    items.sort(key=lambda x: x["published"] or "", reverse=True)
     return items[:MAX_PER_FEED]
 
 def main():
     out = {"generated": datetime.now(timezone.utc).isoformat(timespec="minutes"), "feeds": []}
-    for source, name, url in FEEDS:
-        entry = {"source": source, "name": name, "url": url, "status": "ok", "items": []}
+    for source, name, url, topic in FEEDS + TOPIC_FEEDS:
+        entry = {"source": source, "name": name, "topic": topic, "url": url, "status": "ok", "items": []}
         try:
             code, body = fetch(url)
             entry["items"] = parse(body)
