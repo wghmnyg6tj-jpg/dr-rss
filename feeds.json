@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T09:20+00:00",
+ "generated": "2026-11-26T09:30+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -513,6 +513,21 @@
    "status": "ok",
    "items": [
     {
+     "title": "Drama i Bangkok: \nSyv kvæstet \ni eksplosion",
+     "link": "https://ekstrabladet.dk/nyheder/drama-i-bangkok-syv-kvaestet-i-eksplosion/11365897",
+     "published": "2026-11-26T09:27+00:00"
+    },
+    {
+     "title": "Efter kæmpefusion:\nDansk gigant\nfår nyt navn",
+     "link": "https://ekstrabladet.dk/penge/efter-kaempefusion-dansk-gigant-skifter-navn/11365855",
+     "published": "2026-11-26T09:22+00:00"
+    },
+    {
+     "title": "Kæmpe drama: Superstjerne fritstillet efter interview",
+     "link": "https://ekstrabladet.dk/sport/anden_sport/nfl/kaempe-drama-superstjerne-fritstillet-efter-interview/11365868",
+     "published": "2026-11-26T09:20+00:00"
+    },
+    {
      "title": "Skyldig i skuddrab",
      "link": "https://ekstrabladet.dk/krimi/skyldig-i-skuddrab/11364038",
      "published": "2026-11-26T09:15+00:00"
@@ -546,21 +561,6 @@
      "title": "Efterforsker \nmistænkeligt \ndødsfald",
      "link": "https://ekstrabladet.dk/krimi/politiet-efterforsker-mistaenkeligt-doedsfald/11365843",
      "published": "2026-11-26T08:51+00:00"
-    },
-    {
-     "title": "Sønderborg bliver vært for VM i kajakpolo",
-     "link": "https://ekstrabladet.dk/sport/soenderborg-bliver-vaert-for-vm-i-kajakpolo/11365817",
-     "published": "2026-11-26T08:30+00:00"
-    },
-    {
-     "title": "Flyselskab \nkæmper for \noverlevelse",
-     "link": "https://ekstrabladet.dk/penge/norsk-flyselskab-kaemper-for-overlevelse-aflyser-alle-afgange/11365793",
-     "published": "2026-11-26T08:18+00:00"
-    },
-    {
-     "title": "Kina svarer på vild \nTrump-melding: \nFalsk!",
-     "link": "https://ekstrabladet.dk/nyheder/politik/kina-svarer-paa-vild-trump-melding-falsk/11365753",
-     "published": "2026-11-26T08:15+00:00"
     }
    ]
   },
@@ -571,6 +571,11 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Drama i Bangkok: \nSyv kvæstet \ni eksplosion",
+     "link": "https://ekstrabladet.dk/nyheder/drama-i-bangkok-syv-kvaestet-i-eksplosion/11365897",
+     "published": "2026-11-26T09:27+00:00"
+    },
     {
      "title": "Kina svarer på vild \nTrump-melding: \nFalsk!",
      "link": "https://ekstrabladet.dk/nyheder/politik/kina-svarer-paa-vild-trump-melding-falsk/11365753",
@@ -615,11 +620,6 @@
      "title": "Skræktal: \n12.000 \nsmittet",
      "link": "https://ekstrabladet.dk/nyheder/skraektal-12.000-smittet-med-ebola/11365648",
      "published": "2026-11-26T05:26+00:00"
-    },
-    {
-     "title": "Melder ud: \nBenzinprisen \ndykker \n2 kr. per liter!",
-     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/minister-haaber-paa-at-alle-tankstationer-saenker-prisen-fra-tirsdag/11365640",
-     "published": "2026-11-26T05:23+00:00"
     }
    ]
   },
@@ -630,6 +630,11 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Så er det vedtaget: Benzin og diesel bliver billigere i ét år",
+     "link": "https://www.bt.dk/samfund/saa-er-det-vedtaget-benzin-og-diesel-bliver-billigere-i-et-aar?referrer=RSS",
+     "published": "2026-11-26T09:25+00:00"
+    },
     {
      "title": "Arla investerer 710 millioner i mælkeprotein efter stor efterspørgsel",
      "link": "https://www.bt.dk/erhverv/arla-investerer-710-millioner-i-maelkeprotein-efter-stor-efterspoergsel?referrer=RSS",
@@ -671,14 +676,9 @@
      "published": "2026-11-26T08:41+00:00"
     },
     {
-     "title": "Stor eksplosion i Bangkok",
-     "link": "https://www.bt.dk/udland/stor-eksplosion-i-bangkok?referrer=RSS",
+     "title": "Stor eksplosion i Bangkok – syv personer såret",
+     "link": "https://www.bt.dk/udland/stor-eksplosion-i-bangkok--syv-personer-saaret?referrer=RSS",
      "published": "2026-11-26T08:34+00:00"
-    },
-    {
-     "title": "Danmarks EU-bidrag risikerer at stige med 12,1 milliard kroner",
-     "link": "https://www.bt.dk/udland/danmarks-eu-bidrag-risikerer-at-stige-med-121-milliard-kroner?referrer=RSS",
-     "published": "2026-11-26T08:27+00:00"
     }
    ]
   },
@@ -689,6 +689,11 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Så er det vedtaget: Benzin og diesel bliver billigere i ét år",
+     "link": "https://www.bt.dk/samfund/saa-er-det-vedtaget-benzin-og-diesel-bliver-billigere-i-et-aar?referrer=RSS",
+     "published": "2026-11-26T09:25+00:00"
+    },
     {
      "title": "Arla investerer 710 millioner i mælkeprotein efter stor efterspørgsel",
      "link": "https://www.bt.dk/erhverv/arla-investerer-710-millioner-i-maelkeprotein-efter-stor-efterspoergsel?referrer=RSS",
@@ -733,11 +738,6 @@
      "title": "Tankskib med op mod 7000 ton diesel er gået ned ud for Ibiza",
      "link": "https://www.bt.dk/udland/tankskib-med-op-mod-7000-ton-diesel-er-gaaet-ned-ud-for-ibiza?referrer=RSS",
      "published": "2026-11-26T08:41+00:00"
-    },
-    {
-     "title": "Stor eksplosion i Bangkok",
-     "link": "https://www.bt.dk/udland/stor-eksplosion-i-bangkok?referrer=RSS",
-     "published": "2026-11-26T08:34+00:00"
     }
    ]
   },
