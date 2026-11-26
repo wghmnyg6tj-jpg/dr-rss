@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T09:18+00:00",
+ "generated": "2026-11-26T09:20+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -631,6 +631,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Arla investerer 710 millioner i mælkeprotein efter stor efterspørgsel",
+     "link": "https://www.bt.dk/erhverv/arla-investerer-710-millioner-i-maelkeprotein-efter-stor-efterspoergsel?referrer=RSS",
+     "published": "2026-11-26T09:19+00:00"
+    },
+    {
      "title": "Tre mænd kendt delvist skyldig - én frifundet for drabet på Novembervej",
      "link": "https://www.bt.dk/krimi/tre-maend-kendt-delvist-skyldig-en-frifundet-for-drabet-paa-novembervej?referrer=RSS",
      "published": "2026-11-26T09:17+00:00"
@@ -639,11 +644,6 @@
      "title": "Politiet efterforsker mistænkeligt dødsfald i Randers",
      "link": "https://www.bt.dk/krimi/politiet-efterforsker-mistaenkeligt-doedsfald-i-randers?referrer=RSS",
      "published": "2026-11-26T09:12+00:00"
-    },
-    {
-     "title": "Arla investerer 710 millioner i mælkeprotein efter stor efterspørgsel",
-     "link": "https://www.bt.dk/erhverv/arla-investerer-710-millioner-i-maelkeprotein-efter-stor-efterspoergsel?referrer=RSS",
-     "published": "2026-11-26T09:05+00:00"
     },
     {
      "title": "Kæmpe krise på AUH: 19 har sagt op – arbejdsmiljøet sejler",
@@ -690,6 +690,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Arla investerer 710 millioner i mælkeprotein efter stor efterspørgsel",
+     "link": "https://www.bt.dk/erhverv/arla-investerer-710-millioner-i-maelkeprotein-efter-stor-efterspoergsel?referrer=RSS",
+     "published": "2026-11-26T09:19+00:00"
+    },
+    {
      "title": "Tre mænd kendt delvist skyldig - én frifundet for drabet på Novembervej",
      "link": "https://www.bt.dk/krimi/tre-maend-kendt-delvist-skyldig-en-frifundet-for-drabet-paa-novembervej?referrer=RSS",
      "published": "2026-11-26T09:17+00:00"
@@ -703,11 +708,6 @@
      "title": "Advarer boligejerne om risiko for kæmpe regninger: 'Det er et ekstremt, men plausibelt scenarie'",
      "link": "https://www.bt.dk/bolig/advarer-boligejerne-om-risiko-for-kaempe-regninger-det-er-et-ekstremt-men-plausibelt-scenarie?referrer=RSS",
      "published": "2026-11-26T09:07+00:00"
-    },
-    {
-     "title": "Arla investerer 710 millioner i mælkeprotein efter stor efterspørgsel",
-     "link": "https://www.bt.dk/erhverv/arla-investerer-710-millioner-i-maelkeprotein-efter-stor-efterspoergsel?referrer=RSS",
-     "published": "2026-11-26T09:05+00:00"
     },
     {
      "title": "Kæmpe krise på AUH: 19 har sagt op – arbejdsmiljøet sejler",
@@ -1531,20 +1531,6 @@
      "title": "Israeli lawmakers back inquiry into October 7 failures in preliminary vote",
      "link": "https://cphpost.dk/2026-11-25/global/israeli-lawmakers-back-inquiry-into-october-7-failures-in-preliminary-vote/",
      "published": "2026-11-25T14:52+00:00"
-    }
-   ]
-  },
-  {
-   "source": "A-kasser.dk",
-   "name": "Dagpenge",
-   "topic": "dagpenge",
-   "url": "https://www.a-kasser.dk/feed/",
-   "status": "ok",
-   "items": [
-    {
-     "title": "Hej verden!",
-     "link": "https://www.a-kasser.dk/hej-verden/",
-     "published": "2023-02-20T08:35+00:00"
     }
    ]
   }
