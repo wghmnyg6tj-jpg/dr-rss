@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T08:42+00:00",
+ "generated": "2026-11-26T08:43+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -7,6 +7,11 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/senestenyt",
    "status": "ok",
    "items": [
+    {
+     "title": "Tankskib med op mod 7.000 ton diesel er sunket ud for Spaniens kyst",
+     "link": "https://www.dr.dk/nyheder/seneste/tankskib-med-op-mod-7-000-ton-diesel-er-sunket-ud-spaniens-kyst",
+     "published": "2026-11-26T08:42+00:00"
+    },
     {
      "title": "Norsk flyselskab kæmper for overlevelse - aflyser flyvninger",
      "link": "https://www.dr.dk/nyheder/seneste/norsk-flyselskab-kaemper-overlevelse-aflyser-flyvninger",
@@ -76,11 +81,6 @@
      "title": "16-årig får stor bøde for at køre 100 km/t på ulovligt elløbehjul",
      "link": "https://www.dr.dk/nyheder/seneste/16-aarig-faar-stor-boede-koere-100-km-t-paa-ulovligt-elloebehjul",
      "published": "2026-11-25T14:39+00:00"
-    },
-    {
-     "title": "Novo tegner stor sponsoraftale med LeBron James' NBA-hold",
-     "link": "https://www.dr.dk/nyheder/seneste/novo-tegner-stor-sponsoraftale-med-lebron-james-nba-hold",
-     "published": "2026-11-25T14:28+00:00"
     }
    ]
   },
