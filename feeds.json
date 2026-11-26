@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T08:43+00:00",
+ "generated": "2026-11-26T08:51+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -91,6 +91,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Tankskib med op mod 7.000 ton diesel er sunket ud for Spaniens kyst",
+     "link": "https://www.dr.dk/nyheder/seneste/tankskib-med-op-mod-7-000-ton-diesel-er-sunket-ud-spaniens-kyst",
+     "published": "2026-11-26T08:42+00:00"
+    },
+    {
      "title": "Norsk flyselskab kæmper for overlevelse - aflyser flyvninger",
      "link": "https://www.dr.dk/nyheder/seneste/norsk-flyselskab-kaemper-overlevelse-aflyser-flyvninger",
      "published": "2026-11-26T08:15+00:00"
@@ -159,11 +164,6 @@
      "title": "16-årig får stor bøde for at køre 100 km/t på ulovligt elløbehjul",
      "link": "https://www.dr.dk/nyheder/seneste/16-aarig-faar-stor-boede-koere-100-km-t-paa-ulovligt-elloebehjul",
      "published": "2026-11-25T14:39+00:00"
-    },
-    {
-     "title": "Novo tegner stor sponsoraftale med LeBron James' NBA-hold",
-     "link": "https://www.dr.dk/nyheder/seneste/novo-tegner-stor-sponsoraftale-med-lebron-james-nba-hold",
-     "published": "2026-11-25T14:28+00:00"
     }
    ]
   },
@@ -622,6 +622,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Fundet død i lejlighed: Nu efterforskes det som mistænkeligt",
+     "link": "https://www.bt.dk/krimi/fundet-doed-i-lejlighed-nu-efterforskes-det-som-mistaenkeligt?referrer=RSS",
+     "published": "2026-11-26T08:49+00:00"
+    },
+    {
+     "title": "Danskerne har aldrig haft flere penge stående i banken",
+     "link": "https://www.bt.dk/samfund/danskerne-har-aldrig-haft-flere-penge-staaende-i-banken?referrer=RSS",
+     "published": "2026-11-26T08:44+00:00"
+    },
+    {
      "title": "Tankskib med op mod 7000 ton diesel er gået ned ud for Ibiza",
      "link": "https://www.bt.dk/udland/tankskib-med-op-mod-7000-ton-diesel-er-gaaet-ned-ud-for-ibiza?referrer=RSS",
      "published": "2026-11-26T08:41+00:00"
@@ -660,16 +670,6 @@
      "title": "Danmark må til lommerne",
      "link": "https://www.bt.dk/politik/danmark-maa-til-lommerne?referrer=RSS",
      "published": "2026-11-26T07:58+00:00"
-    },
-    {
-     "title": "Borgmester tager konsekvensen af grov tone: 'Det vil jeg ikke stå model til længere'",
-     "link": "https://www.bt.dk/politik/borgmester-tager-konsekvensen-af-grov-tone-det-vil-jeg-ikke-staa-model-til-laengere?referrer=RSS",
-     "published": "2026-11-26T07:53+00:00"
-    },
-    {
-     "title": "Syrnet mælk kan have indgået i danske ritualer for 5000 år siden",
-     "link": "https://www.bt.dk/samfund/syrnet-maelk-kan-have-indgaaet-i-danske-ritualer-for-5000-aar-siden?referrer=RSS",
-     "published": "2026-11-26T07:52+00:00"
     }
    ]
   },
@@ -679,6 +679,16 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Fundet død i lejlighed: Nu efterforskes det som mistænkeligt",
+     "link": "https://www.bt.dk/krimi/fundet-doed-i-lejlighed-nu-efterforskes-det-som-mistaenkeligt?referrer=RSS",
+     "published": "2026-11-26T08:49+00:00"
+    },
+    {
+     "title": "Danskerne har aldrig haft flere penge stående i banken",
+     "link": "https://www.bt.dk/samfund/danskerne-har-aldrig-haft-flere-penge-staaende-i-banken?referrer=RSS",
+     "published": "2026-11-26T08:44+00:00"
+    },
     {
      "title": "Tankskib med op mod 7000 ton diesel er gået ned ud for Ibiza",
      "link": "https://www.bt.dk/udland/tankskib-med-op-mod-7000-ton-diesel-er-gaaet-ned-ud-for-ibiza?referrer=RSS",
@@ -718,16 +728,6 @@
      "title": "Sarah Iversen siger farvel til Ikast efter ni år",
      "link": "https://www.bt.dk/haandbold/sarah-iversen-siger-farvel-til-ikast-efter-ni-aar?referrer=RSS",
      "published": "2026-11-26T08:02+00:00"
-    },
-    {
-     "title": "Omkommet ved ferieø",
-     "link": "https://www.bt.dk/udland/omkommet-ved-ferieoe?referrer=RSS",
-     "published": "2026-11-26T08:02+00:00"
-    },
-    {
-     "title": "LIVE: 79-årig voldtaget og dræbt",
-     "link": "https://www.bt.dk/krimi/live-79-aarig-voldtaget-og-draebt?referrer=RSS",
-     "published": "2026-11-26T07:59+00:00"
     }
    ]
   }
