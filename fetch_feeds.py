@@ -34,7 +34,6 @@ TOPIC_FEEDS = [
     ("GearJunkie", "Outdoor", "https://gearjunkie.com/feed", "outdoor"),
     ("SectionHiker", "Outdoor", "https://sectionhiker.com/feed/", "outdoor"),
     ("Copenhagen Post", "Danmark", "https://cphpost.dk/feed/", "danmark"),
-    ("A-kasser.dk", "Dagpenge", "https://www.a-kasser.dk/feed/", "dagpenge"),
 ]
 MAX_PER_FEED = 15
 UA = "dagens-oversigt-rss/1.0 (privat nyhedsoverblik; hentes hvert kvarter)"
