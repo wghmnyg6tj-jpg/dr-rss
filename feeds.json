@@ -1,12 +1,18 @@
 {
- "generated": "2026-11-26T08:51+00:00",
+ "generated": "2026-11-26T09:18+00:00",
  "feeds": [
   {
    "source": "DR",
    "name": "Seneste nyt",
+   "topic": "alment",
    "url": "https://www.dr.dk/nyheder/service/feeds/senestenyt",
    "status": "ok",
    "items": [
+    {
+     "title": "Eksplosion på olieanlæg i Bangkok",
+     "link": "https://www.dr.dk/nyheder/seneste/eksplosion-paa-olieanlaeg-i-bangkok",
+     "published": "2026-11-26T09:13+00:00"
+    },
     {
      "title": "Tankskib med op mod 7.000 ton diesel er sunket ud for Spaniens kyst",
      "link": "https://www.dr.dk/nyheder/seneste/tankskib-med-op-mod-7-000-ton-diesel-er-sunket-ud-spaniens-kyst",
@@ -76,20 +82,21 @@
      "title": "Mistede Ferrari efter vanvidstur med 130 kilometer i timen",
      "link": "https://www.dr.dk/nyheder/seneste/mistede-ferrari-efter-vanvidstur-med-130-kilometer-i-timen",
      "published": "2026-11-25T15:17+00:00"
-    },
-    {
-     "title": "16-årig får stor bøde for at køre 100 km/t på ulovligt elløbehjul",
-     "link": "https://www.dr.dk/nyheder/seneste/16-aarig-faar-stor-boede-koere-100-km-t-paa-ulovligt-elloebehjul",
-     "published": "2026-11-25T14:39+00:00"
     }
    ]
   },
   {
    "source": "DR",
    "name": "Alle nyheder",
+   "topic": "alment",
    "url": "https://www.dr.dk/nyheder/service/feeds/allenyheder",
    "status": "ok",
    "items": [
+    {
+     "title": "Eksplosion på olieanlæg i Bangkok",
+     "link": "https://www.dr.dk/nyheder/seneste/eksplosion-paa-olieanlaeg-i-bangkok",
+     "published": "2026-11-26T09:13+00:00"
+    },
     {
      "title": "Tankskib med op mod 7.000 ton diesel er sunket ud for Spaniens kyst",
      "link": "https://www.dr.dk/nyheder/seneste/tankskib-med-op-mod-7-000-ton-diesel-er-sunket-ud-spaniens-kyst",
@@ -159,20 +166,21 @@
      "title": "Mistede Ferrari efter vanvidstur med 130 kilometer i timen",
      "link": "https://www.dr.dk/nyheder/seneste/mistede-ferrari-efter-vanvidstur-med-130-kilometer-i-timen",
      "published": "2026-11-25T15:17+00:00"
-    },
-    {
-     "title": "16-årig får stor bøde for at køre 100 km/t på ulovligt elløbehjul",
-     "link": "https://www.dr.dk/nyheder/seneste/16-aarig-faar-stor-boede-koere-100-km-t-paa-ulovligt-elloebehjul",
-     "published": "2026-11-25T14:39+00:00"
     }
    ]
   },
   {
    "source": "DR",
    "name": "Indland",
+   "topic": "alment",
    "url": "https://www.dr.dk/nyheder/service/feeds/indland",
    "status": "ok",
    "items": [
+    {
+     "title": "Københavnske politikere ønsker tørklædeforbud i de mindste skoleklasser",
+     "link": "https://www.dr.dk/nyheder/indland/koebenhavnske-politikere-oensker-toerklaedeforbud-i-de-mindste-skoleklasser",
+     "published": "2026-11-26T09:00+00:00"
+    },
     {
      "title": "Uheld sætter prop i morgentrafikken ved Odense, Kolding og Hillerød",
      "link": "https://www.dr.dk/trafik",
@@ -242,17 +250,13 @@
      "title": "Hun er ny i byrådet og får noget af en debut - Bellas stemme kan sænke milliardprojekt",
      "link": "https://www.dr.dk/nyheder/indland/hun-er-ny-i-byraadet-og-faar-noget-af-en-debut-bellas-stemme-kan-saenke-milliardprojekt",
      "published": "2026-11-25T16:55+00:00"
-    },
-    {
-     "title": "Kiosk bliver begravet i Black Friday-pakker",
-     "link": "https://www.dr.dk/nyheder/indland/reels/kiosk-bliver-begravet-i-black-friday-pakker",
-     "published": "2026-11-25T15:13+00:00"
     }
    ]
   },
   {
    "source": "DR",
    "name": "Udland",
+   "topic": "alment",
    "url": "https://www.dr.dk/nyheder/service/feeds/udland",
    "status": "ok",
    "items": [
@@ -336,6 +340,7 @@
   {
    "source": "DR",
    "name": "Politik",
+   "topic": "alment",
    "url": "https://www.dr.dk/nyheder/service/feeds/politik",
    "status": "ok",
    "items": [
@@ -419,6 +424,7 @@
   {
    "source": "DR",
    "name": "Penge",
+   "topic": "alment",
    "url": "https://www.dr.dk/nyheder/service/feeds/penge",
    "status": "ok",
    "items": [
@@ -502,9 +508,45 @@
   {
    "source": "Ekstra Bladet",
    "name": "Seneste",
+   "topic": "alment",
    "url": "https://ekstrabladet.dk/rssfeed/all/",
    "status": "ok",
    "items": [
+    {
+     "title": "Skyldig i skuddrab",
+     "link": "https://ekstrabladet.dk/krimi/skyldig-i-skuddrab/11364038",
+     "published": "2026-11-26T09:15+00:00"
+    },
+    {
+     "title": "Afslører\nritual",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/bag-kulissen-paa-tv-2-afsloerer-ritual/11364012",
+     "published": "2026-11-26T09:09+00:00"
+    },
+    {
+     "title": "Milliardrekord: \nDanskernes opsparinger eksploderer",
+     "link": "https://ekstrabladet.dk/penge/bankbogen-bugner-danskerne-saetter-opsparingsrekord/11365847",
+     "published": "2026-11-26T09:07+00:00"
+    },
+    {
+     "title": "Røvede stribevis\naf købmænd:\nDømt!",
+     "link": "https://ekstrabladet.dk/krimi/roevede-stribevis-af-koebmaend-idoemt-knap-11-aars-faengsel/11365848",
+     "published": "2026-11-26T09:03+00:00"
+    },
+    {
+     "title": "Otte anholdt: \nMange pårørende\ner mødt op",
+     "link": "https://ekstrabladet.dk/krimi/otte-anholdt-mange-paaroerendeer-moedt-op/11365810",
+     "published": "2026-11-26T08:57+00:00"
+    },
+    {
+     "title": "Ord vækker opsigt: Tolket som et angreb",
+     "link": "https://ekstrabladet.dk/sport/cykling/pogacars-ord-vaekker-opsigt-tolket-som-et-angreb/11365327",
+     "published": "2026-11-26T08:56+00:00"
+    },
+    {
+     "title": "Efterforsker \nmistænkeligt \ndødsfald",
+     "link": "https://ekstrabladet.dk/krimi/politiet-efterforsker-mistaenkeligt-doedsfald/11365843",
+     "published": "2026-11-26T08:51+00:00"
+    },
     {
      "title": "Sønderborg bliver vært for VM i kajakpolo",
      "link": "https://ekstrabladet.dk/sport/soenderborg-bliver-vaert-for-vm-i-kajakpolo/11365817",
@@ -519,47 +561,13 @@
      "title": "Kina svarer på vild \nTrump-melding: \nFalsk!",
      "link": "https://ekstrabladet.dk/nyheder/politik/kina-svarer-paa-vild-trump-melding-falsk/11365753",
      "published": "2026-11-26T08:15+00:00"
-    },
-    {
-     "title": "Tankskib\nsunket",
-     "link": "https://ekstrabladet.dk/krimi/tankskib-sunket-ud-for-ferieoe-en-person-omkommet/11365781",
-     "published": "2026-11-26T08:12+00:00"
-    },
-    {
-     "title": "Giver forlomme til eliten",
-     "link": "https://ekstrabladet.dk/sport/danske-eliteudoevere-faar-forlomme-til-skatteraadgivning/11365731",
-     "published": "2026-11-26T08:07+00:00"
-    },
-    {
-     "title": "FCK-lettelse: Bedre end frygtet med Ramaj",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/fck-lettelse-bedre-end-frygtet-med-ramaj/11365678",
-     "published": "2026-11-26T08:00+00:00"
-    },
-    {
-     "title": "Overgår sig selv: LeBron James leverer vanvittig bedrift",
-     "link": "https://ekstrabladet.dk/sport/overgaar-sig-selv-lebron-james-leverer-vanvittig-bedrift/11365748",
-     "published": "2026-11-26T07:59+00:00"
-    },
-    {
-     "title": "Danmark skal betale \n12 mia. ekstra til EU \n- hvert år",
-     "link": "https://ekstrabladet.dk/nyheder/danmark-skal-betale-12-mia.-ekstra-til-eu-hvert-aar/11365773",
-     "published": "2026-11-26T07:59+00:00"
-    },
-    {
-     "title": "Analysehus: \nSælg dansk aktie - \nkøb denne",
-     "link": "https://ekstrabladet.dk/penge/analysehus-saelg-dansk-aktie-koeb-denne-i-stedet/11365750",
-     "published": "2026-11-26T07:48+00:00"
-    },
-    {
-     "title": "Midt i slagsmål: Jacob Harris optog vildt millionlån",
-     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/midt-i-slagsmaal-jacob-harris-optog-vildt-millionlaan/11365256",
-     "published": "2026-11-26T07:47+00:00"
     }
    ]
   },
   {
    "source": "Ekstra Bladet",
    "name": "Nyheder",
+   "topic": "alment",
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
@@ -618,18 +626,44 @@
   {
    "source": "BT",
    "name": "Nyheder",
+   "topic": "alment",
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
     {
-     "title": "Fundet død i lejlighed: Nu efterforskes det som mistænkeligt",
-     "link": "https://www.bt.dk/krimi/fundet-doed-i-lejlighed-nu-efterforskes-det-som-mistaenkeligt?referrer=RSS",
-     "published": "2026-11-26T08:49+00:00"
+     "title": "Tre mænd kendt delvist skyldig - én frifundet for drabet på Novembervej",
+     "link": "https://www.bt.dk/krimi/tre-maend-kendt-delvist-skyldig-en-frifundet-for-drabet-paa-novembervej?referrer=RSS",
+     "published": "2026-11-26T09:17+00:00"
+    },
+    {
+     "title": "Politiet efterforsker mistænkeligt dødsfald i Randers",
+     "link": "https://www.bt.dk/krimi/politiet-efterforsker-mistaenkeligt-doedsfald-i-randers?referrer=RSS",
+     "published": "2026-11-26T09:12+00:00"
+    },
+    {
+     "title": "Arla investerer 710 millioner i mælkeprotein efter stor efterspørgsel",
+     "link": "https://www.bt.dk/erhverv/arla-investerer-710-millioner-i-maelkeprotein-efter-stor-efterspoergsel?referrer=RSS",
+     "published": "2026-11-26T09:05+00:00"
+    },
+    {
+     "title": "Kæmpe krise på AUH: 19 har sagt op – arbejdsmiljøet sejler",
+     "link": "https://www.bt.dk/samfund/kaempe-krise-paa-auh-19-har-sagt-op--arbejdsmiljoeet-sejler?referrer=RSS",
+     "published": "2026-11-26T09:02+00:00"
+    },
+    {
+     "title": "Tjekkiet siger blankt nej til Merz om Ukraine-støtte",
+     "link": "https://www.bt.dk/udland/tjekkiet-siger-blankt-nej-til-merz-om-ukraine-stoette?referrer=RSS",
+     "published": "2026-11-26T08:51+00:00"
     },
     {
      "title": "Danskerne har aldrig haft flere penge stående i banken",
      "link": "https://www.bt.dk/samfund/danskerne-har-aldrig-haft-flere-penge-staaende-i-banken?referrer=RSS",
-     "published": "2026-11-26T08:44+00:00"
+     "published": "2026-11-26T08:51+00:00"
+    },
+    {
+     "title": "Fundet død i lejlighed: Nu efterforskes det som mistænkeligt",
+     "link": "https://www.bt.dk/krimi/fundet-doed-i-lejlighed-nu-efterforskes-det-som-mistaenkeligt?referrer=RSS",
+     "published": "2026-11-26T08:49+00:00"
     },
     {
      "title": "Tankskib med op mod 7000 ton diesel er gået ned ud for Ibiza",
@@ -645,49 +679,55 @@
      "title": "Danmarks EU-bidrag risikerer at stige med 12,1 milliard kroner",
      "link": "https://www.bt.dk/udland/danmarks-eu-bidrag-risikerer-at-stige-med-121-milliard-kroner?referrer=RSS",
      "published": "2026-11-26T08:27+00:00"
-    },
-    {
-     "title": "Kina kalder USA's begrundelse for øget told for en falsk præmis",
-     "link": "https://www.bt.dk/udland/kina-kalder-usas-begrundelse-for-oeget-told-for-en-falsk-praemis?referrer=RSS",
-     "published": "2026-11-26T08:13+00:00"
-    },
-    {
-     "title": "Flere ikke-vestlige indvandrere er i beskæftigelse",
-     "link": "https://www.bt.dk/erhverv/flere-ikke-vestlige-indvandrere-er-i-beskaeftigelse?referrer=RSS",
-     "published": "2026-11-26T08:09+00:00"
-    },
-    {
-     "title": "Omkommet ved ferieø",
-     "link": "https://www.bt.dk/udland/omkommet-ved-ferieoe?referrer=RSS",
-     "published": "2026-11-26T08:02+00:00"
-    },
-    {
-     "title": "LIVE: 79-årig voldtaget og dræbt",
-     "link": "https://www.bt.dk/krimi/live-79-aarig-voldtaget-og-draebt?referrer=RSS",
-     "published": "2026-11-26T07:59+00:00"
-    },
-    {
-     "title": "Danmark må til lommerne",
-     "link": "https://www.bt.dk/politik/danmark-maa-til-lommerne?referrer=RSS",
-     "published": "2026-11-26T07:58+00:00"
     }
    ]
   },
   {
    "source": "BT",
    "name": "Seneste",
+   "topic": "alment",
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
     {
-     "title": "Fundet død i lejlighed: Nu efterforskes det som mistænkeligt",
-     "link": "https://www.bt.dk/krimi/fundet-doed-i-lejlighed-nu-efterforskes-det-som-mistaenkeligt?referrer=RSS",
-     "published": "2026-11-26T08:49+00:00"
+     "title": "Tre mænd kendt delvist skyldig - én frifundet for drabet på Novembervej",
+     "link": "https://www.bt.dk/krimi/tre-maend-kendt-delvist-skyldig-en-frifundet-for-drabet-paa-novembervej?referrer=RSS",
+     "published": "2026-11-26T09:17+00:00"
+    },
+    {
+     "title": "Politiet efterforsker mistænkeligt dødsfald i Randers",
+     "link": "https://www.bt.dk/krimi/politiet-efterforsker-mistaenkeligt-doedsfald-i-randers?referrer=RSS",
+     "published": "2026-11-26T09:12+00:00"
+    },
+    {
+     "title": "Advarer boligejerne om risiko for kæmpe regninger: 'Det er et ekstremt, men plausibelt scenarie'",
+     "link": "https://www.bt.dk/bolig/advarer-boligejerne-om-risiko-for-kaempe-regninger-det-er-et-ekstremt-men-plausibelt-scenarie?referrer=RSS",
+     "published": "2026-11-26T09:07+00:00"
+    },
+    {
+     "title": "Arla investerer 710 millioner i mælkeprotein efter stor efterspørgsel",
+     "link": "https://www.bt.dk/erhverv/arla-investerer-710-millioner-i-maelkeprotein-efter-stor-efterspoergsel?referrer=RSS",
+     "published": "2026-11-26T09:05+00:00"
+    },
+    {
+     "title": "Kæmpe krise på AUH: 19 har sagt op – arbejdsmiljøet sejler",
+     "link": "https://www.bt.dk/samfund/kaempe-krise-paa-auh-19-har-sagt-op--arbejdsmiljoeet-sejler?referrer=RSS",
+     "published": "2026-11-26T09:02+00:00"
+    },
+    {
+     "title": "Tjekkiet siger blankt nej til Merz om Ukraine-støtte",
+     "link": "https://www.bt.dk/udland/tjekkiet-siger-blankt-nej-til-merz-om-ukraine-stoette?referrer=RSS",
+     "published": "2026-11-26T08:51+00:00"
     },
     {
      "title": "Danskerne har aldrig haft flere penge stående i banken",
      "link": "https://www.bt.dk/samfund/danskerne-har-aldrig-haft-flere-penge-staaende-i-banken?referrer=RSS",
-     "published": "2026-11-26T08:44+00:00"
+     "published": "2026-11-26T08:51+00:00"
+    },
+    {
+     "title": "Fundet død i lejlighed: Nu efterforskes det som mistænkeligt",
+     "link": "https://www.bt.dk/krimi/fundet-doed-i-lejlighed-nu-efterforskes-det-som-mistaenkeligt?referrer=RSS",
+     "published": "2026-11-26T08:49+00:00"
     },
     {
      "title": "Tankskib med op mod 7000 ton diesel er gået ned ud for Ibiza",
@@ -698,36 +738,813 @@
      "title": "Stor eksplosion i Bangkok",
      "link": "https://www.bt.dk/udland/stor-eksplosion-i-bangkok?referrer=RSS",
      "published": "2026-11-26T08:34+00:00"
+    }
+   ]
+  },
+  {
+   "source": "PetaPixel",
+   "name": "Foto",
+   "topic": "foto",
+   "url": "https://petapixel.com/feed/",
+   "status": "ok",
+   "items": [
+    {
+     "title": "The Best Early Black Friday Photo and Camera Deals Available Now",
+     "link": "https://petapixel.com/2026/11/25/the-best-early-black-friday-photo-and-camera-deals-available-now/",
+     "published": "2026-11-25T18:41+00:00"
     },
     {
-     "title": "Danmarks EU-bidrag risikerer at stige med 12,1 milliard kroner",
-     "link": "https://www.bt.dk/udland/danmarks-eu-bidrag-risikerer-at-stige-med-121-milliard-kroner?referrer=RSS",
-     "published": "2026-11-26T08:27+00:00"
+     "title": "YouTube Is Suddenly Obsessed With Views",
+     "link": "https://petapixel.com/2026/11/25/youtube-is-suddenly-obsessed-with-views/",
+     "published": "2026-11-25T18:12+00:00"
     },
     {
-     "title": "Danmarks største energiselskab får nyt navn",
-     "link": "https://www.bt.dk/virksomheder/danmarks-stoerste-energiselskab-faar-nyt-navn?referrer=RSS",
-     "published": "2026-11-26T08:18+00:00"
+     "title": "The New York Times Cancels Adobe, the R8 II is a Hit, and Reto Does it Again | The PetaPixel Podcast",
+     "link": "https://petapixel.com/2026/11/25/the-new-york-times-cancels-adobe-the-r8-ii-is-a-hit-and-reto-does-it-again-the-petapixel-podcast/",
+     "published": "2026-11-25T18:00+00:00"
     },
     {
-     "title": "Kina kalder USA's begrundelse for øget told for en falsk præmis",
-     "link": "https://www.bt.dk/udland/kina-kalder-usas-begrundelse-for-oeget-told-for-en-falsk-praemis?referrer=RSS",
-     "published": "2026-11-26T08:13+00:00"
+     "title": "Hollywood and Analog Photography Power Kodak’s Fifth Consecutive Quarter of Growth",
+     "link": "https://petapixel.com/2026/11/25/hollywood-and-analog-photography-power-kodaks-fifth-consecutive-quarter-of-growth/",
+     "published": "2026-11-25T15:14+00:00"
     },
     {
-     "title": "Aflyser flyvninger efter krisevarsel",
-     "link": "https://www.bt.dk/rejser/aflyser-flyvninger-efter-krisevarsel?referrer=RSS",
-     "published": "2026-11-26T08:10+00:00"
+     "title": "Family Photographer Arrested for Allegedly Concealing Her Earnings",
+     "link": "https://petapixel.com/2026/11/25/family-photographer-arrested-for-allegedly-concealing-her-earnings/",
+     "published": "2026-11-25T14:30+00:00"
     },
     {
-     "title": "Flere ikke-vestlige indvandrere er i beskæftigelse",
-     "link": "https://www.bt.dk/erhverv/flere-ikke-vestlige-indvandrere-er-i-beskaeftigelse?referrer=RSS",
-     "published": "2026-11-26T08:09+00:00"
+     "title": "AI-Generated Characters Are Stealing Content Creators’ Viral Videos",
+     "link": "https://petapixel.com/2026/11/25/ai-generated-characters-are-stealing-content-creators-viral-videos/",
+     "published": "2026-11-25T14:19+00:00"
     },
     {
-     "title": "Sarah Iversen siger farvel til Ikast efter ni år",
-     "link": "https://www.bt.dk/haandbold/sarah-iversen-siger-farvel-til-ikast-efter-ni-aar?referrer=RSS",
-     "published": "2026-11-26T08:02+00:00"
+     "title": "Brightin Star’s Gorgeous New 35mm f/1.7 APO Lens for Leica M Has Arrived",
+     "link": "https://petapixel.com/2026/11/25/brightin-stars-gorgeous-new-35mm-f-1-7-apo-lens-for-leica-m-has-arrived/",
+     "published": "2026-11-25T13:58+00:00"
+    },
+    {
+     "title": "Photographers Protest Australia’s Plans to Weaken Copyright Laws for AI",
+     "link": "https://petapixel.com/2026/11/25/photographers-protest-australias-plans-to-weaken-copyright-laws-for-ai/",
+     "published": "2026-11-25T13:51+00:00"
+    },
+    {
+     "title": "Germany Agrees to Hand Over Photo Archive Chronicling a Family’s Persecution by Nazis",
+     "link": "https://petapixel.com/2026/11/25/germany-agrees-to-hand-over-photo-archive-chronicling-a-familys-persecution-by-nazis/",
+     "published": "2026-11-25T13:05+00:00"
+    },
+    {
+     "title": "Astronaut Captures Video of the Moon Melting Into Earth’s Atmosphere",
+     "link": "https://petapixel.com/2026/11/25/astronaut-captures-video-of-the-moon-melting-into-earths-atmosphere/",
+     "published": "2026-11-25T12:20+00:00"
+    },
+    {
+     "title": "Student Photographer Who Lost Right Eye While Covering LA Protest Sues Federal Government",
+     "link": "https://petapixel.com/2026/11/25/student-photographer-who-lost-right-eye-while-covering-la-protest-sues-federal-government/",
+     "published": "2026-11-25T11:59+00:00"
+    },
+    {
+     "title": "The Hedonistic Days of Raving in Europe Revealed in New Photo Book",
+     "link": "https://petapixel.com/2026/11/25/the-hedonistic-days-of-raving-in-europe-revealed-in-new-photo-book/",
+     "published": "2026-11-25T10:59+00:00"
+    },
+    {
+     "title": "Adobe Lightroom’s New Native iPhone Duo Support Is Fantastic",
+     "link": "https://petapixel.com/2026/11/24/adobe-lightrooms-new-native-iphone-duo-support-is-fantastic/",
+     "published": "2026-11-24T21:10+00:00"
+    },
+    {
+     "title": "You Can Buy a Fujifilm GFX Eterna 55 for $6,500 Less Than Before",
+     "link": "https://petapixel.com/2026/11/24/you-can-buy-a-fujifilm-gfx-eterna-55-for-6500-less-than-before/",
+     "published": "2026-11-24T19:27+00:00"
+    },
+    {
+     "title": "Black Friday Sale: Save 30% on Excire’s Award-Winning Photo-Management Software",
+     "link": "https://petapixel.com/2026/11/24/black-friday-sale-save-30-on-excires-award-winning-photo-management-software/",
+     "published": "2026-11-24T18:45+00:00"
+    }
+   ]
+  },
+  {
+   "source": "Fuji Rumors",
+   "name": "Foto",
+   "topic": "foto",
+   "url": "https://www.fujirumors.com/feed/",
+   "status": "ok",
+   "items": [
+    {
+     "title": "Some Fujinon GF Lenses Get Rid of Unusual Noise via Firmware Update",
+     "link": "https://www.fujirumors.com/some-fujinon-gf-lenses-get-rid-of-unusual-noise-via-firmware-update/",
+     "published": "2026-11-26T05:28+00:00"
+    },
+    {
+     "title": "Fujifilm X-T6 Gets IBIS Performance Boost",
+     "link": "https://www.fujirumors.com/fujifilm-x-t6-gets-ibis-performance-boost/",
+     "published": "2026-11-25T15:49+00:00"
+    },
+    {
+     "title": "Fujifilm XF50-140mmF2.8 II Coming With Internal Zoom and De-Clickable Aperture Ring",
+     "link": "https://www.fujirumors.com/fujifilm-xf50-140mmf2-8-ii-coming-with-internal-zoom-and-de-clickable-aperture-ring/",
+     "published": "2026-11-25T13:19+00:00"
+    },
+    {
+     "title": "The (Potential) Pros and Cons of Fujifilm X-T6 White Pixel Technology",
+     "link": "https://www.fujirumors.com/the-potential-pros-and-cons-of-fujifilm-x-t6-white-pixel-technology/",
+     "published": "2026-11-24T19:37+00:00"
+    },
+    {
+     "title": "Fujifilm X-T6: This Is the Secret Behind Its New Sensor",
+     "link": "https://www.fujirumors.com/fujifilm-x-t6-this-is-the-secret-behind-its-new-sensor/",
+     "published": "2026-11-24T16:02+00:00"
+    }
+   ]
+  },
+  {
+   "source": "Fstoppers",
+   "name": "Foto",
+   "topic": "foto",
+   "url": "https://fstoppers.com/feed",
+   "status": "ok",
+   "items": [
+    {
+     "title": "Brightin Star’s New APO 35mm F/1.7 M-Mount Lens is Fabulous! But What’s APO?",
+     "link": "https://fstoppers.com/gear/brightin-stars-new-apo-35mm-f17-m-mount-lens-fabulous-whats-apo-905669?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-26T04:12+00:00"
+    },
+    {
+     "title": "Why Most Camera Buyers Should Skip the Extended Warranty at Checkout",
+     "link": "https://fstoppers.com/gear/why-most-camera-buyers-should-skip-extended-warranty-checkout-905335?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-25T22:03+00:00"
+    },
+    {
+     "title": "Testing Dell's Biggest Monitor Ever",
+     "link": "https://fstoppers.com/gear/testing-dells-biggest-monitor-ever-905620?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-25T17:03+00:00"
+    },
+    {
+     "title": "Your Memory Cards Are Probably Fake",
+     "link": "https://fstoppers.com/gear/your-memory-cards-are-probably-fake-905618?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-25T17:03+00:00"
+    },
+    {
+     "title": "Why Your Portfolio Isn't Getting You Commercial Work",
+     "link": "https://fstoppers.com/business/why-your-portfolio-isnt-getting-commercial-work-905663?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-25T16:03+00:00"
+    },
+    {
+     "title": "5 Things to Know Before You Shoot Your First Wedding, From a Veteran of 900",
+     "link": "https://fstoppers.com/education/5-things-know-shoot-your-first-wedding-veteran-900-905662?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-25T14:03+00:00"
+    },
+    {
+     "title": "Sony 400-800mm vs. 200-600mm: A Wildlife Videographer's Verdict",
+     "link": "https://fstoppers.com/gear/sony-400-800mm-vs-200-600mm-wildlife-videographers-verdict-905661?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-25T12:03+00:00"
+    },
+    {
+     "title": "The Luminar Fall Update Adds Intelligent Masking",
+     "link": "https://fstoppers.com/landscapes/luminar-fall-update-adds-intelligent-masking-905645?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-25T12:03+00:00"
+    },
+    {
+     "title": "Why Your Landscape Photos Don't Match What You Saw",
+     "link": "https://fstoppers.com/education/why-your-landscape-photos-dont-match-what-saw-905660?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-25T10:03+00:00"
+    },
+    {
+     "title": "D.B. Cooper Left His Clip-On Tie on Seat 18E, and an Electron Microscope Found Two Pure Titanium Shards on It",
+     "link": "https://fstoppers.com/historical/db-cooper-left-his-clip-tie-seat-18e-and-electron-microscope-found-two-pure-905202?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-24T22:03+00:00"
+    },
+    {
+     "title": "We've Used These Products, Love Them, and They Have Black Friday Sales",
+     "link": "https://fstoppers.com/software/weve-used-these-products-love-them-and-they-have-black-friday-sales-905654?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-24T18:03+00:00"
+    },
+    {
+     "title": "Is the Legendary Nikon D700 Still Relevant at 19 Years Old?",
+     "link": "https://fstoppers.com/gear/legendary-nikon-d700-still-relevant-19-years-old-905497?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-24T17:03+00:00"
+    },
+    {
+     "title": "How to Shoot Dramatic Sports Portraits in Full Sun With High-Speed Sync",
+     "link": "https://fstoppers.com/education/how-shoot-dramatic-sports-portraits-full-sun-high-speed-sync-905639?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-24T16:03+00:00"
+    },
+    {
+     "title": "Why Vintage Lenses Flare and What Lens Coatings Have to Do With It",
+     "link": "https://fstoppers.com/education/why-vintage-lenses-flare-and-what-lens-coatings-have-it-905638?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-24T14:03+00:00"
+    },
+    {
+     "title": "Jimmy Chin's iPhone 18 Pro Panorama Made TIME's Top 100 Photos",
+     "link": "https://fstoppers.com/landscapes/jimmy-chins-iphone-18-pro-panorama-made-times-top-100-photos-905648?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-24T12:03+00:00"
+    }
+   ]
+  },
+  {
+   "source": "Version2",
+   "name": "Teknologi",
+   "topic": "teknologi",
+   "url": "https://www.version2.dk/rss",
+   "status": "ok",
+   "items": [
+    {
+     "title": "Hospital delte Anne-Maries dybt private data med Microsoft uden samtykke: »Det gør mig rigtig vred«",
+     "link": "https://www.version2.dk/artikel/hospital-delte-anne-maries-dybt-private-data-med-microsoft-uden-samtykke-det-goer-mig-rigtig-vred",
+     "published": "2026-11-26T04:00+00:00"
+    },
+    {
+     "title": "Synspunkt: Fantasifulde tal, løse påstande og mørklagte ejere mudrer debatten om datacentre",
+     "link": "https://www.version2.dk/holdning/fantasifulde-tal-loese-paastande-og-moerklagte-ejere-mudrer-debatten-om-datacentre",
+     "published": "2026-11-25T10:00+00:00"
+    },
+    {
+     "title": "Politi dropper Palantir: Køber ukendt tysk dataplatform",
+     "link": "https://www.version2.dk/artikel/politi-dropper-palantir-koeber-ukendt-tysk-dataplatform",
+     "published": "2026-11-25T09:51+00:00"
+    },
+    {
+     "title": "Dyk ned i Danmarks nye datacentre: Få hele overblikket her",
+     "link": "https://www.version2.dk/artikel/dyk-ned-i-danmarks-nye-datacentre-faa-hele-overblikket-her",
+     "published": "2026-11-24T11:00+00:00"
+    },
+    {
+     "title": "Synspunkt: ITU-rektor svarer i AI-debat: Forskere og ledelser på landets universiteter sidder med samme spørgsmål som de studerende",
+     "link": "https://www.version2.dk/holdning/itu-rektor-svarer-i-ai-debat-forskere-og-ledelser-paa-landets-universiteter-sidder-med-samme",
+     "published": "2026-11-24T11:00+00:00"
+    },
+    {
+     "title": "Højere løn trækker it-folk til det private – men pengene gør det ikke alene",
+     "link": "https://www.version2.dk/artikel/hoejere-loen-traekker-it-folk-til-det-private-men-pengene-goer-det-ikke-alene",
+     "published": "2026-11-24T11:00+00:00"
+    },
+    {
+     "title": "Datacenter-direktør forklarer: Derfor er der så meget mystik om nye projekter",
+     "link": "https://www.version2.dk/artikel/datacenter-direktoer-forklarer-derfor-er-der-saa-meget-mystik-om-nye-projekter",
+     "published": "2026-11-24T04:00+00:00"
+    },
+    {
+     "title": "Nvidia i kovending: Topchef genindtræder med øjeblikkelig virkning",
+     "link": "https://www.version2.dk/artikel/nvidia-i-kovending-topchef-genindtraeder-med-oejeblikkelig-virkning",
+     "published": "2026-11-23T14:17+00:00"
+    },
+    {
+     "title": "Krypteringsprofessor afblæser panik efter knækket gåde: Men én opdagelse vil få ham op af stolen",
+     "link": "https://www.version2.dk/artikel/krypteringsprofessor-afblaeser-panik-efter-knaekket-gaade-men-en-opdagelse-vil-faa-ham-op-af-stolen",
+     "published": "2026-11-23T13:48+00:00"
+    },
+    {
+     "title": "Techgigant topper listen: Sådan er den blevet Danmarks mest attraktive it-arbejdsplads",
+     "link": "https://www.version2.dk/artikel/techgigant-topper-listen-saadan-er-den-blevet-danmarks-mest-attraktive-it-arbejdsplads",
+     "published": "2026-11-23T11:00+00:00"
+    },
+    {
+     "title": "Elefanten i Jensen Huangs soveværelse",
+     "link": "https://www.version2.dk/artikel/elefanten-i-jensen-huangs-sovevaerelse",
+     "published": "2026-11-23T10:00+00:00"
+    },
+    {
+     "title": "AI udregner den umulige: Hvad gør vi med matematikken, når maskinen bliver den klogeste?",
+     "link": "https://www.version2.dk/artikel/ai-udregner-den-umulige-hvad-goer-vi-med-matematikken-naar-maskinen-bliver-den-klogeste",
+     "published": "2026-11-23T08:20+00:00"
+    },
+    {
+     "title": "Hemmelige ejere og ukendte formål: Mørklagte datacentre er »meget bekymrende«",
+     "link": "https://www.version2.dk/artikel/hemmelige-ejere-og-ukendte-formaal-moerklagte-datacentre-er-meget-bekymrende",
+     "published": "2026-11-23T04:00+00:00"
+    },
+    {
+     "title": "Blogindlæg: Er det så \"nu\", nu ?",
+     "link": "https://www.version2.dk/holdning/er-det-saa-nu-nu-0",
+     "published": "2026-11-22T09:04+00:00"
+    },
+    {
+     "title": "Se listen: Her er Danmarks mest attraktive it-arbejdspladser 2026",
+     "link": "https://www.version2.dk/artikel/se-listen-her-er-danmarks-mest-attraktive-it-arbejdspladser-2026",
+     "published": "2026-11-20T11:42+00:00"
+    }
+   ]
+  },
+  {
+   "source": "Ingeniøren",
+   "name": "Teknologi",
+   "topic": "teknologi",
+   "url": "https://ing.dk/rss/nyheder",
+   "status": "ok",
+   "items": [
+    {
+     "title": "Jensen Huangs vanvittige comeback beviser, at AI lige nu er utæmmelig",
+     "link": "https://ing.dk/artikel/jensen-huangs-vanvittige-comeback-beviser-ai-lige-nu-er-utaemmelig",
+     "published": "2026-11-26T09:00+00:00"
+    },
+    {
+     "title": "Rost Alzheimer-medicin får nej fra Medicinrådet: »Vi er skuffede«",
+     "link": "https://ing.dk/artikel/rost-alzheimer-medicin-faar-nej-fra-medicinraadet-vi-er-skuffede",
+     "published": "2026-11-26T06:38+00:00"
+    },
+    {
+     "title": "Nationalbanken: Tabene ved en kraftig stormflod bliver mangedoblet – vi skal forebygge langt bedre",
+     "link": "https://ing.dk/artikel/nationalbanken-tabene-ved-en-kraftig-stormflod-bliver-mangedoblet-vi-skal-forebygge-langt-bedre",
+     "published": "2026-11-26T05:03+00:00"
+    },
+    {
+     "title": "Hospital delte Anne-Maries dybt private data med Microsoft uden samtykke: »Det gør mig rigtig vred«",
+     "link": "https://ing.dk/artikel/hospital-delte-anne-maries-dybt-private-data-med-microsoft-uden-samtykke-det-goer-mig-rigtig-vred",
+     "published": "2026-11-26T04:00+00:00"
+    },
+    {
+     "title": "Vestjyder slipper med 638 kroner: Uhørt billig varme blokeret i andre byer",
+     "link": "https://ing.dk/artikel/vestjyder-slipper-med-638-kroner-uhoert-billig-varme-blokeret-i-andre-byer",
+     "published": "2026-11-26T04:00+00:00"
+    },
+    {
+     "title": "Hospitalsbyggeri i Nordsjælland gik galt: Undersøgelse peger på alvorlige fejl",
+     "link": "https://ing.dk/artikel/hospitalsbyggeri-i-nordsjaelland-gik-galt-undersoegelse-peger-paa-alvorlige-fejl",
+     "published": "2026-11-25T14:33+00:00"
+    },
+    {
+     "title": "Vi skyller ud i toilettet og vasker bil med sparsomt drikkevand: »Det er for dumt«",
+     "link": "https://ing.dk/artikel/vi-skyller-ud-i-toilettet-og-vasker-bil-med-sparsomt-drikkevand-det-er-dumt",
+     "published": "2026-11-25T13:00+00:00"
+    },
+    {
+     "title": "Sparekniv sletter spor på historisk lokalbane: »Vil blive fuldstændig undermineret«",
+     "link": "https://ing.dk/artikel/sparekniv-sletter-spor-paa-historisk-lokalbane-vil-blive-fuldstaendig-undermineret",
+     "published": "2026-11-25T13:00+00:00"
+    },
+    {
+     "title": "Kemoterapi til halv pris: Danske forskere opdager genvej til noget af verdens dyreste medicin",
+     "link": "https://ing.dk/artikel/kemoterapi-til-halv-pris-danske-forskere-opdager-genvej-til-noget-af-verdens-dyreste-medicin",
+     "published": "2026-11-25T11:12+00:00"
+    },
+    {
+     "title": "Chokregning truer ny limfjordsforbindelse: Foreslår fire markante ændringer",
+     "link": "https://ing.dk/artikel/chokregning-truer-ny-limfjordsforbindelse-foreslaar-fire-markante-aendringer",
+     "published": "2026-11-25T10:43+00:00"
+    },
+    {
+     "title": "Kæmpeordre: Mærsk køber 12 »ultrastore« containerskibe",
+     "link": "https://ing.dk/artikel/kaempeordre-maersk-koeber-12-ultrastore-containerskibe",
+     "published": "2026-11-25T09:57+00:00"
+    },
+    {
+     "title": "Politi dropper Palantir: Køber ukendt tysk dataplatform",
+     "link": "https://ing.dk/artikel/politi-dropper-palantir-koeber-ukendt-tysk-dataplatform",
+     "published": "2026-11-25T09:51+00:00"
+    },
+    {
+     "title": "Rådgivende ingeniørfirma fyrer 70 medarbejdere: »En meget vanskelig beslutning«",
+     "link": "https://ing.dk/artikel/raadgivende-ingenioerfirma-fyrer-70-medarbejdere-en-meget-vanskelig-beslutning",
+     "published": "2026-11-25T07:18+00:00"
+    },
+    {
+     "title": "Totalt strømsvigt ramte Danmark uden at blive opdaget: »Det er en verdensnyhed«",
+     "link": "https://ing.dk/artikel/totalt-stroemsvigt-ramte-danmark-uden-blive-opdaget-det-er-en-verdensnyhed",
+     "published": "2026-11-25T04:00+00:00"
+    },
+    {
+     "title": "Efter afsløringer: Minister vil granske landmænds indflydelse i erstatningssager",
+     "link": "https://ing.dk/artikel/efter-afsloeringer-minister-vil-granske-landmaends-indflydelse-i-erstatningssager",
+     "published": "2026-11-25T04:00+00:00"
+    }
+   ]
+  },
+  {
+   "source": "Ars Technica",
+   "name": "Teknologi",
+   "topic": "teknologi",
+   "url": "https://feeds.arstechnica.com/arstechnica/index",
+   "status": "ok",
+   "items": [
+    {
+     "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+     "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+     "published": "2026-11-25T22:36+00:00"
+    },
+    {
+     "title": "Google search alternative Kagi launches Gmail rival",
+     "link": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+     "published": "2026-11-25T20:57+00:00"
+    },
+    {
+     "title": "Backblaze explains why it's sharing customer information with advertisers",
+     "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+     "published": "2026-11-25T18:38+00:00"
+    },
+    {
+     "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+     "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+     "published": "2026-11-25T18:22+00:00"
+    },
+    {
+     "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+     "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+     "published": "2026-11-25T17:33+00:00"
+    },
+    {
+     "title": "Etsy clarifies AI terms after seller backlash",
+     "link": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+     "published": "2026-11-25T17:12+00:00"
+    },
+    {
+     "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+     "link": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+     "published": "2026-11-25T16:47+00:00"
+    },
+    {
+     "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+     "link": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+     "published": "2026-11-25T16:33+00:00"
+    },
+    {
+     "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+     "link": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+     "published": "2026-11-25T15:35+00:00"
+    },
+    {
+     "title": "A familiar Iranian hacking group has found a new way to cause chaos",
+     "link": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+     "published": "2026-11-25T14:29+00:00"
+    },
+    {
+     "title": "AI may soon change what it means to be a theoretical physicist",
+     "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+     "published": "2026-11-25T12:00+00:00"
+    },
+    {
+     "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+     "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+     "published": "2026-11-24T22:50+00:00"
+    },
+    {
+     "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+     "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+     "published": "2026-11-24T22:36+00:00"
+    },
+    {
+     "title": "What's going on with the Riemann hypothesis?",
+     "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+     "published": "2026-11-24T20:34+00:00"
+    },
+    {
+     "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
+     "link": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
+     "published": "2026-11-24T20:00+00:00"
+    }
+   ]
+  },
+  {
+   "source": "The Verge",
+   "name": "AI",
+   "topic": "ai",
+   "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+   "status": "ok",
+   "items": [
+    {
+     "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+     "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+     "published": "2026-11-25T21:51+00:00"
+    },
+    {
+     "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+     "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+     "published": "2026-11-25T17:44+00:00"
+    },
+    {
+     "title": "Nothing offers a full look at its AI earbuds and charging case",
+     "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+     "published": "2026-11-25T16:00+00:00"
+    },
+    {
+     "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+     "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+     "published": "2026-11-25T14:12+00:00"
+    },
+    {
+     "title": "Has vibe coding made open source the new normal for synths?",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+     "published": "2026-11-25T13:00+00:00"
+    },
+    {
+     "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+     "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+     "published": "2026-11-24T20:02+00:00"
+    },
+    {
+     "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+     "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+     "published": "2026-11-24T18:15+00:00"
+    },
+    {
+     "title": "Tidal will start banning AI-generated music next month",
+     "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+     "published": "2026-11-24T17:17+00:00"
+    },
+    {
+     "title": "Jensen Huang deepfakes are the hot new AI slop",
+     "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+     "published": "2026-11-24T16:30+00:00"
+    },
+    {
+     "title": "The New York Times warns photographers not to update Photoshop over AI features",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+     "published": "2026-11-24T16:09+00:00"
+    }
+   ]
+  },
+  {
+   "source": "TechCrunch",
+   "name": "AI",
+   "topic": "ai",
+   "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+   "status": "ok",
+   "items": [
+    {
+     "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+     "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+     "published": "2026-11-25T22:44+00:00"
+    },
+    {
+     "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+     "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+     "published": "2026-11-25T20:03+00:00"
+    },
+    {
+     "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+     "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+     "published": "2026-11-25T19:54+00:00"
+    },
+    {
+     "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+     "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+     "published": "2026-11-25T19:44+00:00"
+    },
+    {
+     "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+     "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+     "published": "2026-11-25T18:11+00:00"
+    },
+    {
+     "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+     "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+     "published": "2026-11-25T17:35+00:00"
+    },
+    {
+     "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+     "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+     "published": "2026-11-25T15:41+00:00"
+    },
+    {
+     "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+     "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+     "published": "2026-11-25T14:10+00:00"
+    },
+    {
+     "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+     "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+     "published": "2026-11-25T13:00+00:00"
+    },
+    {
+     "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+     "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+     "published": "2026-11-25T00:12+00:00"
+    },
+    {
+     "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+     "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+     "published": "2026-11-24T22:27+00:00"
+    },
+    {
+     "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+     "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+     "published": "2026-11-24T21:48+00:00"
+    },
+    {
+     "title": "Even the best AI agents struggle with everyday life",
+     "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+     "published": "2026-11-24T21:33+00:00"
+    },
+    {
+     "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+     "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+     "published": "2026-11-24T21:32+00:00"
+    },
+    {
+     "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+     "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+     "published": "2026-11-24T21:19+00:00"
+    }
+   ]
+  },
+  {
+   "source": "The Neuron",
+   "name": "AI",
+   "topic": "ai",
+   "url": "https://www.theneuron.ai/feed",
+   "status": "ok",
+   "items": [
+    {
+     "title": "SpaceX Just Got Approval to Build AI Data Centers in Space",
+     "link": "https://www.theneuron.ai/news/spacex-orbital-ai-data-centers/",
+     "published": "2026-11-26T02:06+00:00"
+    },
+    {
+     "title": "Claude Helped Rebuild Its Own API, Cutting CPU Usage by 70%",
+     "link": "https://www.theneuron.ai/news/anthropic-claude-api-rust-migration/",
+     "published": "2026-11-26T01:48+00:00"
+    },
+    {
+     "title": "Everything That Happened in AI Today (Thursday, November 26, 2026)",
+     "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-26-2026/",
+     "published": "2026-11-26T01:07+00:00"
+    },
+    {
+     "title": "😸 3 Microsoft execs explain their AI plan",
+     "link": "https://www.theneuron.ai/newsletter/3-microsoft-execs-explain-their-ai-plan/",
+     "published": "2026-11-25T20:05+00:00"
+    },
+    {
+     "title": "Magnitude Uses Your SSD to Run AI Models Bigger Than Your Memory",
+     "link": "https://www.theneuron.ai/news/magnitude-uses-your-ssd-to-run-ai-models-bigger-than-your-memory/",
+     "published": "2026-11-25T17:53+00:00"
+    },
+    {
+     "title": "Epochal Time Portal Tests AI Forecasting on the Past Web",
+     "link": "https://www.theneuron.ai/news/epochal-time-portal-ai-forecasting/",
+     "published": "2026-11-25T17:19+00:00"
+    },
+    {
+     "title": "😺 DeepMind's new AI exam",
+     "link": "https://www.theneuron.ai/newsletter/deepmind-s-new-ai-exam/",
+     "published": "2026-11-25T09:30+00:00"
+    },
+    {
+     "title": "GPT-6.2 Astra Helped Solve a 200-Year-Old Historical Mystery in 22 Minutes",
+     "link": "https://www.theneuron.ai/news/gpt-6-2-astra-historical-mystery/",
+     "published": "2026-11-25T04:40+00:00"
+    },
+    {
+     "title": "Everything That Happened in AI Today (Wednesday, November 25, 2026)",
+     "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-25-2026/",
+     "published": "2026-11-25T04:12+00:00"
+    },
+    {
+     "title": "OpenClaw’s ShellBench Is an AI Benchmark I’d Actually Use",
+     "link": "https://www.theneuron.ai/news/openclaw-shellbench-ai-agent-harnesses/",
+     "published": "2026-11-24T17:21+00:00"
+    }
+   ]
+  },
+  {
+   "source": "GearJunkie",
+   "name": "Outdoor",
+   "topic": "outdoor",
+   "url": "https://gearjunkie.com/feed",
+   "status": "ok",
+   "items": [
+    {
+     "title": "The Best Part of My Workout Is When It’s Over: Sun Home Eclipse 2 Sauna Review",
+     "link": "https://gearjunkie.com/health-fitness/sun-home-eclipse-2-sauna-review",
+     "published": "2026-11-25T20:34+00:00"
+    },
+    {
+     "title": "What’s the Chicken Tax? INEOS Likely Moving Grenadier Production to the US to Avoid It",
+     "link": "https://gearjunkie.com/motors/ineos-grenadier-us-production-2028",
+     "published": "2026-11-25T19:46+00:00"
+    },
+    {
+     "title": "The Best Black Friday Deals on Outdoor Gear",
+     "link": "https://gearjunkie.com/deals/black-friday-cyber-monday-outdoor-gear",
+     "published": "2026-11-25T16:51+00:00"
+    },
+    {
+     "title": "Your Childhood Toy, All Grown Up: SimpleShot Axiom Slingshot Review",
+     "link": "https://gearjunkie.com/hunting/simpleshot-axiom-review",
+     "published": "2026-11-25T16:42+00:00"
+    },
+    {
+     "title": "Spyderco’s First True Button Lock is a Beginner-Friendly Blade with Expert Chops",
+     "link": "https://gearjunkie.com/knives/spyderco-buttonup-review",
+     "published": "2026-11-24T19:44+00:00"
+    },
+    {
+     "title": "The Cure for Mummy Bag Claustrophobia: Therm-a-Rest Boost 650 Sleeping Bag Review",
+     "link": "https://gearjunkie.com/camping/therm-a-rest-boost-650-sleeping-bag-review",
+     "published": "2026-11-24T19:25+00:00"
+    },
+    {
+     "title": "The 16 Best Kit Cars in 2026: Make Your DIY Automotive Dreams A Reality",
+     "link": "https://gearjunkie.com/motors/best-kit-cars",
+     "published": "2026-11-24T19:13+00:00"
+    },
+    {
+     "title": "Burly, Bright, and Long-Lasting GPS: Coros Vertix 4 Takes Aim At Garmin",
+     "link": "https://gearjunkie.com/technology/coros-vertix-4-first-look",
+     "published": "2026-11-24T19:02+00:00"
+    }
+   ]
+  },
+  {
+   "source": "SectionHiker",
+   "name": "Outdoor",
+   "topic": "outdoor",
+   "url": "https://sectionhiker.com/feed/",
+   "status": "ok",
+   "items": [
+    {
+     "title": "Winter Bivy Sack Guide (2026)",
+     "link": "https://sectionhiker.com/26winter-bivy-sack-guide/",
+     "published": "2026-11-25T06:30+00:00"
+    },
+    {
+     "title": "Review: Cumulus Mountlite Down Jacket",
+     "link": "https://sectionhiker.com/review-cumulus-mountlite-down-jacket/",
+     "published": "2026-11-24T06:30+00:00"
+    }
+   ]
+  },
+  {
+   "source": "Copenhagen Post",
+   "name": "Danmark",
+   "topic": "danmark",
+   "url": "https://cphpost.dk/feed/",
+   "status": "ok",
+   "items": [
+    {
+     "title": "Commentary: Shenzhen “peace summit” underscores shared responsibilities of major countries",
+     "link": "https://cphpost.dk/2026-11-26/global/commentary-shenzhen-peace-summit-underscores-shared-responsibilities-of-major-countries/",
+     "published": "2026-11-26T08:47+00:00"
+    },
+    {
+     "title": "Danish Originals, S13E7: Emma Wall",
+     "link": "https://cphpost.dk/2026-11-26/podcast/danish-originals-s13e7-emma-wall/",
+     "published": "2026-11-26T07:56+00:00"
+    },
+    {
+     "title": "“It’s not nice to live in a country and not be able to vote”: Voices from Denmark’s citizenship test",
+     "link": "https://cphpost.dk/2026-11-26/life-in-denmark/its-not-nice-to-live-in-a-country-and-not-be-able-to-vote-voices-from-denmarks-citizenship-test/",
+     "published": "2026-11-26T05:30+00:00"
+    },
+    {
+     "title": "More than 800,000 workers have unclaimed holiday pay",
+     "link": "https://cphpost.dk/2026-11-26/news/round-up/more-than-800000-workers-have-unclaimed-holiday-pay/",
+     "published": "2026-11-26T05:29+00:00"
+    },
+    {
+     "title": "EU Court wants plan to ban caged farm animals",
+     "link": "https://cphpost.dk/2026-11-26/global/eu-court-wants-plan-to-ban-caged-farm-animals/",
+     "published": "2026-11-26T05:29+00:00"
+    },
+    {
+     "title": "Minister hopes all gas stations cut prices from Thursday",
+     "link": "https://cphpost.dk/2026-11-26/news/round-up/minister-hopes-all-gas-stations-cut-prices-from-thursday/",
+     "published": "2026-11-26T05:29+00:00"
+    },
+    {
+     "title": "Social Liberal leader backs criticism of Frederiksen’s migration rhetoric",
+     "link": "https://cphpost.dk/2026-11-26/news/round-up/social-liberal-leader-backs-criticism-of-frederiksens-migration-rhetoric/",
+     "published": "2026-11-26T05:29+00:00"
+    },
+    {
+     "title": "United States proposes new tariffs on China and European Union",
+     "link": "https://cphpost.dk/2026-11-26/global/united-states-proposes-new-tariffs-on-china-and-european-union/",
+     "published": "2026-11-26T05:29+00:00"
+    },
+    {
+     "title": "Greenland municipality lifts alcohol sales ban",
+     "link": "https://cphpost.dk/2026-11-26/news/round-up/greenland-municipality-lifts-alcohol-sales-ban/",
+     "published": "2026-11-26T05:28+00:00"
+    },
+    {
+     "title": "US approves 622 million USD support package for Ukraine’s F-16 fleet",
+     "link": "https://cphpost.dk/2026-11-26/global/us-approves-622-million-usd-support-package-for-ukraines-f-16-fleet/",
+     "published": "2026-11-26T05:28+00:00"
+    },
+    {
+     "title": "Bisca recalls æbleskiver and biscuits following contaminated grain case",
+     "link": "https://cphpost.dk/2026-11-25/news/round-up/bisca-recalls-aebleskiver-and-biscuits-following-contaminated-grain-case/",
+     "published": "2026-11-25T14:52+00:00"
+    },
+    {
+     "title": "Israeli lawmakers back inquiry into October 7 failures in preliminary vote",
+     "link": "https://cphpost.dk/2026-11-25/global/israeli-lawmakers-back-inquiry-into-october-7-failures-in-preliminary-vote/",
+     "published": "2026-11-25T14:52+00:00"
+    }
+   ]
+  },
+  {
+   "source": "A-kasser.dk",
+   "name": "Dagpenge",
+   "topic": "dagpenge",
+   "url": "https://www.a-kasser.dk/feed/",
+   "status": "ok",
+   "items": [
+    {
+     "title": "Hej verden!",
+     "link": "https://www.a-kasser.dk/hej-verden/",
+     "published": "2023-02-20T08:35+00:00"
     }
    ]
   }
