@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T11:30+00:00",
+ "generated": "2026-11-26T11:50+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -177,6 +177,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Likvidering af 35-årig udløser tre livstidsdomme",
+     "link": "https://www.dr.dk/nyheder/indland/likvidering-af-35-aarig-udloeser-tre-livstidsdomme",
+     "published": "2026-11-26T11:48+00:00"
+    },
+    {
      "title": "Borgmester efter udvidet togstop: Nu må folketingspolitikerne på banen",
      "link": "https://www.dr.dk/nyheder/seneste/borgmester-efter-udvidet-togstop-nu-maa-folketingspolitikerne-paa-banen",
      "published": "2026-11-26T10:11+00:00"
@@ -245,11 +250,6 @@
      "title": "Grise kan have spist plastik gennem flere år",
      "link": "https://www.dr.dk/nyheder/indland/reels/grise-kan-have-spist-plastik-gennem-flere-aar",
      "published": "2026-11-25T17:30+00:00"
-    },
-    {
-     "title": "Medicinrådet anbefaler ikke amerikansk lægemiddel til patienter med Alzheimers",
-     "link": "https://www.dr.dk/nyheder/indland/medicinraadet-anbefaler-ikke-amerikansk-laegemiddel-til-patienter-med-alzheimers",
-     "published": "2026-11-25T17:01+00:00"
     }
    ]
   },
@@ -513,6 +513,21 @@
    "status": "ok",
    "items": [
     {
+     "title": "Medie: Pierre-Emile Højbjerg kan købes til spotpris",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/franskfodbold/medie-pierre-emile-hoejbjerg-kan-koebes-til-spotpris/11366146",
+     "published": "2026-11-26T11:39+00:00"
+    },
+    {
+     "title": "Livstid for skuddrab i Søborg",
+     "link": "https://ekstrabladet.dk/krimi/livstid-for-skuddrab-i-soeborg/11365958",
+     "published": "2026-11-26T11:34+00:00"
+    },
+    {
+     "title": "Skib sunket ved Island: Tre personer omkommet",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/skib-sunket-ved-island-tre-personer-omkommet/11366141",
+     "published": "2026-11-26T11:29+00:00"
+    },
+    {
      "title": "Kesslers modstander: Mikkel hvem?",
      "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/bernard-joseph-kendte-ikke-kessler-hvem/11365774",
      "published": "2026-11-26T11:26+00:00"
@@ -546,21 +561,6 @@
      "title": "Mads P.: - Det er fucking latterligt",
      "link": "https://ekstrabladet.dk/sport/cykling/mads-p.-det-er-fucking-latterligt/11365887",
      "published": "2026-11-26T10:25+00:00"
-    },
-    {
-     "title": "Fem anholdt\nfor Pokémon-\nrøveri",
-     "link": "https://ekstrabladet.dk/krimi/pokemon-roeveri-i-lyngby-fem-personer-anholdt/11366006",
-     "published": "2026-11-26T10:17+00:00"
-    },
-    {
-     "title": "Danske dommere måtte nødlande før EL-kamp",
-     "link": "https://ekstrabladet.dk/sport/fodbold/landsholdsfodbold/danske-dommere-maatte-noedlande-foer-el-kamp/11365986",
-     "published": "2026-11-26T10:17+00:00"
-    },
-    {
-     "title": "Tidlig julegave:\nAfgift sænkes\nfra på tirsdag",
-     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/forslag-vedtaget-benzin-og-dieselafgift-saenkes-fra-paa-tirsdag/11365999",
-     "published": "2026-11-26T10:15+00:00"
     }
    ]
   },
@@ -631,6 +631,36 @@
    "status": "ok",
    "items": [
     {
+     "title": "Costa opstiller tre mål for svært EU-topmøde om budget",
+     "link": "https://www.bt.dk/udland/costa-opstiller-tre-maal-for-svaert-eu-topmoede-om-budget?referrer=RSS",
+     "published": "2026-11-26T11:44+00:00"
+    },
+    {
+     "title": "Likvidering af 35-årig udløser tre livstidsdomme",
+     "link": "https://www.bt.dk/krimi/likvidering-af-35-aarig-udloeser-tre-livstidsdomme?referrer=RSS",
+     "published": "2026-11-26T11:40+00:00"
+    },
+    {
+     "title": "Vild panik på fly: Forsøger at åbne døren",
+     "link": "https://www.bt.dk/udland/vild-panik-paa-fly-forsoeger-at-aabne-doeren?referrer=RSS",
+     "published": "2026-11-26T11:40+00:00"
+    },
+    {
+     "title": "Tre søfolk er døde efter forlis af islandsk fiskefartøj",
+     "link": "https://www.bt.dk/udland/tre-soefolk-er-doede-efter-forlis-af-islandsk-fiskefartoej?referrer=RSS",
+     "published": "2026-11-26T11:37+00:00"
+    },
+    {
+     "title": "Livstid til skyldige i drabet på Novembervej",
+     "link": "https://www.bt.dk/krimi/livstid-til-skyldige-i-drabet-paa-novembervej?referrer=RSS",
+     "published": "2026-11-26T11:37+00:00"
+    },
+    {
+     "title": "Advarer mod sms midt i vild pakketid",
+     "link": "https://www.bt.dk/samfund/advarer-mod-sms-midt-i-vild-pakketid?referrer=RSS",
+     "published": "2026-11-26T11:32+00:00"
+    },
+    {
      "title": "Mette Frederiksens ord er gået verden rundt – og nu kommer regningen! - Nyt afsnit af B.T. Valgkamp",
      "link": "https://www.bt.dk/politik/mette-frederiksens-ord-er-gaaet-verden-rundt--og-nu-kommer-regningen-nyt-afsnit-af-bt-valgkamp?referrer=RSS",
      "published": "2026-11-26T11:20+00:00"
@@ -649,36 +679,6 @@
      "title": "Mette Frederiksen vil have alle EU-lande til at støtte Ukraine",
      "link": "https://www.bt.dk/udland/mette-frederiksen-vil-have-alle-eu-lande-til-at-stoette-ukraine?referrer=RSS",
      "published": "2026-11-26T11:03+00:00"
-    },
-    {
-     "title": "14 kendte danskere skal dyste i ny sæson af Spillet",
-     "link": "https://www.bt.dk/samfund/14-kendte-danskere-skal-dyste-i-ny-saeson-af-spillet?referrer=RSS",
-     "published": "2026-11-26T11:03+00:00"
-    },
-    {
-     "title": "Medie: Russisk militærchef anholdt i Moskva",
-     "link": "https://www.bt.dk/udland/medie-russisk-militaerchef-anholdt-i-moskva?referrer=RSS",
-     "published": "2026-11-26T10:48+00:00"
-    },
-    {
-     "title": "Skadedyrsfirma advarer mod black friday",
-     "link": "https://www.bt.dk/samfund/skadedyrsfirma-advarer-mod-black-friday?referrer=RSS",
-     "published": "2026-11-26T10:46+00:00"
-    },
-    {
-     "title": "Formodede Pokémon-røvere er anholdt",
-     "link": "https://www.bt.dk/krimi/formodede-pokemon-roevere-er-anholdt?referrer=RSS",
-     "published": "2026-11-26T10:45+00:00"
-    },
-    {
-     "title": "16-årig idømt klækkelig bøde: Kørte 100 km/t",
-     "link": "https://www.bt.dk/krimi/16-aarig-idoemt-klaekkelig-boede-koerte-100-kmt?referrer=RSS",
-     "published": "2026-11-26T10:41+00:00"
-    },
-    {
-     "title": "Trumps planer om golfanlæg møder modstand: 'Yderst destruktivt'",
-     "link": "https://www.bt.dk/udland/trumps-planer-om-golfanlaeg-moeder-modstand-yderst-destruktivt?referrer=RSS",
-     "published": "2026-11-26T10:39+00:00"
     }
    ]
   },
@@ -689,6 +689,36 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Costa opstiller tre mål for svært EU-topmøde om budget",
+     "link": "https://www.bt.dk/udland/costa-opstiller-tre-maal-for-svaert-eu-topmoede-om-budget?referrer=RSS",
+     "published": "2026-11-26T11:44+00:00"
+    },
+    {
+     "title": "Likvidering af 35-årig udløser tre livstidsdomme",
+     "link": "https://www.bt.dk/krimi/likvidering-af-35-aarig-udloeser-tre-livstidsdomme?referrer=RSS",
+     "published": "2026-11-26T11:40+00:00"
+    },
+    {
+     "title": "Vild panik på fly: Forsøger at åbne døren",
+     "link": "https://www.bt.dk/udland/vild-panik-paa-fly-forsoeger-at-aabne-doeren?referrer=RSS",
+     "published": "2026-11-26T11:40+00:00"
+    },
+    {
+     "title": "Tre søfolk er døde efter forlis af islandsk fiskefartøj",
+     "link": "https://www.bt.dk/udland/tre-soefolk-er-doede-efter-forlis-af-islandsk-fiskefartoej?referrer=RSS",
+     "published": "2026-11-26T11:37+00:00"
+    },
+    {
+     "title": "Livstid til skyldige i drabet på Novembervej",
+     "link": "https://www.bt.dk/krimi/livstid-til-skyldige-i-drabet-paa-novembervej?referrer=RSS",
+     "published": "2026-11-26T11:37+00:00"
+    },
+    {
+     "title": "Advarer mod sms midt i vild pakketid",
+     "link": "https://www.bt.dk/samfund/advarer-mod-sms-midt-i-vild-pakketid?referrer=RSS",
+     "published": "2026-11-26T11:32+00:00"
+    },
     {
      "title": "Braithwaite forbigået af verdensstjerne i bizart optrin",
      "link": "https://www.bt.dk/fodbold/braithwaite-forbigaaet-af-verdensstjerne-i-bizart-optrin?referrer=RSS",
@@ -708,36 +738,6 @@
      "title": "Chok i Storbritannien: 10.500 job på spil",
      "link": "https://www.bt.dk/virksomheder/chok-i-storbritannien-10500-job-paa-spil?referrer=RSS",
      "published": "2026-11-26T11:05+00:00"
-    },
-    {
-     "title": "Klimarådet foreslår færre husdyr for at nå klimamål i grøn trepart",
-     "link": "https://www.bt.dk/politik/klimaraadet-foreslaar-faerre-husdyr-for-at-naa-klimamaal-i-groen-trepart?referrer=RSS",
-     "published": "2026-11-26T11:03+00:00"
-    },
-    {
-     "title": "Norsk flyselskab er tæt på konkurs og aflyser alle flyvninger",
-     "link": "https://www.bt.dk/erhverv/norsk-flyselskab-er-taet-paa-konkurs-og-aflyser-alle-flyvninger?referrer=RSS",
-     "published": "2026-11-26T11:03+00:00"
-    },
-    {
-     "title": "Mette Frederiksen vil have alle EU-lande til at støtte Ukraine",
-     "link": "https://www.bt.dk/udland/mette-frederiksen-vil-have-alle-eu-lande-til-at-stoette-ukraine?referrer=RSS",
-     "published": "2026-11-26T11:03+00:00"
-    },
-    {
-     "title": "14 kendte danskere skal dyste i ny sæson af Spillet",
-     "link": "https://www.bt.dk/samfund/14-kendte-danskere-skal-dyste-i-ny-saeson-af-spillet?referrer=RSS",
-     "published": "2026-11-26T11:03+00:00"
-    },
-    {
-     "title": "Efter voldelig opførsel i England: Flere koncerter aflyst i Danmark",
-     "link": "https://www.bt.dk/musik/efter-voldelig-opfoersel-i-england-flere-koncerter-aflyst-i-danmark?referrer=RSS",
-     "published": "2026-11-26T11:00+00:00"
-    },
-    {
-     "title": "Kimmich kalder Bayern-chefers kommunikation uforståelig",
-     "link": "https://www.bt.dk/fodbold/kimmich-kalder-bayern-chefers-kommunikation-uforstaaelig?referrer=RSS",
-     "published": "2026-11-26T10:59+00:00"
     }
    ]
   },
