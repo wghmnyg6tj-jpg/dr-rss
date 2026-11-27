@@ -1,0 +1,36 @@
+name: Hent RSS løbende
+# Henter feeds hvert 10. minut kl. 06-23 dansk tid.
+# Hver kørsel henter 6 gange (ca. 1 time) og starter så den næste kørsel.
+# Om natten stopper kæden. Den startes igen af rss.yml (fx kl. 06.50 af den planlagte opgave).
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: rss-loop
+  cancel-in-progress: false
+jobs:
+  loop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - uses: actions/checkout@v4
+      - name: Hent hvert 10. minut i ca. 1 time
+        run: |
+          cp scripts/hent_og_gem.sh /tmp/hent_og_gem.sh
+          for i in 1 2 3 4 5 6; do
+            h=$(TZ=Europe/Copenhagen date +%-H)
+            if [ "$h" -lt 6 ] || [ "$h" -ge 23 ]; then
+              echo "Nat (kl. $h dansk tid): stopper."
+              break
+            fi
+            echo "Runde $i kl. $(TZ=Europe/Copenhagen date +%H:%M)"
+            bash /tmp/hent_og_gem.sh || echo "Runde $i fejlede. Fortsætter."
+            if [ "$i" -lt 6 ]; then sleep 600; fi
+          done
+      - name: Start næste kørsel
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: bash scripts/start_loop.sh

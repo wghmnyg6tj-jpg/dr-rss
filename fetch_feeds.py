@@ -2,6 +2,7 @@
 Gemmer kun titel, link og tid. Ingen artikeltekst.
 Ret listen FEEDS for at tilføje eller fjerne feeds."""
 import json, sys, urllib.request, urllib.error
+from concurrent.futures import ThreadPoolExecutor
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 from datetime import datetime, timezone
@@ -39,7 +40,7 @@ TOPIC_FEEDS = [
     ("Copenhagen Post", "Danmark", "https://cphpost.dk/feed/", "danmark"),
 ]
 MAX_PER_FEED = 15
-UA = "dagens-oversigt-rss/1.0 (privat nyhedsoverblik; hentes hvert kvarter)"
+UA = "dagens-oversigt-rss/1.1 (privat nyhedsoverblik; hentes ca. hvert 10. minut i dagtimerne)"
 
 def iso(text):
     if not text:
@@ -90,21 +91,27 @@ def parse(body):
     items.sort(key=lambda x: x["published"] or "", reverse=True)
     return items[:MAX_PER_FEED]
 
+def get_one(feed):
+    source, name, url, topic = feed
+    entry = {"source": source, "name": name, "topic": topic, "url": url, "status": "ok", "items": []}
+    try:
+        code, body = fetch(url)
+        entry["items"] = parse(body)
+        if not entry["items"]:
+            entry["status"] = "tomt feed"
+    except urllib.error.HTTPError as e:
+        entry["status"] = f"HTTP {e.code}"
+    except Exception as e:
+        entry["status"] = f"fejl: {type(e).__name__}"
+    return entry
+
 def main():
     out = {"generated": datetime.now(timezone.utc).isoformat(timespec="minutes"), "feeds": []}
-    for source, name, url, topic in FEEDS + TOPIC_FEEDS:
-        entry = {"source": source, "name": name, "topic": topic, "url": url, "status": "ok", "items": []}
-        try:
-            code, body = fetch(url)
-            entry["items"] = parse(body)
-            if not entry["items"]:
-                entry["status"] = "tomt feed"
-        except urllib.error.HTTPError as e:
-            entry["status"] = f"HTTP {e.code}"
-        except Exception as e:
-            entry["status"] = f"fejl: {type(e).__name__}"
-        print(f"{name}: {entry['status']} ({len(entry['items'])} punkter)")
-        out["feeds"].append(entry)
+    # Henter op til 8 feeds ad gangen. Rækkefølgen i feeds.json er den samme som i listerne.
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        out["feeds"] = list(pool.map(get_one, FEEDS + TOPIC_FEEDS))
+    for entry in out["feeds"]:
+        print(f"{entry['source']} {entry['name']}: {entry['status']} ({len(entry['items'])} punkter)")
     with open("feeds.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
 
