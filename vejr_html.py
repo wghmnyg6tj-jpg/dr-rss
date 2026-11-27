@@ -307,7 +307,7 @@ def main(argv):
     bad = [f"{k} ({v})" for k, v in st.items() if v != "ok"]
     vejr = (f'<p><b>Vejr:</b> Bygget af vejr_html.py ud fra weather.json (hentet af GitHub kl. {hm(gen)}). '
             f'met.no-modellen opdateret kl. {hm(loc(mu)) if mu else "ukendt"}.{run_txt} '
-            f'Temperatur nu: {where.lower() if tobs else "ingen frisk måling, prognose brugt"}. '
+            f'Temperatur nu: {("målt i " + tobs[1] + " kl. " + hm(tobs[3])) if tobs else "ingen frisk måling, prognose brugt"}. '
             f'Tidslinje: {first.day}. {MN[first.month]} kl. {first.hour:02d} til {last.day}. {MN[last.month]} kl. {last.hour:02d}'
             f' ({"met.no" if "DMI" not in used else "met.no og DMI"}).'
             + (f' Kilder med fejl: {", ".join(bad)}.' if bad else "") + "</p>")
