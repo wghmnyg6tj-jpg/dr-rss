@@ -1,7 +1,10 @@
 {
- "updated": "2026-11-27T13:33:19Z",
+ "updated": "2026-11-27T15:52:52Z",
  "requested": [
-  "Mørkhøj"
+  "Mørkhøj",
+  "2860 Søborg",
+  "Skagen",
+  "55,40, 10,38"
  ],
  "places": [
   {
@@ -10,6 +13,29 @@
    "lat": 55.74,
    "lon": 12.5,
    "source": "fast standard"
+  },
+  {
+   "q": "2860 Søborg",
+   "name": "2860 Søborg",
+   "lat": 55.7365,
+   "lon": 12.5089,
+   "found": "Søborg, Gladsaxe Kommune, Region Hovedstaden, 2870, Danmark",
+   "source": "OpenStreetMap Nominatim"
+  },
+  {
+   "q": "Skagen",
+   "name": "Skagen",
+   "lat": 57.726,
+   "lon": 10.5845,
+   "found": "Skagen, Frederikshavn Kommune, Region Nordjylland, 9990, Danmark",
+   "source": "OpenStreetMap Nominatim"
+  },
+  {
+   "q": "55,40, 10,38",
+   "name": "55,40, 10,38",
+   "lat": 55.4,
+   "lon": 10.38,
+   "source": "koordinater"
   }
  ],
  "errors": [],
@@ -28,6 +54,29 @@
    "lon": 10.2134,
    "found": "Aarhus, Aarhus Kommune, Region Midtjylland, 8000, Danmark",
    "source": "OpenStreetMap Nominatim"
+  },
+  {
+   "q": "2860 Søborg",
+   "name": "2860 Søborg",
+   "lat": 55.7365,
+   "lon": 12.5089,
+   "found": "Søborg, Gladsaxe Kommune, Region Hovedstaden, 2870, Danmark",
+   "source": "OpenStreetMap Nominatim"
+  },
+  {
+   "q": "Skagen",
+   "name": "Skagen",
+   "lat": 57.726,
+   "lon": 10.5845,
+   "found": "Skagen, Frederikshavn Kommune, Region Nordjylland, 9990, Danmark",
+   "source": "OpenStreetMap Nominatim"
+  },
+  {
+   "q": "55,40, 10,38",
+   "name": "55,40, 10,38",
+   "lat": 55.4,
+   "lon": 10.38,
+   "source": "koordinater"
   }
  ]
 }
