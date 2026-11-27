@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T18:33+00:00",
+ "generated": "2026-11-27T18:43+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Stjerneinvestor \nafslører \naktienedtur",
+     "link": "https://ekstrabladet.dk/penge/stjerneinvestor-andreas-steno-afsloerer-nedtur-fuck-det/11367237",
+     "published": "2026-11-27T18:40+00:00",
+     "summary": "Den danske investor har ikke noget imod at erkende, at en række faktorer er kommet bag på ham i 2026"
+    },
+    {
      "title": "Agenten afslører: Så lidt tjente Pogacar",
      "link": "https://ekstrabladet.dk/sport/cykling/agenten-afsloerer-saa-lidt-tjente-pogacar-som-neo-pro/11367930",
      "published": "2026-11-27T18:32+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/krimi/efter-ulykke-med-flere-unge-15-aarig-afgaaet-ved-doeden/11368029",
      "published": "2026-11-27T17:30+00:00",
      "summary": "Det er endnu uvist, hvordan de fire andre drenge, der sad i bilen, har det"
-    },
-    {
-     "title": "Ragnvald trist over Hjortings død: \n- Der er så mange, der forsvinder nu",
-     "link": "https://ekstrabladet.dk/underholdning/dkkendte/ragnvald-trist-over-hjortings-doed-der-er-saa-mange-der-forsvinder-nu/11367991",
-     "published": "2026-11-27T17:24+00:00",
-     "summary": "Den populære dansktopsanger Richard Ragnvald holdt kontakten ved lige med det nu afdøde radio-ikon Jørn Hjorting også i de senere år. Sidst, de talte sammen, lød Hjorting frisk, fortæller Ragnvald"
     }
    ]
   },
