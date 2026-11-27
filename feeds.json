@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T16:18+00:00",
+ "generated": "2026-11-27T16:28+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -8,6 +8,11 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/senestenyt",
    "status": "ok",
    "items": [
+    {
+     "title": "Otte migranter døde i forsøget på at nå Europa",
+     "link": "https://www.dr.dk/nyheder/seneste/otte-migranter-doede-i-forsoeget-paa-naa-europa",
+     "published": "2026-11-27T16:21+00:00"
+    },
     {
      "title": "Styrelse følger sikkerhedsbrud hos teleudbyder - flere organisationer ventes ramt",
      "link": "https://www.dr.dk/nyheder/seneste/styrelse-foelger-sikkerhedsbrud-hos-teleudbyder-flere-organisationer-ventes-ramt",
@@ -77,11 +82,6 @@
      "title": "Resten af året kan du køre gratis i S-tog om søndagen",
      "link": "https://www.dr.dk/nyheder/seneste/resten-af-aaret-kan-du-koere-gratis-i-s-tog-om-soendagen",
      "published": "2026-11-27T08:49+00:00"
-    },
-    {
-     "title": "Fransk stjerneskuespiller skal igen for retten",
-     "link": "https://www.dr.dk/nyheder/seneste/fransk-stjerneskuespiller-skal-igen-retten",
-     "published": "2026-11-27T08:38+00:00"
     }
    ]
   },
@@ -93,6 +93,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Otte migranter døde i forsøget på at nå Europa",
+     "link": "https://www.dr.dk/nyheder/seneste/otte-migranter-doede-i-forsoeget-paa-naa-europa",
+     "published": "2026-11-27T16:21+00:00"
+    },
+    {
      "title": "Styrelse følger sikkerhedsbrud hos teleudbyder - flere organisationer ventes ramt",
      "link": "https://www.dr.dk/nyheder/seneste/styrelse-foelger-sikkerhedsbrud-hos-teleudbyder-flere-organisationer-ventes-ramt",
      "published": "2026-11-27T16:13+00:00"
@@ -161,11 +166,6 @@
      "title": "Resten af året kan du køre gratis i S-tog om søndagen",
      "link": "https://www.dr.dk/nyheder/seneste/resten-af-aaret-kan-du-koere-gratis-i-s-tog-om-soendagen",
      "published": "2026-11-27T08:49+00:00"
-    },
-    {
-     "title": "Fransk stjerneskuespiller skal igen for retten",
-     "link": "https://www.dr.dk/nyheder/seneste/fransk-stjerneskuespiller-skal-igen-retten",
-     "published": "2026-11-27T08:38+00:00"
     }
    ]
   },
@@ -513,12 +513,17 @@
    "status": "ok",
    "items": [
     {
+     "title": "Chefer falder \nsom fluer hos\ndansk gigant",
+     "link": "https://ekstrabladet.dk/penge/chefer-falder-som-fluer-kaempe-udskillelse-vaekker-bekymring/11367079",
+     "published": "2026-11-27T16:23+00:00"
+    },
+    {
      "title": "Styrelse: Flere organisationer kan være ramt af nyt sikkerhedsbrud",
      "link": "https://ekstrabladet.dk/nyheder/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-nyt-sikkerhedsbrud/11367941",
      "published": "2026-11-27T16:09+00:00"
     },
     {
-     "title": "Uheld spærrer den fynske motorvej",
+     "title": "Uheld spærrer den Fynske Motorvej",
      "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/uheld-spaerrer-den-fynske-motorvej/11367918",
      "published": "2026-11-27T15:50+00:00"
     },
@@ -556,11 +561,6 @@
      "title": "Dansk skuespiller \nanker dom",
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/dansk-skuespiller-idoemt-faengsel-anker-dom/11367733",
      "published": "2026-11-27T14:29+00:00"
-    },
-    {
-     "title": "Forlænger med superstjernen",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/medie-bruno-fernandes-forlaenger/11367813",
-     "published": "2026-11-27T14:18+00:00"
     }
    ]
   },
@@ -577,7 +577,7 @@
      "published": "2026-11-27T16:09+00:00"
     },
     {
-     "title": "Uheld spærrer den fynske motorvej",
+     "title": "Uheld spærrer den Fynske Motorvej",
      "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/uheld-spaerrer-den-fynske-motorvej/11367918",
      "published": "2026-11-27T15:50+00:00"
     },
@@ -646,8 +646,8 @@
      "published": "2026-11-27T16:12+00:00"
     },
     {
-     "title": "Flere kan være ramt efter sikkerhedsbrud",
-     "link": "https://www.bt.dk/krimi/flere-kan-vaere-ramt-efter-sikkerhedsbrud?referrer=RSS",
+     "title": "Styrelse: Flere organisationer kan være ramt af datalæk",
+     "link": "https://www.bt.dk/krimi/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek?referrer=RSS",
      "published": "2026-11-27T16:06+00:00"
     },
     {
@@ -690,6 +690,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "BILLEDSERIE: Kessler består vægtkrav inden comebackkamp",
+     "link": "https://www.bt.dk/sport/billedserie-kessler-bestaar-vaegtkrav-inden-comebackkamp?referrer=RSS",
+     "published": "2026-11-27T16:21+00:00"
+    },
+    {
      "title": "Flere uheld lammer trafikken på Fyn",
      "link": "https://www.bt.dk/trafik/flere-uheld-lammer-trafikken-paa-fyn?referrer=RSS",
      "published": "2026-11-27T16:14+00:00"
@@ -705,8 +710,8 @@
      "published": "2026-11-27T16:12+00:00"
     },
     {
-     "title": "Flere kan være ramt efter sikkerhedsbrud",
-     "link": "https://www.bt.dk/krimi/flere-kan-vaere-ramt-efter-sikkerhedsbrud?referrer=RSS",
+     "title": "Styrelse: Flere organisationer kan være ramt af datalæk",
+     "link": "https://www.bt.dk/krimi/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek?referrer=RSS",
      "published": "2026-11-27T16:06+00:00"
     },
     {
@@ -733,11 +738,6 @@
      "title": "Jørn Hjorting er død: Optimist til det sidste",
      "link": "https://www.bt.dk/navne/joern-hjorting-er-doed-optimist-til-det-sidste?referrer=RSS",
      "published": "2026-11-27T15:43+00:00"
-    },
-    {
-     "title": "Manchester United holder fast i anfører med kontraktgreb",
-     "link": "https://www.bt.dk/fodbold/manchester-united-holder-fast-i-anfoerer-med-kontraktgreb?referrer=RSS",
-     "published": "2026-11-27T15:18+00:00"
     }
    ]
   },
