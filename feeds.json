@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T19:57+00:00",
+ "generated": "2026-11-27T20:07+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,30 @@
    "status": "ok",
    "items": [
     {
+     "title": "Forbandelsen forbliver",
+     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/5-i-fokus-er-mortensen-alligevel-loesningen-for-broendby/11368144",
+     "published": "2026-11-27T20:01+00:00",
+     "summary": "Patrick Mortensen viste vejen for Brøndby, da han efter sit indhop fyldte godt i boksen og scorede det udlignende 1-1-mål mod Sønderjyske"
+    },
+    {
+     "title": "Legende helt på månen",
+     "link": "https://ekstrabladet.dk/musik/intlalbum/bliver-ikke-stoerre-legende-helt-paa-maanen/11362043",
+     "published": "2026-11-27T20:00+00:00",
+     "summary": "Peter Gabriel har astronomiske ambitioner på karrierens længste album, der engageret sonderer hans musikalske verdensrum uden at lande sikkert"
+    },
+    {
+     "title": "Efter togkaos: Borgmestre sender appel",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/efter-togkaos-borgmestre-sender-appel-til-folketinget/11367320",
+     "published": "2026-11-27T19:58+00:00",
+     "summary": "Tre fynske borgmestre sender nu en appel til de fynskvalgte folketingsmedlemmer. De frygter, at et midlertidigt togstop kan få varige konsekvenser for de små stationer"
+    },
+    {
+     "title": "Forbandelsen varer ved",
+     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/broendby-maatte-noejes-mod-soenderjyske/11368136",
+     "published": "2026-11-27T19:58+00:00",
+     "summary": "Brøndby IF pressede på for sejren, men seneste sejr mod Sønderjyske ligger stadig otte år tilbage"
+    },
+    {
      "title": "Stort politiopbud på adresse i Gentofte",
      "link": "https://ekstrabladet.dk/krimi/massiv-politiaktion-i-gentofte-stoerre-omraade-afspaerret/11368088",
      "published": "2026-11-27T19:48+00:00",
@@ -637,30 +661,6 @@
      "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/putin-praesenterer-ny-atomdrevet-ubaad/11368094",
      "published": "2026-11-27T19:07+00:00",
      "summary": "Ud over den nye atomdrevne ubåd \"Perm\", som flåden fik overdraget ved en ceremoni fredag, er fem mere på vej"
-    },
-    {
-     "title": "Over al forventning: Forventer udsolgt",
-     "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/over-al-forventning-forventer-udsolgt-til-kessler-comeback/11367982",
-     "published": "2026-11-27T19:07+00:00",
-     "summary": "Promotor Kalle Sauerland melder om stor interesse for Mikkel Kesslers comeback og forventer en pakket hal i Brøndby"
-    },
-    {
-     "title": "Glem alt det nye lort: \nNintendo leverer \nvaren igen",
-     "link": "https://ekstrabladet.dk/forbrug/Teknologi/glem-alt-det-nye-lort-nintendo-leverer-varen-igen/11367694",
-     "published": "2026-11-27T18:47+00:00",
-     "summary": "5,2 millioner eksemplarer på fire dage. Næsten 30 år efter premieren hitter Ocarina of Time igen, og man behøver aldrig at have rørt en Nintendo 64 for at forstå hvorfor"
-    },
-    {
-     "title": "Stjerneinvestor \nafslører \naktienedtur",
-     "link": "https://ekstrabladet.dk/penge/stjerneinvestor-andreas-steno-afsloerer-nedtur-fuck-det/11367237",
-     "published": "2026-11-27T18:40+00:00",
-     "summary": "Den danske investor har ikke noget imod at erkende, at en række faktorer er kommet bag på ham i 2026"
-    },
-    {
-     "title": "Agenten afslører: Så lidt tjente Pogacar",
-     "link": "https://ekstrabladet.dk/sport/cykling/agenten-afsloerer-saa-lidt-tjente-pogacar-som-neo-pro/11367930",
-     "published": "2026-11-27T18:32+00:00",
-     "summary": "Lønningerne, også for de store talenter, er steget voldsomt på få år"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Efter togkaos: Borgmestre sender appel",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/efter-togkaos-borgmestre-sender-appel-til-folketinget/11367320",
+     "published": "2026-11-27T19:58+00:00",
+     "summary": "Tre fynske borgmestre sender nu en appel til de fynskvalgte folketingsmedlemmer. De frygter, at et midlertidigt togstop kan få varige konsekvenser for de små stationer"
+    },
     {
      "title": "Putin præsenterer ny atomdrevet ubåd",
      "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/putin-praesenterer-ny-atomdrevet-ubaad/11368094",
@@ -717,19 +723,13 @@
      "title": "Styrelse: Flere organisationer kan være ramt af nyt sikkerhedsbrud",
      "link": "https://ekstrabladet.dk/nyheder/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-nyt-sikkerhedsbrud/11367941",
      "published": "2026-11-27T16:09+00:00",
-     "summary": "Gymnasieelevers telefonnumre er lækket i sikkerhedsbrud, og også et antal organisationer kan være ramt"
+     "summary": "Teleudbyder har endnu ikke fastlagt omfanget af berørte kunder efter datalæk. Uautoriseret adgang er lukket"
     },
     {
      "title": "Uheld spærrer den Fynske Motorvej",
      "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/uheld-spaerrer-den-fynske-motorvej/11367918",
      "published": "2026-11-27T15:50+00:00",
      "summary": "Et uheld har ramt E 20 mod Jylland fredag eftermiddag mellem Odense SØ og Odense S"
-    },
-    {
-     "title": "Gik amok i tog: Skyldig i 14 drabsforsøg",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/stak-ti-paa-tog-mod-london.-skyldig-i-14-drabsforsoeg/11367127",
-     "published": "2026-11-27T15:31+00:00",
-     "summary": "En togmedarbejder blev livsfarligt såret, da han sidste år forsøgte at standse en knivmand ombord på et tog i England. Nu er den 33-årige gerningsmand kendt skyldig i 14 drabsforsøg"
     }
    ]
   },
@@ -740,6 +740,12 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Styrelse: Flere organisationer kan være ramt af datalæk hos teleudbyder",
+     "link": "https://www.bt.dk/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek-hos-teleudbyder?referrer=RSS",
+     "published": "2026-11-27T20:01+00:00",
+     "summary": "Teleudbyder har endnu ikke fastlagt omfanget af berørte kunder efter datalæk. Uautoriseret adgang er lukket."
+    },
     {
      "title": "Teleudbyder kender endnu ikke omfanget af cyberangreb",
      "link": "https://www.bt.dk/samfund/teleudbyder-kender-endnu-ikke-omfanget-af-cyberangreb?referrer=RSS",
@@ -756,7 +762,7 @@
      "title": "Bekræfter: Uvedkommende har fået adgang",
      "link": "https://www.bt.dk/krimi/bekraefter-uvedkommende-har-faaet-adgang?referrer=RSS",
      "published": "2026-11-27T19:41+00:00",
-     "summary": ""
+     "summary": "OnlineCity bekræfter cyberangreb mod over 15.000 gymnasieelever, men det samlede omfang er endnu ukendt."
     },
     {
      "title": "'Slyngelstat' og 'hjernevask': Jacob Harris vækker opsigt i buffetkonges podcast",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/udland/putin-afsloerer-nyt-atom-projekt?referrer=RSS",
      "published": "2026-11-27T19:06+00:00",
      "summary": "Ud over den nye atomdrevne ubåd \"Perm\", som flåden fik overdraget ved en ceremoni fredag, er fem mere på vej."
-    },
-    {
-     "title": "Mads Fuglede er blevet far",
-     "link": "https://www.bt.dk/politik/mads-fuglede-er-blevet-far?referrer=RSS",
-     "published": "2026-11-27T18:53+00:00",
-     "summary": "Folketingsmedlemmet fra Danmarksdemokraterne er blevet far for tredje gang."
     }
    ]
   },
@@ -809,6 +809,18 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Patrick Mortensen redder point til Brøndby i Haderslev",
+     "link": "https://www.bt.dk/fodbold/patrick-mortensen-redder-point-til-broendby-i-haderslev?referrer=RSS",
+     "published": "2026-11-27T20:04+00:00",
+     "summary": "Brøndbys problemer i Haderslev fortsatte fredag aften, hvor vestegnsklubben måtte nøjes med 1-1."
+    },
+    {
+     "title": "Styrelse: Flere organisationer kan være ramt af datalæk hos teleudbyder",
+     "link": "https://www.bt.dk/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek-hos-teleudbyder?referrer=RSS",
+     "published": "2026-11-27T20:01+00:00",
+     "summary": "Teleudbyder har endnu ikke fastlagt omfanget af berørte kunder efter datalæk. Uautoriseret adgang er lukket."
+    },
     {
      "title": "Teleudbyder kender endnu ikke omfanget af cyberangreb",
      "link": "https://www.bt.dk/samfund/teleudbyder-kender-endnu-ikke-omfanget-af-cyberangreb?referrer=RSS",
@@ -825,7 +837,7 @@
      "title": "Bekræfter: Uvedkommende har fået adgang",
      "link": "https://www.bt.dk/krimi/bekraefter-uvedkommende-har-faaet-adgang?referrer=RSS",
      "published": "2026-11-27T19:41+00:00",
-     "summary": ""
+     "summary": "OnlineCity bekræfter cyberangreb mod over 15.000 gymnasieelever, men det samlede omfang er endnu ukendt."
     },
     {
      "title": "'Slyngelstat' og 'hjernevask': Jacob Harris vækker opsigt i buffetkonges podcast",
@@ -856,18 +868,6 @@
      "link": "https://www.bt.dk/danske-kendte/rasmus-bjerg-slaar-fast-jeg-laver-ikke-tv-om-hvad-som-helst?referrer=RSS",
      "published": "2026-11-27T19:20+00:00",
      "summary": "Rasmus Bjerg og hustruen Helle har fået mange søde reaktioner på deres nye program, men det er ikke sikkert, at der kommer mere tv fra parret."
-    },
-    {
-     "title": "Blotter fortsat på spil i Silkeborg: 'Ekstra opmærksomme'",
-     "link": "https://www.bt.dk/krimi/blotter-fortsat-paa-spil-i-silkeborg-ekstra-opmaerksomme?referrer=RSS",
-     "published": "2026-11-27T19:11+00:00",
-     "summary": "Politiet har endnu ikke pågrebet manden, er har blottet sig foran flere børn."
-    },
-    {
-     "title": "MobilePay omsætter mindre på black friday end sidste år",
-     "link": "https://www.bt.dk/samfund/mobilepay-omsaetter-mindre-paa-black-friday-end-sidste-aar?referrer=RSS",
-     "published": "2026-11-27T19:10+00:00",
-     "summary": "MobilePays omsætning på black friday er faldet 27 procent fra sidste år, men ugerne op til var mere travle."
     }
    ]
   },
