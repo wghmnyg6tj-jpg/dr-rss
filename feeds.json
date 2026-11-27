@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T12:21+00:00",
+ "generated": "2026-11-27T12:24+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -513,6 +513,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Medie: Robert Skov skal sælges",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/tyskfodbold/medie-robert-skov-skal-saelges/11367427",
+     "published": "2026-11-27T12:24+00:00"
+    },
+    {
+     "title": "Røde lamper: \nHelt udsolgt til kæmpe brag",
+     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/nykoebing-melder-udsolgt-til-broendby-brag/11367633",
+     "published": "2026-11-27T12:22+00:00"
+    },
+    {
      "title": "TV 2 tager 'Den sorte svane'-sigtelserne 'særdeles alvorligt'",
      "link": "https://ekstrabladet.dk/underholdning/filmogtv/tv-2-tager-den-sorte-svane-sigtelserne-saerdeles-alvorligt/11367624",
      "published": "2026-11-27T12:16+00:00"
@@ -551,16 +561,6 @@
      "title": "Dræbte mand på parkeringsplads: Får 12 års fængsel",
      "link": "https://ekstrabladet.dk/krimi/draebte-mand-paa-parkeringsplads-faar-12-aars-faengsel/11367520",
      "published": "2026-11-27T11:31+00:00"
-    },
-    {
-     "title": "Sigtelse: Forsøgte at slå Patrick Nielsen, hans kæreste og datter ihjel",
-     "link": "https://ekstrabladet.dk/krimi/sigtelse-forsoegte-at-slaa-patrick-nielsen-hans-kaereste-og-datter-ihjel/11367494",
-     "published": "2026-11-27T11:30+00:00"
-    },
-    {
-     "title": "18-årig sigtet: 12 skud mod Patrick Nielsens kolonihavehus",
-     "link": "https://ekstrabladet.dk/krimi/18-aarig-sigtet-12-skud-mod-patrick-nielsens-kolonihavehus/11367498",
-     "published": "2026-11-27T11:24+00:00"
     }
    ]
   },
