@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T14:13+00:00",
+ "generated": "2026-11-27T14:23+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -513,6 +513,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Forlænger med superstjernen",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/medie-bruno-fernandes-forlaenger/11367813",
+     "published": "2026-11-27T14:18+00:00"
+    },
+    {
      "title": "Total hjerneblødning: \n- Han har det ikke godt",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/fck-profil-slaar-ring-om-haardt-ramt-markgraf/11367759",
      "published": "2026-11-27T13:58+00:00"
@@ -556,11 +561,6 @@
      "title": "Advarer: \nKan være \ndødeligt for katte",
      "link": "https://ekstrabladet.dk/nyheder/samfund/advarer-kan-vaere-doedeligt-for-katte/11367695",
      "published": "2026-11-27T13:06+00:00"
-    },
-    {
-     "title": "Historisk fadæse:\nFCK's spillerbudget er 31 gange større",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/chok-i-andorra-fcks-spillerbudget-er-31-gange-stoerre/11367702",
-     "published": "2026-11-27T13:00+00:00"
     }
    ]
   },
@@ -631,14 +631,19 @@
    "status": "ok",
    "items": [
     {
-     "title": "Regeringen siger nej til for dyrt borgerforslag om spildevand",
-     "link": "https://www.bt.dk/politik/regeringen-siger-nej-til-for-dyrt-borgerforslag-om-spildevand?referrer=RSS",
-     "published": "2026-11-27T14:06+00:00"
+     "title": "USA forbereder udvidelse af Pituffik for op mod 500 millioner dollar",
+     "link": "https://www.bt.dk/politik/usa-forbereder-udvidelse-af-pituffik-for-op-mod-500-millioner-dollar?referrer=RSS",
+     "published": "2026-11-27T14:20+00:00"
     },
     {
      "title": "Tusinder af danske gymnasieelevers telefonnumre er lækket",
      "link": "https://www.bt.dk/samfund/tusinder-af-danske-gymnasieelevers-telefonnumre-er-laekket?referrer=RSS",
-     "published": "2026-11-27T13:59+00:00"
+     "published": "2026-11-27T14:16+00:00"
+    },
+    {
+     "title": "Regeringen siger nej til for dyrt borgerforslag om spildevand",
+     "link": "https://www.bt.dk/politik/regeringen-siger-nej-til-for-dyrt-borgerforslag-om-spildevand?referrer=RSS",
+     "published": "2026-11-27T14:06+00:00"
     },
     {
      "title": "Politikersøn tiltalt for voldtægt: Nu forklarer han sig",
@@ -674,11 +679,6 @@
      "title": "Styrelse advarer: Kontakt med hårtabsmidler kan være dødelig for katte",
      "link": "https://www.bt.dk/samfund/styrelse-advarer-kontakt-med-haartabsmidler-kan-vaere-doedelig-for-katte?referrer=RSS",
      "published": "2026-11-27T13:25+00:00"
-    },
-    {
-     "title": "Fly-krak: Flyselskab varsler konkurs",
-     "link": "https://www.bt.dk/udland/fly-krak-flyselskab-varsler-konkurs?referrer=RSS",
-     "published": "2026-11-27T13:15+00:00"
     }
    ]
   },
@@ -690,14 +690,24 @@
    "status": "ok",
    "items": [
     {
-     "title": "Regeringen siger nej til for dyrt borgerforslag om spildevand",
-     "link": "https://www.bt.dk/politik/regeringen-siger-nej-til-for-dyrt-borgerforslag-om-spildevand?referrer=RSS",
-     "published": "2026-11-27T14:06+00:00"
+     "title": "USA forbereder udvidelse af Pituffik for op mod 500 millioner dollar",
+     "link": "https://www.bt.dk/politik/usa-forbereder-udvidelse-af-pituffik-for-op-mod-500-millioner-dollar?referrer=RSS",
+     "published": "2026-11-27T14:20+00:00"
     },
     {
      "title": "Tusinder af danske gymnasieelevers telefonnumre er lækket",
      "link": "https://www.bt.dk/samfund/tusinder-af-danske-gymnasieelevers-telefonnumre-er-laekket?referrer=RSS",
-     "published": "2026-11-27T13:59+00:00"
+     "published": "2026-11-27T14:16+00:00"
+    },
+    {
+     "title": "Kriseramte AaB smider Steffen Højer på porten",
+     "link": "https://www.bt.dk/fodbold/kriseramte-aab-smider-steffen-hoejer-paa-porten?referrer=RSS",
+     "published": "2026-11-27T14:16+00:00"
+    },
+    {
+     "title": "Regeringen siger nej til for dyrt borgerforslag om spildevand",
+     "link": "https://www.bt.dk/politik/regeringen-siger-nej-til-for-dyrt-borgerforslag-om-spildevand?referrer=RSS",
+     "published": "2026-11-27T14:06+00:00"
     },
     {
      "title": "Politikersøn tiltalt for voldtægt: Nu forklarer han sig",
@@ -728,16 +738,6 @@
      "title": "Putin-opkald vakte nordisk vrede: Nu afslører storavis alvorlig dagsorden",
      "link": "https://www.bt.dk/udland/putin-opkald-vakte-nordisk-vrede-nu-afsloerer-storavis-alvorlig-dagsorden?referrer=RSS",
      "published": "2026-11-27T13:40+00:00"
-    },
-    {
-     "title": "Kriseramte AaB smider Steffen Højer på porten",
-     "link": "https://www.bt.dk/fodbold/kriseramte-aab-smider-steffen-hoejer-paa-porten?referrer=RSS",
-     "published": "2026-11-27T13:32+00:00"
-    },
-    {
-     "title": "Styrelse advarer: Kontakt med hårtabsmidler kan være dødelig for katte",
-     "link": "https://www.bt.dk/samfund/styrelse-advarer-kontakt-med-haartabsmidler-kan-vaere-doedelig-for-katte?referrer=RSS",
-     "published": "2026-11-27T13:25+00:00"
     }
    ]
   },
