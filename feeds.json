@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T13:02+00:00",
+ "generated": "2026-11-27T13:03+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -690,6 +690,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Kesslers comeback vækker særlige følelser i Sauerland",
+     "link": "https://www.bt.dk/boksning/kesslers-comeback-vaekker-saerlige-foelelser-i-sauerland?referrer=RSS",
+     "published": "2026-11-27T13:01+00:00"
+    },
+    {
      "title": "Pludselig manglede familien en hel indkomst: Nu skærer Kristine over 100 kroner af bonen på én ret",
      "link": "https://www.bt.dk/dagens-sparetip/pludselig-manglede-familien-en-hel-indkomst-nu-skaerer-kristine-over-100-kroner-af-bonen-paa-en-ret?referrer=RSS",
      "published": "2026-11-27T12:59+00:00"
@@ -733,11 +738,6 @@
      "title": "50 butikker skal få flere til at vælge dansk frugt og grønt",
      "link": "https://www.bt.dk/samfund/50-butikker-skal-faa-flere-til-at-vaelge-dansk-frugt-og-groent?referrer=RSS",
      "published": "2026-11-27T12:37+00:00"
-    },
-    {
-     "title": "Troede de havde vundet 350 millioner: Kæmpe lotto-brøler",
-     "link": "https://www.bt.dk/spil/troede-de-havde-vundet-350-millioner-kaempe-lotto-broeler?referrer=RSS",
-     "published": "2026-11-27T12:34+00:00"
     }
    ]
   },
