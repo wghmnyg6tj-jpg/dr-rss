@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T14:54+00:00",
+ "generated": "2026-11-27T15:05+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -345,6 +345,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Enhedslisten vil ændre reglerne for kirkelige vielser – Præsteforeningen kalder det unødvendigt",
+     "link": "https://www.dr.dk/nyheder/politik/enhedslisten-vil-aendre-reglerne-kirkelige-vielser-praesteforeningen-kalder-det-unoedvendigt",
+     "published": "2026-11-27T15:00+00:00"
+    },
+    {
      "title": "Regeringen vil ændre skatteaftale efter blot 14 dage: 'Det har aldrig været intentionen'",
      "link": "https://www.dr.dk/nyheder/indland/regeringen-vil-aendre-skatteaftale-efter-blot-14-dage-det-har-aldrig-vaeret-intentionen",
      "published": "2026-11-26T20:00+00:00"
@@ -413,11 +418,6 @@
      "title": "Politikerne får kraftig advarsel, kort før de haster billig benzin igennem: Kan betyde butiksdød i små lokalsamfund",
      "link": "https://www.dr.dk/nyheder/politik/politikerne-faar-kraftig-advarsel-kort-foer-de-haster-billig-benzin-igennem-kan-betyde-butiksdoed-i",
      "published": "2026-11-24T10:18+00:00"
-    },
-    {
-     "title": "Minister: Regnefejl om kvælstof forsinker også sprøjteforbud",
-     "link": "https://www.dr.dk/nyheder/politik/minister-regnefejl-om-kvaelstof-forsinker-ogsaa-sproejteforbud",
-     "published": "2026-11-24T06:59+00:00"
     }
    ]
   },
@@ -513,6 +513,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "'Jeg ved, jeg \nsagde nej'",
+     "link": "https://ekstrabladet.dk/krimi/politikersoen-tiltalt-offer-sagde-nej-flere-gange/11367606",
+     "published": "2026-11-27T15:04+00:00"
+    },
+    {
      "title": "Antallet af danskere med KOL er begyndt at falde",
      "link": "https://ekstrabladet.dk/nyheder/samfund/antallet-af-danskere-med-kol-er-begyndt-at-falde/11367734",
      "published": "2026-11-27T14:31+00:00"
@@ -556,11 +561,6 @@
      "title": "Ulven kan blive skudt: Ny plan klar",
      "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/minister-tager-nyt-skridt-mod-fremtidig-ulvejagt-i-danmark/11367709",
      "published": "2026-11-27T13:15+00:00"
-    },
-    {
-     "title": "Norse Atlantic \nsøger om konkurs",
-     "link": "https://ekstrabladet.dk/penge/kaempe-nedtur-norse-atlantic-soeger-om-konkurs/11367732",
-     "published": "2026-11-27T13:14+00:00"
     }
    ]
   },
@@ -631,6 +631,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Tusinder af danske gymnasieelevers telefonnumre er lækket",
+     "link": "https://www.bt.dk/samfund/tusinder-af-danske-gymnasieelevers-telefonnumre-er-laekket?referrer=RSS",
+     "published": "2026-11-27T15:01+00:00"
+    },
+    {
+     "title": "MobilePay ser færre køb på årets black friday",
+     "link": "https://www.bt.dk/samfund/mobilepay-ser-faerre-koeb-paa-aarets-black-friday?referrer=RSS",
+     "published": "2026-11-27T14:54+00:00"
+    },
+    {
      "title": "Regeringen vil konfiskere biler på Kærshovedgård trods bilforbud",
      "link": "https://www.bt.dk/politik/regeringen-vil-konfiskere-biler-paa-kaershovedgaard-trods-bilforbud?referrer=RSS",
      "published": "2026-11-27T14:47+00:00"
@@ -641,11 +651,6 @@
      "published": "2026-11-27T14:45+00:00"
     },
     {
-     "title": "MobilePay ser færre køb på årets black friday",
-     "link": "https://www.bt.dk/samfund/mobilepay-ser-faerre-koeb-paa-aarets-black-friday?referrer=RSS",
-     "published": "2026-11-27T14:44+00:00"
-    },
-    {
      "title": "Norsk flyselskab indgiver konkursbegæring",
      "link": "https://www.bt.dk/udland/norsk-flyselskab-indgiver-konkursbegaering?referrer=RSS",
      "published": "2026-11-27T14:27+00:00"
@@ -654,11 +659,6 @@
      "title": "USA forbereder udvidelse af Pituffik for op mod 500 millioner dollar",
      "link": "https://www.bt.dk/politik/usa-forbereder-udvidelse-af-pituffik-for-op-mod-500-millioner-dollar?referrer=RSS",
      "published": "2026-11-27T14:20+00:00"
-    },
-    {
-     "title": "Tusinder af danske gymnasieelevers telefonnumre er lækket",
-     "link": "https://www.bt.dk/samfund/tusinder-af-danske-gymnasieelevers-telefonnumre-er-laekket?referrer=RSS",
-     "published": "2026-11-27T14:16+00:00"
     },
     {
      "title": "Regeringen siger nej til for dyrt borgerforslag om spildevand",
@@ -690,6 +690,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Tusinder af danske gymnasieelevers telefonnumre er lækket",
+     "link": "https://www.bt.dk/samfund/tusinder-af-danske-gymnasieelevers-telefonnumre-er-laekket?referrer=RSS",
+     "published": "2026-11-27T15:01+00:00"
+    },
+    {
+     "title": "MobilePay ser færre køb på årets black friday",
+     "link": "https://www.bt.dk/samfund/mobilepay-ser-faerre-koeb-paa-aarets-black-friday?referrer=RSS",
+     "published": "2026-11-27T14:54+00:00"
+    },
+    {
      "title": "Regeringen vil konfiskere biler på Kærshovedgård trods bilforbud",
      "link": "https://www.bt.dk/politik/regeringen-vil-konfiskere-biler-paa-kaershovedgaard-trods-bilforbud?referrer=RSS",
      "published": "2026-11-27T14:47+00:00"
@@ -698,11 +708,6 @@
      "title": "Trump under voldsom beskydning: 'En gave til demokraterne'",
      "link": "https://www.bt.dk/udland/trump-under-voldsom-beskydning-en-gave-til-demokraterne?referrer=RSS",
      "published": "2026-11-27T14:45+00:00"
-    },
-    {
-     "title": "MobilePay ser færre køb på årets black friday",
-     "link": "https://www.bt.dk/samfund/mobilepay-ser-faerre-koeb-paa-aarets-black-friday?referrer=RSS",
-     "published": "2026-11-27T14:44+00:00"
     },
     {
      "title": "Færre transaktioner Black Friday",
@@ -718,11 +723,6 @@
      "title": "USA forbereder udvidelse af Pituffik for op mod 500 millioner dollar",
      "link": "https://www.bt.dk/politik/usa-forbereder-udvidelse-af-pituffik-for-op-mod-500-millioner-dollar?referrer=RSS",
      "published": "2026-11-27T14:20+00:00"
-    },
-    {
-     "title": "Tusinder af danske gymnasieelevers telefonnumre er lækket",
-     "link": "https://www.bt.dk/samfund/tusinder-af-danske-gymnasieelevers-telefonnumre-er-laekket?referrer=RSS",
-     "published": "2026-11-27T14:16+00:00"
     },
     {
      "title": "Kriseramte AaB smider Steffen Højer på porten",
@@ -1473,6 +1473,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Escaping the Farting Ghost Hotel: 17.6 Miles into Portugal",
+     "link": "https://thetrek.co/escaping-the-farting-ghost-hotel-17-6-miles-into-portugal/",
+     "published": "2026-11-27T14:57+00:00"
+    },
+    {
      "title": "What’s in My Pack…",
      "link": "https://thetrek.co/appalachian-trail/whats-in-my-pack-3/",
      "published": "2026-11-27T14:39+00:00"
@@ -1516,11 +1521,6 @@
      "title": "Same Clothes, New Country- Camino Day 49",
      "link": "https://thetrek.co/same-clothes-new-country-camino-day-49/",
      "published": "2026-11-26T14:15+00:00"
-    },
-    {
-     "title": "Congratulations to These 2026 Pacific Crest Trail Finishers (Part 9)",
-     "link": "https://thetrek.co/pacific-crest-trail/congratulations-to-these-2026-pacific-crest-trail-finishers-part-9/",
-     "published": "2026-11-26T12:58+00:00"
     }
    ]
   },
@@ -1650,6 +1650,36 @@
    "status": "ok",
    "items": [
     {
+     "title": "Audit shows tax errors for most content creators",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/audit-shows-tax-errors-for-most-content-creators/",
+     "published": "2026-11-27T15:02+00:00"
+    },
+    {
+     "title": "Thousands of Danish students’ phone numbers leaked",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/thousands-of-danish-students-phone-numbers-leaked/",
+     "published": "2026-11-27T15:01+00:00"
+    },
+    {
+     "title": "Hackers breach US Air Force cloud platform",
+     "link": "https://cphpost.dk/2026-11-27/global/hackers-breach-us-air-force-cloud-platform/",
+     "published": "2026-11-27T15:00+00:00"
+    },
+    {
+     "title": "Norwegian airline files for bankruptcy",
+     "link": "https://cphpost.dk/2026-11-27/global/norwegian-airline-files-for-bankruptcy/",
+     "published": "2026-11-27T15:00+00:00"
+    },
+    {
+     "title": "MobilePay sees fewer purchases this Black Friday",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/mobilepay-sees-fewer-purchases-this-black-friday/",
+     "published": "2026-11-27T15:00+00:00"
+    },
+    {
+     "title": "Denmark gets its first female prosecutor general",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/denmark-gets-its-first-female-prosecutor-general/",
+     "published": "2026-11-27T15:00+00:00"
+    },
+    {
      "title": "Your guide for staying warm and dry through the Danish winter",
      "link": "https://cphpost.dk/2026-11-27/life-in-denmark/your-guide-for-staying-warm-and-dry-through-the-danish-winter/",
      "published": "2026-11-27T14:30+00:00"
@@ -1678,36 +1708,6 @@
      "title": "Norse Atlantic says leases for all 12 aircraft have been terminated",
      "link": "https://cphpost.dk/2026-11-27/news/round-up/norse-atlantic-says-leases-for-all-12-aircraft-have-been-terminated/",
      "published": "2026-11-27T10:57+00:00"
-    },
-    {
-     "title": "A few things to know for Black Friday and Christmas shopping in Denmark",
-     "link": "https://cphpost.dk/2026-11-27/life-in-denmark/a-few-things-to-know-for-black-friday-and-christmas-shopping-in-denmark/",
-     "published": "2026-11-27T10:41+00:00"
-    },
-    {
-     "title": "Macron’s EU budget demands clash with Denmark and other member states",
-     "link": "https://cphpost.dk/2026-11-27/global/macrons-eu-budget-demands-clash-with-denmark-and-other-member-states/",
-     "published": "2026-11-27T05:26+00:00"
-    },
-    {
-     "title": "EU remains divided over new €45 billion loan to Ukraine",
-     "link": "https://cphpost.dk/2026-11-27/global/eu-remains-divided-over-new-e45-billion-loan-to-ukraine/",
-     "published": "2026-11-27T05:25+00:00"
-    },
-    {
-     "title": "National Museum of Denmark cuts other 23 jobs",
-     "link": "https://cphpost.dk/2026-11-27/news/round-up/national-museum-of-denmark-cuts-other-23-jobs/",
-     "published": "2026-11-27T05:25+00:00"
-    },
-    {
-     "title": "Some patients with type 2 diabetes in Denmark could lose their public subsidy for Ozempic",
-     "link": "https://cphpost.dk/2026-11-27/news/round-up/some-patients-with-type-2-diabetes-in-denmark-could-lose-their-public-subsidy-for-ozempic/",
-     "published": "2026-11-27T05:25+00:00"
-    },
-    {
-     "title": "EU leaders agree on new European Central Bank president",
-     "link": "https://cphpost.dk/2026-11-27/global/eu-leaders-agree-on-new-european-central-bank-president/",
-     "published": "2026-11-27T05:25+00:00"
     }
    ]
   }
