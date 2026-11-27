@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T16:59+00:00",
+ "generated": "2026-11-27T17:09+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -513,6 +513,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "'For dårlige til FC': Det gør ondt i maven",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/for-daarlige-til-fc-det-goer-ondt-i-maven/11367423",
+     "published": "2026-11-27T17:06+00:00"
+    },
+    {
      "title": "Datalæk hos bilgigant: 90.000 kan være ramt",
      "link": "https://ekstrabladet.dk/nyheder/samfund/datalaek-hos-bilgigant-90.000-kan-vaere-ramt/11367974",
      "published": "2026-11-27T16:55+00:00"
@@ -556,11 +561,6 @@
      "title": "Gik amok i tog: Skyldig i 14 drabsforsøg",
      "link": "https://ekstrabladet.dk/nyheder/samfund/stak-ti-paa-tog-mod-london.-skyldig-i-14-drabsforsoeg/11367127",
      "published": "2026-11-27T15:31+00:00"
-    },
-    {
-     "title": "Afslører diagnose: - Jeg hørte stemmer",
-     "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/tyson-fury-afsloerer-alvorlig-diagnose-jeg-hoerte-stemmer/11363431",
-     "published": "2026-11-27T15:25+00:00"
     }
    ]
   },
@@ -631,6 +631,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Advarer: Falske SMS'er i omløb",
+     "link": "https://www.bt.dk/krimi/advarer-falske-smser-i-omloeb?referrer=RSS",
+     "published": "2026-11-27T17:04+00:00"
+    },
+    {
      "title": "Datatilsynet kritiserer Familieretshuset efter 47 sikkerhedsbrud",
      "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-sikkerhedsbrud?referrer=RSS",
      "published": "2026-11-27T16:52+00:00"
@@ -674,11 +679,6 @@
      "title": "Radiovært Jørn Hjorting er død - 95 år",
      "link": "https://www.bt.dk/samfund/radiovaert-joern-hjorting-er-doed-95-aar?referrer=RSS",
      "published": "2026-11-27T15:57+00:00"
-    },
-    {
-     "title": "Styrelse advarer: Kontakt med hårtabsmidler kan være dødelig for katte",
-     "link": "https://www.bt.dk/samfund/styrelse-advarer-kontakt-med-haartabsmidler-kan-vaere-doedelig-for-katte?referrer=RSS",
-     "published": "2026-11-27T15:46+00:00"
     }
    ]
   },
@@ -689,6 +689,16 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Advarer: Falske SMS'er i omløb",
+     "link": "https://www.bt.dk/krimi/advarer-falske-smser-i-omloeb?referrer=RSS",
+     "published": "2026-11-27T17:04+00:00"
+    },
+    {
+     "title": "Jørgen de Mylius hylder afdød kollega: 'De år ser jeg tilbage på med stor glæde'",
+     "link": "https://www.bt.dk/danske-kendte/joergen-de-mylius-hylder-afdoed-kollega-de-aar-ser-jeg-tilbage-paa-med-stor-glaede?referrer=RSS",
+     "published": "2026-11-27T17:00+00:00"
+    },
     {
      "title": "Datatilsynet kritiserer Familieretshuset efter 47 sikkerhedsbrud",
      "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-sikkerhedsbrud?referrer=RSS",
@@ -728,16 +738,6 @@
      "title": "'De synes han er klam': Vidner afgiver forklaring i sagen mod politikersøn",
      "link": "https://www.bt.dk/krimi/de-synes-han-er-klam-vidner-afgiver-forklaring-i-sagen-mod-politikersoen?referrer=RSS",
      "published": "2026-11-27T16:12+00:00"
-    },
-    {
-     "title": "Styrelse: Flere organisationer kan være ramt af datalæk",
-     "link": "https://www.bt.dk/krimi/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek?referrer=RSS",
-     "published": "2026-11-27T16:06+00:00"
-    },
-    {
-     "title": "Slår alarm i Storbritannien efter cyberangreb: Dybt alvorligt",
-     "link": "https://www.bt.dk/udland/slaar-alarm-i-storbritannien-efter-cyberangreb-dybt-alvorligt?referrer=RSS",
-     "published": "2026-11-27T16:00+00:00"
     }
    ]
   },
