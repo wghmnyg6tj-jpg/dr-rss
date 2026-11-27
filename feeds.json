@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T11:51+00:00",
+ "generated": "2026-11-27T12:01+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -8,6 +8,11 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/senestenyt",
    "status": "ok",
    "items": [
+    {
+     "title": "Ny rigsadvokat udpeget",
+     "link": "https://www.dr.dk/nyheder/seneste/ny-rigsadvokat-udpeget",
+     "published": "2026-11-27T11:53+00:00"
+    },
     {
      "title": "Skat kontrollerer igen content creators: Fejl i 95 procent af indberetningerne",
      "link": "https://www.dr.dk/nyheder/seneste/skat-kontrollerer-igen-content-creators-fejl-i-95-procent-af-indberetningerne",
@@ -77,11 +82,6 @@
      "title": "FIFA er blevet udsat for cyberangreb",
      "link": "https://www.dr.dk/nyheder/seneste/fifa-er-blevet-udsat-cyberangreb",
      "published": "2026-11-26T14:15+00:00"
-    },
-    {
-     "title": "Ni meldes dræbt i israelske angreb i Gaza",
-     "link": "https://www.dr.dk/nyheder/seneste/ni-meldes-draebt-i-israelske-angreb-i-gaza",
-     "published": "2026-11-26T13:24+00:00"
     }
    ]
   },
@@ -93,6 +93,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Ny rigsadvokat udpeget",
+     "link": "https://www.dr.dk/nyheder/seneste/ny-rigsadvokat-udpeget",
+     "published": "2026-11-27T11:53+00:00"
+    },
+    {
      "title": "Skat kontrollerer igen content creators: Fejl i 95 procent af indberetningerne",
      "link": "https://www.dr.dk/nyheder/seneste/skat-kontrollerer-igen-content-creators-fejl-i-95-procent-af-indberetningerne",
      "published": "2026-11-27T11:38+00:00"
@@ -161,11 +166,6 @@
      "title": "FIFA er blevet udsat for cyberangreb",
      "link": "https://www.dr.dk/nyheder/seneste/fifa-er-blevet-udsat-cyberangreb",
      "published": "2026-11-26T14:15+00:00"
-    },
-    {
-     "title": "Ni meldes dræbt i israelske angreb i Gaza",
-     "link": "https://www.dr.dk/nyheder/seneste/ni-meldes-draebt-i-israelske-angreb-i-gaza",
-     "published": "2026-11-26T13:24+00:00"
     }
    ]
   },
@@ -202,7 +202,7 @@
      "published": "2026-11-27T08:39+00:00"
     },
     {
-     "title": "Årets Black Friday er i gang",
+     "title": "LIVE Årets Black Friday er i gang",
      "link": "https://www.dr.dk/nyheder/indland/aarets-black-friday-er-i-gang",
      "published": "2026-11-27T08:21+00:00"
     },
@@ -513,6 +513,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Medie: Rabobank bliver navnesponsor hos Visma",
+     "link": "https://ekstrabladet.dk/sport/cykling/medie-rabobank-bliver-navnesponsor-hos-visma/11367501",
+     "published": "2026-11-27T11:59+00:00"
+    },
+    {
+     "title": "Datatilsynet retter alvorlig kritik",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/datatilsynet-retter-alvorlig-kritik/11367564",
+     "published": "2026-11-27T11:51+00:00"
+    },
+    {
      "title": "Danmark får første kvindelige rigsadvokat",
      "link": "https://ekstrabladet.dk/krimi/danmark-faar-foerste-kvindelige-rigsadvokat/11367537",
      "published": "2026-11-27T11:44+00:00"
@@ -551,16 +561,6 @@
      "title": "Vingegaard afslører: \nDét er min yndlings",
      "link": "https://ekstrabladet.dk/sport/cykling/vingegaard-dukkede-op-i-aarhus-og-vejle/11366300",
      "published": "2026-11-27T10:51+00:00"
-    },
-    {
-     "title": "Mistede 230 \nmilliarder på\nén måned",
-     "link": "https://ekstrabladet.dk/penge/gigantisk-kollaps-vidunderbarns-fond-mistede-230-milliarder-paa-en-maaned/11367170",
-     "published": "2026-11-27T10:42+00:00"
-    },
-    {
-     "title": "Legende stopper karrieren",
-     "link": "https://ekstrabladet.dk/sport/legende-stopper-karrieren-som-verdensmester/11367439",
-     "published": "2026-11-27T10:26+00:00"
     }
    ]
   },
@@ -571,6 +571,11 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Datatilsynet retter alvorlig kritik",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/datatilsynet-retter-alvorlig-kritik/11367564",
+     "published": "2026-11-27T11:51+00:00"
+    },
     {
      "title": "Fra rejsekort\ntil guldkort",
      "link": "https://ekstrabladet.dk/nyheder/samfund/rejsekorts-pengekasse-bugner-af-dine-penge/11363665",
@@ -615,11 +620,6 @@
      "title": "Massiv stigning:\nKunderne \nstrømmer til",
      "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/massiv-efterspoergsel-billetterne-rives-vaek/11365898",
      "published": "2026-11-27T05:28+00:00"
-    },
-    {
-     "title": "Trump: \nIKKE \nen sikkerhedstrussel",
-     "link": "https://ekstrabladet.dk/nyheder/politik/trump-nvidias-topchef-udgoer-ikke-en-sikkerhedstrussel/11367008",
-     "published": "2026-11-27T05:18+00:00"
     }
    ]
   },
@@ -631,9 +631,14 @@
    "status": "ok",
    "items": [
     {
+     "title": "Datatilsynet kritiserer Familieretshuset efter 47 brud",
+     "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-brud?referrer=RSS",
+     "published": "2026-11-27T11:59+00:00"
+    },
+    {
      "title": "Danmark får første kvindelige rigsadvokat",
      "link": "https://www.bt.dk/krimi/danmark-faar-foerste-kvindelige-rigsadvokat?referrer=RSS",
-     "published": "2026-11-27T11:45+00:00"
+     "published": "2026-11-27T11:55+00:00"
     },
     {
      "title": "Kontrol viser skattefejl hos langt de fleste content creators",
@@ -674,11 +679,6 @@
      "title": "12-årig dreng overfaldet i Ilva: Nu deler politiet nyt",
      "link": "https://www.bt.dk/krimi/12-aarig-dreng-overfaldet-i-ilva-nu-deler-politiet-nyt?referrer=RSS",
      "published": "2026-11-27T11:09+00:00"
-    },
-    {
-     "title": "Overværede danske mænd chikanere Wolt-bud og smadre hans scooter: 'Ulækker opførsel'",
-     "link": "https://www.bt.dk/krimi/overvaerede-danske-maend-chikanere-wolt-bud-og-smadre-hans-scooter-ulaekker-opfoersel?referrer=RSS",
-     "published": "2026-11-27T11:07+00:00"
     }
    ]
   },
@@ -690,14 +690,19 @@
    "status": "ok",
    "items": [
     {
-     "title": "Kendt kommentator afslører: Har haft strid med Ferguson i 30 år",
-     "link": "https://www.bt.dk/fodbold/kendt-kommentator-afsloerer-har-haft-strid-med-ferguson-i-30-aar?referrer=RSS",
-     "published": "2026-11-27T11:49+00:00"
+     "title": "Datatilsynet kritiserer Familieretshuset efter 47 brud",
+     "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-brud?referrer=RSS",
+     "published": "2026-11-27T11:59+00:00"
     },
     {
      "title": "Danmark får første kvindelige rigsadvokat",
      "link": "https://www.bt.dk/krimi/danmark-faar-foerste-kvindelige-rigsadvokat?referrer=RSS",
-     "published": "2026-11-27T11:45+00:00"
+     "published": "2026-11-27T11:55+00:00"
+    },
+    {
+     "title": "Kendt kommentator afslører: Har haft strid med Ferguson i 30 år",
+     "link": "https://www.bt.dk/fodbold/kendt-kommentator-afsloerer-har-haft-strid-med-ferguson-i-30-aar?referrer=RSS",
+     "published": "2026-11-27T11:49+00:00"
     },
     {
      "title": "Kontrol viser skattefejl hos langt de fleste content creators",
@@ -733,11 +738,6 @@
      "title": "18-årig anholdt for skud mod eksbokser under bandeopgør",
      "link": "https://www.bt.dk/krimi/18-aarig-anholdt-for-skud-mod-eksbokser-under-bandeopgoer?referrer=RSS",
      "published": "2026-11-27T11:31+00:00"
-    },
-    {
-     "title": "Anholdt og sigtet: Affyrede 12 skud mod eksbokser",
-     "link": "https://www.bt.dk/krimi/anholdt-og-sigtet-affyrede-12-skud-mod-eksbokser?referrer=RSS",
-     "published": "2026-11-27T11:16+00:00"
     }
    ]
   },
@@ -748,6 +748,11 @@
    "url": "https://petapixel.com/feed/",
    "status": "ok",
    "items": [
+    {
+     "title": "Investigation Reveals Who Betrayed Photographer Secretly Documenting Nazi-Occupied France",
+     "link": "https://petapixel.com/2026/11/27/investigation-reveals-who-betrayed-photographer-secretly-documenting-nazi-occupied-france/",
+     "published": "2026-11-27T12:00+00:00"
+    },
     {
      "title": "How a Photographer Got a Credit on Jennifer Lopez’s Instagram Account",
      "link": "https://petapixel.com/2026/11/27/how-a-photographer-got-a-credit-on-jennifer-lopezs-instagram-account/",
@@ -817,11 +822,6 @@
      "title": "Astronaut Captures Video of the Moon Melting Into Earth’s Atmosphere",
      "link": "https://petapixel.com/2026/11/25/astronaut-captures-video-of-the-moon-melting-into-earths-atmosphere/",
      "published": "2026-11-25T12:20+00:00"
-    },
-    {
-     "title": "Student Photographer Who Lost Right Eye While Covering LA Protest Sues Federal Government",
-     "link": "https://petapixel.com/2026/11/25/student-photographer-who-lost-right-eye-while-covering-la-protest-sues-federal-government/",
-     "published": "2026-11-25T11:59+00:00"
     }
    ]
   },
@@ -866,11 +866,6 @@
    "url": "https://fstoppers.com/feed",
    "status": "ok",
    "items": [
-    {
-     "title": "7 Steps to Mastering Landscape Photography",
-     "link": "https://fstoppers.com/education/7-steps-mastering-landscape-photography-905680?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-     "published": "2026-11-27T10:03+00:00"
-    },
     {
      "title": "Harry Burton Lit His First Photos of King Tut's Tomb With Two Electric Lamps and Developed Them in an Empty Tomb",
      "link": "https://fstoppers.com/historical/harry-burton-lit-his-first-photos-king-tuts-tomb-two-electric-lamps-and-905334?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
@@ -940,6 +935,11 @@
      "title": "The Luminar Fall Update Adds Intelligent Masking",
      "link": "https://fstoppers.com/landscapes/luminar-fall-update-adds-intelligent-masking-905645?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
      "published": "2026-11-25T12:03+00:00"
+    },
+    {
+     "title": "Why Your Landscape Photos Don't Match What You Saw",
+     "link": "https://fstoppers.com/education/why-your-landscape-photos-dont-match-what-saw-905660?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-25T10:03+00:00"
     }
    ]
   },
@@ -1473,6 +1473,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Happy Fails",
+     "link": "https://thetrek.co/appalachian-trail/happy-fails/",
+     "published": "2026-11-27T12:00+00:00"
+    },
+    {
      "title": "Introducing: Nomadic Nurse Goes Hiking",
      "link": "https://thetrek.co/pacific-crest-trail/introducing-nomadic-nurse-goes-hiking/",
      "published": "2026-11-26T21:17+00:00"
@@ -1516,11 +1521,6 @@
      "title": "The Hiker Bro Quiz: Find Out Your Official Bro Percentage",
      "link": "https://thetrek.co/the-hiker-bro-quiz/",
      "published": "2026-11-25T23:33+00:00"
-    },
-    {
-     "title": "💪 Into the High Sierra: ❄️ Snow, Ice & Forrester Pass 🏔️",
-     "link": "https://thetrek.co/pacific-crest-trail-sierra-nevada-forrester-pass/",
-     "published": "2026-11-25T23:29+00:00"
     }
    ]
   },
