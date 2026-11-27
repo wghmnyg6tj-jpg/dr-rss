@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T20:42+00:00",
+ "generated": "2026-11-27T20:49+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -810,6 +810,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Vild konkurs: Skylder penge til 42.825 danskere",
+     "link": "https://www.bt.dk/privatoekonomi/vild-konkurs-skylder-penge-til-42825-danskere?referrer=RSS",
+     "published": "2026-11-27T20:43+00:00",
+     "summary": ""
+    },
+    {
      "title": "Beder hele Aarhus Kommune om hjælp",
      "link": "https://www.bt.dk/krimi/beder-hele-aarhus-kommune-om-hjaelp?referrer=RSS",
      "published": "2026-11-27T20:36+00:00",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/samfund/slyngelstat-og-hjernevask-jacob-harris-vaekker-opsigt-i-buffetkonges-podcast?referrer=RSS",
      "published": "2026-11-27T19:40+00:00",
      "summary": "Ekspert fælder hård dom over vilde udtalelser i Dalle Valle-ejers podcast."
-    },
-    {
-     "title": "Politiet med tragisk nyt: Kelsey Hunter fundet død",
-     "link": "https://www.bt.dk/udland/politiet-med-tragisk-nytkelsey-hunter-fundet-doed?referrer=RSS",
-     "published": "2026-11-27T19:29+00:00",
-     "summary": "Politiet bekræfter, at den kvinde, som de fandt onsdag, er den savnede kvinde, Kelsey Hunter."
     }
    ]
   },
