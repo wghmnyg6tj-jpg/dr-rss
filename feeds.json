@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T15:26+00:00",
+ "generated": "2026-11-27T15:36+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -177,6 +177,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Sparemor køber alle julegaver til en fjerdedel af prisen",
+     "link": "https://www.dr.dk/nyheder/indland/reels/sparemor-koeber-alle-julegaver-til-en-fjerdedel-af-prisen",
+     "published": "2026-11-27T15:30+00:00"
+    },
+    {
      "title": "Tidligere radio- og tv-vært Jørn Hjorting er død",
      "link": "https://www.dr.dk/nyheder/indland/tidligere-radio-og-tv-vaert-joern-hjorting-er-doed",
      "published": "2026-11-27T15:17+00:00"
@@ -245,11 +250,6 @@
      "title": "KORRESPONDENT Black Friday er butikkernes hadegave til dig",
      "link": "https://www.dr.dk/nyheder/penge/korrespondent-black-friday-er-butikkernes-hadegave-til-dig",
      "published": "2026-11-27T05:40+00:00"
-    },
-    {
-     "title": "Flere overtrædelser: Styrelse fandt halvspiste svinekadavere uden for svinegigants stald",
-     "link": "https://www.dr.dk/nyheder/indland/flere-overtraedelser-styrelse-fandt-halvspiste-svinekadavere-uden-svinegigants-stald",
-     "published": "2026-11-27T05:04+00:00"
     }
    ]
   },
@@ -513,6 +513,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Gik amok i tog: Skyldig i 14 drabsforsøg",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/stak-ti-paa-tog-mod-london.-skyldig-i-14-drabsforsoeg/11367127",
+     "published": "2026-11-27T15:31+00:00"
+    },
+    {
+     "title": "Officielt: Manchester United forlænger med anfører",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/officielt-manchester-united-forlaenger-med-anfoerer/11367874",
+     "published": "2026-11-27T15:29+00:00"
+    },
+    {
      "title": "Afslører diagnose: - Jeg hørte stemmer",
      "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/tyson-fury-afsloerer-alvorlig-diagnose-jeg-hoerte-stemmer/11363431",
      "published": "2026-11-27T15:25+00:00"
@@ -551,16 +561,6 @@
      "title": "Tusindvis \ntelefonnumre \nlækket",
      "link": "https://ekstrabladet.dk/nyheder/samfund/tusinder-af-danske-gymnasieelevers-telefonnumre-er-laekket/11367780",
      "published": "2026-11-27T13:50+00:00"
-    },
-    {
-     "title": "Efter blodbad: \nFavorit-aktier \nkan stige vildt",
-     "link": "https://ekstrabladet.dk/penge/favorit-aktier-i-blodbad-nu-kan-de-stige-voldsomt/11367283",
-     "published": "2026-11-27T13:40+00:00"
-    },
-    {
-     "title": "Skylder millioner til Skat:\nNu tager de udlæg i huset",
-     "link": "https://ekstrabladet.dk/underholdning/dkkendte/foretager-udlaeg-i-wafandes-hus-kaempe-milliongaeld-til-skat/11367213",
-     "published": "2026-11-27T13:36+00:00"
     }
    ]
   },
@@ -571,6 +571,11 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Gik amok i tog: Skyldig i 14 drabsforsøg",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/stak-ti-paa-tog-mod-london.-skyldig-i-14-drabsforsoeg/11367127",
+     "published": "2026-11-27T15:31+00:00"
+    },
     {
      "title": "Jørn Hjorting er død",
      "link": "https://ekstrabladet.dk/nyheder/samfund/joern-hjorting-er-doed/11367884",
@@ -615,11 +620,6 @@
      "title": "Fra rejsekort\ntil guldkort",
      "link": "https://ekstrabladet.dk/nyheder/samfund/rejsekorts-pengekasse-bugner-af-dine-penge/11363665",
      "published": "2026-11-27T10:20+00:00"
-    },
-    {
-     "title": "Tilbagekalder julekager: Sundhedsmæssig risiko",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/tilbagekalder-julekager-sundhedsmaessig-risiko/11367388",
-     "published": "2026-11-27T09:51+00:00"
     }
    ]
   },
@@ -630,6 +630,11 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Styrelse advarer: Kontakt med hårtabsmidler kan være dødelig for katte",
+     "link": "https://www.bt.dk/samfund/styrelse-advarer-kontakt-med-haartabsmidler-kan-vaere-doedelig-for-katte?referrer=RSS",
+     "published": "2026-11-27T15:32+00:00"
+    },
     {
      "title": "Radiovært Jørn Hjorting er død - 95 år",
      "link": "https://www.bt.dk/samfund/radiovaert-joern-hjorting-er-doed-95-aar?referrer=RSS",
@@ -674,11 +679,6 @@
      "title": "Politikersøn tiltalt for voldtægt: Nu forklarer han sig",
      "link": "https://www.bt.dk/krimi/politikersoen-tiltalt-for-voldtaegt-nu-forklarer-han-sig?referrer=RSS",
      "published": "2026-11-27T13:57+00:00"
-    },
-    {
-     "title": "FN advarer om risiko for sultkriser i flere lande",
-     "link": "https://www.bt.dk/udland/fn-advarer-om-risiko-for-sultkriser-i-flere-lande?referrer=RSS",
-     "published": "2026-11-27T13:49+00:00"
     }
    ]
   },
@@ -690,9 +690,14 @@
    "status": "ok",
    "items": [
     {
+     "title": "Styrelse advarer: Kontakt med hårtabsmidler kan være dødelig for katte",
+     "link": "https://www.bt.dk/samfund/styrelse-advarer-kontakt-med-haartabsmidler-kan-vaere-doedelig-for-katte?referrer=RSS",
+     "published": "2026-11-27T15:32+00:00"
+    },
+    {
      "title": "Radiovært Jørn Hjorting er død - 95 år",
      "link": "https://www.bt.dk/samfund/radiovaert-joern-hjorting-er-doed-95-aar?referrer=RSS",
-     "published": "2026-11-27T15:18+00:00"
+     "published": "2026-11-27T15:25+00:00"
     },
     {
      "title": "Manchester United holder fast i anfører med kontraktgreb",
@@ -733,11 +738,6 @@
      "title": "Trump under voldsom beskydning: 'En gave til demokraterne'",
      "link": "https://www.bt.dk/udland/trump-under-voldsom-beskydning-en-gave-til-demokraterne?referrer=RSS",
      "published": "2026-11-27T14:45+00:00"
-    },
-    {
-     "title": "Færre transaktioner Black Friday",
-     "link": "https://www.bt.dk/privatoekonomi/faerretransaktioner-black-friday?referrer=RSS",
-     "published": "2026-11-27T14:37+00:00"
     }
    ]
   },
