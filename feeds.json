@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T14:44+00:00",
+ "generated": "2026-11-27T14:54+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -8,6 +8,11 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/senestenyt",
    "status": "ok",
    "items": [
+    {
+     "title": "Politikreds skruer bissen på overfor LTF",
+     "link": "https://www.dr.dk/nyheder/seneste/politikreds-skruer-bissen-paa-overfor-ltf",
+     "published": "2026-11-27T14:50+00:00"
+    },
     {
      "title": "To unge mænd idømmes flere års fængsel i narkosag",
      "link": "https://www.dr.dk/nyheder/seneste/unge-maend-idoemmes-flere-aars-faengsel-i-narkosag",
@@ -77,11 +82,6 @@
      "title": "Kvinde omkommet i brand i Ringe på Fyn",
      "link": "https://www.dr.dk/nyheder/seneste/kvinde-omkommet-i-brand-i-ringe-paa-fyn",
      "published": "2026-11-27T06:15+00:00"
-    },
-    {
-     "title": "Sydkorea sender seks nordkoreanere retur",
-     "link": "https://www.dr.dk/nyheder/seneste/sydkorea-sender-seks-nordkoreanere-retur",
-     "published": "2026-11-27T05:32+00:00"
     }
    ]
   },
@@ -93,6 +93,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Politikreds skruer bissen på overfor LTF",
+     "link": "https://www.dr.dk/nyheder/seneste/politikreds-skruer-bissen-paa-overfor-ltf",
+     "published": "2026-11-27T14:50+00:00"
+    },
+    {
      "title": "To unge mænd idømmes flere års fængsel i narkosag",
      "link": "https://www.dr.dk/nyheder/seneste/unge-maend-idoemmes-flere-aars-faengsel-i-narkosag",
      "published": "2026-11-27T13:46+00:00"
@@ -161,11 +166,6 @@
      "title": "Kvinde omkommet i brand i Ringe på Fyn",
      "link": "https://www.dr.dk/nyheder/seneste/kvinde-omkommet-i-brand-i-ringe-paa-fyn",
      "published": "2026-11-27T06:15+00:00"
-    },
-    {
-     "title": "Sydkorea sender seks nordkoreanere retur",
-     "link": "https://www.dr.dk/nyheder/seneste/sydkorea-sender-seks-nordkoreanere-retur",
-     "published": "2026-11-27T05:32+00:00"
     }
    ]
   },
@@ -176,6 +176,11 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/indland",
    "status": "ok",
    "items": [
+    {
+     "title": "'Nuuk 'em all': Indtag Grønland som Trump i nyt arkadespil",
+     "link": "https://www.dr.dk/nyheder/indland/reels/nuuk-em-all-indtag-groenland-som-trump-i-nyt-arkadespil",
+     "published": "2026-11-27T14:45+00:00"
+    },
     {
      "title": "Tusindvis af gymnasieelevers telefonnumre er blevet lækket",
      "link": "https://www.dr.dk/nyheder/indland/tusindvis-af-gymnasieelevers-telefonnumre-er-blevet-laekket",
@@ -245,11 +250,6 @@
      "title": "Black Friday-priser kan være misvisende",
      "link": "https://www.dr.dk/nyheder/indland/reels/black-friday-priser-kan-vaere-misvisende",
      "published": "2026-11-27T04:45+00:00"
-    },
-    {
-     "title": "Havnedrama afgjort: 'Nu skal vi hjem og have champagne'",
-     "link": "https://www.dr.dk/nyheder/indland/havnedrama-afgjort-nu-skal-vi-hjem-og-have-champagne",
-     "published": "2026-11-26T20:34+00:00"
     }
    ]
   },
@@ -260,6 +260,11 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/udland",
    "status": "ok",
    "items": [
+    {
+     "title": "'Nuuk 'em all': Indtag Grønland som Trump i nyt arkadespil",
+     "link": "https://www.dr.dk/nyheder/indland/reels/nuuk-em-all-indtag-groenland-som-trump-i-nyt-arkadespil",
+     "published": "2026-11-27T14:45+00:00"
+    },
     {
      "title": "En børnelejr i Nordkorea har udløst et diplomatisk opgør med Schweiz",
      "link": "https://www.dr.dk/nyheder/udland/en-boernelejr-i-nordkorea-har-udloest-et-diplomatisk-opgoer-med-schweiz",
@@ -329,11 +334,6 @@
      "title": "Centerpartiet vil støtte Ulf Kristersson som svensk statsminister",
      "link": "https://www.dr.dk/nyheder/udland/centerpartiet-vil-stoette-ulf-kristersson-som-svensk-statsminister",
      "published": "2026-11-26T17:20+00:00"
-    },
-    {
-     "title": "I Bangladesh er politi og tekstilarbejdere igen stødt sammen",
-     "link": "https://www.dr.dk/nyheder/udland/i-bangladesh-er-politi-og-tekstilarbejdere-igen-stoedt-sammen",
-     "published": "2026-11-26T16:32+00:00"
     }
    ]
   },
@@ -631,6 +631,21 @@
    "status": "ok",
    "items": [
     {
+     "title": "Regeringen vil konfiskere biler på Kærshovedgård trods bilforbud",
+     "link": "https://www.bt.dk/politik/regeringen-vil-konfiskere-biler-paa-kaershovedgaard-trods-bilforbud?referrer=RSS",
+     "published": "2026-11-27T14:47+00:00"
+    },
+    {
+     "title": "Trump under voldsom beskydning: 'En gave til demokraterne'",
+     "link": "https://www.bt.dk/udland/trump-under-voldsom-beskydning-en-gave-til-demokraterne?referrer=RSS",
+     "published": "2026-11-27T14:45+00:00"
+    },
+    {
+     "title": "MobilePay ser færre køb på årets black friday",
+     "link": "https://www.bt.dk/samfund/mobilepay-ser-faerre-koeb-paa-aarets-black-friday?referrer=RSS",
+     "published": "2026-11-27T14:44+00:00"
+    },
+    {
      "title": "Norsk flyselskab indgiver konkursbegæring",
      "link": "https://www.bt.dk/udland/norsk-flyselskab-indgiver-konkursbegaering?referrer=RSS",
      "published": "2026-11-27T14:27+00:00"
@@ -664,21 +679,6 @@
      "title": "To mænd idømmes 12 års og 8 års fængsel i sag om kokain",
      "link": "https://www.bt.dk/krimi/to-maend-idoemmes-12-aars-og-8-aars-faengsel-i-sag-om-kokain?referrer=RSS",
      "published": "2026-11-27T13:49+00:00"
-    },
-    {
-     "title": "Antallet af danskere med KOL er begyndt at falde",
-     "link": "https://www.bt.dk/samfund/antallet-af-danskere-med-kol-er-begyndt-at-falde?referrer=RSS",
-     "published": "2026-11-27T13:42+00:00"
-    },
-    {
-     "title": "Putin-opkald vakte nordisk vrede: Nu afslører storavis alvorlig dagsorden",
-     "link": "https://www.bt.dk/udland/putin-opkald-vakte-nordisk-vrede-nu-afsloerer-storavis-alvorlig-dagsorden?referrer=RSS",
-     "published": "2026-11-27T13:40+00:00"
-    },
-    {
-     "title": "Styrelse advarer: Kontakt med hårtabsmidler kan være dødelig for katte",
-     "link": "https://www.bt.dk/samfund/styrelse-advarer-kontakt-med-haartabsmidler-kan-vaere-doedelig-for-katte?referrer=RSS",
-     "published": "2026-11-27T13:25+00:00"
     }
    ]
   },
@@ -689,6 +689,21 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Regeringen vil konfiskere biler på Kærshovedgård trods bilforbud",
+     "link": "https://www.bt.dk/politik/regeringen-vil-konfiskere-biler-paa-kaershovedgaard-trods-bilforbud?referrer=RSS",
+     "published": "2026-11-27T14:47+00:00"
+    },
+    {
+     "title": "Trump under voldsom beskydning: 'En gave til demokraterne'",
+     "link": "https://www.bt.dk/udland/trump-under-voldsom-beskydning-en-gave-til-demokraterne?referrer=RSS",
+     "published": "2026-11-27T14:45+00:00"
+    },
+    {
+     "title": "MobilePay ser færre køb på årets black friday",
+     "link": "https://www.bt.dk/samfund/mobilepay-ser-faerre-koeb-paa-aarets-black-friday?referrer=RSS",
+     "published": "2026-11-27T14:44+00:00"
+    },
     {
      "title": "Færre transaktioner Black Friday",
      "link": "https://www.bt.dk/privatoekonomi/faerretransaktioner-black-friday?referrer=RSS",
@@ -723,21 +738,6 @@
      "title": "Politikersøn tiltalt for voldtægt: Nu forklarer han sig",
      "link": "https://www.bt.dk/krimi/politikersoen-tiltalt-for-voldtaegt-nu-forklarer-han-sig?referrer=RSS",
      "published": "2026-11-27T13:57+00:00"
-    },
-    {
-     "title": "FN advarer om risiko for sultkriser i flere lande",
-     "link": "https://www.bt.dk/udland/fn-advarer-om-risiko-for-sultkriser-i-flere-lande?referrer=RSS",
-     "published": "2026-11-27T13:49+00:00"
-    },
-    {
-     "title": "To mænd idømmes 12 års og 8 års fængsel i sag om kokain",
-     "link": "https://www.bt.dk/krimi/to-maend-idoemmes-12-aars-og-8-aars-faengsel-i-sag-om-kokain?referrer=RSS",
-     "published": "2026-11-27T13:49+00:00"
-    },
-    {
-     "title": "Antallet af danskere med KOL er begyndt at falde",
-     "link": "https://www.bt.dk/samfund/antallet-af-danskere-med-kol-er-begyndt-at-falde?referrer=RSS",
-     "published": "2026-11-27T13:42+00:00"
     }
    ]
   },
