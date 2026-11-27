@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T12:31+00:00",
+ "generated": "2026-11-27T12:41+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -513,6 +513,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Her er dommen: \nDansk skuespiller idømt fængsel",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/her-er-dommen-dansk-skuespiller-idoemt-faengsel/11359562",
+     "published": "2026-11-27T12:37+00:00"
+    },
+    {
+     "title": "Reuters: \nHackere \nrammer \nUSA's flyvevåben",
+     "link": "https://ekstrabladet.dk/nyheder/reuters-hackere-rammer-usas-flyvevaaben/11367507",
+     "published": "2026-11-27T12:35+00:00"
+    },
+    {
      "title": "Unge mænd fængslet i stor narkosag",
      "link": "https://ekstrabladet.dk/krimi/unge-maend-faengslet-i-stor-narkosag/11367641",
      "published": "2026-11-27T12:30+00:00"
@@ -551,16 +561,6 @@
      "title": "47 brud: Datatilsynet retter alvorlig kritik",
      "link": "https://ekstrabladet.dk/nyheder/samfund/47-brud-datatilsynet-retter-alvorlig-kritik/11367564",
      "published": "2026-11-27T11:51+00:00"
-    },
-    {
-     "title": "Danmark får første kvindelige rigsadvokat",
-     "link": "https://ekstrabladet.dk/krimi/danmark-faar-foerste-kvindelige-rigsadvokat/11367537",
-     "published": "2026-11-27T11:44+00:00"
-    },
-    {
-     "title": "Skattefejl hos 95 procent:\n900 content creators kontrolleret",
-     "link": "https://ekstrabladet.dk/underholdning/dkkendte/fejl-hos-95-procent-skattestyrelsen-har-kontrolleret-900-content-creators/11367496",
-     "published": "2026-11-27T11:36+00:00"
     }
    ]
   },
@@ -571,6 +571,11 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Reuters: \nHackere \nrammer \nUSA's flyvevåben",
+     "link": "https://ekstrabladet.dk/nyheder/reuters-hackere-rammer-usas-flyvevaaben/11367507",
+     "published": "2026-11-27T12:35+00:00"
+    },
     {
      "title": "Slår alarm! \nFlere lande \ni overhængende fare",
      "link": "https://ekstrabladet.dk/nyheder/kritisk-flere-lande-i-overhaengende-fare-for-hungersnoed/11367591",
@@ -615,11 +620,6 @@
      "title": "Erklærer undtagelsestilstand: 900.000 uden strøm",
      "link": "https://ekstrabladet.dk/nyheder/Udland/storme-udloeser-undtagelsestilstand-i-usa/11367065",
      "published": "2026-11-27T06:07+00:00"
-    },
-    {
-     "title": "Risiko for glatte veje",
-     "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/pas-paa-risiko-for-glatte-veje/11367049",
-     "published": "2026-11-27T05:46+00:00"
     }
    ]
   },
@@ -631,6 +631,26 @@
    "status": "ok",
    "items": [
     {
+     "title": "Fogh med opsigtsvækkende melding: Bør sende danske tropper til Ukraine",
+     "link": "https://www.bt.dk/politik/fogh-med-opsigtsvaekkende-melding-boer-sende-danske-tropper-til-ukraine?referrer=RSS",
+     "published": "2026-11-27T12:38+00:00"
+    },
+    {
+     "title": "Formodet bandefigur fængslet for skud mod eksbokser og hans familie",
+     "link": "https://www.bt.dk/krimi/formodet-bandefigur-faengslet-for-skud-mod-eksbokser-og-hans-familie?referrer=RSS",
+     "published": "2026-11-27T12:37+00:00"
+    },
+    {
+     "title": "50 butikker skal få flere til at vælge dansk frugt og grønt",
+     "link": "https://www.bt.dk/samfund/50-butikker-skal-faa-flere-til-at-vaelge-dansk-frugt-og-groent?referrer=RSS",
+     "published": "2026-11-27T12:37+00:00"
+    },
+    {
+     "title": "Elon Musk med løfte: Vil donere aktier til alle amerikanske børn",
+     "link": "https://www.bt.dk/udland/elon-musk-med-loefte-vil-donere-aktier-til-alle-amerikanske-boern?referrer=RSS",
+     "published": "2026-11-27T12:32+00:00"
+    },
+    {
      "title": "TV 2 vil bistå politiet i opklaringsarbejde om Den sorte svane",
      "link": "https://www.bt.dk/krimi/tv-2-vil-bistaa-politiet-i-opklaringsarbejde-om-den-sorte-svane?referrer=RSS",
      "published": "2026-11-27T12:30+00:00"
@@ -659,26 +679,6 @@
      "title": "Datatilsynet kritiserer Familieretshuset efter 47 sikkerhedsbrud",
      "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-sikkerhedsbrud?referrer=RSS",
      "published": "2026-11-27T12:12+00:00"
-    },
-    {
-     "title": "Mor kom gående med datter: Kæmpe drama på skolevej",
-     "link": "https://www.bt.dk/krimi/mor-kom-gaaende-med-datter-kaempe-drama-paa-skolevej?referrer=RSS",
-     "published": "2026-11-27T12:10+00:00"
-    },
-    {
-     "title": "FN advarer om risiko for hungersnød i flere lande",
-     "link": "https://www.bt.dk/udland/fn-advarer-om-risiko-for-hungersnoed-i-flere-lande?referrer=RSS",
-     "published": "2026-11-27T12:09+00:00"
-    },
-    {
-     "title": "Trumps egne støtter advarer: ‘En politisk atombombe’",
-     "link": "https://www.bt.dk/udland/trumps-egne-stoetter-advarer-en-politisk-atombombe?referrer=RSS",
-     "published": "2026-11-27T12:07+00:00"
-    },
-    {
-     "title": "Kontrol viser skattefejl hos langt de fleste content creators",
-     "link": "https://www.bt.dk/erhverv/kontrol-viser-skattefejl-hos-langt-de-fleste-content-creators?referrer=RSS",
-     "published": "2026-11-27T11:41+00:00"
     }
    ]
   },
@@ -690,6 +690,31 @@
    "status": "ok",
    "items": [
     {
+     "title": "Fogh med opsigtsvækkende melding: Bør sende danske tropper til Ukraine",
+     "link": "https://www.bt.dk/politik/fogh-med-opsigtsvaekkende-melding-boer-sende-danske-tropper-til-ukraine?referrer=RSS",
+     "published": "2026-11-27T12:38+00:00"
+    },
+    {
+     "title": "Formodet bandefigur fængslet for skud mod eksbokser og hans familie",
+     "link": "https://www.bt.dk/krimi/formodet-bandefigur-faengslet-for-skud-mod-eksbokser-og-hans-familie?referrer=RSS",
+     "published": "2026-11-27T12:37+00:00"
+    },
+    {
+     "title": "50 butikker skal få flere til at vælge dansk frugt og grønt",
+     "link": "https://www.bt.dk/samfund/50-butikker-skal-faa-flere-til-at-vaelge-dansk-frugt-og-groent?referrer=RSS",
+     "published": "2026-11-27T12:37+00:00"
+    },
+    {
+     "title": "Troede de havde vundet 350 millioner: Kæmpe lotto-brøler",
+     "link": "https://www.bt.dk/spil/troede-de-havde-vundet-350-millioner-kaempe-lotto-broeler?referrer=RSS",
+     "published": "2026-11-27T12:34+00:00"
+    },
+    {
+     "title": "Elon Musk med løfte: Vil donere aktier til alle amerikanske børn",
+     "link": "https://www.bt.dk/udland/elon-musk-med-loefte-vil-donere-aktier-til-alle-amerikanske-boern?referrer=RSS",
+     "published": "2026-11-27T12:32+00:00"
+    },
+    {
      "title": "TV 2 vil bistå politiet i opklaringsarbejde om Den sorte svane",
      "link": "https://www.bt.dk/krimi/tv-2-vil-bistaa-politiet-i-opklaringsarbejde-om-den-sorte-svane?referrer=RSS",
      "published": "2026-11-27T12:30+00:00"
@@ -713,31 +738,6 @@
      "title": "Anholdt og sigtet: Affyrede 12 skud mod eksbokser",
      "link": "https://www.bt.dk/krimi/anholdt-og-sigtet-affyrede-12-skud-mod-eksbokser?referrer=RSS",
      "published": "2026-11-27T12:16+00:00"
-    },
-    {
-     "title": "Datatilsynet kritiserer Familieretshuset efter 47 sikkerhedsbrud",
-     "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-sikkerhedsbrud?referrer=RSS",
-     "published": "2026-11-27T12:12+00:00"
-    },
-    {
-     "title": "Årets boksekamp i fare: Har fået flere diagnoser",
-     "link": "https://www.bt.dk/sport/aarets-boksekamp-i-fare-har-faaet-flere-diagnoser?referrer=RSS",
-     "published": "2026-11-27T12:12+00:00"
-    },
-    {
-     "title": "Mor kom gående med datter: Kæmpe drama på skolevej",
-     "link": "https://www.bt.dk/krimi/mor-kom-gaaende-med-datter-kaempe-drama-paa-skolevej?referrer=RSS",
-     "published": "2026-11-27T12:10+00:00"
-    },
-    {
-     "title": "FN advarer om risiko for hungersnød i flere lande",
-     "link": "https://www.bt.dk/udland/fn-advarer-om-risiko-for-hungersnoed-i-flere-lande?referrer=RSS",
-     "published": "2026-11-27T12:09+00:00"
-    },
-    {
-     "title": "Trumps egne støtter advarer: ‘En politisk atombombe’",
-     "link": "https://www.bt.dk/udland/trumps-egne-stoetter-advarer-en-politisk-atombombe?referrer=RSS",
-     "published": "2026-11-27T12:07+00:00"
     }
    ]
   },
