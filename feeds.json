@@ -631,6 +631,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Advarer: Det bliver glat i weekenden",
+     "link": "https://www.bt.dk/vejret/advarer-det-bliver-glat-i-weekenden?referrer=RSS",
+     "published": "2026-11-27T13:02+00:00"
+    },
+    {
      "title": "TV 2 vil bistå politiet i opklaringsarbejde om Den sorte svane",
      "link": "https://www.bt.dk/krimi/tv-2-vil-bistaa-politiet-i-opklaringsarbejde-om-den-sorte-svane?referrer=RSS",
      "published": "2026-11-27T12:57+00:00"
@@ -674,11 +679,6 @@
      "title": "Danmark får første kvindelige rigsadvokat",
      "link": "https://www.bt.dk/krimi/danmark-faar-foerste-kvindelige-rigsadvokat?referrer=RSS",
      "published": "2026-11-27T12:20+00:00"
-    },
-    {
-     "title": "Reuters: Hackere trænger ind i cloudplatform for USA's flyvevåben",
-     "link": "https://www.bt.dk/udland/reuters-hackere-traenger-ind-i-cloudplatform-for-usas-flyvevaaben?referrer=RSS",
-     "published": "2026-11-27T12:16+00:00"
     }
    ]
   },
@@ -689,6 +689,11 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Advarer: Det bliver glat i weekenden",
+     "link": "https://www.bt.dk/vejret/advarer-det-bliver-glat-i-weekenden?referrer=RSS",
+     "published": "2026-11-27T13:02+00:00"
+    },
     {
      "title": "Kesslers comeback vækker særlige følelser i Sauerland",
      "link": "https://www.bt.dk/boksning/kesslers-comeback-vaekker-saerlige-foelelser-i-sauerland?referrer=RSS",
@@ -732,11 +737,6 @@
     {
      "title": "Formodet bandefigur fængslet for skud mod eksbokser og hans familie",
      "link": "https://www.bt.dk/krimi/formodet-bandefigur-faengslet-for-skud-mod-eksbokser-og-hans-familie?referrer=RSS",
-     "published": "2026-11-27T12:37+00:00"
-    },
-    {
-     "title": "50 butikker skal få flere til at vælge dansk frugt og grønt",
-     "link": "https://www.bt.dk/samfund/50-butikker-skal-faa-flere-til-at-vaelge-dansk-frugt-og-groent?referrer=RSS",
      "published": "2026-11-27T12:37+00:00"
     }
    ]
