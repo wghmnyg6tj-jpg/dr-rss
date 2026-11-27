@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T12:52+00:00",
+ "generated": "2026-11-27T13:01+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -513,6 +513,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Historisk fadæse:\nFCK's spillerbudget er 31 gange større",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/chok-i-andorra-fcks-spillerbudget-er-31-gange-stoerre/11367702",
+     "published": "2026-11-27T13:00+00:00"
+    },
+    {
      "title": "Hyldes: Ren opvisning",
      "link": "https://ekstrabladet.dk/sport/haandbold/emil-nielsen-hyldes-ren-opvisning/11367278",
      "published": "2026-11-27T12:46+00:00"
@@ -556,11 +561,6 @@
      "title": "Slår alarm! \nFlere lande \ni overhængende fare",
      "link": "https://ekstrabladet.dk/nyheder/kritisk-flere-lande-i-overhaengende-fare-for-hungersnoed/11367591",
      "published": "2026-11-27T12:03+00:00"
-    },
-    {
-     "title": "Medie: Rabobank bliver navnesponsor hos Visma",
-     "link": "https://ekstrabladet.dk/sport/cykling/medie-rabobank-bliver-navnesponsor-hos-visma/11367501",
-     "published": "2026-11-27T11:59+00:00"
     }
    ]
   },
@@ -631,6 +631,21 @@
    "status": "ok",
    "items": [
     {
+     "title": "TV 2 vil bistå politiet i opklaringsarbejde om Den sorte svane",
+     "link": "https://www.bt.dk/krimi/tv-2-vil-bistaa-politiet-i-opklaringsarbejde-om-den-sorte-svane?referrer=RSS",
+     "published": "2026-11-27T12:57+00:00"
+    },
+    {
+     "title": "Spansk premierminister før valg: Kan ikke forestille mig nederlag",
+     "link": "https://www.bt.dk/udland/spansk-premierminister-foer-valg-kan-ikke-forestille-mig-nederlag?referrer=RSS",
+     "published": "2026-11-27T12:51+00:00"
+    },
+    {
+     "title": "FN advarer om risiko for hungersnød i flere lande",
+     "link": "https://www.bt.dk/udland/fn-advarer-om-risiko-for-hungersnoed-i-flere-lande?referrer=RSS",
+     "published": "2026-11-27T12:51+00:00"
+    },
+    {
      "title": "Fogh med opsigtsvækkende melding: Bør sende danske tropper til Ukraine",
      "link": "https://www.bt.dk/politik/fogh-med-opsigtsvaekkende-melding-boer-sende-danske-tropper-til-ukraine?referrer=RSS",
      "published": "2026-11-27T12:38+00:00"
@@ -651,11 +666,6 @@
      "published": "2026-11-27T12:32+00:00"
     },
     {
-     "title": "TV 2 vil bistå politiet i opklaringsarbejde om Den sorte svane",
-     "link": "https://www.bt.dk/krimi/tv-2-vil-bistaa-politiet-i-opklaringsarbejde-om-den-sorte-svane?referrer=RSS",
-     "published": "2026-11-27T12:30+00:00"
-    },
-    {
      "title": "Landsret stadfæster dom for knivdrab på barndomsven",
      "link": "https://www.bt.dk/krimi/landsret-stadfaester-dom-for-knivdrab-paa-barndomsven?referrer=RSS",
      "published": "2026-11-27T12:20+00:00"
@@ -669,16 +679,6 @@
      "title": "Reuters: Hackere trænger ind i cloudplatform for USA's flyvevåben",
      "link": "https://www.bt.dk/udland/reuters-hackere-traenger-ind-i-cloudplatform-for-usas-flyvevaaben?referrer=RSS",
      "published": "2026-11-27T12:16+00:00"
-    },
-    {
-     "title": "Anholdt og sigtet: Affyrede 12 skud mod eksbokser",
-     "link": "https://www.bt.dk/krimi/anholdt-og-sigtet-affyrede-12-skud-mod-eksbokser?referrer=RSS",
-     "published": "2026-11-27T12:16+00:00"
-    },
-    {
-     "title": "Datatilsynet kritiserer Familieretshuset efter 47 sikkerhedsbrud",
-     "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-sikkerhedsbrud?referrer=RSS",
-     "published": "2026-11-27T12:12+00:00"
     }
    ]
   },
@@ -689,6 +689,31 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Pludselig manglede familien en hel indkomst: Nu skærer Kristine over 100 kroner af bonen på én ret",
+     "link": "https://www.bt.dk/dagens-sparetip/pludselig-manglede-familien-en-hel-indkomst-nu-skaerer-kristine-over-100-kroner-af-bonen-paa-en-ret?referrer=RSS",
+     "published": "2026-11-27T12:59+00:00"
+    },
+    {
+     "title": "TV 2 vil bistå politiet i opklaringsarbejde om Den sorte svane",
+     "link": "https://www.bt.dk/krimi/tv-2-vil-bistaa-politiet-i-opklaringsarbejde-om-den-sorte-svane?referrer=RSS",
+     "published": "2026-11-27T12:57+00:00"
+    },
+    {
+     "title": "TV 2-deltager har scoret topjob: 'Jeg troede, det var en feberdrøm'",
+     "link": "https://www.bt.dk/kendte/tv-2-deltager-har-scoret-topjob-jeg-troede-det-var-en-feberdroem?referrer=RSS",
+     "published": "2026-11-27T12:52+00:00"
+    },
+    {
+     "title": "Spansk premierminister før valg: Kan ikke forestille mig nederlag",
+     "link": "https://www.bt.dk/udland/spansk-premierminister-foer-valg-kan-ikke-forestille-mig-nederlag?referrer=RSS",
+     "published": "2026-11-27T12:51+00:00"
+    },
+    {
+     "title": "FN advarer om risiko for hungersnød i flere lande",
+     "link": "https://www.bt.dk/udland/fn-advarer-om-risiko-for-hungersnoed-i-flere-lande?referrer=RSS",
+     "published": "2026-11-27T12:51+00:00"
+    },
     {
      "title": "Forlænget reparation betyder højere varmeregning",
      "link": "https://www.bt.dk/privatoekonomi/forlaenget-reparation-betyder-hoejere-varmeregning?referrer=RSS",
@@ -713,31 +738,6 @@
      "title": "Troede de havde vundet 350 millioner: Kæmpe lotto-brøler",
      "link": "https://www.bt.dk/spil/troede-de-havde-vundet-350-millioner-kaempe-lotto-broeler?referrer=RSS",
      "published": "2026-11-27T12:34+00:00"
-    },
-    {
-     "title": "Elon Musk med løfte: Vil donere aktier til alle amerikanske børn",
-     "link": "https://www.bt.dk/udland/elon-musk-med-loefte-vil-donere-aktier-til-alle-amerikanske-boern?referrer=RSS",
-     "published": "2026-11-27T12:32+00:00"
-    },
-    {
-     "title": "TV 2 vil bistå politiet i opklaringsarbejde om Den sorte svane",
-     "link": "https://www.bt.dk/krimi/tv-2-vil-bistaa-politiet-i-opklaringsarbejde-om-den-sorte-svane?referrer=RSS",
-     "published": "2026-11-27T12:30+00:00"
-    },
-    {
-     "title": "Landsret stadfæster dom for knivdrab på barndomsven",
-     "link": "https://www.bt.dk/krimi/landsret-stadfaester-dom-for-knivdrab-paa-barndomsven?referrer=RSS",
-     "published": "2026-11-27T12:20+00:00"
-    },
-    {
-     "title": "Danmark får første kvindelige rigsadvokat",
-     "link": "https://www.bt.dk/krimi/danmark-faar-foerste-kvindelige-rigsadvokat?referrer=RSS",
-     "published": "2026-11-27T12:20+00:00"
-    },
-    {
-     "title": "Reuters: Hackere trænger ind i cloudplatform for USA's flyvevåben",
-     "link": "https://www.bt.dk/udland/reuters-hackere-traenger-ind-i-cloudplatform-for-usas-flyvevaaben?referrer=RSS",
-     "published": "2026-11-27T12:16+00:00"
     }
    ]
   },
