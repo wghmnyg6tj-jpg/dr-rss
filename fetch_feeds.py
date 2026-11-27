@@ -55,7 +55,7 @@ def iso(text):
 
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml"})
-    with urllib.request.urlopen(req, timeout=30) as r:
+    with urllib.request.urlopen(req, timeout=15) as r:
         return r.status, r.read()
 
 def parse(body):
@@ -107,8 +107,8 @@ def get_one(feed):
 
 def main():
     out = {"generated": datetime.now(timezone.utc).isoformat(timespec="minutes"), "feeds": []}
-    # Henter op til 8 feeds ad gangen. Rækkefølgen i feeds.json er den samme som i listerne.
-    with ThreadPoolExecutor(max_workers=8) as pool:
+    # Henter op til 13 feeds ad gangen. Rækkefølgen i feeds.json er den samme som i listerne.
+    with ThreadPoolExecutor(max_workers=13) as pool:
         out["feeds"] = list(pool.map(get_one, FEEDS + TOPIC_FEEDS))
     for entry in out["feeds"]:
         print(f"{entry['source']} {entry['name']}: {entry['status']} ({len(entry['items'])} punkter)")
