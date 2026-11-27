@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T13:37+00:00",
+ "generated": "2026-11-27T13:42+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -513,6 +513,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Efter blodbad: \nFavorit-aktier \nkan stige vildt",
+     "link": "https://ekstrabladet.dk/penge/favorit-aktier-i-blodbad-nu-kan-de-stige-voldsomt/11367283",
+     "published": "2026-11-27T13:40+00:00"
+    },
+    {
      "title": "Skylder millioner til Skat:\nNu tager de udlæg i huset",
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/foretager-udlaeg-i-wafandes-hus-kaempe-milliongaeld-til-skat/11367213",
      "published": "2026-11-27T13:36+00:00"
@@ -556,11 +561,6 @@
      "title": "Her er dommen: \nDansk skuespiller idømt fængsel",
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/her-er-dommen-dansk-skuespiller-idoemt-faengsel/11359562",
      "published": "2026-11-27T12:37+00:00"
-    },
-    {
-     "title": "Reuters: \nHackere \nrammer \nUSA's flyvevåben",
-     "link": "https://ekstrabladet.dk/nyheder/reuters-hackere-rammer-usas-flyvevaaben/11367507",
-     "published": "2026-11-27T12:35+00:00"
     }
    ]
   },
@@ -631,6 +631,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Putin-opkald vakte nordisk vrede: Nu afslører storavis alvorlig dagsorden",
+     "link": "https://www.bt.dk/udland/putin-opkald-vakte-nordisk-vrede-nu-afsloerer-storavis-alvorlig-dagsorden?referrer=RSS",
+     "published": "2026-11-27T13:40+00:00"
+    },
+    {
      "title": "To mænd idømmes 12 års og 8 års fængsel i sag om kokain",
      "link": "https://www.bt.dk/krimi/to-maend-idoemmes-12-aars-og-8-aars-faengsel-i-sag-om-kokain?referrer=RSS",
      "published": "2026-11-27T13:35+00:00"
@@ -674,11 +679,6 @@
      "title": "TV 2 vil bistå politiet i opklaringsarbejde om Den sorte svane",
      "link": "https://www.bt.dk/krimi/tv-2-vil-bistaa-politiet-i-opklaringsarbejde-om-den-sorte-svane?referrer=RSS",
      "published": "2026-11-27T12:57+00:00"
-    },
-    {
-     "title": "Spansk premierminister før valg: Kan ikke forestille mig nederlag",
-     "link": "https://www.bt.dk/udland/spansk-premierminister-foer-valg-kan-ikke-forestille-mig-nederlag?referrer=RSS",
-     "published": "2026-11-27T12:51+00:00"
     }
    ]
   },
@@ -689,6 +689,11 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Putin-opkald vakte nordisk vrede: Nu afslører storavis alvorlig dagsorden",
+     "link": "https://www.bt.dk/udland/putin-opkald-vakte-nordisk-vrede-nu-afsloerer-storavis-alvorlig-dagsorden?referrer=RSS",
+     "published": "2026-11-27T13:40+00:00"
+    },
     {
      "title": "To mænd idømmes 12 års og 8 års fængsel i sag om kokain",
      "link": "https://www.bt.dk/krimi/to-maend-idoemmes-12-aars-og-8-aars-faengsel-i-sag-om-kokain?referrer=RSS",
@@ -733,11 +738,6 @@
      "title": "Kan købes uden recept: Advarer mod lægemidler",
      "link": "https://www.bt.dk/samfund/kan-koebes-uden-recept-advarer-mod-laegemidler?referrer=RSS",
      "published": "2026-11-27T13:03+00:00"
-    },
-    {
-     "title": "Advarer: Det bliver glat i weekenden",
-     "link": "https://www.bt.dk/vejret/advarer-det-bliver-glat-i-weekenden?referrer=RSS",
-     "published": "2026-11-27T13:02+00:00"
     }
    ]
   },
