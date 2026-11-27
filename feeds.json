@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T20:07+00:00",
+ "generated": "2026-11-27T20:17+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -207,6 +207,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Hvert femte barn vil forbyde samlekort i skolen og SFO'en",
+     "link": "https://www.dr.dk/nyheder/indland/hvert-femte-barn-vil-forbyde-samlekort-i-skolen-og-sfo-en",
+     "published": "2026-11-27T20:10+00:00",
+     "summary": "Flere skoler rundt omkring i landet har allerede forbudt samlekortene, efter de har skabt konflikter."
+    },
+    {
      "title": "Lukker webshop på Black Friday: 'Vil forhindre fejlkøb'",
      "link": "https://www.dr.dk/nyheder/indland/reels/lukker-webshop-paa-black-friday-vil-forhindre-fejlkoeb",
      "published": "2026-11-27T19:45+00:00",
@@ -289,12 +295,6 @@
      "link": "https://www.dr.dk/nyheder/indland/pebernoedder-brunkager-og-vaniljekranse-tilbagekaldes",
      "published": "2026-11-27T10:37+00:00",
      "summary": "Det sker i kølvandet på sagen om forurenet korn fra Danish Agro."
-    },
-    {
-     "title": "Rejsekort-millioner samler støv: Læs her, hvordan du får fat i pengene",
-     "link": "https://www.dr.dk/nyheder/indland/rejsekort-millioner-samler-stoev-laes-her-hvordan-du-faar-fat-i-pengene",
-     "published": "2026-11-27T09:44+00:00",
-     "summary": "Der står over 100 millioner kroner tilbage på anonyme Rejsekort. Pengene bliver ikke udbetalt automatisk, så du skal selv bede om at få dem retur."
     }
    ]
   },
@@ -603,6 +603,30 @@
    "status": "ok",
    "items": [
     {
+     "title": "Her er virkelighedens\nJason og Lucia",
+     "link": "https://ekstrabladet.dk/forbrug/Teknologi/gaar-verden-rundt-her-er-de-i-virkeligheden/11368082",
+     "published": "2026-11-27T20:15+00:00",
+     "summary": "Millioner af mennesker har kastet sig over det længe ventede GTA 6. Men hvem er egentlig de to skuespillere, der lægger stemmer og ansigter til spillets hovedpersoner?"
+    },
+    {
+     "title": "Skuffet målhelt: - Jeg er ærgerlig",
+     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/maalscorer-mortensen-bestemt-ikke-det-vi-kom-efter/11368154",
+     "published": "2026-11-27T20:14+00:00",
+     "summary": "Patrick Mortensen er skuffet over Brøndby IF's 1-1-resultat mod Sønderjyske og siger til Viaplay, at man kom efter mere"
+    },
+    {
+     "title": "Hvidovre lægger afstand til Vejle efter selvmål",
+     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/1division/hvidovre-laegger-afstand-til-vejle-efter-selvmaal/11368131",
+     "published": "2026-11-27T20:12+00:00",
+     "summary": "Vejle havde kurs mod sejren, men spillede 2-2 mod AB efter selvmål. Topholdet Hvidovre vandt 2-1 over Kolding"
+    },
+    {
+     "title": "Vil have styr på reserven:\nKontakter\n100.000",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/vil-have-fat-i-100.000-veteraner-forberedt-paa-det-vaerste/11367204",
+     "published": "2026-11-27T20:08+00:00",
+     "summary": "Det britiske forsvarsministerium har sendt breve til tidligere soldater for at styrke beredskabet, hvis landet en dag får brug for at indkalde dem"
+    },
+    {
      "title": "Forbandelsen forbliver",
      "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/5-i-fokus-er-mortensen-alligevel-loesningen-for-broendby/11368144",
      "published": "2026-11-27T20:01+00:00",
@@ -637,30 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/haandbold/sofie-bardrum-efter-kaotisk-ophold-alt-blev-revet-op/11365955",
      "published": "2026-11-27T19:40+00:00",
      "summary": "Beslutningen potentielt kunne have kostet hende en EM-plads, men den danske landsholdsspiller var ikke i tvivl"
-    },
-    {
-     "title": "Hilda Heick chokeret over dødsfald: \n- Der var aldrig et ondt ord mellem os",
-     "link": "https://ekstrabladet.dk/underholdning/dkkendte/hilda-heick-chokeret-over-doedsfald-der-var-aldrig-et-ondt-ord-mellem-os/11368081",
-     "published": "2026-11-27T19:32+00:00",
-     "summary": "Hilda Heick mindes hyggelige stunder med Jørn Hjorting, men husker også en principfast vært, der ikke altid var enig med hendes mand"
-    },
-    {
-     "title": "Overvejer\ngigantisk \nfyringsrunde",
-     "link": "https://ekstrabladet.dk/penge/sap-overvejer-gigantisk-blodbad-vil-nedlaegge-10.000-stillinger/11367121",
-     "published": "2026-11-27T19:22+00:00",
-     "summary": "Alle afdelinger hos softwaregiganten SAP er ifølge Bloomberg blevet bedt om at finde mulige besparelser. Især udviklerne og sælgerne er i søgelyset"
-    },
-    {
-     "title": "Påkørt bagfra \nog angrebet \nmed peberspray",
-     "link": "https://ekstrabladet.dk/krimi/amok-i-trafikken-paakoert-bagfra-og-angrebet-med-peberspray/11367750",
-     "published": "2026-11-27T19:11+00:00",
-     "summary": "En bilist blev angrebet af en medtrafikant, som nu er sigtes for flere brud på straffeloven"
-    },
-    {
-     "title": "Putin præsenterer ny atomdrevet ubåd",
-     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/putin-praesenterer-ny-atomdrevet-ubaad/11368094",
-     "published": "2026-11-27T19:07+00:00",
-     "summary": "Ud over den nye atomdrevne ubåd \"Perm\", som flåden fik overdraget ved en ceremoni fredag, er fem mere på vej"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Vil have styr på reserven:\nKontakter\n100.000",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/vil-have-fat-i-100.000-veteraner-forberedt-paa-det-vaerste/11367204",
+     "published": "2026-11-27T20:08+00:00",
+     "summary": "Det britiske forsvarsministerium har sendt breve til tidligere soldater for at styrke beredskabet, hvis landet en dag får brug for at indkalde dem"
+    },
     {
      "title": "Efter togkaos: Borgmestre sender appel",
      "link": "https://ekstrabladet.dk/nyheder/samfund/efter-togkaos-borgmestre-sender-appel-til-folketinget/11367320",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-nyt-sikkerhedsbrud/11367941",
      "published": "2026-11-27T16:09+00:00",
      "summary": "Teleudbyder har endnu ikke fastlagt omfanget af berørte kunder efter datalæk. Uautoriseret adgang er lukket"
-    },
-    {
-     "title": "Uheld spærrer den Fynske Motorvej",
-     "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/uheld-spaerrer-den-fynske-motorvej/11367918",
-     "published": "2026-11-27T15:50+00:00",
-     "summary": "Et uheld har ramt E 20 mod Jylland fredag eftermiddag mellem Odense SØ og Odense S"
     }
    ]
   },
@@ -741,16 +741,22 @@
    "status": "ok",
    "items": [
     {
-     "title": "Styrelse: Flere organisationer kan være ramt af datalæk hos teleudbyder",
-     "link": "https://www.bt.dk/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek-hos-teleudbyder?referrer=RSS",
-     "published": "2026-11-27T20:01+00:00",
-     "summary": "Teleudbyder har endnu ikke fastlagt omfanget af berørte kunder efter datalæk. Uautoriseret adgang er lukket."
+     "title": "Vild udvikling: Realitydeltagers mor mistænkes for rolle i Pokemon-røveri",
+     "link": "https://www.bt.dk/krimi/vild-udviklingrealitydeltagers-mor-mistaenkes-for-rolle-i-pokemon-roeveri?referrer=RSS",
+     "published": "2026-11-27T20:09+00:00",
+     "summary": "Der var flere familiemedlemmer til stede under torsdagens grundlovsforhør."
     },
     {
      "title": "Teleudbyder kender endnu ikke omfanget af cyberangreb",
      "link": "https://www.bt.dk/samfund/teleudbyder-kender-endnu-ikke-omfanget-af-cyberangreb?referrer=RSS",
-     "published": "2026-11-27T19:54+00:00",
+     "published": "2026-11-27T20:08+00:00",
      "summary": "OnlineCity bekræfter cyberangreb mod over 15.000 gymnasieelever, men det samlede omfang er endnu ukendt."
+    },
+    {
+     "title": "Styrelse: Flere organisationer kan være ramt af datalæk hos teleudbyder",
+     "link": "https://www.bt.dk/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek-hos-teleudbyder?referrer=RSS",
+     "published": "2026-11-27T20:01+00:00",
+     "summary": "Teleudbyder har endnu ikke fastlagt omfanget af berørte kunder efter datalæk. Uautoriseret adgang er lukket."
     },
     {
      "title": "Spejderkorps og bilkoncern er omfattet af større datalæk",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/samfund/mobilepay-omsaetter-mindre-paa-black-friday-end-sidste-aar?referrer=RSS",
      "published": "2026-11-27T19:10+00:00",
      "summary": "MobilePays omsætning på black friday er faldet 27 procent fra sidste år, men ugerne op til var mere travle."
-    },
-    {
-     "title": "Putin afslører nyt atom-projekt",
-     "link": "https://www.bt.dk/udland/putin-afsloerer-nyt-atom-projekt?referrer=RSS",
-     "published": "2026-11-27T19:06+00:00",
-     "summary": "Ud over den nye atomdrevne ubåd \"Perm\", som flåden fik overdraget ved en ceremoni fredag, er fem mere på vej."
     }
    ]
   },
@@ -810,6 +810,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Vild udvikling: Realitydeltagers mor mistænkes for rolle i Pokemon-røveri",
+     "link": "https://www.bt.dk/krimi/vild-udviklingrealitydeltagers-mor-mistaenkes-for-rolle-i-pokemon-roeveri?referrer=RSS",
+     "published": "2026-11-27T20:09+00:00",
+     "summary": "Der var flere familiemedlemmer til stede under torsdagens grundlovsforhør."
+    },
+    {
+     "title": "Teleudbyder kender endnu ikke omfanget af cyberangreb",
+     "link": "https://www.bt.dk/samfund/teleudbyder-kender-endnu-ikke-omfanget-af-cyberangreb?referrer=RSS",
+     "published": "2026-11-27T20:08+00:00",
+     "summary": "OnlineCity bekræfter cyberangreb mod over 15.000 gymnasieelever, men det samlede omfang er endnu ukendt."
+    },
+    {
      "title": "Patrick Mortensen redder point til Brøndby i Haderslev",
      "link": "https://www.bt.dk/fodbold/patrick-mortensen-redder-point-til-broendby-i-haderslev?referrer=RSS",
      "published": "2026-11-27T20:04+00:00",
@@ -820,12 +832,6 @@
      "link": "https://www.bt.dk/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek-hos-teleudbyder?referrer=RSS",
      "published": "2026-11-27T20:01+00:00",
      "summary": "Teleudbyder har endnu ikke fastlagt omfanget af berørte kunder efter datalæk. Uautoriseret adgang er lukket."
-    },
-    {
-     "title": "Teleudbyder kender endnu ikke omfanget af cyberangreb",
-     "link": "https://www.bt.dk/samfund/teleudbyder-kender-endnu-ikke-omfanget-af-cyberangreb?referrer=RSS",
-     "published": "2026-11-27T19:54+00:00",
-     "summary": "OnlineCity bekræfter cyberangreb mod over 15.000 gymnasieelever, men det samlede omfang er endnu ukendt."
     },
     {
      "title": "Spejderkorps og bilkoncern er omfattet af større datalæk",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/virksomheder/slut-med-hjemmearbejde-hos-storbank?referrer=RSS",
      "published": "2026-11-27T19:24+00:00",
      "summary": "To tredjedele af de danske medarbejde vil blive direkte berørt."
-    },
-    {
-     "title": "Rasmus Bjerg slår fast: Jeg laver ikke tv om hvad som helst!",
-     "link": "https://www.bt.dk/danske-kendte/rasmus-bjerg-slaar-fast-jeg-laver-ikke-tv-om-hvad-som-helst?referrer=RSS",
-     "published": "2026-11-27T19:20+00:00",
-     "summary": "Rasmus Bjerg og hustruen Helle har fået mange søde reaktioner på deres nye program, men det er ikke sikkert, at der kommer mere tv fra parret."
     }
    ]
   },
@@ -1728,6 +1728,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Bears, Moldy Gear & Navigation Mishaps: My First Solo Backpacking Adventure on the Florida Trail",
+     "link": "https://thetrek.co/bears-moldy-gear-navigation-mishaps-my-first-solo-backpacking-adventure-on-the-florida-trail/",
+     "published": "2026-11-27T20:13+00:00",
+     "summary": "Between a mold-infested sleeping bag, curious black bears (including a face-to-face encounter), countless tick and chigger bites, sleepless cold nights, unexpected detours due to navigational mistakes, and a few genuinely beautiful …"
+    },
+    {
      "title": "My Gear Is Ready.  My Mind is Stoic. My Body?  It’s Still in Negotiations!",
      "link": "https://thetrek.co/appalachian-trail/my-gear-is-ready-my-mind-is-stoic-my-body-its-still-in-negotiations/",
      "published": "2026-11-27T18:03+00:00",
@@ -1780,12 +1786,6 @@
      "link": "https://thetrek.co/what-happens-when-you-come-home-from-your-thru-hike/",
      "published": "2026-11-26T14:51+00:00",
      "summary": "This guest post was written by Amy “Yardsale” Johnson. Full bio at the end. There are endless articles, Youtube videos, books, and discussions about preparing for trail. But what happens when we come back home? This question receives far …"
-    },
-    {
-     "title": "Day 40: The Meditation After the Party",
-     "link": "https://thetrek.co/day-40-the-meditation-after-the-party/",
-     "published": "2026-11-26T14:25+00:00",
-     "summary": "I awoke at 9 am to the sound of an alarm clock that wasn’t mine. It was the sound I dreaded to hear. My Italian brother was getting back on the Camino while my Argentinian brother took a rest day. I walked my Italian brother out, ..."
     }
    ]
   },
