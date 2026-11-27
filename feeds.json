@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T12:01+00:00",
+ "generated": "2026-11-27T12:11+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -8,6 +8,11 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/senestenyt",
    "status": "ok",
    "items": [
+    {
+     "title": "Familieretshuset får igen kritik",
+     "link": "https://www.dr.dk/nyheder/seneste/ny-kritik-af-familieretshuset",
+     "published": "2026-11-27T12:07+00:00"
+    },
     {
      "title": "Ny rigsadvokat udpeget",
      "link": "https://www.dr.dk/nyheder/seneste/ny-rigsadvokat-udpeget",
@@ -77,11 +82,6 @@
      "title": "Spareplan koster 23 stillinger på Nationalmuseet",
      "link": "https://www.dr.dk/nyheder/seneste/spareplan-koster-23-stillinger-paa-nationalmuseet",
      "published": "2026-11-26T15:05+00:00"
-    },
-    {
-     "title": "FIFA er blevet udsat for cyberangreb",
-     "link": "https://www.dr.dk/nyheder/seneste/fifa-er-blevet-udsat-cyberangreb",
-     "published": "2026-11-26T14:15+00:00"
     }
    ]
   },
@@ -93,6 +93,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Ny kritik af Familieretshuset",
+     "link": "https://www.dr.dk/nyheder/seneste/ny-kritik-af-familieretshuset",
+     "published": "2026-11-27T12:07+00:00"
+    },
+    {
      "title": "Ny rigsadvokat udpeget",
      "link": "https://www.dr.dk/nyheder/seneste/ny-rigsadvokat-udpeget",
      "published": "2026-11-27T11:53+00:00"
@@ -161,11 +166,6 @@
      "title": "Spareplan koster 23 stillinger på Nationalmuseet",
      "link": "https://www.dr.dk/nyheder/seneste/spareplan-koster-23-stillinger-paa-nationalmuseet",
      "published": "2026-11-26T15:05+00:00"
-    },
-    {
-     "title": "FIFA er blevet udsat for cyberangreb",
-     "link": "https://www.dr.dk/nyheder/seneste/fifa-er-blevet-udsat-cyberangreb",
-     "published": "2026-11-26T14:15+00:00"
     }
    ]
   },
@@ -513,13 +513,23 @@
    "status": "ok",
    "items": [
     {
+     "title": "Officielt: Alexander Kamp forlader Uno-X",
+     "link": "https://ekstrabladet.dk/sport/cykling/officielt-alexander-kamp-forlader-uno-x/11367485",
+     "published": "2026-11-27T12:05+00:00"
+    },
+    {
+     "title": "Slår alarm! \nFlere lande \ni overhængende fare",
+     "link": "https://ekstrabladet.dk/nyheder/kritisk-flere-lande-i-overhaengende-fare-for-hungersnoed/11367591",
+     "published": "2026-11-27T12:03+00:00"
+    },
+    {
      "title": "Medie: Rabobank bliver navnesponsor hos Visma",
      "link": "https://ekstrabladet.dk/sport/cykling/medie-rabobank-bliver-navnesponsor-hos-visma/11367501",
      "published": "2026-11-27T11:59+00:00"
     },
     {
-     "title": "Datatilsynet retter alvorlig kritik",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/datatilsynet-retter-alvorlig-kritik/11367564",
+     "title": "47 brud: Datatilsynet retter alvorlig kritik",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/47-brud-datatilsynet-retter-alvorlig-kritik/11367564",
      "published": "2026-11-27T11:51+00:00"
     },
     {
@@ -551,16 +561,6 @@
      "title": "AGF-fans angreb journalist",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/agf-fans-skabte-uro-efter-europaeisk-triumf/11367442",
      "published": "2026-11-27T11:23+00:00"
-    },
-    {
-     "title": "Linnet-fejden fortsætter:\nKlager over socialdemokrat",
-     "link": "https://ekstrabladet.dk/underholdning/dkkendte/linnets-datter-raser-mod-politiker-klager-til-datatilsynet/11366447",
-     "published": "2026-11-27T11:16+00:00"
-    },
-    {
-     "title": "Vingegaard afslører: \nDét er min yndlings",
-     "link": "https://ekstrabladet.dk/sport/cykling/vingegaard-dukkede-op-i-aarhus-og-vejle/11366300",
-     "published": "2026-11-27T10:51+00:00"
     }
    ]
   },
@@ -572,8 +572,13 @@
    "status": "ok",
    "items": [
     {
-     "title": "Datatilsynet retter alvorlig kritik",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/datatilsynet-retter-alvorlig-kritik/11367564",
+     "title": "Slår alarm! \nFlere lande \ni overhængende fare",
+     "link": "https://ekstrabladet.dk/nyheder/kritisk-flere-lande-i-overhaengende-fare-for-hungersnoed/11367591",
+     "published": "2026-11-27T12:03+00:00"
+    },
+    {
+     "title": "47 brud: Datatilsynet retter alvorlig kritik",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/47-brud-datatilsynet-retter-alvorlig-kritik/11367564",
      "published": "2026-11-27T11:51+00:00"
     },
     {
@@ -615,11 +620,6 @@
      "title": "Risiko for glatte veje",
      "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/pas-paa-risiko-for-glatte-veje/11367049",
      "published": "2026-11-27T05:46+00:00"
-    },
-    {
-     "title": "Massiv stigning:\nKunderne \nstrømmer til",
-     "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/massiv-efterspoergsel-billetterne-rives-vaek/11365898",
-     "published": "2026-11-27T05:28+00:00"
     }
    ]
   },
@@ -631,14 +631,34 @@
    "status": "ok",
    "items": [
     {
-     "title": "Datatilsynet kritiserer Familieretshuset efter 47 brud",
-     "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-brud?referrer=RSS",
-     "published": "2026-11-27T11:59+00:00"
+     "title": "Mor kom gående med datter: Kæmpe drama på skolevej",
+     "link": "https://www.bt.dk/krimi/mor-kom-gaaende-med-datter-kaempe-drama-paa-skolevej?referrer=RSS",
+     "published": "2026-11-27T12:10+00:00"
+    },
+    {
+     "title": "FN advarer om risiko for hungersnød i flere lande",
+     "link": "https://www.bt.dk/udland/fn-advarer-om-risiko-for-hungersnoed-i-flere-lande?referrer=RSS",
+     "published": "2026-11-27T12:09+00:00"
+    },
+    {
+     "title": "Trumps egne støtter advarer: ‘En politisk atombombe’",
+     "link": "https://www.bt.dk/udland/trumps-egne-stoetter-advarer-en-politisk-atombombe?referrer=RSS",
+     "published": "2026-11-27T12:07+00:00"
     },
     {
      "title": "Danmark får første kvindelige rigsadvokat",
      "link": "https://www.bt.dk/krimi/danmark-faar-foerste-kvindelige-rigsadvokat?referrer=RSS",
-     "published": "2026-11-27T11:55+00:00"
+     "published": "2026-11-27T12:06+00:00"
+    },
+    {
+     "title": "Landsret stadfæster dom for knivdrab på barndomsven",
+     "link": "https://www.bt.dk/krimi/landsret-stadfaester-dom-for-knivdrab-paa-barndomsven?referrer=RSS",
+     "published": "2026-11-27T12:02+00:00"
+    },
+    {
+     "title": "Datatilsynet kritiserer Familieretshuset efter 47 brud",
+     "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-brud?referrer=RSS",
+     "published": "2026-11-27T11:59+00:00"
     },
     {
      "title": "Kontrol viser skattefejl hos langt de fleste content creators",
@@ -659,26 +679,6 @@
      "title": "Brand i guldmine: 27 personer fanget",
      "link": "https://www.bt.dk/udland/brand-i-guldmine-27-personer-fanget?referrer=RSS",
      "published": "2026-11-27T11:37+00:00"
-    },
-    {
-     "title": "Reuters: Hackere trænger ind i cloudplatform for USA's flyvevåben",
-     "link": "https://www.bt.dk/udland/reuters-hackere-traenger-ind-i-cloudplatform-for-usas-flyvevaaben?referrer=RSS",
-     "published": "2026-11-27T11:34+00:00"
-    },
-    {
-     "title": "18-årig anholdt for skud mod eksbokser under bandeopgør",
-     "link": "https://www.bt.dk/krimi/18-aarig-anholdt-for-skud-mod-eksbokser-under-bandeopgoer?referrer=RSS",
-     "published": "2026-11-27T11:31+00:00"
-    },
-    {
-     "title": "Anholdt og sigtet: Affyrede 12 skud mod eksbokser",
-     "link": "https://www.bt.dk/krimi/anholdt-og-sigtet-affyrede-12-skud-mod-eksbokser?referrer=RSS",
-     "published": "2026-11-27T11:16+00:00"
-    },
-    {
-     "title": "12-årig dreng overfaldet i Ilva: Nu deler politiet nyt",
-     "link": "https://www.bt.dk/krimi/12-aarig-dreng-overfaldet-i-ilva-nu-deler-politiet-nyt?referrer=RSS",
-     "published": "2026-11-27T11:09+00:00"
     }
    ]
   },
@@ -690,14 +690,39 @@
    "status": "ok",
    "items": [
     {
-     "title": "Datatilsynet kritiserer Familieretshuset efter 47 brud",
-     "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-brud?referrer=RSS",
-     "published": "2026-11-27T11:59+00:00"
+     "title": "Mor kom gående med datter: Kæmpe drama på skolevej",
+     "link": "https://www.bt.dk/krimi/mor-kom-gaaende-med-datter-kaempe-drama-paa-skolevej?referrer=RSS",
+     "published": "2026-11-27T12:10+00:00"
+    },
+    {
+     "title": "FN advarer om risiko for hungersnød i flere lande",
+     "link": "https://www.bt.dk/udland/fn-advarer-om-risiko-for-hungersnoed-i-flere-lande?referrer=RSS",
+     "published": "2026-11-27T12:09+00:00"
+    },
+    {
+     "title": "Trumps egne støtter advarer: ‘En politisk atombombe’",
+     "link": "https://www.bt.dk/udland/trumps-egne-stoetter-advarer-en-politisk-atombombe?referrer=RSS",
+     "published": "2026-11-27T12:07+00:00"
     },
     {
      "title": "Danmark får første kvindelige rigsadvokat",
      "link": "https://www.bt.dk/krimi/danmark-faar-foerste-kvindelige-rigsadvokat?referrer=RSS",
-     "published": "2026-11-27T11:55+00:00"
+     "published": "2026-11-27T12:06+00:00"
+    },
+    {
+     "title": "Snookerlegende revser sporten: De klæder sig forfærdeligt",
+     "link": "https://www.bt.dk/oevrig-sport/snookerlegende-revser-sporten-de-klaeder-sig-forfaerdeligt?referrer=RSS",
+     "published": "2026-11-27T12:03+00:00"
+    },
+    {
+     "title": "Landsret stadfæster dom for knivdrab på barndomsven",
+     "link": "https://www.bt.dk/krimi/landsret-stadfaester-dom-for-knivdrab-paa-barndomsven?referrer=RSS",
+     "published": "2026-11-27T12:02+00:00"
+    },
+    {
+     "title": "Datatilsynet kritiserer Familieretshuset efter 47 brud",
+     "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-brud?referrer=RSS",
+     "published": "2026-11-27T11:59+00:00"
     },
     {
      "title": "Kendt kommentator afslører: Har haft strid med Ferguson i 30 år",
@@ -713,31 +738,6 @@
      "title": "Skole underrettede om udlandsophold - først fire år senere vendte pige hjem",
      "link": "https://www.bt.dk/krimi/skole-underrettede-om-udlandsophold-foerst-fire-aar-senere-vendte-pige-hjem?referrer=RSS",
      "published": "2026-11-27T11:38+00:00"
-    },
-    {
-     "title": "26-årig mand fængsles for bombesprængning i Valby",
-     "link": "https://www.bt.dk/krimi/26-aarig-mand-faengsles-for-bombespraengning-i-valby?referrer=RSS",
-     "published": "2026-11-27T11:38+00:00"
-    },
-    {
-     "title": "Brand i guldmine: 27 personer fanget",
-     "link": "https://www.bt.dk/udland/brand-i-guldmine-27-personer-fanget?referrer=RSS",
-     "published": "2026-11-27T11:37+00:00"
-    },
-    {
-     "title": "Reuters: Hackere trænger ind i cloudplatform for USA's flyvevåben",
-     "link": "https://www.bt.dk/udland/reuters-hackere-traenger-ind-i-cloudplatform-for-usas-flyvevaaben?referrer=RSS",
-     "published": "2026-11-27T11:34+00:00"
-    },
-    {
-     "title": "Fem danske topchefer slår alarm: Frygter dyrere dagligvarer",
-     "link": "https://www.bt.dk/dagligvarer/fem-danske-topchefer-slaar-alarm-frygter-dyrere-dagligvarer?referrer=RSS",
-     "published": "2026-11-27T11:32+00:00"
-    },
-    {
-     "title": "18-årig anholdt for skud mod eksbokser under bandeopgør",
-     "link": "https://www.bt.dk/krimi/18-aarig-anholdt-for-skud-mod-eksbokser-under-bandeopgoer?referrer=RSS",
-     "published": "2026-11-27T11:31+00:00"
     }
    ]
   },
@@ -1119,6 +1119,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+     "link": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+     "published": "2026-11-27T12:05+00:00"
+    },
+    {
      "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
      "link": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
      "published": "2026-11-27T11:30+00:00"
@@ -1187,11 +1192,6 @@
      "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
      "link": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
      "published": "2026-11-25T15:35+00:00"
-    },
-    {
-     "title": "A familiar Iranian hacking group has found a new way to cause chaos",
-     "link": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
-     "published": "2026-11-25T14:29+00:00"
     }
    ]
   },
@@ -1591,6 +1591,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Search for One of the World’s Rarest Mushrooms on These Texas Trails",
+     "link": "https://www.backpacker.com/skills/identify/devils-cigar-mushroom-trails/",
+     "published": "2026-11-27T12:05+00:00"
+    },
+    {
+     "title": "The Gear That Backpacker’s Editors Loved in November 2026",
+     "link": "https://www.backpacker.com/gear/the-gear-that-backpackers-editors-loved-in-november-2026/",
+     "published": "2026-11-27T12:05+00:00"
+    },
+    {
      "title": "The 9 Best Hiking Towns to Spend Your Holidays In",
      "link": "https://www.backpacker.com/trips/the-9-best-hiking-towns-to-spend-your-holidays-in/",
      "published": "2026-11-26T12:05+00:00"
@@ -1629,16 +1639,6 @@
      "title": "Carry Less, Eat Better",
      "link": "https://www.backpacker.com/skills/beginner-skills/backpacking-food-basics/carry-less-eat-better/",
      "published": "2026-11-24T21:39+00:00"
-    },
-    {
-     "title": "She Asked the Appalachian Trail Conservancy to Start an Artist Residency. Now You Can Apply, Too.",
-     "link": "https://www.backpacker.com/stories/people/appalachian-trail-artist-in-residence/",
-     "published": "2026-11-24T20:17+00:00"
-    },
-    {
-     "title": "The Best Gifts for Overlanders Who Love to Explore Off-Road",
-     "link": "https://www.backpacker.com/gear/best-gifts-for-overlanders/",
-     "published": "2026-11-24T20:03+00:00"
     }
    ]
   },
