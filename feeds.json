@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T18:43+00:00",
+ "generated": "2026-11-27T18:53+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Glem alt det nye lort: \nNintendo leverer \nvaren igen",
+     "link": "https://ekstrabladet.dk/forbrug/Teknologi/glem-alt-det-nye-lort-nintendo-leverer-varen-igen/11367694",
+     "published": "2026-11-27T18:47+00:00",
+     "summary": "5,2 millioner eksemplarer på fire dage. Næsten 30 år efter premieren hitter Ocarina of Time igen, og man behøver aldrig at have rørt en Nintendo 64 for at forstå hvorfor"
+    },
+    {
      "title": "Stjerneinvestor \nafslører \naktienedtur",
      "link": "https://ekstrabladet.dk/penge/stjerneinvestor-andreas-steno-afsloerer-nedtur-fuck-det/11367237",
      "published": "2026-11-27T18:40+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/cykling/dopingsag-ineos-dropper-profil/11368001",
      "published": "2026-11-27T17:32+00:00",
      "summary": "Harold Tejada har haft problemer med sit biologiske pas"
-    },
-    {
-     "title": "Efter ulykke med flere unge: 15-årig afgået ved døden",
-     "link": "https://ekstrabladet.dk/krimi/efter-ulykke-med-flere-unge-15-aarig-afgaaet-ved-doeden/11368029",
-     "published": "2026-11-27T17:30+00:00",
-     "summary": "Det er endnu uvist, hvordan de fire andre drenge, der sad i bilen, har det"
     }
    ]
   },
@@ -810,6 +810,24 @@
    "status": "ok",
    "items": [
     {
+     "title": "Mads Fuglede er blevet far",
+     "link": "https://www.bt.dk/politik/mads-fuglede-er-blevet-far?referrer=RSS",
+     "published": "2026-11-27T18:53+00:00",
+     "summary": "Folketingsmedlemmet fra Danmarksdemokraterne er blevet far for tredje gang."
+    },
+    {
+     "title": "Netcompany Ineos annullerer aftale med colombianer",
+     "link": "https://www.bt.dk/cykling/netcompany-ineos-annullerer-aftale-med-colombianer?referrer=RSS",
+     "published": "2026-11-27T18:52+00:00",
+     "summary": "Harold Tejada skal alligevel ikke køre for Netcompany Ineos. Han er indblandet i en sag om mulig doping."
+    },
+    {
+     "title": "Sabrina efter debat om nyt DR-program: 'Mænd kommer rigeligt til orde i forvejen'",
+     "link": "https://www.bt.dk/film-tv-og-streaming/sabrina-efter-debat-om-nyt-dr-program-maend-kommer-rigeligt-til-orde-i-forvejen?referrer=RSS",
+     "published": "2026-11-27T18:44+00:00",
+     "summary": "DRs nye programsatsning 'Magter ikke mænd' har skabt stor debat og fået kritik for at være for ensidigt og skabe kløft mellem kønnene. Nu reagerer Sabrina Stenvedel på modtagelsen af programmet."
+    },
+    {
      "title": "Frygter skadedyr: Slagter lukker hele weekenden",
      "link": "https://www.bt.dk/erhverv/frygter-skadedyr-slagter-lukker-hele-weekenden?referrer=RSS",
      "published": "2026-11-27T18:30+00:00",
@@ -850,24 +868,6 @@
      "link": "https://www.bt.dk/krimi/15-aarig-dreng-doed-efter-ulykke-med-fem-unge-ved-borup?referrer=RSS",
      "published": "2026-11-27T17:54+00:00",
      "summary": "En 15-årig dreng er død, efter at fem drenge tirsdag kørte galt og ramte et træ på Midtsjælland."
-    },
-    {
-     "title": "Spejderkorps og bilkoncern er omfattet af større datalæk",
-     "link": "https://www.bt.dk/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek?referrer=RSS",
-     "published": "2026-11-27T17:50+00:00",
-     "summary": "Gymnasieskoler og andre organisationer har været ramt af datalæk, hvor telefonnumre er blevet kompromitteret."
-    },
-    {
-     "title": "B.T.s Mellemøst-korrespondent: Netanyahu er ikke frikendt, men han har al mulig grund til at juble",
-     "link": "https://www.bt.dk/udland/bts-mellemoest-korrespondent-netanyahu-er-ikke-frikendt-men-han-har-al-mulig-grund-til-at-juble?referrer=RSS",
-     "published": "2026-11-27T17:42+00:00",
-     "summary": "Hvis Israel ender med at skulle til valg igen, vil udviklingen i Netanyahus retssag styrke hans chancer for at klare sig bedre ved valget."
-    },
-    {
-     "title": "Dansk skiskytte tager karrierens første World Cup-point",
-     "link": "https://www.bt.dk/sport/dansk-skiskytte-tager-karrierens-foerste-world-cup-point?referrer=RSS",
-     "published": "2026-11-27T17:36+00:00",
-     "summary": "Anne de Besche blev nummer 38 i Finland og sikrede sig dermed karrierens første World Cup-point."
     }
    ]
   },
