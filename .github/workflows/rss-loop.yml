@@ -18,8 +18,9 @@ jobs:
       - uses: actions/checkout@v4
       - name: Hent hvert 10. minut i ca. 1 time
         run: |
-          cp scripts/hent_og_gem.sh /tmp/hent_og_gem.sh
           for i in 1 2 3 4 5 6; do
+            # Kopiér den nyeste version af scriptet i hver runde (arbejdsmappen følger main efter hver gemning)
+            cp scripts/hent_og_gem.sh /tmp/hent_og_gem.sh
             h=$(TZ=Europe/Copenhagen date +%-H)
             if [ "$h" -lt 6 ] || [ "$h" -ge 23 ]; then
               echo "Nat (kl. $h dansk tid): stopper."

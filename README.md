@@ -3,6 +3,8 @@ RSS til Dagens oversigt.
 
 `fetch_feeds.py` henter feeds (DR, Ekstra Bladet, BT og emnefeeds) og gemmer overskrift, link og tid i `feeds.json`. Ingen artikeltekst.
 
+`fetch_weather.py` henter vejr til `weather.json`: DMI HARMONIE-prognose for Mørkhøj, DMI-målinger (Jægersborg, Kastrup, Landbohøjskolen), DMI-lyn og met.no. `vejr_html.py` skriver vejret ind på Dagens oversigt ud fra `weather.json` (tidslinje, temperatur nu, vejrtekst), så ingen tal skrives i hånden.
+
 ## Sådan kører det
 - **Løbende (`rss-loop.yml`)**: henter hvert 10. minut kl. 06–23 dansk tid. Hver kørsel henter 6 gange (ca. 1 time) og starter selv den næste. Om natten stopper kæden.
 - **Med det samme (`rss.yml`)**: én hentning nu. Startes af "Opdater nu" på Dagens oversigt (via den planlagte opgave "Start RSS-hentning før Dagens oversigt") og af de planlagte opgaver. Starter bagefter den løbende hentning, hvis den ikke kører.
