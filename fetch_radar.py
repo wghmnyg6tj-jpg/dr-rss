@@ -104,6 +104,7 @@ def main():
         what = attrs(grp["what"]) if "what" in grp else {}
         where = attrs(h["where"]) if "where" in h else {}
         topwhat = attrs(h["what"]) if "what" in h else {}
+    what = {**topwhat, **what}  # DMI lægger gain/offset/nodata/undetect i den øverste "what"
     meta["odim"] = {"what": what, "where": {k: v for k, v in where.items() if k != "projdef"}, "projdef": where.get("projdef"), "top": topwhat,
                     "shape": list(raw.shape), "raw_min": float(raw.min()), "raw_max": float(raw.max())}
     def fnum(v, d):
