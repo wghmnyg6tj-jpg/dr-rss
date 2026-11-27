@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T18:06+00:00",
+ "generated": "2026-11-27T18:12+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Stjernepar går fra hinanden",
+     "link": "https://ekstrabladet.dk/underholdning/udlandkendte/stjernepar-gaar-fra-hinanden-afbryder-forlovelsen/11368056",
+     "published": "2026-11-27T18:09+00:00",
+     "summary": "Thom Evans afslører det tunge brud på Instagram og skriver, at han respekterer Nicole Scherzingers beslutning om at gå hver til sit"
+    },
+    {
      "title": "Tredobbelt drabsforsøg: Derfor ville LTF dræbe Patrick Nielsen",
      "link": "https://ekstrabladet.dk/krimi/tredobbelt-drabsforsoeg-derfor-ville-ltf-draebe-patrick-nielsen/11367590",
      "published": "2026-11-27T17:55+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/nyheder/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek/11367999",
      "published": "2026-11-27T17:14+00:00",
      "summary": "Gymnasieskoler og andre organisationer har været ramt af datalæk, hvor telefonnumre er blevet kompromitteret"
-    },
-    {
-     "title": "Svensk officer \nmistænkt i sag om \nhemmelige oplysninger",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/svensk-officer-mistaenkt-i-sag-om-hemmelige-oplysninger/11367392",
-     "published": "2026-11-27T17:11+00:00",
-     "summary": "Sveriges sikkerhedspoliti, Säpo, efterforsker en officer, der er mistænkt for ulovlig omgang med hemmelige oplysninger, som kan skade landets sikkerhed, hvis de bliver afsløret"
     }
    ]
   },
@@ -741,6 +741,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Mystisk politiaktion: Massivt til stede",
+     "link": "https://www.bt.dk/krimi/mystisk-politiaktion-massivt-til-stede?referrer=RSS",
+     "published": "2026-11-27T18:06+00:00",
+     "summary": "Fredag aften er politiet massivt til stede i Gentofte."
+    },
+    {
      "title": "15-årig dreng død efter ulykke med fem unge ved Borup",
      "link": "https://www.bt.dk/krimi/15-aarig-dreng-doed-efter-ulykke-med-fem-unge-ved-borup?referrer=RSS",
      "published": "2026-11-27T17:54+00:00",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/udland/trump-afsloerer-groenland-aendrede-alt?referrer=RSS",
      "published": "2026-11-27T16:31+00:00",
      "summary": "Donald Trump er absolut ikke glad for Nato i disse dage."
-    },
-    {
-     "title": "Utøya-overlever: Mette F. bruger Breiviks retorik - Nyt afsnit af Borgerlig Tabloid",
-     "link": "https://www.bt.dk/debat/utoeya-overlever-mette-f-bruger-breiviks-retorik-nyt-afsnit-af-borgerlig-tabloid?referrer=RSS",
-     "published": "2026-11-27T16:30+00:00",
-     "summary": "Borgerlig Tabloid har ringet til Norge. Hør det her!"
     }
    ]
   },
@@ -809,6 +809,12 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Mystisk politiaktion: Massivt til stede",
+     "link": "https://www.bt.dk/krimi/mystisk-politiaktion-massivt-til-stede?referrer=RSS",
+     "published": "2026-11-27T18:06+00:00",
+     "summary": "Fredag aften er politiet massivt til stede i Gentofte."
+    },
     {
      "title": "Sexolog ser det særligt nu: 'Utroskaben ligger nærmest i luften'",
      "link": "https://www.bt.dk/sex-og-samliv/sexolog-ser-det-saerligt-nu-utroskaben-ligger-naermest-i-luften?referrer=RSS",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/krimi/advarer-falske-smser-i-omloeb?referrer=RSS",
      "published": "2026-11-27T17:04+00:00",
      "summary": "Gymnasieskoler og andre organisationer har været ramt af datalæk, hvor telefonnumre er blevet kompromitteret."
-    },
-    {
-     "title": "Jørgen de Mylius hylder afdød kollega: 'De år ser jeg tilbage på med stor glæde'",
-     "link": "https://www.bt.dk/danske-kendte/joergen-de-mylius-hylder-afdoed-kollega-de-aar-ser-jeg-tilbage-paa-med-stor-glaede?referrer=RSS",
-     "published": "2026-11-27T17:00+00:00",
-     "summary": "Radioværten Jørn Hjorting er død i en alder af 95 år. Selvom de to DR-profiler var vidt forskellige, havde Jørgen de Mylius stor respekt for kollegaens helt særlige stil."
     }
    ]
   },
@@ -1932,8 +1932,81 @@
    "name": "Danmark",
    "topic": "danmark",
    "url": "https://cphpost.dk/feed/",
-   "status": "fejl: ParseError",
-   "items": []
+   "status": "ok",
+   "items": [
+    {
+     "title": "Audit shows tax errors for most content creators",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/audit-shows-tax-errors-for-most-content-creators/",
+     "published": "2026-11-27T15:02+00:00",
+     "summary": "Most social media content creators in Denmark make mistakes when they report their earnings to the government, according to Skattestyrelsen, the Danish Tax Agency, which is the national public authority responsible for assessing and …"
+    },
+    {
+     "title": "Thousands of Danish students’ phone numbers leaked",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/thousands-of-danish-students-phone-numbers-leaked/",
+     "published": "2026-11-27T15:01+00:00",
+     "summary": "At least 15,338 phone numbers belonging to high school students have been leaked in a data security breach. The incident was announced by Gymnasiefællesskabet, an association of Danish high schools. The education news outlet …"
+    },
+    {
+     "title": "Hackers breach US Air Force cloud platform",
+     "link": "https://cphpost.dk/2026-11-27/global/hackers-breach-us-air-force-cloud-platform/",
+     "published": "2026-11-27T15:00+00:00",
+     "summary": "Cybercriminals have broken into a central cloud platform used by the U.S. Air Force, according to three people with knowledge of the matter who spoke to the Reuters news agency. A large amount of data about tactical, personnel, and …"
+    },
+    {
+     "title": "Norwegian airline files for bankruptcy",
+     "link": "https://cphpost.dk/2026-11-27/global/norwegian-airline-files-for-bankruptcy/",
+     "published": "2026-11-27T15:00+00:00",
+     "summary": "The Norwegian low-cost airline Norse Atlantic has filed for bankruptcy, the company stated in an announcement on Friday. “The board of directors of Norse Atlantic Airways AS has made the difficult decision to file for bankruptcy despite …"
+    },
+    {
+     "title": "MobilePay sees fewer purchases this Black Friday",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/mobilepay-sees-fewer-purchases-this-black-friday/",
+     "published": "2026-11-27T15:00+00:00",
+     "summary": "The Danish payment company MobilePay recorded 20 percent fewer transactions on Black Friday this year compared to last year. MobilePay shared the numbers with Ritzau, the Danish news agency. While payments dropped on the day itself, the …"
+    },
+    {
+     "title": "Denmark gets its first female prosecutor general",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/denmark-gets-its-first-female-prosecutor-general/",
+     "published": "2026-11-27T15:00+00:00",
+     "summary": "Caroline Østergaard Nielsen has been named Denmark’s new Director of Public Prosecutions. She has already been serving in the role since August 1, after the former director, Lars Boje Nielsen, left the post to become the National …"
+    },
+    {
+     "title": "Your guide for staying warm and dry through the Danish winter",
+     "link": "https://cphpost.dk/2026-11-27/life-in-denmark/your-guide-for-staying-warm-and-dry-through-the-danish-winter/",
+     "published": "2026-11-27T14:30+00:00",
+     "summary": "From wool layers to waterproof cycling gear, here’s how to stay warm and dry through a typical winter in Denmark."
+    },
+    {
+     "title": "France’s economy shrank more than first estimated in third quarter",
+     "link": "https://cphpost.dk/2026-11-27/global/frances-economy-shrank-more-than-first-estimated-in-third-quarter/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "France’s economy contracted by 0.2% in the third quarter, a larger decline than initially estimated, as falling business investment weighed on growth. The national statistics agency, Insee, revised the figure Friday from its earlier …"
+    },
+    {
+     "title": "Frederiksen defends Denmark’s refusal to split from allies in EU budget talks",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/frederiksen-defends-denmarks-refusal-to-split-from-allies-in-eu-budget-talks/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "Prime Minister Mette Frederiksen defended Denmark’s decision to refuse further small-group negotiations at this week’s European Union budget summit, saying the country and six allies wanted to negotiate together. The summit in Brussels …"
+    },
+    {
+     "title": "Denmark’s last autumn weekend to bring clouds, near-freezing temperatures and some sun",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/denmarks-last-autumn-weekend-to-bring-clouds-near-freezing-temperatures-and-some-sun/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "Denmark will have a mostly cloudy final weekend of autumn, with occasional sunshine and a chance of rain or sleet, according to the Danish Meteorological Institute, DMI. “It is completely normal November weather, with signs that we are …"
+    },
+    {
+     "title": "Christmas cookies and cakes recalled over possible toxin contamination in flour",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/christmas-cookies-and-cakes-recalled-over-possible-toxin-contamination-in-flour/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "Cookies and Christmas cakes sold across Denmark are being recalled because they were made with flour that may contain elevated levels of mycotoxins, the Danish Veterinary and Food Administration said. The authority confirmed to Ritzau that …"
+    },
+    {
+     "title": "Norse Atlantic says leases for all 12 aircraft have been terminated",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/norse-atlantic-says-leases-for-all-12-aircraft-have-been-terminated/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "Norse Atlantic said Friday that lease agreements for all 12 of its aircraft have been terminated as the Norwegian low-cost airline seeks funding to avoid bankruptcy. The company disputes the validity of the termination, according to a …"
+    }
+   ]
   }
  ]
 }
