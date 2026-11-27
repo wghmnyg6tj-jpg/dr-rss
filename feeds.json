@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T16:49+00:00",
+ "generated": "2026-11-27T16:59+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -513,6 +513,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Datalæk hos bilgigant: 90.000 kan være ramt",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/datalaek-hos-bilgigant-90.000-kan-vaere-ramt/11367974",
+     "published": "2026-11-27T16:55+00:00"
+    },
+    {
+     "title": "Jørgen de Mylius i sorg: \n- Han gik all in",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/joergen-de-mylius-i-sorg-han-gik-all-in/11367923",
+     "published": "2026-11-27T16:49+00:00"
+    },
+    {
      "title": "Ny skade for Bayern problemsbarn",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/tyskfodbold/ny-skade-rammer-musiala-midt-i-speget-kontraktdebat/11367904",
      "published": "2026-11-27T16:34+00:00"
@@ -551,16 +561,6 @@
      "title": "Afslører diagnose: - Jeg hørte stemmer",
      "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/tyson-fury-afsloerer-alvorlig-diagnose-jeg-hoerte-stemmer/11363431",
      "published": "2026-11-27T15:25+00:00"
-    },
-    {
-     "title": "Jørn Hjorting er død",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/joern-hjorting-er-doed/11367884",
-     "published": "2026-11-27T15:12+00:00"
-    },
-    {
-     "title": "'Jeg ved, jeg \nsagde nej'",
-     "link": "https://ekstrabladet.dk/krimi/politikersoen-tiltalt-offer-sagde-nej-flere-gange/11367606",
-     "published": "2026-11-27T15:04+00:00"
     }
    ]
   },
@@ -571,6 +571,11 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Datalæk hos bilgigant: 90.000 kan være ramt",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/datalaek-hos-bilgigant-90.000-kan-vaere-ramt/11367974",
+     "published": "2026-11-27T16:55+00:00"
+    },
     {
      "title": "Styrelse: Flere organisationer kan være ramt af nyt sikkerhedsbrud",
      "link": "https://ekstrabladet.dk/nyheder/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-nyt-sikkerhedsbrud/11367941",
@@ -588,7 +593,7 @@
     },
     {
      "title": "Jørn Hjorting er død",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/joern-hjorting-er-doed/11367884",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/joern-hjorting-er-doed/11367884",
      "published": "2026-11-27T15:12+00:00"
     },
     {
@@ -615,11 +620,6 @@
      "title": "Reuters: \nHackere \nrammer \nUSA's flyvevåben",
      "link": "https://ekstrabladet.dk/nyheder/reuters-hackere-rammer-usas-flyvevaaben/11367507",
      "published": "2026-11-27T12:35+00:00"
-    },
-    {
-     "title": "Slår alarm! \nFlere lande \ni overhængende fare",
-     "link": "https://ekstrabladet.dk/nyheder/kritisk-flere-lande-i-overhaengende-fare-for-hungersnoed/11367591",
-     "published": "2026-11-27T12:03+00:00"
     }
    ]
   },
@@ -630,6 +630,11 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Datatilsynet kritiserer Familieretshuset efter 47 sikkerhedsbrud",
+     "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-sikkerhedsbrud?referrer=RSS",
+     "published": "2026-11-27T16:52+00:00"
+    },
     {
      "title": "Styrelse: Flere organisationer kan være ramt af datalæk hos teleudbyder",
      "link": "https://www.bt.dk/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek-hos-teleudbyder?referrer=RSS",
@@ -674,11 +679,6 @@
      "title": "Styrelse advarer: Kontakt med hårtabsmidler kan være dødelig for katte",
      "link": "https://www.bt.dk/samfund/styrelse-advarer-kontakt-med-haartabsmidler-kan-vaere-doedelig-for-katte?referrer=RSS",
      "published": "2026-11-27T15:46+00:00"
-    },
-    {
-     "title": "Tusinder af danske gymnasieelevers telefonnumre er lækket",
-     "link": "https://www.bt.dk/samfund/tusinder-af-danske-gymnasieelevers-telefonnumre-er-laekket?referrer=RSS",
-     "published": "2026-11-27T15:01+00:00"
     }
    ]
   },
@@ -689,6 +689,16 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Datatilsynet kritiserer Familieretshuset efter 47 sikkerhedsbrud",
+     "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-sikkerhedsbrud?referrer=RSS",
+     "published": "2026-11-27T16:52+00:00"
+    },
+    {
+     "title": "Salget er eksploderet: Steget 40 procent på to år",
+     "link": "https://www.bt.dk/privatoekonomi/salget-er-eksploderet-steget-40-procent-paa-to-aar?referrer=RSS",
+     "published": "2026-11-27T16:52+00:00"
+    },
     {
      "title": "Styrelse: Flere organisationer kan være ramt af datalæk hos teleudbyder",
      "link": "https://www.bt.dk/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek-hos-teleudbyder?referrer=RSS",
@@ -728,16 +738,6 @@
      "title": "Slår alarm i Storbritannien efter cyberangreb: Dybt alvorligt",
      "link": "https://www.bt.dk/udland/slaar-alarm-i-storbritannien-efter-cyberangreb-dybt-alvorligt?referrer=RSS",
      "published": "2026-11-27T16:00+00:00"
-    },
-    {
-     "title": "Radiovært Jørn Hjorting er død - 95 år",
-     "link": "https://www.bt.dk/samfund/radiovaert-joern-hjorting-er-doed-95-aar?referrer=RSS",
-     "published": "2026-11-27T15:57+00:00"
-    },
-    {
-     "title": "Ny skade rammer Musiala midt i speget kontraktdebat",
-     "link": "https://www.bt.dk/fodbold/ny-skade-rammer-musiala-midt-i-speget-kontraktdebat?referrer=RSS",
-     "published": "2026-11-27T15:57+00:00"
     }
    ]
   },
