@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T12:11+00:00",
+ "generated": "2026-11-27T12:21+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -93,7 +93,7 @@
    "status": "ok",
    "items": [
     {
-     "title": "Ny kritik af Familieretshuset",
+     "title": "Familieretshuset får igen kritik",
      "link": "https://www.dr.dk/nyheder/seneste/ny-kritik-af-familieretshuset",
      "published": "2026-11-27T12:07+00:00"
     },
@@ -513,6 +513,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "TV 2 tager 'Den sorte svane'-sigtelserne 'særdeles alvorligt'",
+     "link": "https://ekstrabladet.dk/underholdning/filmogtv/tv-2-tager-den-sorte-svane-sigtelserne-saerdeles-alvorligt/11367624",
+     "published": "2026-11-27T12:16+00:00"
+    },
+    {
      "title": "Officielt: Alexander Kamp forlader Uno-X",
      "link": "https://ekstrabladet.dk/sport/cykling/officielt-alexander-kamp-forlader-uno-x/11367485",
      "published": "2026-11-27T12:05+00:00"
@@ -556,11 +561,6 @@
      "title": "18-årig sigtet: 12 skud mod Patrick Nielsens kolonihavehus",
      "link": "https://ekstrabladet.dk/krimi/18-aarig-sigtet-12-skud-mod-patrick-nielsens-kolonihavehus/11367498",
      "published": "2026-11-27T11:24+00:00"
-    },
-    {
-     "title": "AGF-fans angreb journalist",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/agf-fans-skabte-uro-efter-europaeisk-triumf/11367442",
-     "published": "2026-11-27T11:23+00:00"
     }
    ]
   },
@@ -631,6 +631,31 @@
    "status": "ok",
    "items": [
     {
+     "title": "Landsret stadfæster dom for knivdrab på barndomsven",
+     "link": "https://www.bt.dk/krimi/landsret-stadfaester-dom-for-knivdrab-paa-barndomsven?referrer=RSS",
+     "published": "2026-11-27T12:20+00:00"
+    },
+    {
+     "title": "Danmark får første kvindelige rigsadvokat",
+     "link": "https://www.bt.dk/krimi/danmark-faar-foerste-kvindelige-rigsadvokat?referrer=RSS",
+     "published": "2026-11-27T12:20+00:00"
+    },
+    {
+     "title": "Reuters: Hackere trænger ind i cloudplatform for USA's flyvevåben",
+     "link": "https://www.bt.dk/udland/reuters-hackere-traenger-ind-i-cloudplatform-for-usas-flyvevaaben?referrer=RSS",
+     "published": "2026-11-27T12:16+00:00"
+    },
+    {
+     "title": "Anholdt og sigtet: Affyrede 12 skud mod eksbokser",
+     "link": "https://www.bt.dk/krimi/anholdt-og-sigtet-affyrede-12-skud-mod-eksbokser?referrer=RSS",
+     "published": "2026-11-27T12:16+00:00"
+    },
+    {
+     "title": "Datatilsynet kritiserer Familieretshuset efter 47 sikkerhedsbrud",
+     "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-sikkerhedsbrud?referrer=RSS",
+     "published": "2026-11-27T12:12+00:00"
+    },
+    {
      "title": "Mor kom gående med datter: Kæmpe drama på skolevej",
      "link": "https://www.bt.dk/krimi/mor-kom-gaaende-med-datter-kaempe-drama-paa-skolevej?referrer=RSS",
      "published": "2026-11-27T12:10+00:00"
@@ -646,21 +671,6 @@
      "published": "2026-11-27T12:07+00:00"
     },
     {
-     "title": "Danmark får første kvindelige rigsadvokat",
-     "link": "https://www.bt.dk/krimi/danmark-faar-foerste-kvindelige-rigsadvokat?referrer=RSS",
-     "published": "2026-11-27T12:06+00:00"
-    },
-    {
-     "title": "Landsret stadfæster dom for knivdrab på barndomsven",
-     "link": "https://www.bt.dk/krimi/landsret-stadfaester-dom-for-knivdrab-paa-barndomsven?referrer=RSS",
-     "published": "2026-11-27T12:02+00:00"
-    },
-    {
-     "title": "Datatilsynet kritiserer Familieretshuset efter 47 brud",
-     "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-brud?referrer=RSS",
-     "published": "2026-11-27T11:59+00:00"
-    },
-    {
      "title": "Kontrol viser skattefejl hos langt de fleste content creators",
      "link": "https://www.bt.dk/erhverv/kontrol-viser-skattefejl-hos-langt-de-fleste-content-creators?referrer=RSS",
      "published": "2026-11-27T11:41+00:00"
@@ -669,16 +679,6 @@
      "title": "Skole underrettede om udlandsophold - først fire år senere vendte pige hjem",
      "link": "https://www.bt.dk/krimi/skole-underrettede-om-udlandsophold-foerst-fire-aar-senere-vendte-pige-hjem?referrer=RSS",
      "published": "2026-11-27T11:38+00:00"
-    },
-    {
-     "title": "26-årig mand fængsles for bombesprængning i Valby",
-     "link": "https://www.bt.dk/krimi/26-aarig-mand-faengsles-for-bombespraengning-i-valby?referrer=RSS",
-     "published": "2026-11-27T11:38+00:00"
-    },
-    {
-     "title": "Brand i guldmine: 27 personer fanget",
-     "link": "https://www.bt.dk/udland/brand-i-guldmine-27-personer-fanget?referrer=RSS",
-     "published": "2026-11-27T11:37+00:00"
     }
    ]
   },
@@ -690,6 +690,36 @@
    "status": "ok",
    "items": [
     {
+     "title": "Landsret stadfæster dom for knivdrab på barndomsven",
+     "link": "https://www.bt.dk/krimi/landsret-stadfaester-dom-for-knivdrab-paa-barndomsven?referrer=RSS",
+     "published": "2026-11-27T12:20+00:00"
+    },
+    {
+     "title": "Danmark får første kvindelige rigsadvokat",
+     "link": "https://www.bt.dk/krimi/danmark-faar-foerste-kvindelige-rigsadvokat?referrer=RSS",
+     "published": "2026-11-27T12:20+00:00"
+    },
+    {
+     "title": "Reuters: Hackere trænger ind i cloudplatform for USA's flyvevåben",
+     "link": "https://www.bt.dk/udland/reuters-hackere-traenger-ind-i-cloudplatform-for-usas-flyvevaaben?referrer=RSS",
+     "published": "2026-11-27T12:16+00:00"
+    },
+    {
+     "title": "Anholdt og sigtet: Affyrede 12 skud mod eksbokser",
+     "link": "https://www.bt.dk/krimi/anholdt-og-sigtet-affyrede-12-skud-mod-eksbokser?referrer=RSS",
+     "published": "2026-11-27T12:16+00:00"
+    },
+    {
+     "title": "Datatilsynet kritiserer Familieretshuset efter 47 sikkerhedsbrud",
+     "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-sikkerhedsbrud?referrer=RSS",
+     "published": "2026-11-27T12:12+00:00"
+    },
+    {
+     "title": "Årets boksekamp i fare: Har fået flere diagnoser",
+     "link": "https://www.bt.dk/sport/aarets-boksekamp-i-fare-har-faaet-flere-diagnoser?referrer=RSS",
+     "published": "2026-11-27T12:12+00:00"
+    },
+    {
      "title": "Mor kom gående med datter: Kæmpe drama på skolevej",
      "link": "https://www.bt.dk/krimi/mor-kom-gaaende-med-datter-kaempe-drama-paa-skolevej?referrer=RSS",
      "published": "2026-11-27T12:10+00:00"
@@ -705,39 +735,9 @@
      "published": "2026-11-27T12:07+00:00"
     },
     {
-     "title": "Danmark får første kvindelige rigsadvokat",
-     "link": "https://www.bt.dk/krimi/danmark-faar-foerste-kvindelige-rigsadvokat?referrer=RSS",
-     "published": "2026-11-27T12:06+00:00"
-    },
-    {
      "title": "Snookerlegende revser sporten: De klæder sig forfærdeligt",
      "link": "https://www.bt.dk/oevrig-sport/snookerlegende-revser-sporten-de-klaeder-sig-forfaerdeligt?referrer=RSS",
      "published": "2026-11-27T12:03+00:00"
-    },
-    {
-     "title": "Landsret stadfæster dom for knivdrab på barndomsven",
-     "link": "https://www.bt.dk/krimi/landsret-stadfaester-dom-for-knivdrab-paa-barndomsven?referrer=RSS",
-     "published": "2026-11-27T12:02+00:00"
-    },
-    {
-     "title": "Datatilsynet kritiserer Familieretshuset efter 47 brud",
-     "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-brud?referrer=RSS",
-     "published": "2026-11-27T11:59+00:00"
-    },
-    {
-     "title": "Kendt kommentator afslører: Har haft strid med Ferguson i 30 år",
-     "link": "https://www.bt.dk/fodbold/kendt-kommentator-afsloerer-har-haft-strid-med-ferguson-i-30-aar?referrer=RSS",
-     "published": "2026-11-27T11:49+00:00"
-    },
-    {
-     "title": "Kontrol viser skattefejl hos langt de fleste content creators",
-     "link": "https://www.bt.dk/erhverv/kontrol-viser-skattefejl-hos-langt-de-fleste-content-creators?referrer=RSS",
-     "published": "2026-11-27T11:41+00:00"
-    },
-    {
-     "title": "Skole underrettede om udlandsophold - først fire år senere vendte pige hjem",
-     "link": "https://www.bt.dk/krimi/skole-underrettede-om-udlandsophold-foerst-fire-aar-senere-vendte-pige-hjem?referrer=RSS",
-     "published": "2026-11-27T11:38+00:00"
     }
    ]
   },
