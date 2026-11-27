@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T20:17+00:00",
+ "generated": "2026-11-27T20:28+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Slettede 58.000 mails:\nEr overdraget\ntil politiet",
+     "link": "https://ekstrabladet.dk/forbrug/Teknologi/velkommen-skandalen-58.000-mails-slettet-kort-foer-konkurs/11368160",
+     "published": "2026-11-27T20:25+00:00",
+     "summary": "Nye dokumenter fra det konkursramte elselskab Velkommen afslører, hvordan tusindvis af mails og beskeder blev slettet i tiden omkring konkursen"
+    },
+    {
+     "title": "Jesper Asholt helt nyforelsket: \n- Det kilder i maven",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/jesper-asholt-helt-nyforelsket-det-kilder-i-maven/11365805",
+     "published": "2026-11-27T20:23+00:00",
+     "summary": "Skuespilleren i den nye TV 2-julekalender 'I nissernes tjeneste', Jesper Asholt, kan ikke komme ned fra den lyserøde sky"
+    },
+    {
      "title": "Her er virkelighedens\nJason og Lucia",
      "link": "https://ekstrabladet.dk/forbrug/Teknologi/gaar-verden-rundt-her-er-de-i-virkeligheden/11368082",
      "published": "2026-11-27T20:15+00:00",
@@ -649,18 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/broendby-maatte-noejes-mod-soenderjyske/11368136",
      "published": "2026-11-27T19:58+00:00",
      "summary": "Brøndby IF pressede på for sejren, men seneste sejr mod Sønderjyske ligger stadig otte år tilbage"
-    },
-    {
-     "title": "Stort politiopbud på adresse i Gentofte",
-     "link": "https://ekstrabladet.dk/krimi/massiv-politiaktion-i-gentofte-stoerre-omraade-afspaerret/11368088",
-     "published": "2026-11-27T19:48+00:00",
-     "summary": "Politiet har afspærret et større område i Gentofte og er massivt til stede ved Fuglegårdsvænget"
-    },
-    {
-     "title": "Pludselig stod hun uden løn og klub: - Det var topfrustrerende!",
-     "link": "https://ekstrabladet.dk/sport/haandbold/sofie-bardrum-efter-kaotisk-ophold-alt-blev-revet-op/11365955",
-     "published": "2026-11-27T19:40+00:00",
-     "summary": "Beslutningen potentielt kunne have kostet hende en EM-plads, men den danske landsholdsspiller var ikke i tvivl"
     }
    ]
   },
@@ -741,16 +741,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Teleudbyder kender endnu ikke omfanget af cyberangreb",
+     "link": "https://www.bt.dk/samfund/teleudbyder-kender-endnu-ikke-omfanget-af-cyberangreb?referrer=RSS",
+     "published": "2026-11-27T20:21+00:00",
+     "summary": "OnlineCity bekræfter cyberangreb mod over 15.000 gymnasieelever, men det samlede omfang er endnu ukendt."
+    },
+    {
      "title": "Vild udvikling: Realitydeltagers mor mistænkes for rolle i Pokemon-røveri",
      "link": "https://www.bt.dk/krimi/vild-udviklingrealitydeltagers-mor-mistaenkes-for-rolle-i-pokemon-roeveri?referrer=RSS",
      "published": "2026-11-27T20:09+00:00",
      "summary": "Der var flere familiemedlemmer til stede under torsdagens grundlovsforhør."
-    },
-    {
-     "title": "Teleudbyder kender endnu ikke omfanget af cyberangreb",
-     "link": "https://www.bt.dk/samfund/teleudbyder-kender-endnu-ikke-omfanget-af-cyberangreb?referrer=RSS",
-     "published": "2026-11-27T20:08+00:00",
-     "summary": "OnlineCity bekræfter cyberangreb mod over 15.000 gymnasieelever, men det samlede omfang er endnu ukendt."
     },
     {
      "title": "Styrelse: Flere organisationer kan være ramt af datalæk hos teleudbyder",
@@ -810,16 +810,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Teleudbyder kender endnu ikke omfanget af cyberangreb",
+     "link": "https://www.bt.dk/samfund/teleudbyder-kender-endnu-ikke-omfanget-af-cyberangreb?referrer=RSS",
+     "published": "2026-11-27T20:21+00:00",
+     "summary": "OnlineCity bekræfter cyberangreb mod over 15.000 gymnasieelever, men det samlede omfang er endnu ukendt."
+    },
+    {
      "title": "Vild udvikling: Realitydeltagers mor mistænkes for rolle i Pokemon-røveri",
      "link": "https://www.bt.dk/krimi/vild-udviklingrealitydeltagers-mor-mistaenkes-for-rolle-i-pokemon-roeveri?referrer=RSS",
      "published": "2026-11-27T20:09+00:00",
      "summary": "Der var flere familiemedlemmer til stede under torsdagens grundlovsforhør."
-    },
-    {
-     "title": "Teleudbyder kender endnu ikke omfanget af cyberangreb",
-     "link": "https://www.bt.dk/samfund/teleudbyder-kender-endnu-ikke-omfanget-af-cyberangreb?referrer=RSS",
-     "published": "2026-11-27T20:08+00:00",
-     "summary": "OnlineCity bekræfter cyberangreb mod over 15.000 gymnasieelever, men det samlede omfang er endnu ukendt."
     },
     {
      "title": "Patrick Mortensen redder point til Brøndby i Haderslev",
