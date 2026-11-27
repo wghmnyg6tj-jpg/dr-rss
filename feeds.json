@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T17:20+00:00",
+ "generated": "2026-11-27T17:30+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -177,6 +177,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Charlottes sag blev afgjort af AI: Nu går ombudsmand ind i sagen",
+     "link": "https://www.dr.dk/nyheder/indland/charlottes-sag-blev-afgjort-af-ai-nu-gaar-ombudsmand-ind-i-sagen",
+     "published": "2026-11-27T17:21+00:00"
+    },
+    {
+     "title": "Radiokolleger mindes Jørn Hjorting: 'Det er jo dansktoppens far, der er gået bort i dag'",
+     "link": "https://www.dr.dk/nyheder/indland/radiokolleger-mindes-joern-hjorting-det-er-jo-dansktoppens-far-der-er-gaaet-bort-i-dag",
+     "published": "2026-11-27T17:20+00:00"
+    },
+    {
      "title": "Sparemor køber alle julegaver til en fjerdedel af prisen",
      "link": "https://www.dr.dk/nyheder/indland/reels/sparemor-koeber-alle-julegaver-til-en-fjerdedel-af-prisen",
      "published": "2026-11-27T15:30+00:00"
@@ -240,16 +250,6 @@
      "title": "DF: Borgmester har været 'naiv' angående kønsopdelte bassiner",
      "link": "https://www.dr.dk/nyheder/indland/df-borgmester-har-vaeret-naiv-angaaende-koensopdelte-bassiner",
      "published": "2026-11-27T06:32+00:00"
-    },
-    {
-     "title": "'Voldsom sag' for retten i dag: Far anklaget for sende datter væk i fire år og mishandle hende",
-     "link": "https://www.dr.dk/nyheder/indland/voldsom-sag-retten-i-dag-far-anklaget-sende-datter-vaek-i-fire-aar-og-mishandle-hende",
-     "published": "2026-11-27T05:58+00:00"
-    },
-    {
-     "title": "KORRESPONDENT Black Friday er butikkernes hadegave til dig",
-     "link": "https://www.dr.dk/nyheder/penge/korrespondent-black-friday-er-butikkernes-hadegave-til-dig",
-     "published": "2026-11-27T05:40+00:00"
     }
    ]
   },
@@ -345,7 +345,7 @@
    "status": "ok",
    "items": [
     {
-     "title": "Enhedslisten vil ændre reglerne for kirkelige vielser – Præsteforeningen kalder det unødvendigt",
+     "title": "Enhedslisten mener ikke, at kirkelige vielser skal være juridisk gyldige",
      "link": "https://www.dr.dk/nyheder/politik/enhedslisten-vil-aendre-reglerne-kirkelige-vielser-praesteforeningen-kalder-det-unoedvendigt",
      "published": "2026-11-27T15:00+00:00"
     },
@@ -513,6 +513,21 @@
    "status": "ok",
    "items": [
     {
+     "title": "Ragnvald trist over Hjortings død: \n- Der er så mange, der forsvinder nu",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/ragnvald-trist-over-hjortings-doed-der-er-saa-mange-der-forsvinder-nu/11367991",
+     "published": "2026-11-27T17:24+00:00"
+    },
+    {
+     "title": "Stjernen tigger om en mio.",
+     "link": "https://ekstrabladet.dk/sport/anden_sport/atletik/dopingdrama-tigger-om-en-million/11364867",
+     "published": "2026-11-27T17:24+00:00"
+    },
+    {
+     "title": "Kørekorts\ngak-gak på\nKærshovedgård",
+     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/koerekorts-gak-gak-paa-kaershovedgaard/11365960",
+     "published": "2026-11-27T17:20+00:00"
+    },
+    {
      "title": "Spejderkorps udsender advarsel om falske sms'er efter datalæk",
      "link": "https://ekstrabladet.dk/nyheder/samfund/spejderkorps-udsender-advarsel-om-falske-smser-efter-datalaek/11367999",
      "published": "2026-11-27T17:14+00:00"
@@ -546,21 +561,6 @@
      "title": "Sigtet for røveri: Solgte Pokémon kort efter",
      "link": "https://ekstrabladet.dk/krimi/sigtet-solgte-pokemon-kort-efter-roeveri/11367653",
      "published": "2026-11-27T16:33+00:00"
-    },
-    {
-     "title": "Chefer falder \nsom fluer hos\ndansk gigant",
-     "link": "https://ekstrabladet.dk/penge/chefer-falder-som-fluer-kaempe-udskillelse-vaekker-bekymring/11367079",
-     "published": "2026-11-27T16:23+00:00"
-    },
-    {
-     "title": "Styrelse: Flere organisationer kan være ramt af nyt sikkerhedsbrud",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-nyt-sikkerhedsbrud/11367941",
-     "published": "2026-11-27T16:09+00:00"
-    },
-    {
-     "title": "Uheld spærrer den Fynske Motorvej",
-     "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/uheld-spaerrer-den-fynske-motorvej/11367918",
-     "published": "2026-11-27T15:50+00:00"
     }
    ]
   },
@@ -571,6 +571,11 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Kørekorts\ngak-gak på\nKærshovedgård",
+     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/koerekorts-gak-gak-paa-kaershovedgaard/11365960",
+     "published": "2026-11-27T17:20+00:00"
+    },
     {
      "title": "Spejderkorps udsender advarsel om falske sms'er efter datalæk",
      "link": "https://ekstrabladet.dk/nyheder/samfund/spejderkorps-udsender-advarsel-om-falske-smser-efter-datalaek/11367999",
@@ -615,11 +620,6 @@
      "title": "Tusindvis \ntelefonnumre \nlækket",
      "link": "https://ekstrabladet.dk/nyheder/samfund/tusinder-af-danske-gymnasieelevers-telefonnumre-er-laekket/11367780",
      "published": "2026-11-27T13:50+00:00"
-    },
-    {
-     "title": "Ulven kan blive skudt: Ny plan klar",
-     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/minister-tager-nyt-skridt-mod-fremtidig-ulvejagt-i-danmark/11367709",
-     "published": "2026-11-27T13:15+00:00"
     }
    ]
   },
@@ -630,6 +630,16 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "15-årig afgået ved døden efter trafikulykke",
+     "link": "https://www.bt.dk/krimi/15-aarig-afgaaet-ved-doeden-efter-trafikulykke?referrer=RSS",
+     "published": "2026-11-27T17:29+00:00"
+    },
+    {
+     "title": "Styrelse: Flere organisationer kan være ramt af datalæk hos teleudbyder",
+     "link": "https://www.bt.dk/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek-hos-teleudbyder?referrer=RSS",
+     "published": "2026-11-27T17:26+00:00"
+    },
     {
      "title": "Spejderkorps udsender advarsel om falske sms'er efter datalæk",
      "link": "https://www.bt.dk/samfund/spejderkorps-udsender-advarsel-om-falske-smser-efter-datalaek?referrer=RSS",
@@ -651,11 +661,6 @@
      "published": "2026-11-27T16:52+00:00"
     },
     {
-     "title": "Styrelse: Flere organisationer kan være ramt af datalæk hos teleudbyder",
-     "link": "https://www.bt.dk/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek-hos-teleudbyder?referrer=RSS",
-     "published": "2026-11-27T16:45+00:00"
-    },
-    {
      "title": "Trump afslører: Grønland ændrede alt",
      "link": "https://www.bt.dk/udland/trump-afsloerer-groenland-aendrede-alt?referrer=RSS",
      "published": "2026-11-27T16:31+00:00"
@@ -674,11 +679,6 @@
      "title": "'De synes han er klam': Vidner afgiver forklaring i sagen mod politikersøn",
      "link": "https://www.bt.dk/krimi/de-synes-han-er-klam-vidner-afgiver-forklaring-i-sagen-mod-politikersoen?referrer=RSS",
      "published": "2026-11-27T16:12+00:00"
-    },
-    {
-     "title": "Styrelse: Flere organisationer kan være ramt af datalæk",
-     "link": "https://www.bt.dk/krimi/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek?referrer=RSS",
-     "published": "2026-11-27T16:06+00:00"
     }
    ]
   },
@@ -689,6 +689,11 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Styrelse: Flere organisationer kan være ramt af datalæk hos teleudbyder",
+     "link": "https://www.bt.dk/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek-hos-teleudbyder?referrer=RSS",
+     "published": "2026-11-27T17:26+00:00"
+    },
     {
      "title": "Spejderkorps udsender advarsel om falske sms'er efter datalæk",
      "link": "https://www.bt.dk/samfund/spejderkorps-udsender-advarsel-om-falske-smser-efter-datalaek?referrer=RSS",
@@ -718,11 +723,6 @@
      "title": "Salget er eksploderet: Steget 40 procent på to år",
      "link": "https://www.bt.dk/privatoekonomi/salget-er-eksploderet-steget-40-procent-paa-to-aar?referrer=RSS",
      "published": "2026-11-27T16:52+00:00"
-    },
-    {
-     "title": "Styrelse: Flere organisationer kan være ramt af datalæk hos teleudbyder",
-     "link": "https://www.bt.dk/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek-hos-teleudbyder?referrer=RSS",
-     "published": "2026-11-27T16:45+00:00"
     },
     {
      "title": "Trump afslører: Grønland ændrede alt",
