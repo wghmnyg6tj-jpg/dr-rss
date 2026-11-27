@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T20:28+00:00",
+ "generated": "2026-11-27T20:38+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Voldtægtssag: \nHentede offer \ni sportsvogn",
+     "link": "https://ekstrabladet.dk/krimi/politikersoen-tiltalt-hentede-offer-i-sportsvogn/11367964",
+     "published": "2026-11-27T20:37+00:00",
+     "summary": "Samme dag som en politikersøn blev dømt for voldtægt i byretten, modtog politiet en anmeldelse om endnu en voldtægt. Nu er han igen på anklagebænken"
+    },
+    {
+     "title": "Stjernen tigger om en mio.",
+     "link": "https://ekstrabladet.dk/sport/anden_sport/atletik/dopingdrama-tigger-om-en-million/11364867",
+     "published": "2026-11-27T20:29+00:00",
+     "summary": "Den tyske sprintstjerne Owen Ansah risikerer fire års karantæne og beder nu offentligheden om godt 1,1 mio. kroner til at redde karrieren"
+    },
+    {
      "title": "Slettede 58.000 mails:\nEr overdraget\ntil politiet",
      "link": "https://ekstrabladet.dk/forbrug/Teknologi/velkommen-skandalen-58.000-mails-slettet-kort-foer-konkurs/11368160",
      "published": "2026-11-27T20:25+00:00",
@@ -649,18 +661,6 @@
      "link": "https://ekstrabladet.dk/musik/intlalbum/bliver-ikke-stoerre-legende-helt-paa-maanen/11362043",
      "published": "2026-11-27T20:00+00:00",
      "summary": "Peter Gabriel har astronomiske ambitioner på karrierens længste album, der engageret sonderer hans musikalske verdensrum uden at lande sikkert"
-    },
-    {
-     "title": "Efter togkaos: Borgmestre sender appel",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/efter-togkaos-borgmestre-sender-appel-til-folketinget/11367320",
-     "published": "2026-11-27T19:58+00:00",
-     "summary": "Tre fynske borgmestre sender nu en appel til de fynskvalgte folketingsmedlemmer. De frygter, at et midlertidigt togstop kan få varige konsekvenser for de små stationer"
-    },
-    {
-     "title": "Forbandelsen varer ved",
-     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/broendby-maatte-noejes-mod-soenderjyske/11368136",
-     "published": "2026-11-27T19:58+00:00",
-     "summary": "Brøndby IF pressede på for sejren, men seneste sejr mod Sønderjyske ligger stadig otte år tilbage"
     }
    ]
   },
@@ -741,6 +741,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Beder hele Aarhus om hjælp",
+     "link": "https://www.bt.dk/krimi/beder-hele-aarhus-om-hjaelp?referrer=RSS",
+     "published": "2026-11-27T20:36+00:00",
+     "summary": "Politiet søger en 80-årig dement mand."
+    },
+    {
+     "title": "Zelenskyj er på Putins dødsliste: Det vil få store konsekvenser",
+     "link": "https://www.bt.dk/udland/zelenskyj-er-paa-putins-doedsliste-det-vil-faa-store-konsekvenser?referrer=RSS",
+     "published": "2026-11-27T20:36+00:00",
+     "summary": "Hvis Rusland slår den ukrainske præsident ihjel, vil det få store konsekvenser for resten af verden."
+    },
+    {
      "title": "Teleudbyder kender endnu ikke omfanget af cyberangreb",
      "link": "https://www.bt.dk/samfund/teleudbyder-kender-endnu-ikke-omfanget-af-cyberangreb?referrer=RSS",
      "published": "2026-11-27T20:21+00:00",
@@ -787,18 +799,6 @@
      "link": "https://www.bt.dk/udland/putin-praesenterer-ny-atomubaad?referrer=RSS",
      "published": "2026-11-27T19:27+00:00",
      "summary": "Ud over den nye atomdrevne ubåd \"Perm\", som flåden fik overdraget ved en ceremoni fredag, er fem mere på vej."
-    },
-    {
-     "title": "Blotter fortsat på spil i Silkeborg: 'Ekstra opmærksomme'",
-     "link": "https://www.bt.dk/krimi/blotter-fortsat-paa-spil-i-silkeborg-ekstra-opmaerksomme?referrer=RSS",
-     "published": "2026-11-27T19:11+00:00",
-     "summary": "Politiet har endnu ikke pågrebet manden, er har blottet sig foran flere børn."
-    },
-    {
-     "title": "MobilePay omsætter mindre på black friday end sidste år",
-     "link": "https://www.bt.dk/samfund/mobilepay-omsaetter-mindre-paa-black-friday-end-sidste-aar?referrer=RSS",
-     "published": "2026-11-27T19:10+00:00",
-     "summary": "MobilePays omsætning på black friday er faldet 27 procent fra sidste år, men ugerne op til var mere travle."
     }
    ]
   },
@@ -809,6 +809,18 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Beder hele Aarhus om hjælp",
+     "link": "https://www.bt.dk/krimi/beder-hele-aarhus-om-hjaelp?referrer=RSS",
+     "published": "2026-11-27T20:36+00:00",
+     "summary": "Politiet søger en 80-årig dement mand."
+    },
+    {
+     "title": "Zelenskyj er på Putins dødsliste: Det vil få store konsekvenser",
+     "link": "https://www.bt.dk/udland/zelenskyj-er-paa-putins-doedsliste-det-vil-faa-store-konsekvenser?referrer=RSS",
+     "published": "2026-11-27T20:36+00:00",
+     "summary": "Hvis Rusland slår den ukrainske præsident ihjel, vil det få store konsekvenser for resten af verden."
+    },
     {
      "title": "Teleudbyder kender endnu ikke omfanget af cyberangreb",
      "link": "https://www.bt.dk/samfund/teleudbyder-kender-endnu-ikke-omfanget-af-cyberangreb?referrer=RSS",
@@ -856,18 +868,6 @@
      "link": "https://www.bt.dk/udland/politiet-med-tragisk-nytkelsey-hunter-fundet-doed?referrer=RSS",
      "published": "2026-11-27T19:29+00:00",
      "summary": "Politiet bekræfter, at den kvinde, som de fandt onsdag, er den savnede kvinde, Kelsey Hunter."
-    },
-    {
-     "title": "Putin præsenterer ny atomubåd",
-     "link": "https://www.bt.dk/udland/putin-praesenterer-ny-atomubaad?referrer=RSS",
-     "published": "2026-11-27T19:27+00:00",
-     "summary": "Ud over den nye atomdrevne ubåd \"Perm\", som flåden fik overdraget ved en ceremoni fredag, er fem mere på vej."
-    },
-    {
-     "title": "Slut med hjemmearbejde hos storbank",
-     "link": "https://www.bt.dk/virksomheder/slut-med-hjemmearbejde-hos-storbank?referrer=RSS",
-     "published": "2026-11-27T19:24+00:00",
-     "summary": "To tredjedele af de danske medarbejde vil blive direkte berørt."
     }
    ]
   },
