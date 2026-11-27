@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T17:10+00:00",
+ "generated": "2026-11-27T17:20+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -513,6 +513,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Spejderkorps udsender advarsel om falske sms'er efter datalæk",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/spejderkorps-udsender-advarsel-om-falske-smser-efter-datalaek/11367999",
+     "published": "2026-11-27T17:14+00:00"
+    },
+    {
+     "title": "Svensk officer \nmistænkt i sag om \nhemmelige oplysninger",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/svensk-officer-mistaenkt-i-sag-om-hemmelige-oplysninger/11367392",
+     "published": "2026-11-27T17:11+00:00"
+    },
+    {
      "title": "'For dårlige til FC': Det gør ondt i maven",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/for-daarlige-til-fc-det-goer-ondt-i-maven/11367423",
      "published": "2026-11-27T17:06+00:00"
@@ -551,16 +561,6 @@
      "title": "Uheld spærrer den Fynske Motorvej",
      "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/uheld-spaerrer-den-fynske-motorvej/11367918",
      "published": "2026-11-27T15:50+00:00"
-    },
-    {
-     "title": "Et stykke sort Danmarkshistorie",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/et-stykke-sort-danmarkshistorie/11367038",
-     "published": "2026-11-27T15:40+00:00"
-    },
-    {
-     "title": "Gik amok i tog: Skyldig i 14 drabsforsøg",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/stak-ti-paa-tog-mod-london.-skyldig-i-14-drabsforsoeg/11367127",
-     "published": "2026-11-27T15:31+00:00"
     }
    ]
   },
@@ -571,6 +571,16 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Spejderkorps udsender advarsel om falske sms'er efter datalæk",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/spejderkorps-udsender-advarsel-om-falske-smser-efter-datalaek/11367999",
+     "published": "2026-11-27T17:14+00:00"
+    },
+    {
+     "title": "Svensk officer \nmistænkt i sag om \nhemmelige oplysninger",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/svensk-officer-mistaenkt-i-sag-om-hemmelige-oplysninger/11367392",
+     "published": "2026-11-27T17:11+00:00"
+    },
     {
      "title": "Datalæk hos bilgigant: 90.000 kan være ramt",
      "link": "https://ekstrabladet.dk/nyheder/samfund/datalaek-hos-bilgigant-90.000-kan-vaere-ramt/11367974",
@@ -610,16 +620,6 @@
      "title": "Ulven kan blive skudt: Ny plan klar",
      "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/minister-tager-nyt-skridt-mod-fremtidig-ulvejagt-i-danmark/11367709",
      "published": "2026-11-27T13:15+00:00"
-    },
-    {
-     "title": "Advarer: \nKan være \ndødeligt for katte",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/advarer-kan-vaere-doedeligt-for-katte/11367695",
-     "published": "2026-11-27T13:06+00:00"
-    },
-    {
-     "title": "Reuters: \nHackere \nrammer \nUSA's flyvevåben",
-     "link": "https://ekstrabladet.dk/nyheder/reuters-hackere-rammer-usas-flyvevaaben/11367507",
-     "published": "2026-11-27T12:35+00:00"
     }
    ]
   },
@@ -630,6 +630,16 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Spejderkorps udsender advarsel om falske sms'er efter datalæk",
+     "link": "https://www.bt.dk/samfund/spejderkorps-udsender-advarsel-om-falske-smser-efter-datalaek?referrer=RSS",
+     "published": "2026-11-27T17:16+00:00"
+    },
+    {
+     "title": "Butiksejer glad efter ny udvikling i Pokémon-røveri",
+     "link": "https://www.bt.dk/krimi/butiksejer-glad-efter-ny-udvikling-i-pokemon-roeveri?referrer=RSS",
+     "published": "2026-11-27T17:14+00:00"
+    },
     {
      "title": "Advarer: Falske SMS'er i omløb",
      "link": "https://www.bt.dk/krimi/advarer-falske-smser-i-omloeb?referrer=RSS",
@@ -669,16 +679,6 @@
      "title": "Styrelse: Flere organisationer kan være ramt af datalæk",
      "link": "https://www.bt.dk/krimi/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek?referrer=RSS",
      "published": "2026-11-27T16:06+00:00"
-    },
-    {
-     "title": "Slår alarm i Storbritannien efter cyberangreb: Dybt alvorligt",
-     "link": "https://www.bt.dk/udland/slaar-alarm-i-storbritannien-efter-cyberangreb-dybt-alvorligt?referrer=RSS",
-     "published": "2026-11-27T16:00+00:00"
-    },
-    {
-     "title": "Radiovært Jørn Hjorting er død - 95 år",
-     "link": "https://www.bt.dk/samfund/radiovaert-joern-hjorting-er-doed-95-aar?referrer=RSS",
-     "published": "2026-11-27T15:57+00:00"
     }
    ]
   },
@@ -689,6 +689,16 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Spejderkorps udsender advarsel om falske sms'er efter datalæk",
+     "link": "https://www.bt.dk/samfund/spejderkorps-udsender-advarsel-om-falske-smser-efter-datalaek?referrer=RSS",
+     "published": "2026-11-27T17:16+00:00"
+    },
+    {
+     "title": "Butiksejer glad efter ny udvikling i Pokémon-røveri",
+     "link": "https://www.bt.dk/krimi/butiksejer-glad-efter-ny-udvikling-i-pokemon-roeveri?referrer=RSS",
+     "published": "2026-11-27T17:14+00:00"
+    },
     {
      "title": "Advarer: Falske SMS'er i omløb",
      "link": "https://www.bt.dk/krimi/advarer-falske-smser-i-omloeb?referrer=RSS",
@@ -728,16 +738,6 @@
      "title": "BILLEDSERIE: Kessler består vægtkrav inden comebackkamp",
      "link": "https://www.bt.dk/sport/billedserie-kessler-bestaar-vaegtkrav-inden-comebackkamp?referrer=RSS",
      "published": "2026-11-27T16:21+00:00"
-    },
-    {
-     "title": "Flere uheld lammer trafikken på Fyn",
-     "link": "https://www.bt.dk/trafik/flere-uheld-lammer-trafikken-paa-fyn?referrer=RSS",
-     "published": "2026-11-27T16:14+00:00"
-    },
-    {
-     "title": "'De synes han er klam': Vidner afgiver forklaring i sagen mod politikersøn",
-     "link": "https://www.bt.dk/krimi/de-synes-han-er-klam-vidner-afgiver-forklaring-i-sagen-mod-politikersoen?referrer=RSS",
-     "published": "2026-11-27T16:12+00:00"
     }
    ]
   },
@@ -1119,6 +1119,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "The best Black Friday deals Ars could find",
+     "link": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+     "published": "2026-11-27T17:05+00:00"
+    },
+    {
      "title": "Intel faced a choice: Give Trump 10% or face the consequences",
      "link": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
      "published": "2026-11-27T12:05+00:00"
@@ -1187,11 +1192,6 @@
      "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
      "link": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
      "published": "2026-11-25T16:33+00:00"
-    },
-    {
-     "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
-     "link": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
-     "published": "2026-11-25T15:35+00:00"
     }
    ]
   },
