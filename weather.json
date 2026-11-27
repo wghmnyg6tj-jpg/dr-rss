@@ -1,6 +1,6 @@
 {
  "version": 2,
- "generated": "2026-11-27T13:25:08Z",
+ "generated": "2026-11-27T13:27:19Z",
  "status": {
   "lightning": "ok",
   "dmi_forecast": "ok",
@@ -20,7 +20,7 @@
     "metno": "ok"
    },
    "dmi_forecast": {
-    "fetched": "2026-11-27T13:25:08Z",
+    "fetched": "2026-11-27T13:27:19Z",
     "run": "2026-11-27T090000Z",
     "point": [
      12.49897620651484,
@@ -459,7 +459,7 @@
     }
    },
    "observations": {
-    "fetched": "2026-11-27T13:25:08Z",
+    "fetched": "2026-11-27T13:27:19Z",
     "stations": {
      "06181": {
       "name": "Jægersborg",
@@ -498,6 +498,33 @@
        55.7161
       ],
       "dist_km": 4.7,
+      "values": {}
+     },
+     "06186": {
+      "name": "Landbohøjskolen",
+      "point": [
+       12.5439,
+       55.6861
+      ],
+      "dist_km": 6.6,
+      "values": {
+       "temp_dry": {
+        "value": 3.9,
+        "observed": "2026-11-27T13:20:00Z"
+       },
+       "humidity": {
+        "value": 83.7,
+        "observed": "2026-11-27T13:20:00Z"
+       }
+      }
+     },
+     "06160": {
+      "name": "FLYVESTATION VÆRLØSE",
+      "point": [
+       12.3289,
+       55.7668
+      ],
+      "dist_km": 11.1,
       "values": {}
      }
     }
@@ -900,7 +927,7 @@
     "metno": "ok"
    },
    "dmi_forecast": {
-    "fetched": "2026-11-27T13:25:08Z",
+    "fetched": "2026-11-27T13:27:19Z",
     "run": "2026-11-27T090000Z",
     "point": [
      10.200112071418971,
@@ -1339,7 +1366,7 @@
     }
    },
    "observations": {
-    "fetched": "2026-11-27T13:25:08Z",
+    "fetched": "2026-11-27T13:27:19Z",
     "stations": {
      "06074": {
       "name": "Kirstinesminde Flyveplads",
@@ -1389,6 +1416,86 @@
        "precip_past1h": {
         "value": 0.0,
         "observed": "2026-11-27T13:00:00Z"
+       }
+      }
+     },
+     "06039": {
+      "name": "Galten",
+      "point": [
+       9.9033,
+       56.1618
+      ],
+      "dist_km": 19.3,
+      "values": {
+       "cloud_cover": {
+        "value": 100.0,
+        "observed": "2026-11-27T13:20:00Z"
+       },
+       "visibility": {
+        "value": 46879.0,
+        "observed": "2026-11-27T13:20:00Z"
+       },
+       "weather": {
+        "value": 100.0,
+        "observed": "2026-11-27T13:20:00Z"
+       },
+       "temp_dry": {
+        "value": 2.4,
+        "observed": "2026-11-27T13:20:00Z"
+       },
+       "wind_dir": {
+        "value": 84.2,
+        "observed": "2026-11-27T13:20:00Z"
+       },
+       "wind_max": {
+        "value": 5.1,
+        "observed": "2026-11-27T13:20:00Z"
+       },
+       "wind_speed": {
+        "value": 2.94,
+        "observed": "2026-11-27T13:20:00Z"
+       },
+       "humidity": {
+        "value": 90.9,
+        "observed": "2026-11-27T13:20:00Z"
+       },
+       "precip_past10min": {
+        "value": 0.0,
+        "observed": "2026-11-27T13:20:00Z"
+       },
+       "precip_past1h": {
+        "value": 0.0,
+        "observed": "2026-11-27T13:00:00Z"
+       }
+      }
+     },
+     "06073": {
+      "name": "Sletterhage Fyr",
+      "point": [
+       10.5134,
+       56.0954
+      ],
+      "dist_km": 19.5,
+      "values": {
+       "humidity": {
+        "value": 91.3,
+        "observed": "2026-11-27T13:20:00Z"
+       },
+       "wind_max": {
+        "value": 9.33,
+        "observed": "2026-11-27T13:20:00Z"
+       },
+       "wind_speed": {
+        "value": 6.89,
+        "observed": "2026-11-27T13:20:00Z"
+       },
+       "temp_dry": {
+        "value": 4.05,
+        "observed": "2026-11-27T13:20:00Z"
+       },
+       "wind_dir": {
+        "value": 106.7,
+        "observed": "2026-11-27T13:20:00Z"
        }
       }
      }
@@ -1783,7 +1890,7 @@
  ],
  "location_errors": [],
  "lightning": {
-  "fetched": "2026-11-27T13:25:08Z",
+  "fetched": "2026-11-27T13:27:19Z",
   "bbox": "11.9,55.39,13.1,56.09",
   "count_last_hour": 0,
   "count_last_day": 0

@@ -1,4 +1,85 @@
 {
- "generated": "2026-11-27T13:25:09Z",
- "error": "TypeError: float() argument must be a string or a real number, not 'list'"
+ "generated": "2026-11-27T13:27:19Z",
+ "place": "Mørkhøj",
+ "lat": 55.74,
+ "lon": 12.5,
+ "file": "dk.com.202611271315.500_max.h5",
+ "time": "2026-11-27T13:15:00Z",
+ "props": {
+  "datetime": "2026-11-27T13:15:00Z",
+  "created": "2026-11-27T13:22:03.414Z",
+  "scanType": "doppler"
+ },
+ "odim": {
+  "what": {},
+  "where": {
+   "LL_lat": 52.29427206432812,
+   "LL_lon": 4.379082700525593,
+   "LR_lat": 52.15916120505919,
+   "LR_lon": 18.893280870398133,
+   "UL_lat": 60.0,
+   "UL_lon": 3.0,
+   "UR_lat": 59.827708427801085,
+   "UR_lon": 20.735140174892805,
+   "xscale": 500,
+   "yscale": 500
+  },
+  "projdef": "+proj=stere +ellps=WGS84 +lat_0=56 +lon_0=10.5666 +lat_ts=56",
+  "top": {
+   "date": "20261127",
+   "gain": 0.5,
+   "nodata": 255,
+   "object": "COMP",
+   "offset": -32.0,
+   "product": "DBZH",
+   "source": "DMI-RADARGROUP",
+   "time": "131501",
+   "undetect": 0.0,
+   "version": "0.2"
+  },
+  "shape": [
+   1728,
+   1984
+  ],
+  "raw_min": 0.0,
+  "raw_max": 255.0
+ },
+ "half_km": 100,
+ "size": 360,
+ "near": {
+  "10": null,
+  "25": {
+   "max_dbz": 106.0,
+   "mm_h_estimat": 153764.6,
+   "niveau": "meget kraftig"
+  }
+ },
+ "nodata_share": 0.0,
+ "legend": [
+  {
+   "fra_dbz": 10,
+   "farve": "#9ecae9",
+   "niveau": "let"
+  },
+  {
+   "fra_dbz": 20,
+   "farve": "#3d8fd1",
+   "niveau": "let til moderat"
+  },
+  {
+   "fra_dbz": 30,
+   "farve": "#2e9e4f",
+   "niveau": "moderat"
+  },
+  {
+   "fra_dbz": 40,
+   "farve": "#f28c28",
+   "niveau": "kraftig"
+  },
+  {
+   "fra_dbz": 50,
+   "farve": "#d7263d",
+   "niveau": "meget kraftig"
+  }
+ ]
 }
