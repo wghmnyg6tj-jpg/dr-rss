@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T19:25+00:00",
+ "generated": "2026-11-27T19:36+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Hilda Heick chokeret over dødsfald: \n- Der var aldrig et ondt ord mellem os",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/hilda-heick-chokeret-over-doedsfald-der-var-aldrig-et-ondt-ord-mellem-os/11368081",
+     "published": "2026-11-27T19:32+00:00",
+     "summary": "Hilda Heick mindes hyggelige stunder med Jørn Hjorting, men husker også en principfast vært, der ikke altid var enig med hendes mand"
+    },
+    {
      "title": "Overvejer\ngigantisk \nfyringsrunde",
      "link": "https://ekstrabladet.dk/penge/sap-overvejer-gigantisk-blodbad-vil-nedlaegge-10.000-stillinger/11367121",
      "published": "2026-11-27T19:22+00:00",
@@ -618,7 +624,7 @@
      "title": "Putin præsenterer ny atomdrevet ubåd",
      "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/putin-praesenterer-ny-atomdrevet-ubaad/11368094",
      "published": "2026-11-27T19:07+00:00",
-     "summary": ""
+     "summary": "Ud over den nye atomdrevne ubåd \"Perm\", som flåden fik overdraget ved en ceremoni fredag, er fem mere på vej"
     },
     {
      "title": "Over al forventning: Forventer udsolgt",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/underholdning/udlandkendte/stjernepar-gaar-fra-hinanden-afbryder-forlovelsen/11368056",
      "published": "2026-11-27T18:09+00:00",
      "summary": "Thom Evans afslører det tunge brud på Instagram og skriver, at han respekterer Nicole Scherzingers beslutning om at gå hver til sit"
-    },
-    {
-     "title": "Tredobbelt drabsforsøg: Derfor ville LTF dræbe Patrick Nielsen",
-     "link": "https://ekstrabladet.dk/krimi/tredobbelt-drabsforsoeg-derfor-ville-ltf-draebe-patrick-nielsen/11367590",
-     "published": "2026-11-27T17:55+00:00",
-     "summary": "En 18-årig dansk LTF'er blev fredag fængslet for attentat mod den daværende rocker og eks-bokser Patrick Nielsen og hans familie i maj. Angrebet var en del af en brutal voldsbølge"
     }
    ]
   },
@@ -675,7 +675,7 @@
      "title": "Putin præsenterer ny atomdrevet ubåd",
      "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/putin-praesenterer-ny-atomdrevet-ubaad/11368094",
      "published": "2026-11-27T19:07+00:00",
-     "summary": ""
+     "summary": "Ud over den nye atomdrevne ubåd \"Perm\", som flåden fik overdraget ved en ceremoni fredag, er fem mere på vej"
     },
     {
      "title": "Amerikansk militærfly beskyder fragtskib i Omanbugten",
@@ -741,6 +741,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Politiet med tragisk nyt: Kelsey Hunter fundet død",
+     "link": "https://www.bt.dk/udland/politiet-med-tragisk-nytkelsey-hunter-fundet-doed?referrer=RSS",
+     "published": "2026-11-27T19:29+00:00",
+     "summary": "Politiet bekræfter, at den kvinde, som de fandt onsdag, er den savnede kvinde, Kelsey Hunter."
+    },
+    {
+     "title": "Putin præsenterer ny atomubåd",
+     "link": "https://www.bt.dk/udland/putin-praesenterer-ny-atomubaad?referrer=RSS",
+     "published": "2026-11-27T19:27+00:00",
+     "summary": "Ud over den nye atomdrevne ubåd \"Perm\", som flåden fik overdraget ved en ceremoni fredag, er fem mere på vej."
+    },
+    {
      "title": "Blotter fortsat på spil i Silkeborg: 'Ekstra opmærksomme'",
      "link": "https://www.bt.dk/krimi/blotter-fortsat-paa-spil-i-silkeborg-ekstra-opmaerksomme?referrer=RSS",
      "published": "2026-11-27T19:11+00:00",
@@ -762,7 +774,7 @@
      "title": "Putin afslører nyt atom-projekt",
      "link": "https://www.bt.dk/udland/putin-afsloerer-nyt-atom-projekt?referrer=RSS",
      "published": "2026-11-27T19:06+00:00",
-     "summary": ""
+     "summary": "Ud over den nye atomdrevne ubåd \"Perm\", som flåden fik overdraget ved en ceremoni fredag, er fem mere på vej."
     },
     {
      "title": "Mads Fuglede er blevet far",
@@ -787,18 +799,6 @@
      "link": "https://www.bt.dk/udland/usa-bekraefter-har-angrebet?referrer=RSS",
      "published": "2026-11-27T18:15+00:00",
      "summary": "Trods flere advarsler forsøgte et skib at bryde den amerikanske maritime blokade mod iranske havne."
-    },
-    {
-     "title": "Ny atomtrussel fra Kreml: 'Rusland kan gennemføre forebyggende atomangreb'",
-     "link": "https://www.bt.dk/udland/ny-atomtrussel-fra-kreml-rusland-kan-gennemfoere-forebyggende-atomangreb?referrer=RSS",
-     "published": "2026-11-27T18:13+00:00",
-     "summary": "Skræmmekampagne eller reel trussel? Putins allierede udsender ny atomadvarsel."
-    },
-    {
-     "title": "Mystisk politiaktion: Massivt til stede",
-     "link": "https://www.bt.dk/krimi/mystisk-politiaktion-massivt-til-stede?referrer=RSS",
-     "published": "2026-11-27T18:06+00:00",
-     "summary": "Fredag aften er politiet massivt til stede i Gentofte."
     }
    ]
   },
@@ -809,6 +809,24 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Politiet med tragisk nyt: Kelsey Hunter fundet død",
+     "link": "https://www.bt.dk/udland/politiet-med-tragisk-nytkelsey-hunter-fundet-doed?referrer=RSS",
+     "published": "2026-11-27T19:29+00:00",
+     "summary": "Politiet bekræfter, at den kvinde, som de fandt onsdag, er den savnede kvinde, Kelsey Hunter."
+    },
+    {
+     "title": "Putin præsenterer ny atomubåd",
+     "link": "https://www.bt.dk/udland/putin-praesenterer-ny-atomubaad?referrer=RSS",
+     "published": "2026-11-27T19:27+00:00",
+     "summary": "Ud over den nye atomdrevne ubåd \"Perm\", som flåden fik overdraget ved en ceremoni fredag, er fem mere på vej."
+    },
+    {
+     "title": "Slut med hjemmearbejde hos storbank",
+     "link": "https://www.bt.dk/virksomheder/slut-med-hjemmearbejde-hos-storbank?referrer=RSS",
+     "published": "2026-11-27T19:24+00:00",
+     "summary": "To tredjedele af de danske medarbejde vil blive direkte berørt."
+    },
     {
      "title": "Rasmus Bjerg slår fast: Jeg laver ikke tv om hvad som helst!",
      "link": "https://www.bt.dk/danske-kendte/rasmus-bjerg-slaar-fast-jeg-laver-ikke-tv-om-hvad-som-helst?referrer=RSS",
@@ -837,7 +855,7 @@
      "title": "Putin afslører nyt atom-projekt",
      "link": "https://www.bt.dk/udland/putin-afsloerer-nyt-atom-projekt?referrer=RSS",
      "published": "2026-11-27T19:06+00:00",
-     "summary": ""
+     "summary": "Ud over den nye atomdrevne ubåd \"Perm\", som flåden fik overdraget ved en ceremoni fredag, er fem mere på vej."
     },
     {
      "title": "Legende vender tilbage med fiasko: Tævet af danskere",
@@ -850,24 +868,6 @@
      "link": "https://www.bt.dk/politik/mads-fuglede-er-blevet-far?referrer=RSS",
      "published": "2026-11-27T18:53+00:00",
      "summary": "Folketingsmedlemmet fra Danmarksdemokraterne er blevet far for tredje gang."
-    },
-    {
-     "title": "Netcompany Ineos annullerer aftale med colombianer",
-     "link": "https://www.bt.dk/cykling/netcompany-ineos-annullerer-aftale-med-colombianer?referrer=RSS",
-     "published": "2026-11-27T18:52+00:00",
-     "summary": "Harold Tejada skal alligevel ikke køre for Netcompany Ineos. Han er indblandet i en sag om mulig doping."
-    },
-    {
-     "title": "Sabrina efter debat om nyt DR-program: 'Mænd kommer rigeligt til orde i forvejen'",
-     "link": "https://www.bt.dk/film-tv-og-streaming/sabrina-efter-debat-om-nyt-dr-program-maend-kommer-rigeligt-til-orde-i-forvejen?referrer=RSS",
-     "published": "2026-11-27T18:44+00:00",
-     "summary": "DRs nye programsatsning 'Magter ikke mænd' har skabt stor debat og fået kritik for at være for ensidigt og skabe kløft mellem kønnene. Nu reagerer Sabrina Stenvedel på modtagelsen af programmet."
-    },
-    {
-     "title": "Frygter skadedyr: Slagter lukker hele weekenden",
-     "link": "https://www.bt.dk/erhverv/frygter-skadedyr-slagter-lukker-hele-weekenden?referrer=RSS",
-     "published": "2026-11-27T18:30+00:00",
-     "summary": "Slagterbutikken forventer at åbne som normalt på mandag."
     }
    ]
   },
