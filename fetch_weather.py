@@ -1,22 +1,21 @@
 """Henter vejrdata til Dagens oversigt og gemmer dem i weather.json.
 
-Kilder (alle gratis, ingen nøgle):
-- DMI HARMONIE DINI (prognose, ca. 2 km), opendataapi.dmi.dk, nærmeste gitterpunkt til Mørkhøj
-- DMI målinger (metObs): Jægersborg 06181 (ca. 3 km), Kastrup 06180, Landbohøjskolen 06186
-- DMI lyn (lightningdata) i et område omkring København
-- met.no locationforecast compact (prognose med vejrsymboler)
-
+Områderne står i locations.json (første = hovedområde). Mangler filen, bruges Mørkhøj.
+Pr. område:
+- DMI HARMONIE DINI (prognose, ca. 2 km), nærmeste gitterpunkt (kun inden for DMI's modelområde)
+- met.no locationforecast compact (prognose med vejrsymboler, hele verden)
+- de 2 nærmeste aktive DMI-stationer, der måler temperatur (metObs), med seneste værdier
+For hovedområdet desuden: DMI-lyn i et område omkring stedet.
 Hver kilde hentes for sig. Fejler en kilde, beholdes de forrige data for den kilde,
-og fejlen skrives i "status". Tal gemmes uden afrunding ud over 2 decimaler.
+og fejlen skrives i "status". Alle kald har gentagelse ved HTTP 429/5xx.
 """
-import json, sys, urllib.request, urllib.error
+import json, math, sys, time, urllib.request, urllib.error
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 
-LAT, LON = 55.74, 12.50  # Mørkhøj
-STATIONS = [("06181", "Jægersborg"), ("06180", "Kastrup"), ("06186", "Landbohøjskolen")]
+DEFAULT_PLACES = [{"q": "Mørkhøj", "name": "Mørkhøj", "lat": 55.74, "lon": 12.50}]
 OBS_PARAMS = ["temp_dry", "wind_speed", "wind_dir", "wind_max", "humidity",
               "precip_past10min", "precip_past1h", "visibility", "weather", "cloud_cover", "temp_grass"]
-LIGHTNING_BBOX = "11.9,55.4,13.1,56.1"
 DMI = "https://opendataapi.dmi.dk"
 DMI_PARAMS = ["temperature-2m", "temperature-0m", "wind-speed-10m", "wind-dir-10m", "gust-wind-speed-10m",
               "total-precipitation", "precipitation-type", "fraction-of-cloud-cover", "visibility"]
@@ -36,7 +35,6 @@ def iso(dt):
 
 def get_json(url, headers=None, timeout=20, tries=4):
     """Henter JSON. Ved HTTP 429/502/503/504 ventes (Retry-After eller 2, 4, 8 s), og der prøves igen."""
-    import time
     h = {"User-Agent": UA, "Accept": "application/json"}
     if headers:
         h.update(headers)
@@ -58,60 +56,68 @@ def r2(x):
     return None if x is None else round(float(x), 2)
 
 
-def dmi_forecast(now):
-    status, _, inst = get_json(f"{DMI}/v1/forecastedr/collections/harmonie_dini_sf/instances")
-    ids = sorted(i["id"] for i in inst.get("instances", []))
-    run = ids[-1] if ids else None
+def km(lat1, lon1, lat2, lon2):
+    p = math.pi / 180
+    a = 0.5 - math.cos((lat2 - lat1) * p) / 2 + math.cos(lat1 * p) * math.cos(lat2 * p) * (1 - math.cos((lon2 - lon1) * p)) / 2
+    return 12742 * math.asin(math.sqrt(a))
+
+
+_run_cache = {}
+
+
+def dmi_run():
+    if "run" not in _run_cache:
+        _, _, inst = get_json(f"{DMI}/v1/forecastedr/collections/harmonie_dini_sf/instances")
+        ids = sorted(i["id"] for i in inst.get("instances", []))
+        _run_cache["run"] = ids[-1] if ids else None
+    return _run_cache["run"]
+
+
+def dmi_forecast(lat, lon, now):
+    run = dmi_run()
     start = now.replace(minute=0, second=0) - timedelta(hours=1)
     end = start + timedelta(hours=38)
     url = (f"{DMI}/v1/forecastedr/collections/harmonie_dini_sf/position"
-           f"?coords=POINT%28{LON}%20{LAT}%29&crs=crs84&parameter-name={','.join(DMI_PARAMS)}&f=GeoJSON"
+           f"?coords=POINT%28{round(lon, 4)}%20{round(lat, 4)}%29&crs=crs84&parameter-name={','.join(DMI_PARAMS)}&f=GeoJSON"
            f"&datetime={start.strftime('%Y-%m-%dT%H:%M:%S.000Z')}/{end.strftime('%Y-%m-%dT%H:%M:%S.000Z')}")
     _, _, j = get_json(url, timeout=30)
     feats = j.get("features", [])
     if not feats:
-        raise ValueError("ingen data fra DMI-prognosen")
-    rows = []
-    for f in feats:
-        p = f["properties"]
-        rows.append({"t": p["step"].replace(".000Z", "Z"), "p": p})
-    rows.sort(key=lambda r: r["t"])
+        raise ValueError("ingen data fra DMI-prognosen (stedet ligger måske uden for DMI's modelområde)")
+    rows = sorted(({"t": f["properties"]["step"].replace(".000Z", "Z"), "p": f["properties"]} for f in feats), key=lambda r: r["t"])
     hours = {}
     for i, r in enumerate(rows):
         p = r["p"]
         nxt = rows[i + 1]["p"] if i + 1 < len(rows) else None
-        mm = None
-        ptype = None
+        mm, ptype = None, None
         if nxt is not None and p.get("total-precipitation") is not None and nxt.get("total-precipitation") is not None:
-            mm = max(0.0, float(nxt["total-precipitation"]) - float(p["total-precipitation"]))
-            mm = round(mm, 2)
+            mm = round(max(0.0, float(nxt["total-precipitation"]) - float(p["total-precipitation"])), 2)
             pt = nxt.get("precipitation-type")
             if mm >= 0.05 and pt is not None:
                 ptype = PTYPE.get(int(pt), f"kode {pt}")
-        t2 = p.get("temperature-2m")
-        t0 = p.get("temperature-0m")
+        t2, t0 = p.get("temperature-2m"), p.get("temperature-0m")
         hours[r["t"]] = {
             "t2": r2(t2 - 273.15) if t2 is not None else None,
             "t0": r2(t0 - 273.15) if t0 is not None else None,
-            "ws": r2(p.get("wind-speed-10m")),
-            "wd": r2(p.get("wind-dir-10m")),
+            "ws": r2(p.get("wind-speed-10m")), "wd": r2(p.get("wind-dir-10m")),
             "gust": r2(p.get("gust-wind-speed-10m")),
-            "mm": mm,              # nedbør i timen, der starter på t
-            "ptype": ptype,        # nedbørstype i den time (kun når mm >= 0,05)
-            "cloud": r2(p.get("fraction-of-cloud-cover")),
-            "vis": r2(p.get("visibility")),
+            "mm": mm,          # nedbør i timen, der starter på t
+            "ptype": ptype,    # nedbørstype i den time (kun når mm >= 0,05)
+            "cloud": r2(p.get("fraction-of-cloud-cover")), "vis": r2(p.get("visibility")),
         }
     coords = feats[0].get("geometry", {}).get("coordinates")
+    if coords and km(lat, lon, coords[1], coords[0]) > 15:
+        raise ValueError(f"DMI's nærmeste gitterpunkt ligger {round(km(lat, lon, coords[1], coords[0]))} km væk (uden for modelområdet)")
     return {"run": run, "point": coords, "hours": hours}
 
 
-def metno(prev):
+def metno(lat, lon, prev):
     headers = {}
-    if prev and prev.get("last_modified"):
+    if prev and prev.get("last_modified") and prev.get("lat") == lat and prev.get("lon") == lon:
         headers["If-Modified-Since"] = prev["last_modified"]
-    url = f"https://api.met.no/weatherapi/locationforecast/2.0/compact?lat={LAT}&lon={LON}"
+    url = f"https://api.met.no/weatherapi/locationforecast/2.0/compact?lat={round(lat, 4)}&lon={round(lon, 4)}"
     try:
-        status, h, j = get_json(url, headers=headers)
+        _, h, j = get_json(url, headers=headers)
     except urllib.error.HTTPError as e:
         if e.code == 304 and prev:
             return dict(prev, not_modified=True)
@@ -122,42 +128,89 @@ def metno(prev):
         d = ts["data"]
         n1 = d.get("next_1_hours")
         if not n1:
-            continue  # kun timer med 1-timesprognose
+            continue
         inst = d["instant"]["details"]
-        hours[ts["time"]] = {
-            "t2": inst.get("air_temperature"),
-            "ws": inst.get("wind_speed"),
-            "wd": inst.get("wind_from_direction"),
-            "sym": n1["summary"]["symbol_code"],
-            "mm": n1.get("details", {}).get("precipitation_amount"),
-        }
+        hours[ts["time"]] = {"t2": inst.get("air_temperature"), "ws": inst.get("wind_speed"),
+                             "wd": inst.get("wind_from_direction"), "sym": n1["summary"]["symbol_code"],
+                             "mm": n1.get("details", {}).get("precipitation_amount")}
     return {"updated_at": props["meta"]["updated_at"], "last_modified": h.get("Last-Modified"),
-            "point": j.get("geometry", {}).get("coordinates"), "hours": hours}
+            "lat": lat, "lon": lon, "point": j.get("geometry", {}).get("coordinates"), "hours": hours}
 
 
-def observations():
+def observations(lat, lon):
+    """De 2 nærmeste aktive DMI-stationer med temperatur, med seneste værdier."""
+    _, _, j = get_json(f"{DMI}/v2/metObs/collections/station/items?bbox={round(lon - 0.9, 3)},{round(lat - 0.5, 3)},{round(lon + 0.9, 3)},{round(lat + 0.5, 3)}&status=Active&limit=500")
+    cands = {}
+    for f in j.get("features", []):
+        p = f["properties"]
+        if "temp_dry" not in (p.get("parameterId") or []):
+            continue
+        c = f["geometry"]["coordinates"]
+        sid = p["stationId"]
+        d = km(lat, lon, c[1], c[0])
+        if sid not in cands or d < cands[sid]["dist_km"]:
+            cands[sid] = {"name": p.get("name", sid), "point": c, "dist_km": round(d, 1)}
+    near = sorted(cands.items(), key=lambda kv: kv[1]["dist_km"])[:2]
     out = {}
-    for sid, name in STATIONS:
-        _, _, j = get_json(f"{DMI}/v2/metObs/collections/observation/items?stationId={sid}&period=latest-hour&limit=1000")
+    for sid, info in near:
+        _, _, o = get_json(f"{DMI}/v2/metObs/collections/observation/items?stationId={sid}&period=latest-hour&limit=1000")
         latest = {}
-        for f in j.get("features", []):
+        for f in o.get("features", []):
             p = f["properties"]
             k = p["parameterId"]
-            if k not in OBS_PARAMS:
-                continue
-            if k not in latest or p["observed"] > latest[k]["observed"]:
+            if k in OBS_PARAMS and (k not in latest or p["observed"] > latest[k]["observed"]):
                 latest[k] = {"value": p["value"], "observed": p["observed"]}
-        coords = j["features"][0]["geometry"]["coordinates"] if j.get("features") else None
-        out[sid] = {"name": name, "point": coords, "values": latest}
+        out[sid] = dict(info, values=latest)
     return out
 
 
-def lightning():
+def lightning(lat, lon):
+    bbox = f"{round(lon - 0.6, 2)},{round(lat - 0.35, 2)},{round(lon + 0.6, 2)},{round(lat + 0.35, 2)}"
     res = {}
     for period in ("latest-hour", "latest-day"):
-        _, _, j = get_json(f"{DMI}/v2/lightningdata/collections/observation/items?bbox={LIGHTNING_BBOX}&period={period}&limit=10000")
+        _, _, j = get_json(f"{DMI}/v2/lightningdata/collections/observation/items?bbox={bbox}&period={period}&limit=10000")
         res[period] = j.get("numberReturned", len(j.get("features", [])))
-    return {"bbox": LIGHTNING_BBOX, "count_last_hour": res["latest-hour"], "count_last_day": res["latest-day"]}
+    return {"bbox": bbox, "count_last_hour": res["latest-hour"], "count_last_day": res["latest-day"]}
+
+
+def load_places():
+    try:
+        L = json.load(open("locations.json", encoding="utf-8"))
+        pl = [p for p in L.get("places", []) if p.get("lat") is not None]
+        return pl or DEFAULT_PLACES, L.get("errors", [])
+    except Exception:
+        return DEFAULT_PLACES, []
+
+
+def err(e):
+    return (f"HTTP {e.code}" if isinstance(e, urllib.error.HTTPError) else f"fejl: {e}")[:200]
+
+
+def place_job(pl, old, now):
+    lat, lon = float(pl["lat"]), float(pl["lon"])
+    res = {"name": pl.get("name"), "q": pl.get("q"), "lat": lat, "lon": lon, "found": pl.get("found"), "status": {}}
+    with ThreadPoolExecutor(max_workers=1) as pool:
+        fm = pool.submit(metno, lat, lon, old.get("metno"))  # met.no samtidig med DMI
+        for key, fn in (("dmi_forecast", lambda: dmi_forecast(lat, lon, now)),
+                        ("observations", lambda: {"stations": observations(lat, lon)})):
+            try:
+                res[key] = {"fetched": iso(now), **fn()}
+                res["status"][key] = "ok"
+            except Exception as e:
+                res["status"][key] = err(e)
+                if key in old:
+                    res[key] = old[key]
+        try:
+            m = fm.result()
+            nm = m.pop("not_modified", False)
+            m["fetched"] = old.get("metno", {}).get("fetched", iso(now)) if nm else iso(now)
+            res["metno"] = m
+            res["status"]["metno"] = "ok"
+        except Exception as e:
+            res["status"]["metno"] = err(e)
+            if "metno" in old:
+                res["metno"] = old["metno"]
+    return res
 
 
 def main():
@@ -166,48 +219,23 @@ def main():
         prev = json.load(open(OUT, encoding="utf-8"))
     except Exception:
         prev = {}
-    out = {"generated": iso(now), "location": {"name": "Mørkhøj", "lat": LAT, "lon": LON}, "status": {}}
-    jobs = [("dmi_forecast", lambda: dmi_forecast(now)),
-            ("metno", lambda: metno(prev.get("metno"))),
-            ("observations", observations),
-            ("lightning", lightning)]
-    # met.no hentes samtidig med DMI. DMI-kaldene køres efter hinanden (prognosen først),
-    # så DMI's grænse for samtidige kald ikke rammes.
-    from concurrent.futures import ThreadPoolExecutor
-    def dmi_all():
-        res = {}
-        for key, fn in jobs:
-            if key == "metno":
-                continue
-            try:
-                res[key] = ("ok", fn())
-            except Exception as e:
-                res[key] = ("err", e)
-        return res
-    with ThreadPoolExecutor(max_workers=2) as pool:
-        f_met = pool.submit(jobs[1][1])
-        f_dmi = pool.submit(dmi_all)
-    dmi_res = f_dmi.result()
-    class _F:
-        def __init__(self, ok, v): self.ok, self.v = ok, v
-        def result(self):
-            if self.ok: return self.v
-            raise self.v
-    futs = {k: _F(v[0] == "ok", v[1]) for k, v in dmi_res.items()}
-    futs["metno"] = f_met
-    for key, fn in jobs:
-        try:
-            data = futs[key].result()
-            data["fetched"] = iso(now) if not (isinstance(data, dict) and data.get("not_modified")) else prev.get(key, {}).get("fetched", iso(now))
-            data.pop("not_modified", None)
-            out[key] = data
-            out["status"][key] = "ok"
-        except Exception as e:
-            msg = f"HTTP {e.code}" if isinstance(e, urllib.error.HTTPError) else f"fejl: {type(e).__name__}: {e}"[:200]
-            out["status"][key] = msg
-            if key in prev:
-                out[key] = prev[key]  # behold forrige data; "fetched" viser deres alder
-        print(f"{key}: {out['status'][key]}")
+    prev_places = {(p.get("name"), p.get("lat"), p.get("lon")): p for p in prev.get("places", [])}
+    places, loc_errors = load_places()
+    out = {"version": 2, "generated": iso(now), "status": {}, "places": [], "location_errors": loc_errors}
+    for pl in places:
+        old = prev_places.get((pl.get("name"), float(pl["lat"]), float(pl["lon"])), {})
+        r = place_job(pl, old, now)
+        out["places"].append(r)
+        print(f"{r['name']}: {r['status']}")
+    p0 = out["places"][0]
+    try:
+        out["lightning"] = {"fetched": iso(now), **lightning(p0["lat"], p0["lon"])}
+        out["status"]["lightning"] = "ok"
+    except Exception as e:
+        out["status"]["lightning"] = err(e)
+        if "lightning" in prev:
+            out["lightning"] = prev["lightning"]
+    out["status"].update(p0["status"])
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
     return 0

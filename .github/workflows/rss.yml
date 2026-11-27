@@ -3,6 +3,16 @@ name: Hent RSS
 # og af de planlagte opgaver. Starter bagefter den løbende hentning (rss-loop.yml), hvis den ikke kører.
 on:
   workflow_dispatch:
+    inputs:
+      places:
+        description: 'Vejrområder fra Indstillinger som JSON-liste, fx ["Mørkhøj","Aarhus"]. Tom = uændret.'
+        required: false
+        default: ""
+      radar:
+        description: "Lav også radarbillede"
+        type: boolean
+        required: false
+        default: false
   schedule:
     # Reserve: GitHub starter planlagte kørsler sjældent (set: 2 af ca. 96 pr. døgn).
     # En planlagt kørsel henter kun, hvis den løbende hentning ikke kører.
@@ -28,8 +38,14 @@ jobs:
           n=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow rss-loop.yml --status in_progress --limit 5 --json databaseId --jq 'length')
           echo "running=$n" >> "$GITHUB_OUTPUT"
           echo "Løbende hentning i gang: $n"
+      - name: Installer radar-pakker (kun hvis radar er valgt)
+        if: github.event_name == 'workflow_dispatch' && inputs.radar
+        run: python3 -m pip install --quiet numpy h5py pillow pyproj || python3 -m pip install --quiet --break-system-packages numpy h5py pillow pyproj
       - name: Hent feeds og gem
         if: github.event_name == 'workflow_dispatch' || steps.loop.outputs.running == '0'
+        env:
+          PLACES_JSON: ${{ inputs.places }}
+          RADAR: ${{ (github.event_name == 'workflow_dispatch' && inputs.radar) && '1' || '0' }}
         run: bash scripts/hent_og_gem.sh
       - name: Start løbende hentning, hvis den ikke kører
         run: bash scripts/start_loop.sh

@@ -16,7 +16,11 @@ jobs:
     timeout-minutes: 75
     steps:
       - uses: actions/checkout@v4
+      - name: Installer radar-pakker
+        run: python3 -m pip install --quiet numpy h5py pillow pyproj || python3 -m pip install --quiet --break-system-packages numpy h5py pillow pyproj || echo "Radar-pakker kunne ikke installeres"
       - name: Hent hvert 10. minut i ca. 1 time
+        env:
+          RADAR: "1"
         run: |
           for i in 1 2 3 4 5 6; do
             # Kopiér den nyeste version af scriptet i hver runde (arbejdsmappen følger main efter hver gemning)
