@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T18:54+00:00",
+ "generated": "2026-11-27T19:04+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -207,6 +207,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "13 byrødder har bremset kæmpe havneudvidelse - nu vil flere have staten på banen",
+     "link": "https://www.dr.dk/nyheder/indland/13-byroedder-har-bremset-kaempe-havneudvidelse-nu-vil-flere-have-staten-paa-banen",
+     "published": "2026-11-27T19:00+00:00",
+     "summary": "Flere mener, at selvom Kerteminde Byråd har sagt nej til en kæmpe udvidelse af Odense Havn, så må staten tage affære."
+    },
+    {
      "title": "Ny pædofilfilm understreger betydningen af særlig rådgivningslinje – nu forlænger Red Barnet den med fire år",
      "link": "https://www.dr.dk/nyheder/indland/ny-paedofilfilm-understreger-betydningen-af-saerlig-raadgivningslinje-nu-forlaenger-red-barnet-den",
      "published": "2026-11-27T18:21+00:00",
@@ -289,12 +295,6 @@
      "link": "https://www.dr.dk/nyheder/indland/aarets-black-friday-er-i-gang",
      "published": "2026-11-27T08:21+00:00",
      "summary": "Du kan følge med i livebloggen her."
-    },
-    {
-     "title": "STIL SPØRGSMÅL om Black Friday: Hvad skal du være opmærksom på, når du går på tilbudsjagt?",
-     "link": "https://www.dr.dk/nyheder/penge/stil-spoergsmaal-om-black-friday-hvad-skal-du-vaere-opmaerksom-paa-naar-du-gaar-paa-tilbudsjagt",
-     "published": "2026-11-27T07:00+00:00",
-     "summary": "I dag ruller den store forbrugerdag ind over butikkerne, og et panel svarer svarer på spørgsmål om, hvordan du forholder dig."
     }
    ]
   },
@@ -810,6 +810,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Legende vender tilbage med fiasko: Tævet af danskere",
+     "link": "https://www.bt.dk/oevrig-sport/legende-vender-tilbage-med-fiasko-taevet-af-danskere?referrer=RSS",
+     "published": "2026-11-27T19:02+00:00",
+     "summary": "Dartlegenden Phil Taylor levede ikke op til sit hidtil høje niveau, hvor to danskere var med til at spolere festen."
+    },
+    {
      "title": "Mads Fuglede er blevet far",
      "link": "https://www.bt.dk/politik/mads-fuglede-er-blevet-far?referrer=RSS",
      "published": "2026-11-27T18:53+00:00",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/sex-og-samliv/sexolog-ser-det-saerligt-nu-utroskaben-ligger-naermest-i-luften?referrer=RSS",
      "published": "2026-11-27T17:55+00:00",
      "summary": "Joan Ørting har et godt råd til at undgå utroskab i sit parforhold."
-    },
-    {
-     "title": "15-årig dreng død efter ulykke med fem unge ved Borup",
-     "link": "https://www.bt.dk/krimi/15-aarig-dreng-doed-efter-ulykke-med-fem-unge-ved-borup?referrer=RSS",
-     "published": "2026-11-27T17:54+00:00",
-     "summary": "En 15-årig dreng er død, efter at fem drenge tirsdag kørte galt og ramte et træ på Midtsjælland."
     }
    ]
   },
