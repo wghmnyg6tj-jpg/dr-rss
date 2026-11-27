@@ -1,36 +1,23 @@
 name: Test kilder (midlertidig)
 on: workflow_dispatch
 permissions:
-  contents: read
+  contents: write
 jobs:
   probe:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Hent kilder
+      - name: Gem rå HTML i grenen probe-samples
         run: |
           UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"
-          for u in \
-            "https://m.dk/da/drift-og-service/status-og-planlagte-driftsaendringer/" \
-            "https://www.dsb.dk/trafikinformation/" \
-            "https://dinoffentligetransport.dk/planlaeg-din-rejse/koereplaner-for-bus-og-havnebus/aendringer-i-bustrafikken" \
-            "https://www.star.dk/" \
-            "https://www.star.dk/nyheder/" \
-            "https://www.a-kasser.dk/nyheder" \
-            "https://www.dmi.dk/meteorologens-kommentar" \
-            "https://www.dmi.dk/vejr/meteorologens-kommentar" \
-            "https://www.tv2kosmopol.dk/" \
-            "https://www.tv2kosmopol.dk/rss" \
-            "https://www.thelocal.dk/feeds/rss.php" ; do
-            code=$(curl -sS -L -m 20 -A "$UA" -o /tmp/p.html -w "%{http_code} %{content_type} %{size_download}" "$u" || echo ERR)
-            echo "=== $u -> $code"
-            python3 - <<'PY'
-          import re
-          s=open('/tmp/p.html',encoding='utf-8',errors='replace').read()
-          t=re.sub(r'<script[\s\S]*?</script>|<style[\s\S]*?</style>',' ',s)
-          t=re.sub(r'<[^>]+>',' ',t); t=re.sub(r'\s+',' ',t)
-          print('TEXT:', t[:1500])
-          print('JSONLD/NEXT:', bool(re.search(r'__NEXT_DATA__|application/ld\+json|__NUXT__',s)))
-          for m in re.findall(r'(?:href|src)="([^"]*(?:api|json|rss|feed)[^"]*)"',s)[:15]: print('LINK:',m)
-          PY
-          done
+          mkdir s && cd s
+          curl -sS -L -m 20 -A "$UA" -o metro.html "https://m.dk/da/drift-og-service/status-og-planlagte-driftsaendringer/" || true
+          curl -sS -L -m 20 -A "$UA" -o dsb.html "https://www.dsb.dk/trafikinformation/" || true
+          curl -sS -L -m 20 -A "$UA" -o star.html "https://www.star.dk/nyheder/" || true
+          curl -sS -L -m 20 -A "$UA" -o akasser.html "https://www.a-kasser.dk/nyheder" || true
+          curl -sS -L -m 20 -A "$UA" -o dmi.html "https://www.dmi.dk/meteorologens-kommentar" || true
+          curl -sS -L -m 20 -A "$UA" -o bus.html "https://dinoffentligetransport.dk/planlaeg-din-rejse/koereplaner-for-bus-og-havnebus/aendringer-i-bustrafikken" || true
+          ls -la
+          git init -q -b probe-samples && git add -A
+          git -c user.name=probe -c user.email=probe@users.noreply.github.com commit -q -m samples
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" probe-samples
