@@ -13,7 +13,8 @@ UA = "dagens-oversigt/1.0 (+https://github.com/wghmnyg6tj-jpg/dr-rss)"
 HALF_KM = 100
 SIZE = 360
 # (fra dBZ, farve, betegnelse)
-LEVELS = [(10, (158, 202, 233), "let"), (20, (61, 143, 209), "let til moderat"), (30, (46, 158, 79), "moderat"),
+# Marshall-Palmer: 20 dBZ ≈ 0,6 mm/t, 30 ≈ 2,7, 40 ≈ 11,5, 50 ≈ 49 (estimat)
+LEVELS = [(10, (158, 202, 233), "meget let"), (20, (61, 143, 209), "let"), (30, (46, 158, 79), "moderat"),
           (40, (242, 140, 40), "kraftig"), (50, (215, 38, 61), "meget kraftig")]
 
 
