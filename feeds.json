@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T15:57+00:00",
+ "generated": "2026-11-27T16:07+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -261,6 +261,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Mette Frederiksens ord vækker opsigt i Frankrig",
+     "link": "https://www.dr.dk/nyheder/udland/reels/mette-frederiksens-ord-vaekker-opsigt-i-frankrig",
+     "published": "2026-11-27T16:03+00:00"
+    },
+    {
      "title": "'Nuuk 'em all': Indtag Grønland som Trump i nyt arkadespil",
      "link": "https://www.dr.dk/nyheder/indland/reels/nuuk-em-all-indtag-groenland-som-trump-i-nyt-arkadespil",
      "published": "2026-11-27T14:45+00:00"
@@ -329,11 +334,6 @@
      "title": "Ukrainsk lasersystem nedskyder for første gang en drone",
      "link": "https://www.dr.dk/nyheder/udland/ukrainsk-lasersystem-nedskyder-foerste-gang-en-drone",
      "published": "2026-11-26T18:30+00:00"
-    },
-    {
-     "title": "Centerpartiet vil støtte Ulf Kristersson som svensk statsminister",
-     "link": "https://www.dr.dk/nyheder/udland/centerpartiet-vil-stoette-ulf-kristersson-som-svensk-statsminister",
-     "published": "2026-11-26T17:20+00:00"
     }
    ]
   },
@@ -528,11 +528,6 @@
      "published": "2026-11-27T15:31+00:00"
     },
     {
-     "title": "Officielt: Manchester United forlænger med anfører",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/officielt-manchester-united-forlaenger-med-anfoerer/11367874",
-     "published": "2026-11-27T15:29+00:00"
-    },
-    {
      "title": "Afslører diagnose: - Jeg hørte stemmer",
      "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/tyson-fury-afsloerer-alvorlig-diagnose-jeg-hoerte-stemmer/11363431",
      "published": "2026-11-27T15:25+00:00"
@@ -561,6 +556,11 @@
      "title": "Forlænger med superstjernen",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/medie-bruno-fernandes-forlaenger/11367813",
      "published": "2026-11-27T14:18+00:00"
+    },
+    {
+     "title": "Total hjerneblødning: \n- Han har det ikke godt",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/fck-profil-slaar-ring-om-haardt-ramt-markgraf/11367759",
+     "published": "2026-11-27T13:58+00:00"
     }
    ]
   },
@@ -631,14 +631,24 @@
    "status": "ok",
    "items": [
     {
-     "title": "Styrelse advarer: Kontakt med hårtabsmidler kan være dødelig for katte",
-     "link": "https://www.bt.dk/samfund/styrelse-advarer-kontakt-med-haartabsmidler-kan-vaere-doedelig-for-katte?referrer=RSS",
-     "published": "2026-11-27T15:46+00:00"
+     "title": "Flere kan være ramt efter sikkerhedsbrud",
+     "link": "https://www.bt.dk/krimi/flere-kan-vaere-ramt-efter-sikkerhedsbrud?referrer=RSS",
+     "published": "2026-11-27T16:06+00:00"
+    },
+    {
+     "title": "Slår alarm i Storbritannien efter cyberangreb: Dybt alvorligt",
+     "link": "https://www.bt.dk/udland/slaar-alarm-i-storbritannien-efter-cyberangreb-dybt-alvorligt?referrer=RSS",
+     "published": "2026-11-27T16:00+00:00"
     },
     {
      "title": "Radiovært Jørn Hjorting er død - 95 år",
      "link": "https://www.bt.dk/samfund/radiovaert-joern-hjorting-er-doed-95-aar?referrer=RSS",
-     "published": "2026-11-27T15:36+00:00"
+     "published": "2026-11-27T15:57+00:00"
+    },
+    {
+     "title": "Styrelse advarer: Kontakt med hårtabsmidler kan være dødelig for katte",
+     "link": "https://www.bt.dk/samfund/styrelse-advarer-kontakt-med-haartabsmidler-kan-vaere-doedelig-for-katte?referrer=RSS",
+     "published": "2026-11-27T15:46+00:00"
     },
     {
      "title": "Tusinder af danske gymnasieelevers telefonnumre er lækket",
@@ -669,16 +679,6 @@
      "title": "USA forbereder udvidelse af Pituffik for op mod 500 millioner dollar",
      "link": "https://www.bt.dk/politik/usa-forbereder-udvidelse-af-pituffik-for-op-mod-500-millioner-dollar?referrer=RSS",
      "published": "2026-11-27T14:20+00:00"
-    },
-    {
-     "title": "Regeringen siger nej til for dyrt borgerforslag om spildevand",
-     "link": "https://www.bt.dk/politik/regeringen-siger-nej-til-for-dyrt-borgerforslag-om-spildevand?referrer=RSS",
-     "published": "2026-11-27T14:06+00:00"
-    },
-    {
-     "title": "Politikersøn tiltalt for voldtægt: Nu forklarer han sig",
-     "link": "https://www.bt.dk/krimi/politikersoen-tiltalt-for-voldtaegt-nu-forklarer-han-sig?referrer=RSS",
-     "published": "2026-11-27T13:57+00:00"
     }
    ]
   },
@@ -690,6 +690,26 @@
    "status": "ok",
    "items": [
     {
+     "title": "Flere kan være ramt efter sikkerhedsbrud",
+     "link": "https://www.bt.dk/krimi/flere-kan-vaere-ramt-efter-sikkerhedsbrud?referrer=RSS",
+     "published": "2026-11-27T16:06+00:00"
+    },
+    {
+     "title": "Slår alarm i Storbritannien efter cyberangreb: Dybt alvorligt",
+     "link": "https://www.bt.dk/udland/slaar-alarm-i-storbritannien-efter-cyberangreb-dybt-alvorligt?referrer=RSS",
+     "published": "2026-11-27T16:00+00:00"
+    },
+    {
+     "title": "Radiovært Jørn Hjorting er død - 95 år",
+     "link": "https://www.bt.dk/samfund/radiovaert-joern-hjorting-er-doed-95-aar?referrer=RSS",
+     "published": "2026-11-27T15:57+00:00"
+    },
+    {
+     "title": "Ny skade rammer Musiala midt i speget kontraktdebat",
+     "link": "https://www.bt.dk/fodbold/ny-skade-rammer-musiala-midt-i-speget-kontraktdebat?referrer=RSS",
+     "published": "2026-11-27T15:57+00:00"
+    },
+    {
      "title": "Styrelse advarer: Kontakt med hårtabsmidler kan være dødelig for katte",
      "link": "https://www.bt.dk/samfund/styrelse-advarer-kontakt-med-haartabsmidler-kan-vaere-doedelig-for-katte?referrer=RSS",
      "published": "2026-11-27T15:46+00:00"
@@ -698,11 +718,6 @@
      "title": "Jørn Hjorting er død: Optimist til det sidste",
      "link": "https://www.bt.dk/navne/joern-hjorting-er-doed-optimist-til-det-sidste?referrer=RSS",
      "published": "2026-11-27T15:43+00:00"
-    },
-    {
-     "title": "Radiovært Jørn Hjorting er død - 95 år",
-     "link": "https://www.bt.dk/samfund/radiovaert-joern-hjorting-er-doed-95-aar?referrer=RSS",
-     "published": "2026-11-27T15:36+00:00"
     },
     {
      "title": "Manchester United holder fast i anfører med kontraktgreb",
@@ -723,21 +738,6 @@
      "title": "Rygterne svirrer om ny Bond-skurk: Hollywood-stjerner på listen",
      "link": "https://www.bt.dk/film-tv-og-streaming/rygterne-svirrer-om-ny-bond-skurk-hollywood-stjerner-paa-listen?referrer=RSS",
      "published": "2026-11-27T15:06+00:00"
-    },
-    {
-     "title": "Tusinder af danske gymnasieelevers telefonnumre er lækket",
-     "link": "https://www.bt.dk/samfund/tusinder-af-danske-gymnasieelevers-telefonnumre-er-laekket?referrer=RSS",
-     "published": "2026-11-27T15:01+00:00"
-    },
-    {
-     "title": "MobilePay ser færre køb på årets black friday",
-     "link": "https://www.bt.dk/samfund/mobilepay-ser-faerre-koeb-paa-aarets-black-friday?referrer=RSS",
-     "published": "2026-11-27T14:54+00:00"
-    },
-    {
-     "title": "Regeringen vil konfiskere biler på Kærshovedgård trods bilforbud",
-     "link": "https://www.bt.dk/politik/regeringen-vil-konfiskere-biler-paa-kaershovedgaard-trods-bilforbud?referrer=RSS",
-     "published": "2026-11-27T14:47+00:00"
     }
    ]
   },
