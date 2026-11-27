@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T21:41+00:00",
+ "generated": "2026-11-27T21:51+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Velkommen-skandalen vokser:\nSkylder danskere \nnæsten 300 millioner",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/velkommen-skandalen-vokser-skyldte-42.825-kunder-naesten-300-millioner/11368171",
+     "published": "2026-11-27T21:44+00:00",
+     "summary": "Nye dokumenter fra det konkursramte elselskab viser, at tusindvis af kunder havde store beløb til gode. Ifølge kuratorerne stoppede selskabet allerede i 2024 med løbende at betale pengene tilbage"
+    },
+    {
      "title": "Füllkrug reddede Werder Bremen i hæsblæsende affære",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/tyskfodbold/fullkrug-reddede-werder-bremen-i-haesblaesende-affaere/11368190",
      "published": "2026-11-27T21:37+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/nyheder/Udland/medie-nordkorea-pauser-vaabenhjaelp-til-rusland/11367143",
      "published": "2026-11-27T20:53+00:00",
      "summary": "Ifølge den ukrainske efterretningstjeneste HUR er der opstået diplomatisk uenighed mellem Rusland er Nordkorea, der er en af Ruslands vigtigste allierede"
-    },
-    {
-     "title": "Voldtægtssag: \nHentede offer \ni sportsvogn",
-     "link": "https://ekstrabladet.dk/krimi/politikersoen-tiltalt-hentede-offer-i-sportsvogn/11367964",
-     "published": "2026-11-27T20:37+00:00",
-     "summary": "Samme dag som en politikersøn blev dømt for voldtægt i byretten, modtog politiet en anmeldelse om endnu en voldtægt. Nu er han igen på anklagebænken"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Velkommen-skandalen vokser:\nSkylder danskere \nnæsten 300 millioner",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/velkommen-skandalen-vokser-skyldte-42.825-kunder-naesten-300-millioner/11368171",
+     "published": "2026-11-27T21:44+00:00",
+     "summary": "Nye dokumenter fra det konkursramte elselskab viser, at tusindvis af kunder havde store beløb til gode. Ifølge kuratorerne stoppede selskabet allerede i 2024 med løbende at betale pengene tilbage"
+    },
     {
      "title": "Mareridtsagtige spaghetti-orme fundet på havets bund",
      "link": "https://ekstrabladet.dk/nyheder/videnskab/netop-opdaget-i-dybhavet-ny-familie-af-spaghetti-orme/11367850",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek/11367999",
      "published": "2026-11-27T17:14+00:00",
      "summary": "Gymnasieskoler og andre organisationer har været ramt af datalæk, hvor telefonnumre er blevet kompromitteret"
-    },
-    {
-     "title": "Svensk officer \nmistænkt i sag om \nhemmelige oplysninger",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/svensk-officer-mistaenkt-i-sag-om-hemmelige-oplysninger/11367392",
-     "published": "2026-11-27T17:11+00:00",
-     "summary": "Sveriges sikkerhedspoliti, Säpo, efterforsker en officer, der er mistænkt for ulovlig omgang med hemmelige oplysninger, som kan skade landets sikkerhed, hvis de bliver afsløret"
     }
    ]
   },
@@ -740,6 +740,12 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Ny skatteordning skal gøre firmacykler mere attraktive fra 2028",
+     "link": "https://www.bt.dk/politik/ny-skatteordning-skal-goere-firmacykler-mere-attraktive-fra-2028?referrer=RSS",
+     "published": "2026-11-27T21:47+00:00",
+     "summary": "Fra 2028 kan arbejdspladser tilbyde firmacykler på mere gunstige skattevilkår, og ansatte må bruge dem privat."
+    },
     {
      "title": "Velkommen skyldte 42.825 elkunder 292 millioner kroner ved konkurs",
      "link": "https://www.bt.dk/samfund/velkommen-skyldte-42825-elkunder-292-millioner-kroner-ved-konkurs?referrer=RSS",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/krimi/bekraefter-uvedkommende-har-faaet-adgang?referrer=RSS",
      "published": "2026-11-27T19:41+00:00",
      "summary": "OnlineCity bekræfter cyberangreb mod over 15.000 gymnasieelever, men det samlede omfang er endnu ukendt."
-    },
-    {
-     "title": "'Slyngelstat' og 'hjernevask': Jacob Harris vækker opsigt i buffetkonges podcast",
-     "link": "https://www.bt.dk/samfund/slyngelstat-og-hjernevask-jacob-harris-vaekker-opsigt-i-buffetkonges-podcast?referrer=RSS",
-     "published": "2026-11-27T19:40+00:00",
-     "summary": "Ekspert fælder hård dom over vilde udtalelser i Dalle Valle-ejers podcast."
     }
    ]
   },
@@ -809,6 +809,18 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Ny skatteordning skal gøre firmacykler mere attraktive fra 2028",
+     "link": "https://www.bt.dk/politik/ny-skatteordning-skal-goere-firmacykler-mere-attraktive-fra-2028?referrer=RSS",
+     "published": "2026-11-27T21:47+00:00",
+     "summary": "Fra 2028 kan arbejdspladser tilbyde firmacykler på mere gunstige skattevilkår, og ansatte må bruge dem privat."
+    },
+    {
+     "title": "Dansk børnelæge giver børn Wegovy: 'Vi ser 12-årige, der vejer 125 kilo'",
+     "link": "https://www.bt.dk/sundhed/dansk-boernelaege-giver-boern-wegovy-vi-ser-12-aarige-der-vejer-125-kilo?referrer=RSS",
+     "published": "2026-11-27T21:44+00:00",
+     "summary": "Medicinalgiganterne Novo Nordisk og Eli Lilly tester nu vægttabsmedicin på børn helt ned til seks år. Men en dansk børnelæge maner til forsigtighed."
+    },
     {
      "title": "Højlund afslører samtaler med United-stjerner: 'Var meget berørte'",
      "link": "https://www.bt.dk/fodbold/hoejlund-afsloerer-samtaler-med-united-stjerner-var-meget-beroerte?referrer=RSS",
@@ -856,18 +868,6 @@
      "link": "https://www.bt.dk/samfund/teleudbyder-kender-endnu-ikke-omfanget-af-cyberangreb?referrer=RSS",
      "published": "2026-11-27T20:21+00:00",
      "summary": "OnlineCity bekræfter cyberangreb mod over 15.000 gymnasieelever, men det samlede omfang er endnu ukendt."
-    },
-    {
-     "title": "Vild udvikling: Realitydeltagers mor mistænkes for rolle i Pokemon-røveri",
-     "link": "https://www.bt.dk/krimi/vild-udviklingrealitydeltagers-mor-mistaenkes-for-rolle-i-pokemon-roeveri?referrer=RSS",
-     "published": "2026-11-27T20:09+00:00",
-     "summary": "Der var flere familiemedlemmer til stede under torsdagens grundlovsforhør."
-    },
-    {
-     "title": "Patrick Mortensen redder point til Brøndby i Haderslev",
-     "link": "https://www.bt.dk/fodbold/patrick-mortensen-redder-point-til-broendby-i-haderslev?referrer=RSS",
-     "published": "2026-11-27T20:04+00:00",
-     "summary": "Brøndbys problemer i Haderslev fortsatte fredag aften, hvor vestegnsklubben måtte nøjes med 1-1."
     }
    ]
   },
@@ -1728,6 +1728,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Te Araroa day 32: A cruisy start to the CSQ, and LOFI is born",
+     "link": "https://thetrek.co/te-araroa-day-32-a-cruisy-start-to-the-csq-and-lofi-is-born/",
+     "published": "2026-11-27T21:42+00:00",
+     "summary": "20km, Paeroa Rail Trail Motel to Daly’s Clearing hut We knew we only had a relatively short walk on this first day, and had a fairly relaxed start. We had to walk through Paeroa and grabbed coffee on the way to the famous L&P bottle. For …"
+    },
+    {
      "title": "Bears, Moldy Gear & Navigation Mishaps: My First Solo Backpacking Adventure on the Florida Trail",
      "link": "https://thetrek.co/bears-moldy-gear-navigation-mishaps-my-first-solo-backpacking-adventure-on-the-florida-trail/",
      "published": "2026-11-27T20:13+00:00",
@@ -1780,12 +1786,6 @@
      "link": "https://thetrek.co/a-man-just-ran-3015-miles-from-san-francisco-to-new-york-in-41-days-setting-new-record/",
      "published": "2026-11-26T15:44+00:00",
      "summary": "When Cameron Balser left San Francisco at 4:59 a.m. on October 10, he set out to run the 3,015-mile Trans America route across the United States in under 42 days in pursuit of a new transcontinental record. About six weeks later, he …"
-    },
-    {
-     "title": "What Happens When You Come Home From Your Thru-Hike?",
-     "link": "https://thetrek.co/what-happens-when-you-come-home-from-your-thru-hike/",
-     "published": "2026-11-26T14:51+00:00",
-     "summary": "This guest post was written by Amy “Yardsale” Johnson. Full bio at the end. There are endless articles, Youtube videos, books, and discussions about preparing for trail. But what happens when we come back home? This question receives far …"
     }
    ]
   },
