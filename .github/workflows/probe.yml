@@ -1,0 +1,21 @@
+name: Test kilder (midlertidig)
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Gem rå HTML i grenen probe-samples
+        run: |
+          UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"
+          mkdir s && cd s
+          curl -sS -L -m 20 -A "$UA" -o pet.html "https://pet.dk/" || true
+          curl -sS -L -m 20 -A "$UA" -o pettrussel.html "https://pet.dk/trusselsvurderinger" || true
+          curl -sS -L -m 20 -A "$UA" -o petvtd.html "https://pet.dk/trusselsvurderinger/vurdering-af-terrortruslen-mod-danmark" || true
+          curl -sS -L -m 20 -A "$UA" -o um.html "https://um.dk/rejse-og-ophold/rejse-til-udlandet/rejsevejledninger/tyrkiet" || true
+          ls -la; for f in *.html; do echo "$f $(head -c 200 $f | tr '\n' ' ')"; done
+          git init -q -b probe-samples && git add -A
+          git -c user.name=probe -c user.email=probe@users.noreply.github.com commit -q -m samples
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" probe-samples
