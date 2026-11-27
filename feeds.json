@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T19:14+00:00",
+ "generated": "2026-11-27T19:18+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -1017,30 +1017,6 @@
    "status": "ok",
    "items": [
     {
-     "title": "Why Thypoch Isn't Just Another Leica Lens Copycat",
-     "link": "https://fstoppers.com/gear/why-thypoch-isnt-just-another-leica-lens-copycat-905498?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-     "published": "2026-11-27T17:03+00:00",
-     "summary": "There’s been a growing trend over the past few years. New lens manufacturers are starting up, with the goal of making vintage-inspired manual-focus Leica lenses. But why? [ Read More ]"
-    },
-    {
-     "title": "675 Days, a Dozen Visits, and One Photo of a Football Stand",
-     "link": "https://fstoppers.com/education/675-days-dozen-visits-and-one-photo-football-stand-905683?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-     "published": "2026-11-27T16:03+00:00",
-     "summary": "Most landscape work falls into two camps: scenes you stumble into and scenes you return to until the light finally cooperates. The second kind tests your patience, your forecasting, and your willingness to keep showing up for a photo that …"
-    },
-    {
-     "title": "Live Update: Best Black Friday Deals for Photographers",
-     "link": "https://fstoppers.com/gear/live-update-best-black-friday-deals-photographers-905685?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-     "published": "2026-11-27T15:34+00:00",
-     "summary": "We've searched the web for the best Black Friday deals on photography and video gear, and we'll keep adding new ones all day as we find them. [ Read More ]"
-    },
-    {
-     "title": "How to Get a White Portrait Background Without a Third Light",
-     "link": "https://fstoppers.com/education/how-get-white-portrait-background-without-third-light-905682?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-     "published": "2026-11-27T14:03+00:00",
-     "summary": "A white or light gray backdrop is the default for headshots, business portraits, and corporate work, and most two-light kits end up spending both heads on the subject. That leaves the background to land wherever it lands, usually as a …"
-    },
-    {
      "title": "5 Full Frame Lenses a Sony Shooter Still Relies on After 6 Years",
      "link": "https://fstoppers.com/gear/5-full-frame-lenses-sony-shooter-still-relies-after-6-years-905681?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
      "published": "2026-11-27T12:03+00:00",
@@ -1105,6 +1081,30 @@
      "link": "https://fstoppers.com/gear/testing-dells-biggest-monitor-ever-905620?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
      "published": "2026-11-25T17:03+00:00",
      "summary": "For about two years, I've worked on four 4K monitors. The setup was a huge pain to build, and honestly, it's kind of ugly. So when the Dell UltraSharp 52 Thunderbolt Hub Monitor came out, a single 51.5-inch curved screen at 6,144 x 2,560 …"
+    },
+    {
+     "title": "Your Memory Cards Are Probably Fake",
+     "link": "https://fstoppers.com/gear/your-memory-cards-are-probably-fake-905618?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-25T17:03+00:00",
+     "summary": "There's a good chance you own a fake hard drive, SSD, or memory card right now. You might even be using it today and think it's working fine. It isn't. I recently bought six SanDisk memory cards from Amazon and eBay, and every one of them …"
+    },
+    {
+     "title": "Why Your Portfolio Isn't Getting You Commercial Work",
+     "link": "https://fstoppers.com/business/why-your-portfolio-isnt-getting-commercial-work-905663?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-25T16:03+00:00",
+     "summary": "A new commercial portfolio usually starts with borrowed ideas: a lighting setup from a tutorial, a look lifted from someone you admire, a composite you watched get built layer by layer. Every test shoot costs you time, money, and favors …"
+    },
+    {
+     "title": "5 Things to Know Before You Shoot Your First Wedding, From a Veteran of 900",
+     "link": "https://fstoppers.com/education/5-things-know-shoot-your-first-wedding-veteran-900-905662?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-25T14:03+00:00",
+     "summary": "A first wedding, whether it's a paid booking or a favor for a friend, leaves you responsible for photographs nobody gets to retake. Most of what goes wrong happens away from the camera: a missed family group, a tradition nobody mentioned …"
+    },
+    {
+     "title": "Sony 400-800mm vs. 200-600mm: A Wildlife Videographer's Verdict",
+     "link": "https://fstoppers.com/gear/sony-400-800mm-vs-200-600mm-wildlife-videographers-verdict-905661?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-25T12:03+00:00",
+     "summary": "Sony's 400-800mm zoom puts 800mm of reach on a full frame body for $2,698, but its f/8 maximum aperture at the long end and a 400mm starting point make it a narrower tool than the familiar 200-600mm. If you film birds and small animals …"
     }
    ]
   },
@@ -1932,8 +1932,81 @@
    "name": "Danmark",
    "topic": "danmark",
    "url": "https://cphpost.dk/feed/",
-   "status": "fejl: ParseError",
-   "items": []
+   "status": "ok",
+   "items": [
+    {
+     "title": "Audit shows tax errors for most content creators",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/audit-shows-tax-errors-for-most-content-creators/",
+     "published": "2026-11-27T15:02+00:00",
+     "summary": "Most social media content creators in Denmark make mistakes when they report their earnings to the government, according to Skattestyrelsen, the Danish Tax Agency, which is the national public authority responsible for assessing and …"
+    },
+    {
+     "title": "Thousands of Danish students’ phone numbers leaked",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/thousands-of-danish-students-phone-numbers-leaked/",
+     "published": "2026-11-27T15:01+00:00",
+     "summary": "At least 15,338 phone numbers belonging to high school students have been leaked in a data security breach. The incident was announced by Gymnasiefællesskabet, an association of Danish high schools. The education news outlet …"
+    },
+    {
+     "title": "Hackers breach US Air Force cloud platform",
+     "link": "https://cphpost.dk/2026-11-27/global/hackers-breach-us-air-force-cloud-platform/",
+     "published": "2026-11-27T15:00+00:00",
+     "summary": "Cybercriminals have broken into a central cloud platform used by the U.S. Air Force, according to three people with knowledge of the matter who spoke to the Reuters news agency. A large amount of data about tactical, personnel, and …"
+    },
+    {
+     "title": "Norwegian airline files for bankruptcy",
+     "link": "https://cphpost.dk/2026-11-27/global/norwegian-airline-files-for-bankruptcy/",
+     "published": "2026-11-27T15:00+00:00",
+     "summary": "The Norwegian low-cost airline Norse Atlantic has filed for bankruptcy, the company stated in an announcement on Friday. “The board of directors of Norse Atlantic Airways AS has made the difficult decision to file for bankruptcy despite …"
+    },
+    {
+     "title": "MobilePay sees fewer purchases this Black Friday",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/mobilepay-sees-fewer-purchases-this-black-friday/",
+     "published": "2026-11-27T15:00+00:00",
+     "summary": "The Danish payment company MobilePay recorded 20 percent fewer transactions on Black Friday this year compared to last year. MobilePay shared the numbers with Ritzau, the Danish news agency. While payments dropped on the day itself, the …"
+    },
+    {
+     "title": "Denmark gets its first female prosecutor general",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/denmark-gets-its-first-female-prosecutor-general/",
+     "published": "2026-11-27T15:00+00:00",
+     "summary": "Caroline Østergaard Nielsen has been named Denmark’s new Director of Public Prosecutions. She has already been serving in the role since August 1, after the former director, Lars Boje Nielsen, left the post to become the National …"
+    },
+    {
+     "title": "Your guide for staying warm and dry through the Danish winter",
+     "link": "https://cphpost.dk/2026-11-27/life-in-denmark/your-guide-for-staying-warm-and-dry-through-the-danish-winter/",
+     "published": "2026-11-27T14:30+00:00",
+     "summary": "From wool layers to waterproof cycling gear, here’s how to stay warm and dry through a typical winter in Denmark."
+    },
+    {
+     "title": "France’s economy shrank more than first estimated in third quarter",
+     "link": "https://cphpost.dk/2026-11-27/global/frances-economy-shrank-more-than-first-estimated-in-third-quarter/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "France’s economy contracted by 0.2% in the third quarter, a larger decline than initially estimated, as falling business investment weighed on growth. The national statistics agency, Insee, revised the figure Friday from its earlier …"
+    },
+    {
+     "title": "Frederiksen defends Denmark’s refusal to split from allies in EU budget talks",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/frederiksen-defends-denmarks-refusal-to-split-from-allies-in-eu-budget-talks/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "Prime Minister Mette Frederiksen defended Denmark’s decision to refuse further small-group negotiations at this week’s European Union budget summit, saying the country and six allies wanted to negotiate together. The summit in Brussels …"
+    },
+    {
+     "title": "Denmark’s last autumn weekend to bring clouds, near-freezing temperatures and some sun",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/denmarks-last-autumn-weekend-to-bring-clouds-near-freezing-temperatures-and-some-sun/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "Denmark will have a mostly cloudy final weekend of autumn, with occasional sunshine and a chance of rain or sleet, according to the Danish Meteorological Institute, DMI. “It is completely normal November weather, with signs that we are …"
+    },
+    {
+     "title": "Christmas cookies and cakes recalled over possible toxin contamination in flour",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/christmas-cookies-and-cakes-recalled-over-possible-toxin-contamination-in-flour/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "Cookies and Christmas cakes sold across Denmark are being recalled because they were made with flour that may contain elevated levels of mycotoxins, the Danish Veterinary and Food Administration said. The authority confirmed to Ritzau that …"
+    },
+    {
+     "title": "Norse Atlantic says leases for all 12 aircraft have been terminated",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/norse-atlantic-says-leases-for-all-12-aircraft-have-been-terminated/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "Norse Atlantic said Friday that lease agreements for all 12 of its aircraft have been terminated as the Norwegian low-cost airline seeks funding to avoid bankruptcy. The company disputes the validity of the termination, according to a …"
+    }
+   ]
   }
  ]
 }
