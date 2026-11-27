@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T14:34+00:00",
+ "generated": "2026-11-27T14:44+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -690,6 +690,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Færre transaktioner Black Friday",
+     "link": "https://www.bt.dk/privatoekonomi/faerretransaktioner-black-friday?referrer=RSS",
+     "published": "2026-11-27T14:37+00:00"
+    },
+    {
      "title": "Norsk flyselskab indgiver konkursbegæring",
      "link": "https://www.bt.dk/udland/norsk-flyselskab-indgiver-konkursbegaering?referrer=RSS",
      "published": "2026-11-27T14:27+00:00"
@@ -733,11 +738,6 @@
      "title": "Antallet af danskere med KOL er begyndt at falde",
      "link": "https://www.bt.dk/samfund/antallet-af-danskere-med-kol-er-begyndt-at-falde?referrer=RSS",
      "published": "2026-11-27T13:42+00:00"
-    },
-    {
-     "title": "Putin-opkald vakte nordisk vrede: Nu afslører storavis alvorlig dagsorden",
-     "link": "https://www.bt.dk/udland/putin-opkald-vakte-nordisk-vrede-nu-afsloerer-storavis-alvorlig-dagsorden?referrer=RSS",
-     "published": "2026-11-27T13:40+00:00"
     }
    ]
   },
@@ -1473,6 +1473,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "What’s in My Pack…",
+     "link": "https://thetrek.co/appalachian-trail/whats-in-my-pack-3/",
+     "published": "2026-11-27T14:39+00:00"
+    },
+    {
      "title": "The Pressure to Crush Miles Can Ruin Your Thru-Hike. Don’t Let It.",
      "link": "https://thetrek.co/the-pressure-to-crush-miles-can-ruin-your-thru-hike-dont-let-it/",
      "published": "2026-11-27T13:06+00:00"
@@ -1516,11 +1521,6 @@
      "title": "Congratulations to These 2026 Pacific Crest Trail Finishers (Part 9)",
      "link": "https://thetrek.co/pacific-crest-trail/congratulations-to-these-2026-pacific-crest-trail-finishers-part-9/",
      "published": "2026-11-26T12:58+00:00"
-    },
-    {
-     "title": "Zero In Hagerstown, MD",
-     "link": "https://thetrek.co/appalachian-trail/zero-in-hagerstown-md/",
-     "published": "2026-11-26T12:00+00:00"
     }
    ]
   },
@@ -1591,6 +1591,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "The 10 Best Editor-Approved Black Friday Deals for Hikers",
+     "link": "https://www.backpacker.com/gear/the-11-best-editor-approved-black-friday-deals-for-hikers/",
+     "published": "2026-11-27T13:32+00:00"
+    },
+    {
      "title": "Search for One of the World’s Rarest Mushrooms on These Texas Trails",
      "link": "https://www.backpacker.com/skills/identify/devils-cigar-mushroom-trails/",
      "published": "2026-11-27T12:05+00:00"
@@ -1634,11 +1639,6 @@
      "title": "A Hiker Died Along the PCT After Winter Ice Turned a Popular Trail Dangerous",
      "link": "https://www.backpacker.com/news-and-events/news/hiker-dies-mount-baden-powell-500-foot-fall/",
      "published": "2026-11-25T04:05+00:00"
-    },
-    {
-     "title": "Carry Less, Eat Better",
-     "link": "https://www.backpacker.com/skills/beginner-skills/backpacking-food-basics/carry-less-eat-better/",
-     "published": "2026-11-24T21:39+00:00"
     }
    ]
   },
