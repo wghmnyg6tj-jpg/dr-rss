@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T13:12+00:00",
+ "generated": "2026-11-27T13:22+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -513,6 +513,21 @@
    "status": "ok",
    "items": [
     {
+     "title": "Ulven kan blive skudt: Ny plan klar",
+     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/minister-tager-nyt-skridt-mod-fremtidig-ulvejagt-i-danmark/11367709",
+     "published": "2026-11-27T13:15+00:00"
+    },
+    {
+     "title": "Kæmpe nedtur: Norse Atlantic søger om konkurs",
+     "link": "https://ekstrabladet.dk/penge/kaempe-nedtur-norse-atlantic-soeger-om-konkurs/11367732",
+     "published": "2026-11-27T13:14+00:00"
+    },
+    {
+     "title": "AaB fyrer Steffen Højer",
+     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/1division/aab-fyrer-steffen-hoejer/11367722",
+     "published": "2026-11-27T13:11+00:00"
+    },
+    {
      "title": "Advarer: \nKan være \ndødeligt for katte",
      "link": "https://ekstrabladet.dk/nyheder/samfund/advarer-kan-vaere-doedeligt-for-katte/11367695",
      "published": "2026-11-27T13:06+00:00"
@@ -546,21 +561,6 @@
      "title": "Medie: Robert Skov skal sælges",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/tyskfodbold/medie-robert-skov-skal-saelges/11367427",
      "published": "2026-11-27T12:24+00:00"
-    },
-    {
-     "title": "Røde lamper: \nHelt udsolgt til kæmpe brag",
-     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/nykoebing-melder-udsolgt-til-broendby-brag/11367633",
-     "published": "2026-11-27T12:22+00:00"
-    },
-    {
-     "title": "TV 2 tager 'Den sorte svane'-sigtelserne 'særdeles alvorligt'",
-     "link": "https://ekstrabladet.dk/underholdning/filmogtv/tv-2-tager-den-sorte-svane-sigtelserne-saerdeles-alvorligt/11367624",
-     "published": "2026-11-27T12:16+00:00"
-    },
-    {
-     "title": "Officielt: Alexander Kamp forlader Uno-X",
-     "link": "https://ekstrabladet.dk/sport/cykling/officielt-alexander-kamp-forlader-uno-x/11367485",
-     "published": "2026-11-27T12:05+00:00"
     }
    ]
   },
@@ -571,6 +571,11 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Ulven kan blive skudt: Ny plan klar",
+     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/minister-tager-nyt-skridt-mod-fremtidig-ulvejagt-i-danmark/11367709",
+     "published": "2026-11-27T13:15+00:00"
+    },
     {
      "title": "Advarer: \nKan være \ndødeligt for katte",
      "link": "https://ekstrabladet.dk/nyheder/samfund/advarer-kan-vaere-doedeligt-for-katte/11367695",
@@ -615,11 +620,6 @@
      "title": "Uheld: Motorvej helt spærret",
      "link": "https://ekstrabladet.dk/nyheder/Udland/uheld-motorvej-helt-spaerret/11367185",
      "published": "2026-11-27T07:29+00:00"
-    },
-    {
-     "title": "Danskerne vælger Mona Juul",
-     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/stor-overraskelse-danskerne-vaelger-mona-juul/11367135",
-     "published": "2026-11-27T07:02+00:00"
     }
    ]
   },
@@ -630,6 +630,16 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Fly-krak: Flyselskab går konkurs",
+     "link": "https://www.bt.dk/udland/fly-krak-flyselskab-gaar-konkurs?referrer=RSS",
+     "published": "2026-11-27T13:15+00:00"
+    },
+    {
+     "title": "Minister tager nyt skridt mod fremtidig ulvejagt i Danmark",
+     "link": "https://www.bt.dk/politik/minister-tager-nyt-skridt-mod-fremtidig-ulvejagt-i-danmark?referrer=RSS",
+     "published": "2026-11-27T13:14+00:00"
+    },
     {
      "title": "Styrelse advarer: Kontakt med hårtabsmidler kan være dødelig for katte",
      "link": "https://www.bt.dk/samfund/styrelse-advarer-kontakt-med-haartabsmidler-kan-vaere-doedelig-for-katte?referrer=RSS",
@@ -669,16 +679,6 @@
      "title": "Formodet bandefigur fængslet for skud mod eksbokser og hans familie",
      "link": "https://www.bt.dk/krimi/formodet-bandefigur-faengslet-for-skud-mod-eksbokser-og-hans-familie?referrer=RSS",
      "published": "2026-11-27T12:37+00:00"
-    },
-    {
-     "title": "50 butikker skal få flere til at vælge dansk frugt og grønt",
-     "link": "https://www.bt.dk/samfund/50-butikker-skal-faa-flere-til-at-vaelge-dansk-frugt-og-groent?referrer=RSS",
-     "published": "2026-11-27T12:37+00:00"
-    },
-    {
-     "title": "Elon Musk med løfte: Vil donere aktier til alle amerikanske børn",
-     "link": "https://www.bt.dk/udland/elon-musk-med-loefte-vil-donere-aktier-til-alle-amerikanske-boern?referrer=RSS",
-     "published": "2026-11-27T12:32+00:00"
     }
    ]
   },
@@ -689,6 +689,26 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Kriseramte AaB smider Steffen Højer på porten",
+     "link": "https://www.bt.dk/fodbold/kriseramte-aab-smider-steffen-hoejer-paa-porten?referrer=RSS",
+     "published": "2026-11-27T13:18+00:00"
+    },
+    {
+     "title": "Fly-krak: Flyselskab går konkurs",
+     "link": "https://www.bt.dk/udland/fly-krak-flyselskab-gaar-konkurs?referrer=RSS",
+     "published": "2026-11-27T13:15+00:00"
+    },
+    {
+     "title": "Minister tager nyt skridt mod fremtidig ulvejagt i Danmark",
+     "link": "https://www.bt.dk/politik/minister-tager-nyt-skridt-mod-fremtidig-ulvejagt-i-danmark?referrer=RSS",
+     "published": "2026-11-27T13:14+00:00"
+    },
+    {
+     "title": "Efter skuffende sæson: Fyret med øjeblikkelig virkning",
+     "link": "https://www.bt.dk/fodbold/efter-skuffende-saeson-fyret-med-oejeblikkelig-virkning?referrer=RSS",
+     "published": "2026-11-27T13:13+00:00"
+    },
     {
      "title": "Styrelse advarer: Kontakt med hårtabsmidler kan være dødelig for katte",
      "link": "https://www.bt.dk/samfund/styrelse-advarer-kontakt-med-haartabsmidler-kan-vaere-doedelig-for-katte?referrer=RSS",
@@ -718,26 +738,6 @@
      "title": "TV 2 vil bistå politiet i opklaringsarbejde om Den sorte svane",
      "link": "https://www.bt.dk/krimi/tv-2-vil-bistaa-politiet-i-opklaringsarbejde-om-den-sorte-svane?referrer=RSS",
      "published": "2026-11-27T12:57+00:00"
-    },
-    {
-     "title": "TV 2-deltager har scoret topjob: 'Jeg troede, det var en feberdrøm'",
-     "link": "https://www.bt.dk/kendte/tv-2-deltager-har-scoret-topjob-jeg-troede-det-var-en-feberdroem?referrer=RSS",
-     "published": "2026-11-27T12:52+00:00"
-    },
-    {
-     "title": "Spansk premierminister før valg: Kan ikke forestille mig nederlag",
-     "link": "https://www.bt.dk/udland/spansk-premierminister-foer-valg-kan-ikke-forestille-mig-nederlag?referrer=RSS",
-     "published": "2026-11-27T12:51+00:00"
-    },
-    {
-     "title": "FN advarer om risiko for hungersnød i flere lande",
-     "link": "https://www.bt.dk/udland/fn-advarer-om-risiko-for-hungersnoed-i-flere-lande?referrer=RSS",
-     "published": "2026-11-27T12:51+00:00"
-    },
-    {
-     "title": "Forlænget reparation betyder højere varmeregning",
-     "link": "https://www.bt.dk/privatoekonomi/forlaenget-reparation-betyder-hoejere-varmeregning?referrer=RSS",
-     "published": "2026-11-27T12:49+00:00"
     }
    ]
   },
