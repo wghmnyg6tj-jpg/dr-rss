@@ -4,7 +4,7 @@ Områderne står i locations.json (første = hovedområde). Mangler filen, bruge
 Pr. område:
 - DMI HARMONIE DINI (prognose, ca. 2 km), nærmeste gitterpunkt (kun inden for DMI's modelområde)
 - met.no locationforecast compact (prognose med vejrsymboler, hele verden)
-- de 2 nærmeste aktive DMI-stationer, der måler temperatur (metObs), med seneste værdier
+- de 4 nærmeste aktive DMI-stationer, der måler temperatur (metObs), med seneste værdier
 For hovedområdet desuden: DMI-lyn i et område omkring stedet.
 Hver kilde hentes for sig. Fejler en kilde, beholdes de forrige data for den kilde,
 og fejlen skrives i "status". Alle kald har gentagelse ved HTTP 429/5xx.
@@ -138,7 +138,7 @@ def metno(lat, lon, prev):
 
 
 def observations(lat, lon):
-    """De 2 nærmeste aktive DMI-stationer med temperatur, med seneste værdier."""
+    """De 4 nærmeste aktive DMI-stationer med temperatur, med seneste værdier (nogle sender ikke hvert 10. minut)."""
     _, _, j = get_json(f"{DMI}/v2/metObs/collections/station/items?bbox={round(lon - 0.9, 3)},{round(lat - 0.5, 3)},{round(lon + 0.9, 3)},{round(lat + 0.5, 3)}&status=Active&limit=500")
     cands = {}
     for f in j.get("features", []):
@@ -150,7 +150,7 @@ def observations(lat, lon):
         d = km(lat, lon, c[1], c[0])
         if sid not in cands or d < cands[sid]["dist_km"]:
             cands[sid] = {"name": p.get("name", sid), "point": c, "dist_km": round(d, 1)}
-    near = sorted(cands.items(), key=lambda kv: kv[1]["dist_km"])[:2]
+    near = sorted(cands.items(), key=lambda kv: kv[1]["dist_km"])[:4]
     out = {}
     for sid, info in near:
         _, _, o = get_json(f"{DMI}/v2/metObs/collections/observation/items?stationId={sid}&period=latest-hour&limit=1000")

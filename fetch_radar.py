@@ -36,10 +36,15 @@ def attrs(g):
     for k, v in g.attrs.items():
         if hasattr(v, "tolist"):
             v = v.tolist()
+        if isinstance(v, list) and len(v) == 1:
+            v = v[0]
         if isinstance(v, bytes):
             v = v.decode("utf-8", "replace")
         out[k] = v
     return out
+
+
+META = {}
 
 
 def mmh(dbz):
@@ -57,7 +62,8 @@ def main():
     except Exception:
         p0 = {"name": "Mørkhøj", "lat": 55.74, "lon": 12.50}
     lat, lon, name = float(p0["lat"]), float(p0["lon"]), p0.get("name", "")
-    meta = {"generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "place": name, "lat": lat, "lon": lon}
+    meta = META
+    meta.update({"generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "place": name, "lat": lat, "lon": lon})
 
     since = (datetime.now(timezone.utc) - timedelta(hours=3)).strftime("%Y-%m-%dT%H:%M:%SZ")
     j = get(f"{DMI}/v1/radardata/collections/composite/items?datetime={since}/..&limit=500")
@@ -98,8 +104,13 @@ def main():
         what = attrs(grp["what"]) if "what" in grp else {}
         where = attrs(h["where"]) if "where" in h else {}
         topwhat = attrs(h["what"]) if "what" in h else {}
-    meta["odim"] = {"what": what, "where": {k: v for k, v in where.items() if k != "projdef"}, "projdef": where.get("projdef"), "top": topwhat}
-    gain, offset = float(what.get("gain", 1)), float(what.get("offset", 0))
+    meta["odim"] = {"what": what, "where": {k: v for k, v in where.items() if k != "projdef"}, "projdef": where.get("projdef"), "top": topwhat,
+                    "shape": list(raw.shape), "raw_min": float(raw.min()), "raw_max": float(raw.max())}
+    def fnum(v, d):
+        if isinstance(v, (list, tuple)):
+            v = v[0] if v else d
+        return float(v) if v is not None else d
+    gain, offset = fnum(what.get("gain"), 1.0), fnum(what.get("offset"), 0.0)
     nodata, undetect = what.get("nodata"), what.get("undetect")
     dbz = raw * gain + offset
     mask_nodata = (raw == nodata) if nodata is not None else np.zeros(raw.shape, bool)
@@ -195,8 +206,11 @@ if __name__ == "__main__":
         raise
     except Exception as e:
         try:
-            json.dump({"generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "error": f"{type(e).__name__}: {e}"[:300]},
-                      open("radar.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+            import traceback
+            META.pop("near", None)
+            META.update({"generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "error": f"{type(e).__name__}: {e}"[:300],
+                         "trace": traceback.format_exc()[-1200:]})
+            json.dump(META, open("radar.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1, default=str)
         except Exception:
             pass
         print("Radar fejlede:", e)
