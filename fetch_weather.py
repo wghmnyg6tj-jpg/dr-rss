@@ -9,7 +9,7 @@ For hovedområdet desuden: DMI-lyn i et område omkring stedet.
 Hver kilde hentes for sig. Fejler en kilde, beholdes de forrige data for den kilde,
 og fejlen skrives i "status". Alle kald har gentagelse ved HTTP 429/5xx.
 """
-import json, math, sys, time, urllib.request, urllib.error
+import json, socket, math, sys, time, urllib.request, urllib.error
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 
@@ -34,20 +34,31 @@ def iso(dt):
 
 
 def get_json(url, headers=None, timeout=20, tries=4):
-    """Henter JSON. Ved HTTP 429/502/503/504 ventes (Retry-After eller 2, 4, 8 s), og der prøves igen."""
+    """Henter JSON. Ved HTTP 429/502/503/504 ventes (Retry-After eller 2, 4, 8 s), og der prøves igen.
+    Ved timeout prøves én gang til (DMI svarer af og til ikke)."""
     h = {"User-Agent": UA, "Accept": "application/json"}
     if headers:
         h.update(headers)
-    for n in range(tries):
+    timeouts = 0
+    n = 0
+    while True:
         req = urllib.request.Request(url, headers=h)
         try:
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 return r.status, dict(r.headers), json.loads(r.read().decode("utf-8"))
         except urllib.error.HTTPError as e:
-            if e.code in (429, 502, 503, 504) and n < tries - 1:
+            n += 1
+            if e.code in (429, 502, 503, 504) and n < tries:
                 ra = e.headers.get("Retry-After") if e.headers else None
-                wait = float(ra) if ra and ra.replace(".", "", 1).isdigit() else 2 ** (n + 1)
+                wait = float(ra) if ra and ra.replace(".", "", 1).isdigit() else 2 ** n
                 time.sleep(min(wait, 20))
+                continue
+            raise
+        except (TimeoutError, socket.timeout, urllib.error.URLError) as e:
+            is_to = isinstance(e, (TimeoutError, socket.timeout)) or isinstance(getattr(e, "reason", None), (TimeoutError, socket.timeout))
+            if is_to and timeouts < 1:
+                timeouts += 1
+                time.sleep(1)
                 continue
             raise
 
@@ -80,7 +91,7 @@ def dmi_forecast(lat, lon, now):
     url = (f"{DMI}/v1/forecastedr/collections/harmonie_dini_sf/position"
            f"?coords=POINT%28{round(lon, 4)}%20{round(lat, 4)}%29&crs=crs84&parameter-name={','.join(DMI_PARAMS)}&f=GeoJSON"
            f"&datetime={start.strftime('%Y-%m-%dT%H:%M:%S.000Z')}/{end.strftime('%Y-%m-%dT%H:%M:%S.000Z')}")
-    _, _, j = get_json(url, timeout=30)
+    _, _, j = get_json(url, timeout=12)
     feats = j.get("features", [])
     if not feats:
         raise ValueError("ingen data fra DMI-prognosen (stedet ligger måske uden for DMI's modelområde)")
