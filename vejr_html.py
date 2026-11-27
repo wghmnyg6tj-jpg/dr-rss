@@ -240,7 +240,7 @@ def main(argv):
         mk, mmm = wtype(met)
         dk, dmm = wtype(dmi) if dmi else (None, None)
         if mk == "tørt" and dk in ("tørt", None):
-            pr = "ingen regn eller sne" + (" i begge modeller" if dk else "")
+            pr = "ingen regn eller sne" + (" (begge modeller)" if dk else " (met.no)")
         elif dk is None:
             pr = f"{mk} {mm_txt(mmm)} (met.no)"
         elif mk == dk:
@@ -261,7 +261,8 @@ def main(argv):
         if g:
             gmn, gt = min(g, key=lambda x: x[0])
             if gmn <= 0:
-                s += f". DMI: jorden ned til {deg(gmn)} kl. {gt.hour:02d}, så glatte veje er mulige"
+                gwhen = ("i dag" if gt.date() == now.date() else DAYL[gt.weekday()]) + f" kl. {gt.hour:02d}"
+                s += f". DMI: jorden ned til {deg(gmn)} {gwhen}, så glatte veje er mulige"
         dm = [(dmi[key(t)]["t2"], t) for t in hrs if key(t) in dmi and dmi[key(t)].get("t2") is not None]
         if dm:
             dmn = min(x[0] for x in dm)
