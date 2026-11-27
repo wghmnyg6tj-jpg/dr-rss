@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T19:19+00:00",
+ "generated": "2026-11-27T19:25+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -207,6 +207,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Kendte Youtube-brødre risikerer bøde på 140.000 kroner",
+     "link": "https://www.dr.dk/nyheder/indland/kendte-youtube-broedre-risikerer-boede-paa-140-000-kroner",
+     "published": "2026-11-27T19:18+00:00",
+     "summary": "Mikkel og Emil Trier Pedersens virksomhed var fredag i retten."
+    },
+    {
      "title": "13 byrødder har bremset kæmpe havneudvidelse - nu vil flere have staten på banen",
      "link": "https://www.dr.dk/nyheder/indland/13-byroedder-har-bremset-kaempe-havneudvidelse-nu-vil-flere-have-staten-paa-banen",
      "published": "2026-11-27T19:00+00:00",
@@ -225,7 +231,7 @@
      "summary": "Både Semler Gruppen, flere gymnasier og Det Danske Spejderkorps er berørt af sikkerhedsbrud hos en teleudbyder."
     },
     {
-     "title": "Charlottes sag blev afgjort af AI: Nu går ombudsmand ind i sagen",
+     "title": "Charlottes sag blev lynekspederet af AI: Nu går ombudsmand ind i sagen",
      "link": "https://www.dr.dk/nyheder/indland/charlottes-sag-blev-afgjort-af-ai-nu-gaar-ombudsmand-ind-i-sagen",
      "published": "2026-11-27T17:21+00:00",
      "summary": "Nyborg Kommune brugte under 12 timer på at afvise en 36 sider lang klage - og undskyldte senere, at der var brugt kunstig intelligens i forbindelse med afgørelsen."
@@ -289,12 +295,6 @@
      "link": "https://www.dr.dk/nyheder/indland/butikker-skal-undersoege-hvad-der-faar-os-til-koebe-mere-dansk-frugt-og-groent",
      "published": "2026-11-27T08:39+00:00",
      "summary": "Dagligvarekæder som Coop, Føtex, Lidl og Rema 1000 skal teste, hvad der får flere til at købe danske råvarer."
-    },
-    {
-     "title": "LIVE Årets Black Friday er i gang",
-     "link": "https://www.dr.dk/nyheder/indland/aarets-black-friday-er-i-gang",
-     "published": "2026-11-27T08:21+00:00",
-     "summary": "Du kan følge med i livebloggen her."
     }
    ]
   },
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Overvejer\ngigantisk \nfyringsrunde",
+     "link": "https://ekstrabladet.dk/penge/sap-overvejer-gigantisk-blodbad-vil-nedlaegge-10.000-stillinger/11367121",
+     "published": "2026-11-27T19:22+00:00",
+     "summary": "Alle afdelinger hos softwaregiganten SAP er ifølge Bloomberg blevet bedt om at finde mulige besparelser. Især udviklerne og sælgerne er i søgelyset"
+    },
+    {
      "title": "Påkørt bagfra \nog angrebet \nmed peberspray",
      "link": "https://ekstrabladet.dk/krimi/amok-i-trafikken-paakoert-bagfra-og-angrebet-med-peberspray/11367750",
      "published": "2026-11-27T19:11+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/krimi/tredobbelt-drabsforsoeg-derfor-ville-ltf-draebe-patrick-nielsen/11367590",
      "published": "2026-11-27T17:55+00:00",
      "summary": "En 18-årig dansk LTF'er blev fredag fængslet for attentat mod den daværende rocker og eks-bokser Patrick Nielsen og hans familie i maj. Angrebet var en del af en brutal voldsbølge"
-    },
-    {
-     "title": "LIVE: Følg Sønderjyske-Brøndby",
-     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/live-foelg-soenderjyske-broendby/11368050",
-     "published": "2026-11-27T17:54+00:00",
-     "summary": "Sønderjyske og Brøndby IF mødes i 3F Superligaen. Du kan følge opgøret live i tekst her"
     }
    ]
   },
@@ -810,6 +810,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Rasmus Bjerg slår fast: Jeg laver ikke tv om hvad som helst!",
+     "link": "https://www.bt.dk/danske-kendte/rasmus-bjerg-slaar-fast-jeg-laver-ikke-tv-om-hvad-som-helst?referrer=RSS",
+     "published": "2026-11-27T19:20+00:00",
+     "summary": "Rasmus Bjerg og hustruen Helle har fået mange søde reaktioner på deres nye program, men det er ikke sikkert, at der kommer mere tv fra parret."
+    },
+    {
      "title": "Blotter fortsat på spil i Silkeborg: 'Ekstra opmærksomme'",
      "link": "https://www.bt.dk/krimi/blotter-fortsat-paa-spil-i-silkeborg-ekstra-opmaerksomme?referrer=RSS",
      "published": "2026-11-27T19:11+00:00",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/erhverv/frygter-skadedyr-slagter-lukker-hele-weekenden?referrer=RSS",
      "published": "2026-11-27T18:30+00:00",
      "summary": "Slagterbutikken forventer at åbne som normalt på mandag."
-    },
-    {
-     "title": "Amerikansk militærfly beskyder fragtskib i Omanbugten",
-     "link": "https://www.bt.dk/udland/amerikansk-militaerfly-beskyder-fragtskib-i-omanbugten?referrer=RSS",
-     "published": "2026-11-27T18:18+00:00",
-     "summary": "Trods flere advarsler forsøgte et skib at bryde den amerikanske maritime blokade mod iranske havne."
     }
    ]
   },
@@ -1932,81 +1932,8 @@
    "name": "Danmark",
    "topic": "danmark",
    "url": "https://cphpost.dk/feed/",
-   "status": "ok",
-   "items": [
-    {
-     "title": "Audit shows tax errors for most content creators",
-     "link": "https://cphpost.dk/2026-11-27/news/round-up/audit-shows-tax-errors-for-most-content-creators/",
-     "published": "2026-11-27T15:02+00:00",
-     "summary": "Most social media content creators in Denmark make mistakes when they report their earnings to the government, according to Skattestyrelsen, the Danish Tax Agency, which is the national public authority responsible for assessing and …"
-    },
-    {
-     "title": "Thousands of Danish students’ phone numbers leaked",
-     "link": "https://cphpost.dk/2026-11-27/news/round-up/thousands-of-danish-students-phone-numbers-leaked/",
-     "published": "2026-11-27T15:01+00:00",
-     "summary": "At least 15,338 phone numbers belonging to high school students have been leaked in a data security breach. The incident was announced by Gymnasiefællesskabet, an association of Danish high schools. The education news outlet …"
-    },
-    {
-     "title": "Hackers breach US Air Force cloud platform",
-     "link": "https://cphpost.dk/2026-11-27/global/hackers-breach-us-air-force-cloud-platform/",
-     "published": "2026-11-27T15:00+00:00",
-     "summary": "Cybercriminals have broken into a central cloud platform used by the U.S. Air Force, according to three people with knowledge of the matter who spoke to the Reuters news agency. A large amount of data about tactical, personnel, and …"
-    },
-    {
-     "title": "Norwegian airline files for bankruptcy",
-     "link": "https://cphpost.dk/2026-11-27/global/norwegian-airline-files-for-bankruptcy/",
-     "published": "2026-11-27T15:00+00:00",
-     "summary": "The Norwegian low-cost airline Norse Atlantic has filed for bankruptcy, the company stated in an announcement on Friday. “The board of directors of Norse Atlantic Airways AS has made the difficult decision to file for bankruptcy despite …"
-    },
-    {
-     "title": "MobilePay sees fewer purchases this Black Friday",
-     "link": "https://cphpost.dk/2026-11-27/news/round-up/mobilepay-sees-fewer-purchases-this-black-friday/",
-     "published": "2026-11-27T15:00+00:00",
-     "summary": "The Danish payment company MobilePay recorded 20 percent fewer transactions on Black Friday this year compared to last year. MobilePay shared the numbers with Ritzau, the Danish news agency. While payments dropped on the day itself, the …"
-    },
-    {
-     "title": "Denmark gets its first female prosecutor general",
-     "link": "https://cphpost.dk/2026-11-27/news/round-up/denmark-gets-its-first-female-prosecutor-general/",
-     "published": "2026-11-27T15:00+00:00",
-     "summary": "Caroline Østergaard Nielsen has been named Denmark’s new Director of Public Prosecutions. She has already been serving in the role since August 1, after the former director, Lars Boje Nielsen, left the post to become the National …"
-    },
-    {
-     "title": "Your guide for staying warm and dry through the Danish winter",
-     "link": "https://cphpost.dk/2026-11-27/life-in-denmark/your-guide-for-staying-warm-and-dry-through-the-danish-winter/",
-     "published": "2026-11-27T14:30+00:00",
-     "summary": "From wool layers to waterproof cycling gear, here’s how to stay warm and dry through a typical winter in Denmark."
-    },
-    {
-     "title": "France’s economy shrank more than first estimated in third quarter",
-     "link": "https://cphpost.dk/2026-11-27/global/frances-economy-shrank-more-than-first-estimated-in-third-quarter/",
-     "published": "2026-11-27T10:57+00:00",
-     "summary": "France’s economy contracted by 0.2% in the third quarter, a larger decline than initially estimated, as falling business investment weighed on growth. The national statistics agency, Insee, revised the figure Friday from its earlier …"
-    },
-    {
-     "title": "Frederiksen defends Denmark’s refusal to split from allies in EU budget talks",
-     "link": "https://cphpost.dk/2026-11-27/news/round-up/frederiksen-defends-denmarks-refusal-to-split-from-allies-in-eu-budget-talks/",
-     "published": "2026-11-27T10:57+00:00",
-     "summary": "Prime Minister Mette Frederiksen defended Denmark’s decision to refuse further small-group negotiations at this week’s European Union budget summit, saying the country and six allies wanted to negotiate together. The summit in Brussels …"
-    },
-    {
-     "title": "Denmark’s last autumn weekend to bring clouds, near-freezing temperatures and some sun",
-     "link": "https://cphpost.dk/2026-11-27/news/round-up/denmarks-last-autumn-weekend-to-bring-clouds-near-freezing-temperatures-and-some-sun/",
-     "published": "2026-11-27T10:57+00:00",
-     "summary": "Denmark will have a mostly cloudy final weekend of autumn, with occasional sunshine and a chance of rain or sleet, according to the Danish Meteorological Institute, DMI. “It is completely normal November weather, with signs that we are …"
-    },
-    {
-     "title": "Christmas cookies and cakes recalled over possible toxin contamination in flour",
-     "link": "https://cphpost.dk/2026-11-27/news/round-up/christmas-cookies-and-cakes-recalled-over-possible-toxin-contamination-in-flour/",
-     "published": "2026-11-27T10:57+00:00",
-     "summary": "Cookies and Christmas cakes sold across Denmark are being recalled because they were made with flour that may contain elevated levels of mycotoxins, the Danish Veterinary and Food Administration said. The authority confirmed to Ritzau that …"
-    },
-    {
-     "title": "Norse Atlantic says leases for all 12 aircraft have been terminated",
-     "link": "https://cphpost.dk/2026-11-27/news/round-up/norse-atlantic-says-leases-for-all-12-aircraft-have-been-terminated/",
-     "published": "2026-11-27T10:57+00:00",
-     "summary": "Norse Atlantic said Friday that lease agreements for all 12 of its aircraft have been terminated as the Norwegian low-cost airline seeks funding to avoid bankruptcy. The company disputes the validity of the termination, according to a …"
-    }
-   ]
+   "status": "fejl: ParseError",
+   "items": []
   }
  ]
 }
