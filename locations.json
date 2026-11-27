@@ -1,8 +1,7 @@
 {
- "updated": "2026-11-27T13:25:08Z",
+ "updated": "2026-11-27T13:33:19Z",
  "requested": [
-  "Mørkhøj",
-  "Aarhus"
+  "Mørkhøj"
  ],
  "places": [
   {
@@ -11,14 +10,6 @@
    "lat": 55.74,
    "lon": 12.5,
    "source": "fast standard"
-  },
-  {
-   "q": "Aarhus",
-   "name": "Aarhus",
-   "lat": 56.1496,
-   "lon": 10.2134,
-   "found": "Aarhus, Aarhus Kommune, Region Midtjylland, 8000, Danmark",
-   "source": "OpenStreetMap Nominatim"
   }
  ],
  "errors": [],

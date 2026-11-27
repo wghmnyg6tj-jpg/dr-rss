@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T13:32+00:00",
+ "generated": "2026-11-27T13:33+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -690,6 +690,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Kriseramte AaB smider Steffen Højer på porten",
+     "link": "https://www.bt.dk/fodbold/kriseramte-aab-smider-steffen-hoejer-paa-porten?referrer=RSS",
+     "published": "2026-11-27T13:32+00:00"
+    },
+    {
      "title": "Norsk flyselskab indgiver konkursbegæring",
      "link": "https://www.bt.dk/udland/norsk-flyselskab-indgiver-konkursbegaering?referrer=RSS",
      "published": "2026-11-27T13:28+00:00"
@@ -703,11 +708,6 @@
      "title": "Antallet af danskere med KOL er begyndt at falde",
      "link": "https://www.bt.dk/samfund/antallet-af-danskere-med-kol-er-begyndt-at-falde?referrer=RSS",
      "published": "2026-11-27T13:25+00:00"
-    },
-    {
-     "title": "Kriseramte AaB smider Steffen Højer på porten",
-     "link": "https://www.bt.dk/fodbold/kriseramte-aab-smider-steffen-hoejer-paa-porten?referrer=RSS",
-     "published": "2026-11-27T13:18+00:00"
     },
     {
      "title": "Fly-krak: Flyselskab går konkurs",
