@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T19:36+00:00",
+ "generated": "2026-11-27T19:46+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Pludselig stod hun uden løn og klub: - Det var topfrustrerende!",
+     "link": "https://ekstrabladet.dk/sport/haandbold/sofie-bardrum-efter-kaotisk-ophold-alt-blev-revet-op/11365955",
+     "published": "2026-11-27T19:40+00:00",
+     "summary": "Beslutningen potentielt kunne have kostet hende en EM-plads, men den danske landsholdsspiller var ikke i tvivl"
+    },
+    {
      "title": "Hilda Heick chokeret over dødsfald: \n- Der var aldrig et ondt ord mellem os",
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/hilda-heick-chokeret-over-doedsfald-der-var-aldrig-et-ondt-ord-mellem-os/11368081",
      "published": "2026-11-27T19:32+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/amerikansk-militaerfly-beskyder-fragtskib-i-omanbugten/11368051",
      "published": "2026-11-27T18:16+00:00",
      "summary": "Trods flere advarsler forsøgte et skib at bryde den amerikanske maritime blokade mod iranske havne"
-    },
-    {
-     "title": "Stjernepar går fra hinanden",
-     "link": "https://ekstrabladet.dk/underholdning/udlandkendte/stjernepar-gaar-fra-hinanden-afbryder-forlovelsen/11368056",
-     "published": "2026-11-27T18:09+00:00",
-     "summary": "Thom Evans afslører det tunge brud på Instagram og skriver, at han respekterer Nicole Scherzingers beslutning om at gå hver til sit"
     }
    ]
   },
@@ -741,6 +741,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Bekræfter: Uvedkommende har fået adgang",
+     "link": "https://www.bt.dk/krimi/bekraefter-uvedkommende-har-faaet-adgang?referrer=RSS",
+     "published": "2026-11-27T19:41+00:00",
+     "summary": ""
+    },
+    {
+     "title": "'Slyngelstat' og 'hjernevask': Jacob Harris vækker opsigt i buffetkonges podcast",
+     "link": "https://www.bt.dk/samfund/slyngelstat-og-hjernevask-jacob-harris-vaekker-opsigt-i-buffetkonges-podcast?referrer=RSS",
+     "published": "2026-11-27T19:40+00:00",
+     "summary": "Ekspert fælder hård dom over vilde udtalelser i Dalle Valle-ejers podcast."
+    },
+    {
      "title": "Politiet med tragisk nyt: Kelsey Hunter fundet død",
      "link": "https://www.bt.dk/udland/politiet-med-tragisk-nytkelsey-hunter-fundet-doed?referrer=RSS",
      "published": "2026-11-27T19:29+00:00",
@@ -787,18 +799,6 @@
      "link": "https://www.bt.dk/erhverv/frygter-skadedyr-slagter-lukker-hele-weekenden?referrer=RSS",
      "published": "2026-11-27T18:30+00:00",
      "summary": "Slagterbutikken forventer at åbne som normalt på mandag."
-    },
-    {
-     "title": "Amerikansk militærfly beskyder fragtskib i Omanbugten",
-     "link": "https://www.bt.dk/udland/amerikansk-militaerfly-beskyder-fragtskib-i-omanbugten?referrer=RSS",
-     "published": "2026-11-27T18:18+00:00",
-     "summary": "Trods flere advarsler forsøgte et skib at bryde den amerikanske maritime blokade mod iranske havne."
-    },
-    {
-     "title": "USA bekræfter: Har angrebet",
-     "link": "https://www.bt.dk/udland/usa-bekraefter-har-angrebet?referrer=RSS",
-     "published": "2026-11-27T18:15+00:00",
-     "summary": "Trods flere advarsler forsøgte et skib at bryde den amerikanske maritime blokade mod iranske havne."
     }
    ]
   },
@@ -809,6 +809,18 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Bekræfter: Uvedkommende har fået adgang",
+     "link": "https://www.bt.dk/krimi/bekraefter-uvedkommende-har-faaet-adgang?referrer=RSS",
+     "published": "2026-11-27T19:41+00:00",
+     "summary": ""
+    },
+    {
+     "title": "'Slyngelstat' og 'hjernevask': Jacob Harris vækker opsigt i buffetkonges podcast",
+     "link": "https://www.bt.dk/samfund/slyngelstat-og-hjernevask-jacob-harris-vaekker-opsigt-i-buffetkonges-podcast?referrer=RSS",
+     "published": "2026-11-27T19:40+00:00",
+     "summary": "Ekspert fælder hård dom over vilde udtalelser i Dalle Valle-ejers podcast."
+    },
     {
      "title": "Politiet med tragisk nyt: Kelsey Hunter fundet død",
      "link": "https://www.bt.dk/udland/politiet-med-tragisk-nytkelsey-hunter-fundet-doed?referrer=RSS",
@@ -856,18 +868,6 @@
      "link": "https://www.bt.dk/udland/putin-afsloerer-nyt-atom-projekt?referrer=RSS",
      "published": "2026-11-27T19:06+00:00",
      "summary": "Ud over den nye atomdrevne ubåd \"Perm\", som flåden fik overdraget ved en ceremoni fredag, er fem mere på vej."
-    },
-    {
-     "title": "Legende vender tilbage med fiasko: Tævet af danskere",
-     "link": "https://www.bt.dk/oevrig-sport/legende-vender-tilbage-med-fiasko-taevet-af-danskere?referrer=RSS",
-     "published": "2026-11-27T19:02+00:00",
-     "summary": "Dartlegenden Phil Taylor levede ikke op til sit hidtil høje niveau, hvor to danskere var med til at spolere festen."
-    },
-    {
-     "title": "Mads Fuglede er blevet far",
-     "link": "https://www.bt.dk/politik/mads-fuglede-er-blevet-far?referrer=RSS",
-     "published": "2026-11-27T18:53+00:00",
-     "summary": "Folketingsmedlemmet fra Danmarksdemokraterne er blevet far for tredje gang."
     }
    ]
   },
@@ -878,6 +878,12 @@
    "url": "https://petapixel.com/feed/",
    "status": "ok",
    "items": [
+    {
+     "title": "The Best Black Friday Lens Deals of 2026",
+     "link": "https://petapixel.com/2026/11/27/the-best-black-friday-lens-deals-of-2026/",
+     "published": "2026-11-27T19:36+00:00",
+     "summary": "We've already featured the best Black Friday camera deals, and now it's time for lenses. [ Read More ]"
+    },
     {
      "title": "Black (and White) Film Friday: There are Over 45 Emulsions to Explore",
      "link": "https://petapixel.com/2026/11/27/black-and-white-film-friday-there-are-over-45-emulsions-to-explore/",
@@ -961,12 +967,6 @@
      "link": "https://petapixel.com/2026/11/25/ai-generated-characters-are-stealing-content-creators-viral-videos/",
      "published": "2026-11-25T14:19+00:00",
      "summary": "Content creators are increasingly discovering AI-generated versions of their videos in which almost everything is identical, except that they have been replaced by AI-generated characters. [ Read More ]"
-    },
-    {
-     "title": "Brightin Star’s Gorgeous New 35mm f/1.7 APO Lens for Leica M Has Arrived",
-     "link": "https://petapixel.com/2026/11/25/brightin-stars-gorgeous-new-35mm-f-1-7-apo-lens-for-leica-m-has-arrived/",
-     "published": "2026-11-25T13:58+00:00",
-     "summary": "Brightin Star first unveiled its new APO 35mm f/1.7 ASPH. lens for Leica M-Mount cameras at CP+ in February and then launched it on Kickstarter in August. As of today, it's available to everyone, and it's still as handsome as ever. [ Read …"
     }
    ]
   },
