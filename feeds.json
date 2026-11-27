@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T17:51+00:00",
+ "generated": "2026-11-27T18:01+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -513,6 +513,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Tredobbelt drabsforsøg: Derfor ville LTF dræbe Patrick Nielsen",
+     "link": "https://ekstrabladet.dk/krimi/tredobbelt-drabsforsoeg-derfor-ville-ltf-draebe-patrick-nielsen/11367590",
+     "published": "2026-11-27T17:55+00:00"
+    },
+    {
+     "title": "LIVE: Følg Sønderjyske-Brøndby",
+     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/live-foelg-soenderjyske-broendby/11368050",
+     "published": "2026-11-27T17:54+00:00"
+    },
+    {
      "title": "Skriver dansk historie: Første point",
      "link": "https://ekstrabladet.dk/sport/anden_sport/skisport/dansk-skiskytte-tager-karrierens-foerste-world-cup-point/11368021",
      "published": "2026-11-27T17:49+00:00"
@@ -551,16 +561,6 @@
      "title": "Svensk officer \nmistænkt i sag om \nhemmelige oplysninger",
      "link": "https://ekstrabladet.dk/nyheder/samfund/svensk-officer-mistaenkt-i-sag-om-hemmelige-oplysninger/11367392",
      "published": "2026-11-27T17:11+00:00"
-    },
-    {
-     "title": "'For dårlige til FC': Det gør ondt i maven",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/for-daarlige-til-fc-det-goer-ondt-i-maven/11367423",
-     "published": "2026-11-27T17:06+00:00"
-    },
-    {
-     "title": "Datalæk hos bilgigant: 90.000 kan være ramt",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/datalaek-hos-bilgigant-90.000-kan-vaere-ramt/11367974",
-     "published": "2026-11-27T16:55+00:00"
     }
    ]
   },
@@ -631,19 +631,19 @@
    "status": "ok",
    "items": [
     {
-     "title": "15-årig er dreng død efter trafikulykke tirsdag ved Borup",
-     "link": "https://www.bt.dk/krimi/15-aarig-er-dreng-doed-efter-trafikulykke-tirsdag-ved-borup?referrer=RSS",
-     "published": "2026-11-27T17:43+00:00"
+     "title": "15-årig dreng død efter ulykke med fem unge ved Borup",
+     "link": "https://www.bt.dk/krimi/15-aarig-dreng-doed-efter-ulykke-med-fem-unge-ved-borup?referrer=RSS",
+     "published": "2026-11-27T17:54+00:00"
+    },
+    {
+     "title": "Spejderkorps og bilkoncern er omfattet af større datalæk",
+     "link": "https://www.bt.dk/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek?referrer=RSS",
+     "published": "2026-11-27T17:50+00:00"
     },
     {
      "title": "B.T.s Mellemøst-korrespondent: Netanyahu er ikke frikendt, men han har al mulig grund til at juble",
      "link": "https://www.bt.dk/udland/bts-mellemoest-korrespondent-netanyahu-er-ikke-frikendt-men-han-har-al-mulig-grund-til-at-juble?referrer=RSS",
      "published": "2026-11-27T17:42+00:00"
-    },
-    {
-     "title": "Spejderkorps og bilkoncern er omfattet af større datalæk",
-     "link": "https://www.bt.dk/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek?referrer=RSS",
-     "published": "2026-11-27T17:40+00:00"
     },
     {
      "title": "15-årig afgået ved døden efter trafikulykke",
@@ -690,19 +690,24 @@
    "status": "ok",
    "items": [
     {
-     "title": "15-årig er dreng død efter trafikulykke tirsdag ved Borup",
-     "link": "https://www.bt.dk/krimi/15-aarig-er-dreng-doed-efter-trafikulykke-tirsdag-ved-borup?referrer=RSS",
-     "published": "2026-11-27T17:43+00:00"
+     "title": "Sexolog ser det særligt nu: 'Utroskaben ligger nærmest i luften'",
+     "link": "https://www.bt.dk/sex-og-samliv/sexolog-ser-det-saerligt-nu-utroskaben-ligger-naermest-i-luften?referrer=RSS",
+     "published": "2026-11-27T17:55+00:00"
+    },
+    {
+     "title": "15-årig dreng død efter ulykke med fem unge ved Borup",
+     "link": "https://www.bt.dk/krimi/15-aarig-dreng-doed-efter-ulykke-med-fem-unge-ved-borup?referrer=RSS",
+     "published": "2026-11-27T17:54+00:00"
+    },
+    {
+     "title": "Spejderkorps og bilkoncern er omfattet af større datalæk",
+     "link": "https://www.bt.dk/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek?referrer=RSS",
+     "published": "2026-11-27T17:50+00:00"
     },
     {
      "title": "B.T.s Mellemøst-korrespondent: Netanyahu er ikke frikendt, men han har al mulig grund til at juble",
      "link": "https://www.bt.dk/udland/bts-mellemoest-korrespondent-netanyahu-er-ikke-frikendt-men-han-har-al-mulig-grund-til-at-juble?referrer=RSS",
      "published": "2026-11-27T17:42+00:00"
-    },
-    {
-     "title": "Spejderkorps og bilkoncern er omfattet af større datalæk",
-     "link": "https://www.bt.dk/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek?referrer=RSS",
-     "published": "2026-11-27T17:40+00:00"
     },
     {
      "title": "Dansk skiskytte tager karrierens første World Cup-point",
@@ -733,11 +738,6 @@
      "title": "Jørgen de Mylius hylder afdød kollega: 'De år ser jeg tilbage på med stor glæde'",
      "link": "https://www.bt.dk/danske-kendte/joergen-de-mylius-hylder-afdoed-kollega-de-aar-ser-jeg-tilbage-paa-med-stor-glaede?referrer=RSS",
      "published": "2026-11-27T17:00+00:00"
-    },
-    {
-     "title": "Datatilsynet kritiserer Familieretshuset efter 47 sikkerhedsbrud",
-     "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-sikkerhedsbrud?referrer=RSS",
-     "published": "2026-11-27T16:52+00:00"
     }
    ]
   },
