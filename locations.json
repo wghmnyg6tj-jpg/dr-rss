@@ -1,7 +1,8 @@
 {
- "updated": "2026-11-27T15:57:33Z",
+ "updated": "2026-11-27T16:12:37Z",
  "requested": [
-  "Mørkhøj"
+  "Mørkhøj",
+  "2860 Søborg"
  ],
  "places": [
   {
@@ -10,6 +11,14 @@
    "lat": 55.74,
    "lon": 12.5,
    "source": "fast standard"
+  },
+  {
+   "q": "2860 Søborg",
+   "name": "2860 Søborg",
+   "lat": 55.7365,
+   "lon": 12.5089,
+   "found": "Søborg, Gladsaxe Kommune, Region Hovedstaden, 2870, Danmark",
+   "source": "OpenStreetMap Nominatim"
   }
  ],
  "errors": [],

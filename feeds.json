@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T16:07+00:00",
+ "generated": "2026-11-27T16:12+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -513,6 +513,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Styrelse: Flere organisationer kan være ramt af nyt sikkerhedsbrud",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-nyt-sikkerhedsbrud/11367941",
+     "published": "2026-11-27T16:09+00:00"
+    },
+    {
      "title": "Uheld spærrer den fynske motorvej",
      "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/uheld-spaerrer-den-fynske-motorvej/11367918",
      "published": "2026-11-27T15:50+00:00"
@@ -556,11 +561,6 @@
      "title": "Forlænger med superstjernen",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/medie-bruno-fernandes-forlaenger/11367813",
      "published": "2026-11-27T14:18+00:00"
-    },
-    {
-     "title": "Total hjerneblødning: \n- Han har det ikke godt",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/fck-profil-slaar-ring-om-haardt-ramt-markgraf/11367759",
-     "published": "2026-11-27T13:58+00:00"
     }
    ]
   },
@@ -571,6 +571,11 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Styrelse: Flere organisationer kan være ramt af nyt sikkerhedsbrud",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-nyt-sikkerhedsbrud/11367941",
+     "published": "2026-11-27T16:09+00:00"
+    },
     {
      "title": "Uheld spærrer den fynske motorvej",
      "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/uheld-spaerrer-den-fynske-motorvej/11367918",
@@ -615,11 +620,6 @@
      "title": "Slår alarm! \nFlere lande \ni overhængende fare",
      "link": "https://ekstrabladet.dk/nyheder/kritisk-flere-lande-i-overhaengende-fare-for-hungersnoed/11367591",
      "published": "2026-11-27T12:03+00:00"
-    },
-    {
-     "title": "47 brud: Datatilsynet retter alvorlig kritik",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/47-brud-datatilsynet-retter-alvorlig-kritik/11367564",
-     "published": "2026-11-27T11:51+00:00"
     }
    ]
   },
