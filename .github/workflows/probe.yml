@@ -17,6 +17,8 @@ jobs:
           curl -sS -L -m 20 -A "$UA" -o akasser.html "https://www.a-kasser.dk/nyheder" || true
           curl -sS -L -m 20 -A "$UA" -o dmi.html "https://www.dmi.dk/meteorologens-kommentar" || true
           curl -sS -L -m 20 -A "$UA" -o bus.html "https://dinoffentligetransport.dk/planlaeg-din-rejse/koereplaner-for-bus-og-havnebus/aendringer-i-bustrafikken" || true
+          curl -sS -L -m 20 -A "$UA" -o starnyt.html "https://www.star.dk/om-styrelsen/nyt/nyheder-og-aktuelt-fra-styrelsen-for-arbejdsmarked-og-rekruttering" || true
+          curl -sS -L -m 20 -A "$UA" -o dmikom.html "https://www.dmi.dk/meteorologens-kommentar/vejromslag-paa-vej" || true
           ls -la
           git init -q -b probe-samples && git add -A
           git -c user.name=probe -c user.email=probe@users.noreply.github.com commit -q -m samples
