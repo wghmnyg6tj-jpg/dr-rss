@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T15:47+00:00",
+ "generated": "2026-11-27T15:51+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -513,6 +513,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Uheld spærrer den fynske motorvej",
+     "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/uheld-spaerrer-den-fynske-motorvej/11367918",
+     "published": "2026-11-27T15:50+00:00"
+    },
+    {
      "title": "Et stykke sort Danmarkshistorie",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/et-stykke-sort-danmarkshistorie/11367038",
      "published": "2026-11-27T15:40+00:00"
@@ -556,11 +561,6 @@
      "title": "Forlænger med superstjernen",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/medie-bruno-fernandes-forlaenger/11367813",
      "published": "2026-11-27T14:18+00:00"
-    },
-    {
-     "title": "Total hjerneblødning: \n- Han har det ikke godt",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/fck-profil-slaar-ring-om-haardt-ramt-markgraf/11367759",
-     "published": "2026-11-27T13:58+00:00"
     }
    ]
   },
@@ -690,6 +690,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Styrelse advarer: Kontakt med hårtabsmidler kan være dødelig for katte",
+     "link": "https://www.bt.dk/samfund/styrelse-advarer-kontakt-med-haartabsmidler-kan-vaere-doedelig-for-katte?referrer=RSS",
+     "published": "2026-11-27T15:46+00:00"
+    },
+    {
      "title": "Jørn Hjorting er død: Optimist til det sidste",
      "link": "https://www.bt.dk/navne/joern-hjorting-er-doed-optimist-til-det-sidste?referrer=RSS",
      "published": "2026-11-27T15:43+00:00"
@@ -698,11 +703,6 @@
      "title": "Radiovært Jørn Hjorting er død - 95 år",
      "link": "https://www.bt.dk/samfund/radiovaert-joern-hjorting-er-doed-95-aar?referrer=RSS",
      "published": "2026-11-27T15:36+00:00"
-    },
-    {
-     "title": "Styrelse advarer: Kontakt med hårtabsmidler kan være dødelig for katte",
-     "link": "https://www.bt.dk/samfund/styrelse-advarer-kontakt-med-haartabsmidler-kan-vaere-doedelig-for-katte?referrer=RSS",
-     "published": "2026-11-27T15:32+00:00"
     },
     {
      "title": "Manchester United holder fast i anfører med kontraktgreb",
@@ -867,11 +867,6 @@
    "status": "ok",
    "items": [
     {
-     "title": "5 Full Frame Lenses a Sony Shooter Still Relies on After 6 Years",
-     "link": "https://fstoppers.com/gear/5-full-frame-lenses-sony-shooter-still-relies-after-6-years-905681?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-     "published": "2026-11-27T12:03+00:00"
-    },
-    {
      "title": "7 Steps to Mastering Landscape Photography",
      "link": "https://fstoppers.com/education/7-steps-mastering-landscape-photography-905680?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
      "published": "2026-11-27T10:03+00:00"
@@ -939,6 +934,11 @@
     {
      "title": "Sony 400-800mm vs. 200-600mm: A Wildlife Videographer's Verdict",
      "link": "https://fstoppers.com/gear/sony-400-800mm-vs-200-600mm-wildlife-videographers-verdict-905661?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-25T12:03+00:00"
+    },
+    {
+     "title": "The Luminar Fall Update Adds Intelligent Masking",
+     "link": "https://fstoppers.com/landscapes/luminar-fall-update-adds-intelligent-masking-905645?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
      "published": "2026-11-25T12:03+00:00"
     }
    ]
