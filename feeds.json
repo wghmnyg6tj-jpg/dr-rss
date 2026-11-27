@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T18:22+00:00",
+ "generated": "2026-11-27T18:33+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -8,6 +8,12 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/senestenyt",
    "status": "ok",
    "items": [
+    {
+     "title": "USA angriber fartøj i Omanbugten",
+     "link": "https://www.dr.dk/nyheder/seneste/usa-angriber-fartoej-i-omanbugten",
+     "published": "2026-11-27T18:31+00:00",
+     "summary": ""
+    },
     {
      "title": "15-årig død efter trafikulykke i tirsdags",
      "link": "https://www.dr.dk/nyheder/seneste/15-aarig-doed-efter-trafikulykke-i-tirsdags",
@@ -90,12 +96,6 @@
      "title": "Nordmakedoner varetægtsfængslet efter bombesprængning",
      "link": "https://www.dr.dk/nyheder/seneste/nordmakedoner-varetaegtsfaengslet-efter-bombespraengning",
      "published": "2026-11-27T10:58+00:00",
-     "summary": ""
-    },
-    {
-     "title": "Novo lancerer vægttabspille i Sverige juleaftensdag",
-     "link": "https://www.dr.dk/nyheder/seneste/novo-lancerer-vaegtabspille-i-sverige-juleaftensdag",
-     "published": "2026-11-27T09:39+00:00",
      "summary": ""
     }
    ]
@@ -108,6 +108,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "USA angriber fartøj i Omanbugten",
+     "link": "https://www.dr.dk/nyheder/seneste/usa-angriber-fartoej-i-omanbugten",
+     "published": "2026-11-27T18:31+00:00",
+     "summary": ""
+    },
+    {
      "title": "15-årig død efter trafikulykke i tirsdags",
      "link": "https://www.dr.dk/nyheder/seneste/15-aarig-doed-efter-trafikulykke-i-tirsdags",
      "published": "2026-11-27T17:38+00:00",
@@ -189,12 +195,6 @@
      "title": "Nordmakedoner varetægtsfængslet efter bombesprængning",
      "link": "https://www.dr.dk/nyheder/seneste/nordmakedoner-varetaegtsfaengslet-efter-bombespraengning",
      "published": "2026-11-27T10:58+00:00",
-     "summary": ""
-    },
-    {
-     "title": "Novo lancerer vægttabspille i Sverige juleaftensdag",
-     "link": "https://www.dr.dk/nyheder/seneste/novo-lancerer-vaegtabspille-i-sverige-juleaftensdag",
-     "published": "2026-11-27T09:39+00:00",
      "summary": ""
     }
    ]
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Agenten afslører: Så lidt tjente Pogacar",
+     "link": "https://ekstrabladet.dk/sport/cykling/agenten-afsloerer-saa-lidt-tjente-pogacar-som-neo-pro/11367930",
+     "published": "2026-11-27T18:32+00:00",
+     "summary": "Lønningerne, også for de store talenter, er steget voldsomt på få år"
+    },
+    {
      "title": "Amerikansk militærfly beskyder fragtskib i Omanbugten",
      "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/amerikansk-militaerfly-beskyder-fragtskib-i-omanbugten/11368051",
      "published": "2026-11-27T18:16+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/ragnvald-trist-over-hjortings-doed-der-er-saa-mange-der-forsvinder-nu/11367991",
      "published": "2026-11-27T17:24+00:00",
      "summary": "Den populære dansktopsanger Richard Ragnvald holdt kontakten ved lige med det nu afdøde radio-ikon Jørn Hjorting også i de senere år. Sidst, de talte sammen, lød Hjorting frisk, fortæller Ragnvald"
-    },
-    {
-     "title": "Kørekorts\ngak-gak på\nKærshovedgård",
-     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/koerekorts-gak-gak-paa-kaershovedgaard/11365960",
-     "published": "2026-11-27T17:20+00:00",
-     "summary": "De udvisningsdømte kriminelle udlændinge på Kærshovedgård må ikke føre bil. Men et svar til Folketinget viser, at man ikke kan tage deres fysiske kørekort fra dem"
     }
    ]
   },
@@ -741,6 +741,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Frygter skadedyr: Slagter lukker hele weekenden",
+     "link": "https://www.bt.dk/erhverv/frygter-skadedyr-slagter-lukker-hele-weekenden?referrer=RSS",
+     "published": "2026-11-27T18:30+00:00",
+     "summary": "Slagterbutikken forventer at åbne som normalt på mandag."
+    },
+    {
      "title": "Amerikansk militærfly beskyder fragtskib i Omanbugten",
      "link": "https://www.bt.dk/udland/amerikansk-militaerfly-beskyder-fragtskib-i-omanbugten?referrer=RSS",
      "published": "2026-11-27T18:18+00:00",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek-hos-teleudbyder?referrer=RSS",
      "published": "2026-11-27T17:26+00:00",
      "summary": "Gymnasieelevers telefonnumre er lækket i sikkerhedsbrud, og også et antal organisationer kan være ramt."
-    },
-    {
-     "title": "Butiksejer glad efter ny udvikling i Pokémon-røveri",
-     "link": "https://www.bt.dk/krimi/butiksejer-glad-efter-ny-udvikling-i-pokemon-roeveri?referrer=RSS",
-     "published": "2026-11-27T17:14+00:00",
-     "summary": "Fem personer er blevet sigtet for Pokémon-røveriet i Lyngby Storcenter."
     }
    ]
   },
@@ -809,6 +809,12 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Frygter skadedyr: Slagter lukker hele weekenden",
+     "link": "https://www.bt.dk/erhverv/frygter-skadedyr-slagter-lukker-hele-weekenden?referrer=RSS",
+     "published": "2026-11-27T18:30+00:00",
+     "summary": "Slagterbutikken forventer at åbne som normalt på mandag."
+    },
     {
      "title": "Amerikansk militærfly beskyder fragtskib i Omanbugten",
      "link": "https://www.bt.dk/udland/amerikansk-militaerfly-beskyder-fragtskib-i-omanbugten?referrer=RSS",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/sport/dansk-skiskytte-tager-karrierens-foerste-world-cup-point?referrer=RSS",
      "published": "2026-11-27T17:36+00:00",
      "summary": "Anne de Besche blev nummer 38 i Finland og sikrede sig dermed karrierens første World Cup-point."
-    },
-    {
-     "title": "15-årig afgået ved døden efter trafikulykke",
-     "link": "https://www.bt.dk/krimi/15-aarig-afgaaet-ved-doeden-efter-trafikulykke?referrer=RSS",
-     "published": "2026-11-27T17:29+00:00",
-     "summary": "En af de personer, der kørte galt i tirsdags er nu afgået ved døden."
     }
    ]
   },
