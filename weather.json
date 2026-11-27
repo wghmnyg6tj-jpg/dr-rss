@@ -1,6 +1,6 @@
 {
  "version": 2,
- "generated": "2026-11-27T19:19:00Z",
+ "generated": "2026-11-27T19:25:15Z",
  "status": {
   "lightning": "ok",
   "dmi_forecast": "ok",
@@ -20,7 +20,7 @@
     "metno": "ok"
    },
    "dmi_forecast": {
-    "fetched": "2026-11-27T19:19:00Z",
+    "fetched": "2026-11-27T19:25:15Z",
     "run": "2026-11-27T150000Z",
     "point": [
      12.49897620651484,
@@ -459,7 +459,7 @@
     }
    },
    "observations": {
-    "fetched": "2026-11-27T19:19:00Z",
+    "fetched": "2026-11-27T19:25:15Z",
     "stations": {
      "06181": {
       "name": "Jægersborg",
@@ -469,25 +469,25 @@
       ],
       "dist_km": 3.4,
       "values": {
-       "humidity": {
-        "value": 88.8,
-        "observed": "2026-11-27T19:10:00Z"
-       },
        "temp_dry": {
         "value": 2.8,
-        "observed": "2026-11-27T19:10:00Z"
+        "observed": "2026-11-27T19:20:00Z"
        },
        "wind_dir": {
-        "value": 130.5,
-        "observed": "2026-11-27T19:10:00Z"
+        "value": 129.1,
+        "observed": "2026-11-27T19:20:00Z"
        },
        "wind_max": {
         "value": 6.86,
-        "observed": "2026-11-27T19:10:00Z"
+        "observed": "2026-11-27T19:20:00Z"
        },
        "wind_speed": {
-        "value": 4.0,
-        "observed": "2026-11-27T19:10:00Z"
+        "value": 3.65,
+        "observed": "2026-11-27T19:20:00Z"
+       },
+       "humidity": {
+        "value": 88.3,
+        "observed": "2026-11-27T19:20:00Z"
        }
       }
      },
@@ -510,11 +510,11 @@
       "values": {
        "temp_dry": {
         "value": 3.4,
-        "observed": "2026-11-27T19:10:00Z"
+        "observed": "2026-11-27T19:20:00Z"
        },
        "humidity": {
-        "value": 84.3,
-        "observed": "2026-11-27T19:10:00Z"
+        "value": 84.6,
+        "observed": "2026-11-27T19:20:00Z"
        }
       }
      },
@@ -927,7 +927,7 @@
     "metno": "ok"
    },
    "dmi_forecast": {
-    "fetched": "2026-11-27T19:19:00Z",
+    "fetched": "2026-11-27T19:25:15Z",
     "run": "2026-11-27T150000Z",
     "point": [
      12.49897620651484,
@@ -1366,7 +1366,7 @@
     }
    },
    "observations": {
-    "fetched": "2026-11-27T19:19:00Z",
+    "fetched": "2026-11-27T19:25:15Z",
     "stations": {
      "06181": {
       "name": "Jægersborg",
@@ -1376,25 +1376,25 @@
       ],
       "dist_km": 3.5,
       "values": {
-       "humidity": {
-        "value": 88.8,
-        "observed": "2026-11-27T19:10:00Z"
-       },
        "temp_dry": {
         "value": 2.8,
-        "observed": "2026-11-27T19:10:00Z"
+        "observed": "2026-11-27T19:20:00Z"
        },
        "wind_dir": {
-        "value": 130.5,
-        "observed": "2026-11-27T19:10:00Z"
+        "value": 129.1,
+        "observed": "2026-11-27T19:20:00Z"
        },
        "wind_max": {
         "value": 6.86,
-        "observed": "2026-11-27T19:10:00Z"
+        "observed": "2026-11-27T19:20:00Z"
        },
        "wind_speed": {
-        "value": 4.0,
-        "observed": "2026-11-27T19:10:00Z"
+        "value": 3.65,
+        "observed": "2026-11-27T19:20:00Z"
+       },
+       "humidity": {
+        "value": 88.3,
+        "observed": "2026-11-27T19:20:00Z"
        }
       }
      },
@@ -1417,11 +1417,11 @@
       "values": {
        "temp_dry": {
         "value": 3.4,
-        "observed": "2026-11-27T19:10:00Z"
+        "observed": "2026-11-27T19:20:00Z"
        },
        "humidity": {
-        "value": 84.3,
-        "observed": "2026-11-27T19:10:00Z"
+        "value": 84.6,
+        "observed": "2026-11-27T19:20:00Z"
        }
       }
      },
@@ -1437,8 +1437,8 @@
     }
    },
    "metno": {
-    "updated_at": "2026-11-27T18:28:08Z",
-    "last_modified": "Fri, 27 Nov 2026 18:53:53 GMT",
+    "updated_at": "2026-11-27T18:27:55Z",
+    "last_modified": "Fri, 27 Nov 2026 19:25:54 GMT",
     "lat": 55.7365,
     "lon": 12.5089,
     "point": [
@@ -1447,13 +1447,6 @@
      28
     ],
     "hours": {
-     "2026-11-27T18:00:00Z": {
-      "t2": 2.8,
-      "ws": 3.7,
-      "wd": 101.0,
-      "sym": "cloudy",
-      "mm": 0.0
-     },
      "2026-11-27T19:00:00Z": {
       "t2": 3.2,
       "ws": 4.6,
@@ -1826,13 +1819,13 @@
       "mm": 0.7
      }
     },
-    "fetched": "2026-11-27T18:53:34Z"
+    "fetched": "2026-11-27T19:25:15Z"
    }
   }
  ],
  "location_errors": [],
  "lightning": {
-  "fetched": "2026-11-27T19:19:00Z",
+  "fetched": "2026-11-27T19:25:15Z",
   "bbox": "11.9,55.39,13.1,56.09",
   "count_last_hour": 0,
   "count_last_day": 0
