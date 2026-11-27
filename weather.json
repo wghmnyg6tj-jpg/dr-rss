@@ -1,9 +1,9 @@
 {
  "version": 2,
- "generated": "2026-11-27T14:23:25Z",
+ "generated": "2026-11-27T14:33:40Z",
  "status": {
   "lightning": "ok",
-  "dmi_forecast": "ok",
+  "dmi_forecast": "HTTP 429",
   "observations": "ok",
   "metno": "ok"
  },
@@ -15,7 +15,7 @@
    "lon": 12.5,
    "found": null,
    "status": {
-    "dmi_forecast": "ok",
+    "dmi_forecast": "HTTP 429",
     "observations": "ok",
     "metno": "ok"
    },
@@ -459,7 +459,7 @@
     }
    },
    "observations": {
-    "fetched": "2026-11-27T14:23:25Z",
+    "fetched": "2026-11-27T14:33:40Z",
     "stations": {
      "06181": {
       "name": "Jægersborg",
@@ -470,24 +470,24 @@
       "dist_km": 3.4,
       "values": {
        "temp_dry": {
-        "value": 3.06,
-        "observed": "2026-11-27T14:20:00Z"
+        "value": 3.1,
+        "observed": "2026-11-27T14:30:00Z"
        },
        "wind_dir": {
-        "value": 120.9,
-        "observed": "2026-11-27T14:20:00Z"
+        "value": 117.8,
+        "observed": "2026-11-27T14:30:00Z"
        },
        "wind_max": {
-        "value": 4.89,
-        "observed": "2026-11-27T14:20:00Z"
+        "value": 5.66,
+        "observed": "2026-11-27T14:30:00Z"
        },
        "wind_speed": {
-        "value": 2.59,
-        "observed": "2026-11-27T14:20:00Z"
+        "value": 2.41,
+        "observed": "2026-11-27T14:30:00Z"
        },
        "humidity": {
-        "value": 83.6,
-        "observed": "2026-11-27T14:20:00Z"
+        "value": 84.06,
+        "observed": "2026-11-27T14:30:00Z"
        }
       }
      },
@@ -508,13 +508,13 @@
       ],
       "dist_km": 6.6,
       "values": {
-       "humidity": {
-        "value": 85.14,
-        "observed": "2026-11-27T14:20:00Z"
-       },
        "temp_dry": {
         "value": 3.6,
-        "observed": "2026-11-27T14:20:00Z"
+        "observed": "2026-11-27T14:30:00Z"
+       },
+       "humidity": {
+        "value": 86.34,
+        "observed": "2026-11-27T14:30:00Z"
        }
       }
      },
@@ -911,7 +911,7 @@
  ],
  "location_errors": [],
  "lightning": {
-  "fetched": "2026-11-27T14:23:25Z",
+  "fetched": "2026-11-27T14:33:40Z",
   "bbox": "11.9,55.39,13.1,56.09",
   "count_last_hour": 0,
   "count_last_day": 0

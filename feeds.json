@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T14:23+00:00",
+ "generated": "2026-11-27T14:33+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -513,6 +513,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Antallet af danskere med KOL er begyndt at falde",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/antallet-af-danskere-med-kol-er-begyndt-at-falde/11367734",
+     "published": "2026-11-27T14:31+00:00"
+    },
+    {
+     "title": "Dansk skuespiller \nanker dom",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/dansk-skuespiller-idoemt-faengsel-anker-dom/11367733",
+     "published": "2026-11-27T14:29+00:00"
+    },
+    {
      "title": "Forlænger med superstjernen",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/medie-bruno-fernandes-forlaenger/11367813",
      "published": "2026-11-27T14:18+00:00"
@@ -551,16 +561,6 @@
      "title": "Norse Atlantic \nsøger om konkurs",
      "link": "https://ekstrabladet.dk/penge/kaempe-nedtur-norse-atlantic-soeger-om-konkurs/11367732",
      "published": "2026-11-27T13:14+00:00"
-    },
-    {
-     "title": "AaB fyrer Steffen Højer",
-     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/1division/aab-fyrer-steffen-hoejer/11367722",
-     "published": "2026-11-27T13:11+00:00"
-    },
-    {
-     "title": "Advarer: \nKan være \ndødeligt for katte",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/advarer-kan-vaere-doedeligt-for-katte/11367695",
-     "published": "2026-11-27T13:06+00:00"
     }
    ]
   },
@@ -571,6 +571,11 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Antallet af danskere med KOL er begyndt at falde",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/antallet-af-danskere-med-kol-er-begyndt-at-falde/11367734",
+     "published": "2026-11-27T14:31+00:00"
+    },
     {
      "title": "Tusindvis \ntelefonnumre \nlækket",
      "link": "https://ekstrabladet.dk/nyheder/samfund/tusinder-af-danske-gymnasieelevers-telefonnumre-er-laekket/11367780",
@@ -615,11 +620,6 @@
      "title": "Mette Frederiksen vil have nyt udspil",
      "link": "https://ekstrabladet.dk/nyheder/politik/mette-frederiksen-vil-have-nyt-udspil/11367239",
      "published": "2026-11-27T08:39+00:00"
-    },
-    {
-     "title": "Frygter sexfælde \nhos forsvarsgigant:\n- Alarmklokkerne bør ringe",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/frygter-sexfaelde-hos-forsvarsgigant-alarmklokkerne-boer-ringe/11367191",
-     "published": "2026-11-27T08:37+00:00"
     }
    ]
   },
@@ -630,6 +630,11 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Norsk flyselskab indgiver konkursbegæring",
+     "link": "https://www.bt.dk/udland/norsk-flyselskab-indgiver-konkursbegaering?referrer=RSS",
+     "published": "2026-11-27T14:27+00:00"
+    },
     {
      "title": "USA forbereder udvidelse af Pituffik for op mod 500 millioner dollar",
      "link": "https://www.bt.dk/politik/usa-forbereder-udvidelse-af-pituffik-for-op-mod-500-millioner-dollar?referrer=RSS",
@@ -661,11 +666,6 @@
      "published": "2026-11-27T13:49+00:00"
     },
     {
-     "title": "Norsk flyselskab indgiver konkursbegæring",
-     "link": "https://www.bt.dk/udland/norsk-flyselskab-indgiver-konkursbegaering?referrer=RSS",
-     "published": "2026-11-27T13:45+00:00"
-    },
-    {
      "title": "Antallet af danskere med KOL er begyndt at falde",
      "link": "https://www.bt.dk/samfund/antallet-af-danskere-med-kol-er-begyndt-at-falde?referrer=RSS",
      "published": "2026-11-27T13:42+00:00"
@@ -689,6 +689,11 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Norsk flyselskab indgiver konkursbegæring",
+     "link": "https://www.bt.dk/udland/norsk-flyselskab-indgiver-konkursbegaering?referrer=RSS",
+     "published": "2026-11-27T14:27+00:00"
+    },
     {
      "title": "USA forbereder udvidelse af Pituffik for op mod 500 millioner dollar",
      "link": "https://www.bt.dk/politik/usa-forbereder-udvidelse-af-pituffik-for-op-mod-500-millioner-dollar?referrer=RSS",
@@ -723,11 +728,6 @@
      "title": "To mænd idømmes 12 års og 8 års fængsel i sag om kokain",
      "link": "https://www.bt.dk/krimi/to-maend-idoemmes-12-aars-og-8-aars-faengsel-i-sag-om-kokain?referrer=RSS",
      "published": "2026-11-27T13:49+00:00"
-    },
-    {
-     "title": "Norsk flyselskab indgiver konkursbegæring",
-     "link": "https://www.bt.dk/udland/norsk-flyselskab-indgiver-konkursbegaering?referrer=RSS",
-     "published": "2026-11-27T13:45+00:00"
     },
     {
      "title": "Antallet af danskere med KOL er begyndt at falde",
@@ -1650,6 +1650,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Your guide for staying warm and dry through the Danish winter",
+     "link": "https://cphpost.dk/2026-11-27/life-in-denmark/your-guide-for-staying-warm-and-dry-through-the-danish-winter/",
+     "published": "2026-11-27T14:30+00:00"
+    },
+    {
      "title": "France’s economy shrank more than first estimated in third quarter",
      "link": "https://cphpost.dk/2026-11-27/global/frances-economy-shrank-more-than-first-estimated-in-third-quarter/",
      "published": "2026-11-27T10:57+00:00"
@@ -1702,11 +1707,6 @@
     {
      "title": "EU leaders agree on new European Central Bank president",
      "link": "https://cphpost.dk/2026-11-27/global/eu-leaders-agree-on-new-european-central-bank-president/",
-     "published": "2026-11-27T05:25+00:00"
-    },
-    {
-     "title": "Danes aged 50 and over account for half of public sector debt",
-     "link": "https://cphpost.dk/2026-11-27/news/round-up/danes-aged-50-and-over-account-for-half-of-public-sector-debt/",
      "published": "2026-11-27T05:25+00:00"
     }
    ]
