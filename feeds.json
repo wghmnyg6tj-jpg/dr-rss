@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T21:09+00:00",
+ "generated": "2026-11-27T21:19+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -504,10 +504,10 @@
    "status": "ok",
    "items": [
     {
-     "title": "Politiet indblandet: Kuratorer mener elselskab skyldte kunder 292 millioner ved konkurs",
+     "title": "Politiet indblandet: Kuratorer mener, elselskab skyldte kunder 292 millioner ved konkurs",
      "link": "https://www.dr.dk/nyheder/penge/politiet-indblandet-kuratorer-mener-elselskab-skyldte-kunder-292-millioner-ved-konkurs",
      "published": "2026-11-27T21:06+00:00",
-     "summary": "Kuratorerne har fundet mistænkelige forhold i gennemgangen af kollapsede Velkommen A/S."
+     "summary": "Kuratorerne har fundet mistænkelige forhold i gennemgangen af kollapsede Velkommen A/S. Direktør har angiveligt forladt Danmark."
     },
     {
      "title": "STIL SPØRGSMÅL om Black Friday: Hvad skal du være opmærksom på, når du går på tilbudsjagt?",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Helt konkrete udlandsdrømme: \nNu løfter de sløret for planerne",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/helt-konkrete-udlandsdroemme-nu-loefter-de-sloeret-for-planerne/11367462",
+     "published": "2026-11-27T21:12+00:00",
+     "summary": "Janni Ree og Jeppe Stokholm vil have et timeout-paradis sydpå på Algarvekysten, men mens Janni Ree siger, at Jeppe generelt gerne betaler det meste, betoner han grinende, at de trods alt har fællesøkonomi"
+    },
+    {
      "title": "Mareridtsagtige spaghetti-orme fundet på havets bund",
      "link": "https://ekstrabladet.dk/nyheder/videnskab/netop-opdaget-i-dybhavet-ny-familie-af-spaghetti-orme/11367850",
      "published": "2026-11-27T21:06+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/forbrug/Teknologi/gaar-verden-rundt-her-er-de-i-virkeligheden/11368082",
      "published": "2026-11-27T20:15+00:00",
      "summary": "Millioner af mennesker har kastet sig over det længe ventede GTA 6. Men hvem er egentlig de to skuespillere, der lægger stemmer og ansigter til spillets hovedpersoner?"
-    },
-    {
-     "title": "Skuffet målhelt: - Jeg er ærgerlig",
-     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/maalscorer-mortensen-bestemt-ikke-det-vi-kom-efter/11368154",
-     "published": "2026-11-27T20:14+00:00",
-     "summary": "Patrick Mortensen er skuffet over Brøndby IF's 1-1-resultat mod Sønderjyske og siger til Viaplay, at man kom efter mere"
     }
    ]
   },
@@ -741,6 +741,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Chok i Storbritannien: Kriminelle gassede koncertgæster",
+     "link": "https://www.bt.dk/udland/chok-i-storbritannien-kriminelle-gassede-koncertgaester?referrer=RSS",
+     "published": "2026-11-27T21:10+00:00",
+     "summary": "De kriminelle forsøgte at røve flere koncertgæster, efter de havde gasset dem."
+    },
+    {
      "title": "Velkommen skyldte 42.825 elkunder 292 millioner kroner ved konkurs",
      "link": "https://www.bt.dk/samfund/velkommen-skyldte-42825-elkunder-292-millioner-kroner-ved-konkurs?referrer=RSS",
      "published": "2026-11-27T20:56+00:00",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/samfund/slyngelstat-og-hjernevask-jacob-harris-vaekker-opsigt-i-buffetkonges-podcast?referrer=RSS",
      "published": "2026-11-27T19:40+00:00",
      "summary": "Ekspert fælder hård dom over vilde udtalelser i Dalle Valle-ejers podcast."
-    },
-    {
-     "title": "Politiet med tragisk nyt: Kelsey Hunter fundet død",
-     "link": "https://www.bt.dk/udland/politiet-med-tragisk-nytkelsey-hunter-fundet-doed?referrer=RSS",
-     "published": "2026-11-27T19:29+00:00",
-     "summary": "Politiet bekræfter, at den kvinde, som de fandt onsdag, er den savnede kvinde, Kelsey Hunter."
     }
    ]
   },
@@ -809,6 +809,12 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Chok i Storbritannien: Kriminelle gassede koncertgæster",
+     "link": "https://www.bt.dk/udland/chok-i-storbritannien-kriminelle-gassede-koncertgaester?referrer=RSS",
+     "published": "2026-11-27T21:10+00:00",
+     "summary": "De kriminelle forsøgte at røve flere koncertgæster, efter de havde gasset dem."
+    },
     {
      "title": "Aalborg Pirates holder topholdet fra fadet og vinder",
      "link": "https://www.bt.dk/oevrig-sport/aalborg-pirates-holder-topholdet-fra-fadet-og-vinder?referrer=RSS",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek-hos-teleudbyder?referrer=RSS",
      "published": "2026-11-27T20:01+00:00",
      "summary": "Teleudbyder har endnu ikke fastlagt omfanget af berørte kunder efter datalæk. Uautoriseret adgang er lukket."
-    },
-    {
-     "title": "Spejderkorps og bilkoncern er omfattet af større datalæk",
-     "link": "https://www.bt.dk/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek?referrer=RSS",
-     "published": "2026-11-27T19:51+00:00",
-     "summary": "Gymnasieskoler og andre organisationer har været ramt af datalæk, hvor telefonnumre er blevet kompromitteret."
     }
    ]
   },
