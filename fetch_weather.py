@@ -33,7 +33,7 @@ def iso(dt):
     return dt.strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
-def get_json(url, headers=None, timeout=20, tries=4):
+def get_json(url, headers=None, timeout=20, tries=4, timeout_retry=True):
     """Henter JSON. Ved HTTP 429/502/503/504 ventes (Retry-After eller 2, 4, 8 s), og der prøves igen.
     Ved timeout prøves én gang til (DMI svarer af og til ikke)."""
     h = {"User-Agent": UA, "Accept": "application/json"}
@@ -56,7 +56,7 @@ def get_json(url, headers=None, timeout=20, tries=4):
             raise
         except (TimeoutError, socket.timeout, urllib.error.URLError) as e:
             is_to = isinstance(e, (TimeoutError, socket.timeout)) or isinstance(getattr(e, "reason", None), (TimeoutError, socket.timeout))
-            if is_to and timeouts < 1:
+            if is_to and timeout_retry and timeouts < 1:
                 timeouts += 1
                 time.sleep(1)
                 continue
@@ -84,14 +84,14 @@ def dmi_run():
     return _run_cache["run"]
 
 
-def dmi_forecast(lat, lon, now):
+def dmi_forecast(lat, lon, now, primary=True):
     run = dmi_run()
     start = now.replace(minute=0, second=0) - timedelta(hours=1)
     end = start + timedelta(hours=38)
     url = (f"{DMI}/v1/forecastedr/collections/harmonie_dini_sf/position"
            f"?coords=POINT%28{round(lon, 4)}%20{round(lat, 4)}%29&crs=crs84&parameter-name={','.join(DMI_PARAMS)}&f=GeoJSON"
            f"&datetime={start.strftime('%Y-%m-%dT%H:%M:%S.000Z')}/{end.strftime('%Y-%m-%dT%H:%M:%S.000Z')}")
-    _, _, j = get_json(url, timeout=12)
+    _, _, j = get_json(url, timeout=12 if primary else 10, timeout_retry=primary)
     feats = j.get("features", [])
     if not feats:
         raise ValueError("ingen data fra DMI-prognosen (stedet ligger måske uden for DMI's modelområde)")
@@ -197,12 +197,12 @@ def err(e):
     return (f"HTTP {e.code}" if isinstance(e, urllib.error.HTTPError) else f"fejl: {e}")[:200]
 
 
-def place_job(pl, old, now):
+def place_job(pl, old, now, primary=True):
     lat, lon = float(pl["lat"]), float(pl["lon"])
     res = {"name": pl.get("name"), "q": pl.get("q"), "lat": lat, "lon": lon, "found": pl.get("found"), "status": {}}
     with ThreadPoolExecutor(max_workers=1) as pool:
         fm = pool.submit(metno, lat, lon, old.get("metno"))  # met.no samtidig med DMI
-        for key, fn in (("dmi_forecast", lambda: dmi_forecast(lat, lon, now)),
+        for key, fn in (("dmi_forecast", lambda: dmi_forecast(lat, lon, now, primary)),
                         ("observations", lambda: {"stations": observations(lat, lon)})):
             try:
                 res[key] = {"fetched": iso(now), **fn()}
@@ -233,9 +233,9 @@ def main():
     prev_places = {(p.get("name"), p.get("lat"), p.get("lon")): p for p in prev.get("places", [])}
     places, loc_errors = load_places()
     out = {"version": 2, "generated": iso(now), "status": {}, "places": [], "location_errors": loc_errors}
-    for pl in places:
+    for i, pl in enumerate(places):
         old = prev_places.get((pl.get("name"), float(pl["lat"]), float(pl["lon"])), {})
-        r = place_job(pl, old, now)
+        r = place_job(pl, old, now, primary=(i == 0))
         out["places"].append(r)
         print(f"{r['name']}: {r['status']}")
     p0 = out["places"][0]

@@ -177,7 +177,8 @@ def main(argv):
     page_f, w_f = argv[1], argv[2]
     now = datetime.now(TZ)
     if "--now" in argv:
-        now = datetime.fromisoformat(argv[argv.index("--now") + 1]).replace(tzinfo=TZ)
+        now = datetime.fromisoformat(argv[argv.index("--now") + 1].replace("Z", "+00:00"))
+        now = now.astimezone(TZ) if now.tzinfo else now.replace(tzinfo=TZ)
     warn = []
     try:
         W = json.load(open(w_f, encoding="utf-8"))
@@ -322,7 +323,12 @@ def main(argv):
             if pm_:
                 bits.append(f"{deg(pm_['t2'])} kl. {first.hour:02d} (prognose)")
         if S["m24"] is not None or S["d24"] is not None:
-            bits.append(f"næste 24 t: met.no {mm_txt(S['m24'])}" + (f", DMI {mm_txt(S['d24'])}" if S["d24"] is not None else ", DMI dækker ikke stedet"))
+            if S["d24"] is not None:
+                dtxt = f", DMI {mm_txt(S['d24'])}"
+            else:
+                dst = str((P.get("status") or {}).get("dmi_forecast", ""))
+                dtxt = ", DMI dækker ikke stedet" if ("modelområde" in dst or "ingen data" in dst) else ", DMI-prognosen svarede ikke"
+            bits.append(f"næste 24 t: met.no {mm_txt(S['m24'])}" + dtxt)
         if S["min"]:
             bits.append(f"laveste {deg(S['min'][0])} {when_txt(S['min'][1], now)}")
         if S["gmin"] and S["gmin"][0] <= 0:

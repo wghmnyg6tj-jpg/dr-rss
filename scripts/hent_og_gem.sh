@@ -5,14 +5,50 @@
 #   RADAR=1      Lav også radarbillede (kræver numpy, h5py, pillow, pyproj).
 # Kun filer, som DENNE kørsel har lavet, gemmes. Hvis en anden kørsel har gemt imens,
 # hentes main igen, og de nye filer lægges ovenpå (op til 5 forsøg).
-# Alt ligger i main(), så bash har læst hele scriptet, før "git reset" kan ændre filen.
+# Feeds venter højst VEJR_VENT sekunder (standard 20) på vejret. Er vejret ikke færdigt,
+# gemmes feeds (og radar) først, og vejret gemmes bagefter i et ekstra commit.
+# Alt ligger i main(), så bash har læst hele scriptet, før "git reset" i starten kan ændre filen.
 set -euo pipefail
+
+gem() {
+  # gem "<filer>" "<besked>": lægger filerne fra /tmp/ud oven på nyeste main og pusher (op til 5 forsøg).
+  # Det sker i en separat worktree (/tmp/gemrepo), så arbejdsmappen aldrig nulstilles,
+  # mens vejr- eller radarhentningen stadig skriver filer.
+  local files="$1" msg="$2" n f
+  local W=/tmp/gemrepo
+  if ! git -C "$W" rev-parse -q --verify HEAD >/dev/null 2>&1; then
+    rm -rf "$W"; git worktree prune
+    git worktree add -q --detach "$W" HEAD
+  fi
+  for n in 1 2 3 4 5; do
+    git -C "$W" fetch -q --depth=1 origin main
+    git -C "$W" reset -q --hard FETCH_HEAD
+    for f in $files; do
+      if [ -f "/tmp/ud/$f" ]; then cp "/tmp/ud/$f" "$W/$f"; git -C "$W" add "$f"; fi
+    done
+    if git -C "$W" diff --cached --quiet; then
+      echo "Ingen ændringer ($files)."
+      return 0
+    fi
+    git -C "$W" -c user.name=rss-bot -c user.email=rss-bot@users.noreply.github.com commit -q -m "$msg"
+    if git -C "$W" push -q origin HEAD:main; then
+      echo "Gemt (forsøg $n): $files"
+      return 0
+    fi
+    echo "Push afvist (forsøg $n). Prøver igen."
+    sleep $((n * 5))
+  done
+  echo "Kunne ikke gemme efter 5 forsøg: $files" >&2
+  return 1
+}
 
 main() {
   git config user.name "rss-bot"
   git config user.email "rss-bot@users.noreply.github.com"
   rm -rf /tmp/ud && mkdir -p /tmp/ud
-  local files="feeds.json"
+  local files="feeds.json" f
+  # Start fra nyeste main (fx nye områder i locations.json fra en anden kørsel)
+  git fetch -q --depth=1 origin main && git reset -q --hard FETCH_HEAD || echo "Kunne ikke hente nyeste main; bruger den lokale kopi."
 
   if [ -n "${PLACES_JSON:-}" ]; then
     if python3 set_places.py "$PLACES_JSON"; then files="$files locations.json"; fi
@@ -27,40 +63,51 @@ main() {
     rpid=$!
   fi
   python3 fetch_feeds.py
-  if wait "$wpid"; then files="$files weather.json"; else echo "Vejrhentningen fejlede."; fi
-  cat /tmp/vejr.log || true
-  if [ -n "$rpid" ]; then
+
+  # Vent højst VEJR_VENT sekunder på vejret (og radaren)
+  local t=0 maxw="${VEJR_VENT:-20}"
+  while [ "$t" -lt "$maxw" ]; do
+    if ! kill -0 "$wpid" 2>/dev/null && { [ -z "$rpid" ] || ! kill -0 "$rpid" 2>/dev/null; }; then break; fi
+    sleep 1; t=$((t + 1))
+  done
+
+  local late=""
+  if kill -0 "$wpid" 2>/dev/null; then
+    late="1"
+    echo "Vejret er ikke færdigt efter ${maxw} s. Feeds gemmes først."
+  else
+    if wait "$wpid"; then files="$files weather.json"; else echo "Vejrhentningen fejlede."; fi
+    cat /tmp/vejr.log || true
+  fi
+  if [ -n "$rpid" ] && ! kill -0 "$rpid" 2>/dev/null; then
     wait "$rpid" || echo "Radar fejlede."
     cat /tmp/radar.log || true
     if [ -f radar.json ]; then files="$files radar.json"; fi
     if [ -f radar.png ] && grep -q '"near"' radar.json 2>/dev/null; then files="$files radar.png"; fi
+    rpid=""
   fi
-  local f
   for f in $files; do
     if [ -f "$f" ]; then cp "$f" /tmp/ud/; fi
   done
+  gem "$files" "Opdater feeds og vejr"
 
-  local n
-  for n in 1 2 3 4 5; do
-    git fetch -q --depth=1 origin main
-    git reset -q --hard origin/main
-    for f in $files; do
-      if [ -f "/tmp/ud/$f" ]; then cp "/tmp/ud/$f" "$f"; git add "$f"; fi
+  if [ -n "$late" ] || [ -n "$rpid" ]; then
+    local more=""
+    if [ -n "$late" ]; then
+      if wait "$wpid"; then more="weather.json"; else echo "Vejrhentningen fejlede."; fi
+      cat /tmp/vejr.log || true
+    fi
+    if [ -n "$rpid" ]; then
+      wait "$rpid" || echo "Radar fejlede."
+      cat /tmp/radar.log || true
+      if [ -f radar.json ]; then more="$more radar.json"; fi
+      if [ -f radar.png ] && grep -q '"near"' radar.json 2>/dev/null; then more="$more radar.png"; fi
+    fi
+    for f in $more; do
+      if [ -f "$f" ]; then cp "$f" /tmp/ud/; fi
     done
-    if git diff --cached --quiet; then
-      echo "Ingen ændringer."
-      return 0
-    fi
-    git commit -q -m "Opdater feeds og vejr"
-    if git push -q origin HEAD:main; then
-      echo "Gemt (forsøg $n): $files"
-      return 0
-    fi
-    echo "Push afvist (forsøg $n). Prøver igen."
-    sleep $((n * 5))
-  done
-  echo "Kunne ikke gemme efter 5 forsøg." >&2
-  return 1
+    if [ -n "$more" ]; then gem "$more" "Opdater vejr"; fi
+  fi
 }
 
 main "$@"; exit $?
