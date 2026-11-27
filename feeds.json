@@ -513,6 +513,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Frygter angreb \nmed mange \ndøde i Europa",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/advarer-europa-frygter-angreb-med-mange-draebte/11367903",
+     "published": "2026-11-27T17:41+00:00"
+    },
+    {
      "title": "Dopingsag: Dropper profil",
      "link": "https://ekstrabladet.dk/sport/cykling/dopingsag-ineos-dropper-profil/11368001",
      "published": "2026-11-27T17:32+00:00"
@@ -556,11 +561,6 @@
      "title": "Jørgen de Mylius i sorg: \n- Han gik all in",
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/joergen-de-mylius-i-sorg-han-gik-all-in/11367923",
      "published": "2026-11-27T16:49+00:00"
-    },
-    {
-     "title": "Ny skade for Bayern problemsbarn",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/tyskfodbold/ny-skade-rammer-musiala-midt-i-speget-kontraktdebat/11367904",
-     "published": "2026-11-27T16:34+00:00"
     }
    ]
   },
@@ -571,6 +571,11 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Frygter angreb \nmed mange \ndøde i Europa",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/advarer-europa-frygter-angreb-med-mange-draebte/11367903",
+     "published": "2026-11-27T17:41+00:00"
+    },
     {
      "title": "Kørekorts\ngak-gak på\nKærshovedgård",
      "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/koerekorts-gak-gak-paa-kaershovedgaard/11365960",
@@ -615,11 +620,6 @@
      "title": "Antallet af danskere med KOL er begyndt at falde",
      "link": "https://ekstrabladet.dk/nyheder/samfund/antallet-af-danskere-med-kol-er-begyndt-at-falde/11367734",
      "published": "2026-11-27T14:31+00:00"
-    },
-    {
-     "title": "Tusindvis \ntelefonnumre \nlækket",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/tusinder-af-danske-gymnasieelevers-telefonnumre-er-laekket/11367780",
-     "published": "2026-11-27T13:50+00:00"
     }
    ]
   },
@@ -690,6 +690,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "B.T.s Mellemøst-korrespondent: Netanyahu er ikke frikendt, men han har al mulig grund til at juble",
+     "link": "https://www.bt.dk/udland/bts-mellemoest-korrespondent-netanyahu-er-ikke-frikendt-men-han-har-al-mulig-grund-til-at-juble?referrer=RSS",
+     "published": "2026-11-27T17:42+00:00"
+    },
+    {
      "title": "Spejderkorps og bilkoncern er omfattet af større datalæk",
      "link": "https://www.bt.dk/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek?referrer=RSS",
      "published": "2026-11-27T17:40+00:00"
@@ -732,11 +737,6 @@
     {
      "title": "Datatilsynet kritiserer Familieretshuset efter 47 sikkerhedsbrud",
      "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-sikkerhedsbrud?referrer=RSS",
-     "published": "2026-11-27T16:52+00:00"
-    },
-    {
-     "title": "Salget er eksploderet: Steget 40 procent på to år",
-     "link": "https://www.bt.dk/privatoekonomi/salget-er-eksploderet-steget-40-procent-paa-to-aar?referrer=RSS",
      "published": "2026-11-27T16:52+00:00"
     }
    ]
