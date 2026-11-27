@@ -34,13 +34,24 @@ def iso(dt):
     return dt.strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
-def get_json(url, headers=None, timeout=20):
+def get_json(url, headers=None, timeout=20, tries=4):
+    """Henter JSON. Ved HTTP 429/502/503/504 ventes (Retry-After eller 2, 4, 8 s), og der prøves igen."""
+    import time
     h = {"User-Agent": UA, "Accept": "application/json"}
     if headers:
         h.update(headers)
-    req = urllib.request.Request(url, headers=h)
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.status, dict(r.headers), json.loads(r.read().decode("utf-8"))
+    for n in range(tries):
+        req = urllib.request.Request(url, headers=h)
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.status, dict(r.headers), json.loads(r.read().decode("utf-8"))
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 502, 503, 504) and n < tries - 1:
+                ra = e.headers.get("Retry-After") if e.headers else None
+                wait = float(ra) if ra and ra.replace(".", "", 1).isdigit() else 2 ** (n + 1)
+                time.sleep(min(wait, 20))
+                continue
+            raise
 
 
 def r2(x):
@@ -160,9 +171,30 @@ def main():
             ("metno", lambda: metno(prev.get("metno"))),
             ("observations", observations),
             ("lightning", lightning)]
+    # met.no hentes samtidig med DMI. DMI-kaldene køres efter hinanden (prognosen først),
+    # så DMI's grænse for samtidige kald ikke rammes.
     from concurrent.futures import ThreadPoolExecutor
-    with ThreadPoolExecutor(max_workers=4) as pool:
-        futs = {key: pool.submit(fn) for key, fn in jobs}
+    def dmi_all():
+        res = {}
+        for key, fn in jobs:
+            if key == "metno":
+                continue
+            try:
+                res[key] = ("ok", fn())
+            except Exception as e:
+                res[key] = ("err", e)
+        return res
+    with ThreadPoolExecutor(max_workers=2) as pool:
+        f_met = pool.submit(jobs[1][1])
+        f_dmi = pool.submit(dmi_all)
+    dmi_res = f_dmi.result()
+    class _F:
+        def __init__(self, ok, v): self.ok, self.v = ok, v
+        def result(self):
+            if self.ok: return self.v
+            raise self.v
+    futs = {k: _F(v[0] == "ok", v[1]) for k, v in dmi_res.items()}
+    futs["metno"] = f_met
     for key, fn in jobs:
         try:
             data = futs[key].result()

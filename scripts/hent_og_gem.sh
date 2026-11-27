@@ -8,8 +8,12 @@ main() {
   git config user.name "rss-bot"
   git config user.email "rss-bot@users.noreply.github.com"
 
+  # Vejr og feeds hentes samtidig, så vejret ikke forsinker nyhederne
+  python3 fetch_weather.py > /tmp/vejr.log 2>&1 &
+  local wpid=$!
   python3 fetch_feeds.py
-  python3 fetch_weather.py || echo "Vejrhentningen fejlede. feeds.json gemmes alligevel."
+  if ! wait "$wpid"; then echo "Vejrhentningen fejlede. feeds.json gemmes alligevel."; fi
+  cat /tmp/vejr.log || true
   cp feeds.json /tmp/feeds.json
   if [ -f weather.json ]; then cp weather.json /tmp/weather.json; fi
 
