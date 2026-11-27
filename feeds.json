@@ -603,6 +603,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Massivt til stede ved ishockeykamp",
+     "link": "https://ekstrabladet.dk/krimi/politi-massivt-til-stede-efter-ishockeykamp/11368182",
+     "published": "2026-11-27T21:28+00:00",
+     "summary": "Flere betjente i kampuniform og hundepatruljer er rykket ud til Rødovre Skøjtehal, hvor politiet kontrollerer en bus med ishockeyfans efter aftenens lokalopgør"
+    },
+    {
+     "title": "Mystiske chiphandler:\nSpor fører til\nelskerinden",
+     "link": "https://ekstrabladet.dk/penge/mystiske-chiphandler-spor-foerer-til-topchefens-elskerinde/11367700",
+     "published": "2026-11-27T21:28+00:00",
+     "summary": "Sagen er ikke god for Jensen Huang, der undersøges for at være blevet udsat for spionage"
+    },
+    {
      "title": "Helt konkrete udlandsdrømme: \nNu løfter de sløret for planerne",
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/helt-konkrete-udlandsdroemme-nu-loefter-de-sloeret-for-planerne/11367462",
      "published": "2026-11-27T21:12+00:00",
@@ -649,18 +661,6 @@
      "link": "https://ekstrabladet.dk/forbrug/Teknologi/velkommen-skandalen-58.000-mails-slettet-kort-foer-konkurs/11368160",
      "published": "2026-11-27T20:25+00:00",
      "summary": "Nye dokumenter fra det konkursramte elselskab Velkommen afslører, hvordan tusindvis af mails og beskeder blev slettet i tiden omkring konkursen"
-    },
-    {
-     "title": "Jesper Asholt helt nyforelsket: \n- Det kilder i maven",
-     "link": "https://ekstrabladet.dk/underholdning/dkkendte/jesper-asholt-helt-nyforelsket-det-kilder-i-maven/11365805",
-     "published": "2026-11-27T20:23+00:00",
-     "summary": "Skuespilleren i den nye TV 2-julekalender 'I nissernes tjeneste', Jesper Asholt, kan ikke komme ned fra den lyserøde sky"
-    },
-    {
-     "title": "Her er virkelighedens\nJason og Lucia",
-     "link": "https://ekstrabladet.dk/forbrug/Teknologi/gaar-verden-rundt-her-er-de-i-virkeligheden/11368082",
-     "published": "2026-11-27T20:15+00:00",
-     "summary": "Millioner af mennesker har kastet sig over det længe ventede GTA 6. Men hvem er egentlig de to skuespillere, der lægger stemmer og ansigter til spillets hovedpersoner?"
     }
    ]
   },
@@ -1932,8 +1932,81 @@
    "name": "Danmark",
    "topic": "danmark",
    "url": "https://cphpost.dk/feed/",
-   "status": "fejl: ParseError",
-   "items": []
+   "status": "ok",
+   "items": [
+    {
+     "title": "Audit shows tax errors for most content creators",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/audit-shows-tax-errors-for-most-content-creators/",
+     "published": "2026-11-27T15:02+00:00",
+     "summary": "Most social media content creators in Denmark make mistakes when they report their earnings to the government, according to Skattestyrelsen, the Danish Tax Agency, which is the national public authority responsible for assessing and …"
+    },
+    {
+     "title": "Thousands of Danish students’ phone numbers leaked",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/thousands-of-danish-students-phone-numbers-leaked/",
+     "published": "2026-11-27T15:01+00:00",
+     "summary": "At least 15,338 phone numbers belonging to high school students have been leaked in a data security breach. The incident was announced by Gymnasiefællesskabet, an association of Danish high schools. The education news outlet …"
+    },
+    {
+     "title": "Hackers breach US Air Force cloud platform",
+     "link": "https://cphpost.dk/2026-11-27/global/hackers-breach-us-air-force-cloud-platform/",
+     "published": "2026-11-27T15:00+00:00",
+     "summary": "Cybercriminals have broken into a central cloud platform used by the U.S. Air Force, according to three people with knowledge of the matter who spoke to the Reuters news agency. A large amount of data about tactical, personnel, and …"
+    },
+    {
+     "title": "Norwegian airline files for bankruptcy",
+     "link": "https://cphpost.dk/2026-11-27/global/norwegian-airline-files-for-bankruptcy/",
+     "published": "2026-11-27T15:00+00:00",
+     "summary": "The Norwegian low-cost airline Norse Atlantic has filed for bankruptcy, the company stated in an announcement on Friday. “The board of directors of Norse Atlantic Airways AS has made the difficult decision to file for bankruptcy despite …"
+    },
+    {
+     "title": "MobilePay sees fewer purchases this Black Friday",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/mobilepay-sees-fewer-purchases-this-black-friday/",
+     "published": "2026-11-27T15:00+00:00",
+     "summary": "The Danish payment company MobilePay recorded 20 percent fewer transactions on Black Friday this year compared to last year. MobilePay shared the numbers with Ritzau, the Danish news agency. While payments dropped on the day itself, the …"
+    },
+    {
+     "title": "Denmark gets its first female prosecutor general",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/denmark-gets-its-first-female-prosecutor-general/",
+     "published": "2026-11-27T15:00+00:00",
+     "summary": "Caroline Østergaard Nielsen has been named Denmark’s new Director of Public Prosecutions. She has already been serving in the role since August 1, after the former director, Lars Boje Nielsen, left the post to become the National …"
+    },
+    {
+     "title": "Your guide for staying warm and dry through the Danish winter",
+     "link": "https://cphpost.dk/2026-11-27/life-in-denmark/your-guide-for-staying-warm-and-dry-through-the-danish-winter/",
+     "published": "2026-11-27T14:30+00:00",
+     "summary": "From wool layers to waterproof cycling gear, here’s how to stay warm and dry through a typical winter in Denmark."
+    },
+    {
+     "title": "France’s economy shrank more than first estimated in third quarter",
+     "link": "https://cphpost.dk/2026-11-27/global/frances-economy-shrank-more-than-first-estimated-in-third-quarter/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "France’s economy contracted by 0.2% in the third quarter, a larger decline than initially estimated, as falling business investment weighed on growth. The national statistics agency, Insee, revised the figure Friday from its earlier …"
+    },
+    {
+     "title": "Frederiksen defends Denmark’s refusal to split from allies in EU budget talks",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/frederiksen-defends-denmarks-refusal-to-split-from-allies-in-eu-budget-talks/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "Prime Minister Mette Frederiksen defended Denmark’s decision to refuse further small-group negotiations at this week’s European Union budget summit, saying the country and six allies wanted to negotiate together. The summit in Brussels …"
+    },
+    {
+     "title": "Denmark’s last autumn weekend to bring clouds, near-freezing temperatures and some sun",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/denmarks-last-autumn-weekend-to-bring-clouds-near-freezing-temperatures-and-some-sun/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "Denmark will have a mostly cloudy final weekend of autumn, with occasional sunshine and a chance of rain or sleet, according to the Danish Meteorological Institute, DMI. “It is completely normal November weather, with signs that we are …"
+    },
+    {
+     "title": "Christmas cookies and cakes recalled over possible toxin contamination in flour",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/christmas-cookies-and-cakes-recalled-over-possible-toxin-contamination-in-flour/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "Cookies and Christmas cakes sold across Denmark are being recalled because they were made with flour that may contain elevated levels of mycotoxins, the Danish Veterinary and Food Administration said. The authority confirmed to Ritzau that …"
+    },
+    {
+     "title": "Norse Atlantic says leases for all 12 aircraft have been terminated",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/norse-atlantic-says-leases-for-all-12-aircraft-have-been-terminated/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "Norse Atlantic said Friday that lease agreements for all 12 of its aircraft have been terminated as the Norwegian low-cost airline seeks funding to avoid bankruptcy. The company disputes the validity of the termination, according to a …"
+    }
+   ]
   }
  ]
 }
