@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T20:59+00:00",
+ "generated": "2026-11-27T21:09+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -504,6 +504,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Politiet indblandet: Kuratorer mener elselskab skyldte kunder 292 millioner ved konkurs",
+     "link": "https://www.dr.dk/nyheder/penge/politiet-indblandet-kuratorer-mener-elselskab-skyldte-kunder-292-millioner-ved-konkurs",
+     "published": "2026-11-27T21:06+00:00",
+     "summary": "Kuratorerne har fundet mistænkelige forhold i gennemgangen af kollapsede Velkommen A/S."
+    },
+    {
      "title": "STIL SPØRGSMÅL om Black Friday: Hvad skal du være opmærksom på, når du går på tilbudsjagt?",
      "link": "https://www.dr.dk/nyheder/penge/stil-spoergsmaal-om-black-friday-hvad-skal-du-vaere-opmaerksom-paa-naar-du-gaar-paa-tilbudsjagt",
      "published": "2026-11-27T07:00+00:00",
@@ -586,12 +592,6 @@
      "link": "https://www.dr.dk/nyheder/indland/reels/anders-solgte-alle-sine-nvidia-aktier-inden-huangs-comeback",
      "published": "2026-11-24T16:00+00:00",
      "summary": ""
-    },
-    {
-     "title": "Tusindvis af boligejere ramt af fejl i boligskatten: 'Det er uheldigt'",
-     "link": "https://www.dr.dk/nyheder/penge/tusindvis-af-boligejere-ramt-af-fejl-i-boligskatten-det-er-uheldigt",
-     "published": "2026-11-24T14:02+00:00",
-     "summary": "Vurderingsstyrelsen har orienteret boligejere, der er ramt af skattefejl på forskudsopgørelsen."
     }
    ]
   },
@@ -602,6 +602,24 @@
    "url": "https://ekstrabladet.dk/rssfeed/all/",
    "status": "ok",
    "items": [
+    {
+     "title": "Mareridtsagtige spaghetti-orme fundet på havets bund",
+     "link": "https://ekstrabladet.dk/nyheder/videnskab/netop-opdaget-i-dybhavet-ny-familie-af-spaghetti-orme/11367850",
+     "published": "2026-11-27T21:06+00:00",
+     "summary": "Ny slægt af mareridtsagtige spaghetti-orme fundet på havets bund"
+    },
+    {
+     "title": "Kæmpe overraskelse: Første gang i år",
+     "link": "https://ekstrabladet.dk/sport/anden_sport/ishockey/foerste-gang-i-aar-herning-blue-fox-taber-i-ordinaer-tid/11368172",
+     "published": "2026-11-27T21:06+00:00",
+     "summary": "Herning Blue Fox måtte fredag aften gå fra isen med det første liganederlag i sæsonen i ordinær spilletid"
+    },
+    {
+     "title": "Flækkede knæet i Danmark: Misser sæsonen",
+     "link": "https://ekstrabladet.dk/sport/cykling/flaekkede-knaeskallen-i-danmark-stjerne-misser-hele-saesonen/11367881",
+     "published": "2026-11-27T21:01+00:00",
+     "summary": "Toon Aerts kan nu se frem mod landevejssæsonen 2027"
+    },
     {
      "title": "Medie: Nordkorea \npauser våbenhjælp \ntil Rusland",
      "link": "https://ekstrabladet.dk/nyheder/Udland/medie-nordkorea-pauser-vaabenhjaelp-til-rusland/11367143",
@@ -643,24 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/maalscorer-mortensen-bestemt-ikke-det-vi-kom-efter/11368154",
      "published": "2026-11-27T20:14+00:00",
      "summary": "Patrick Mortensen er skuffet over Brøndby IF's 1-1-resultat mod Sønderjyske og siger til Viaplay, at man kom efter mere"
-    },
-    {
-     "title": "Hvidovre lægger afstand til Vejle efter selvmål",
-     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/1division/hvidovre-laegger-afstand-til-vejle-efter-selvmaal/11368131",
-     "published": "2026-11-27T20:12+00:00",
-     "summary": "Vejle havde kurs mod sejren, men spillede 2-2 mod AB efter selvmål. Topholdet Hvidovre vandt 2-1 over Kolding"
-    },
-    {
-     "title": "Vil have styr på reserven:\nKontakter\n100.000",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/vil-have-fat-i-100.000-veteraner-forberedt-paa-det-vaerste/11367204",
-     "published": "2026-11-27T20:08+00:00",
-     "summary": "Det britiske forsvarsministerium har sendt breve til tidligere soldater for at styrke beredskabet, hvis landet en dag får brug for at indkalde dem"
-    },
-    {
-     "title": "Forbandelsen forbliver",
-     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/5-i-fokus-er-mortensen-alligevel-loesningen-for-broendby/11368144",
-     "published": "2026-11-27T20:01+00:00",
-     "summary": "Patrick Mortensen viste vejen for Brøndby, da han efter sit indhop fyldte godt i boksen og scorede det udlignende 1-1-mål mod Sønderjyske"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Mareridtsagtige spaghetti-orme fundet på havets bund",
+     "link": "https://ekstrabladet.dk/nyheder/videnskab/netop-opdaget-i-dybhavet-ny-familie-af-spaghetti-orme/11367850",
+     "published": "2026-11-27T21:06+00:00",
+     "summary": "Ny slægt af mareridtsagtige spaghetti-orme fundet på havets bund"
+    },
     {
      "title": "Medie: Nordkorea \npauser våbenhjælp \ntil Rusland",
      "link": "https://ekstrabladet.dk/nyheder/Udland/medie-nordkorea-pauser-vaabenhjaelp-til-rusland/11367143",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/samfund/svensk-officer-mistaenkt-i-sag-om-hemmelige-oplysninger/11367392",
      "published": "2026-11-27T17:11+00:00",
      "summary": "Sveriges sikkerhedspoliti, Säpo, efterforsker en officer, der er mistænkt for ulovlig omgang med hemmelige oplysninger, som kan skade landets sikkerhed, hvis de bliver afsløret"
-    },
-    {
-     "title": "Datalæk hos bilgigant: 90.000 kan være ramt",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/datalaek-hos-bilgigant-90.000-kan-vaere-ramt/11367974",
-     "published": "2026-11-27T16:55+00:00",
-     "summary": "Bilkoncernen Semler er blevet ramt af et omfattende sikkerhedsbrud hos en underleverandør. Nu advarer virksomheden sine kunder mod svindel"
     }
    ]
   },
@@ -810,6 +810,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Aalborg Pirates holder topholdet fra fadet og vinder",
+     "link": "https://www.bt.dk/oevrig-sport/aalborg-pirates-holder-topholdet-fra-fadet-og-vinder?referrer=RSS",
+     "published": "2026-11-27T21:06+00:00",
+     "summary": "Herning Blue Fox måtte fredag aften gå fra isen med det første liganederlag i sæsonen i ordinær spilletid."
+    },
+    {
      "title": "Velkommen skyldte 42.825 elkunder 292 millioner kroner ved konkurs",
      "link": "https://www.bt.dk/samfund/velkommen-skyldte-42825-elkunder-292-millioner-kroner-ved-konkurs?referrer=RSS",
      "published": "2026-11-27T20:56+00:00",
@@ -819,7 +825,7 @@
      "title": "Vild konkurs: Skylder penge til 42.825 danskere",
      "link": "https://www.bt.dk/privatoekonomi/vild-konkurs-skylder-penge-til-42825-danskere?referrer=RSS",
      "published": "2026-11-27T20:43+00:00",
-     "summary": ""
+     "summary": "Kuratorerne har fundet forhold i materialet fra Velkommen, der har givet anledning til at underrette politiet."
     },
     {
      "title": "Beder hele Aarhus Kommune om hjælp",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek?referrer=RSS",
      "published": "2026-11-27T19:51+00:00",
      "summary": "Gymnasieskoler og andre organisationer har været ramt af datalæk, hvor telefonnumre er blevet kompromitteret."
-    },
-    {
-     "title": "Bekræfter: Uvedkommende har fået adgang",
-     "link": "https://www.bt.dk/krimi/bekraefter-uvedkommende-har-faaet-adgang?referrer=RSS",
-     "published": "2026-11-27T19:41+00:00",
-     "summary": "OnlineCity bekræfter cyberangreb mod over 15.000 gymnasieelever, men det samlede omfang er endnu ukendt."
     }
    ]
   },
