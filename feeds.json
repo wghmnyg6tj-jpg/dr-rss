@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T19:04+00:00",
+ "generated": "2026-11-27T19:12+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,24 @@
    "status": "ok",
    "items": [
     {
+     "title": "Påkørt bagfra \nog angrebet \nmed peberspray",
+     "link": "https://ekstrabladet.dk/krimi/amok-i-trafikken-paakoert-bagfra-og-angrebet-med-peberspray/11367750",
+     "published": "2026-11-27T19:11+00:00",
+     "summary": "En bilist blev angrebet af en medtrafikant, som nu er sigtes for flere brud på straffeloven"
+    },
+    {
+     "title": "Putin præsenterer ny atomdrevet ubåd",
+     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/putin-praesenterer-ny-atomdrevet-ubaad/11368094",
+     "published": "2026-11-27T19:07+00:00",
+     "summary": ""
+    },
+    {
+     "title": "Over al forventning: Forventer udsolgt",
+     "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/over-al-forventning-forventer-udsolgt-til-kessler-comeback/11367982",
+     "published": "2026-11-27T19:07+00:00",
+     "summary": "Promotor Kalle Sauerland melder om stor interesse for Mikkel Kesslers comeback og forventer en pakket hal i Brøndby"
+    },
+    {
      "title": "Glem alt det nye lort: \nNintendo leverer \nvaren igen",
      "link": "https://ekstrabladet.dk/forbrug/Teknologi/glem-alt-det-nye-lort-nintendo-leverer-varen-igen/11367694",
      "published": "2026-11-27T18:47+00:00",
@@ -643,24 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/live-foelg-soenderjyske-broendby/11368050",
      "published": "2026-11-27T17:54+00:00",
      "summary": "Sønderjyske og Brøndby IF mødes i 3F Superligaen. Du kan følge opgøret live i tekst her"
-    },
-    {
-     "title": "Skriver dansk historie: Første point",
-     "link": "https://ekstrabladet.dk/sport/anden_sport/skisport/dansk-skiskytte-tager-karrierens-foerste-world-cup-point/11368021",
-     "published": "2026-11-27T17:49+00:00",
-     "summary": "Anne de Besche blev nummer 38 i Finland og sikrede sig dermed karrierens første World Cup-point"
-    },
-    {
-     "title": "Frygter angreb \nmed mange \nofre i Europa",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/advarer-europa-frygter-angreb-med-mange-ofre/11367903",
-     "published": "2026-11-27T17:41+00:00",
-     "summary": "Russiske sabotageangreb i Europa er steget markant det seneste år. Nu advarer en førende tænketank om, at et angreb kan ende med en katastrofe med mange ofre"
-    },
-    {
-     "title": "Dopingsag: Dropper profil",
-     "link": "https://ekstrabladet.dk/sport/cykling/dopingsag-ineos-dropper-profil/11368001",
-     "published": "2026-11-27T17:32+00:00",
-     "summary": "Harold Tejada har haft problemer med sit biologiske pas"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Putin præsenterer ny atomdrevet ubåd",
+     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/putin-praesenterer-ny-atomdrevet-ubaad/11368094",
+     "published": "2026-11-27T19:07+00:00",
+     "summary": ""
+    },
     {
      "title": "Amerikansk militærfly beskyder fragtskib i Omanbugten",
      "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/amerikansk-militaerfly-beskyder-fragtskib-i-omanbugten/11368051",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/samfund/stak-ti-paa-tog-mod-london.-skyldig-i-14-drabsforsoeg/11367127",
      "published": "2026-11-27T15:31+00:00",
      "summary": "En togmedarbejder blev livsfarligt såret, da han sidste år forsøgte at standse en knivmand ombord på et tog i England. Nu er den 33-årige gerningsmand kendt skyldig i 14 drabsforsøg"
-    },
-    {
-     "title": "Jørn Hjorting er død",
-     "link": "https://ekstrabladet.dk/underholdning/dkkendte/joern-hjorting-er-doed/11367884",
-     "published": "2026-11-27T15:12+00:00",
-     "summary": "Radioprogrammet \"De ringer, vi spiller\" og vært Jørn Hjorting var ugens højdepunkt for mange radiolyttere"
     }
    ]
   },
@@ -740,6 +740,30 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Blotter fortsat på spil i Silkeborg: 'Ekstra opmærksomme'",
+     "link": "https://www.bt.dk/krimi/blotter-fortsat-paa-spil-i-silkeborg-ekstra-opmaerksomme?referrer=RSS",
+     "published": "2026-11-27T19:11+00:00",
+     "summary": "Politiet har endnu ikke pågrebet manden, er har blottet sig foran flere børn."
+    },
+    {
+     "title": "MobilePay omsætter mindre på black friday end sidste år",
+     "link": "https://www.bt.dk/samfund/mobilepay-omsaetter-mindre-paa-black-friday-end-sidste-aar?referrer=RSS",
+     "published": "2026-11-27T19:10+00:00",
+     "summary": "MobilePays omsætning på black friday er faldet 27 procent fra sidste år, men ugerne op til var mere travle."
+    },
+    {
+     "title": "Spejderkorps og bilkoncern er omfattet af større datalæk",
+     "link": "https://www.bt.dk/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek?referrer=RSS",
+     "published": "2026-11-27T19:06+00:00",
+     "summary": "Gymnasieskoler og andre organisationer har været ramt af datalæk, hvor telefonnumre er blevet kompromitteret."
+    },
+    {
+     "title": "Putin afslører nyt atom-projekt",
+     "link": "https://www.bt.dk/udland/putin-afsloerer-nyt-atom-projekt?referrer=RSS",
+     "published": "2026-11-27T19:06+00:00",
+     "summary": ""
+    },
     {
      "title": "Mads Fuglede er blevet far",
      "link": "https://www.bt.dk/politik/mads-fuglede-er-blevet-far?referrer=RSS",
@@ -775,30 +799,6 @@
      "link": "https://www.bt.dk/krimi/mystisk-politiaktion-massivt-til-stede?referrer=RSS",
      "published": "2026-11-27T18:06+00:00",
      "summary": "Fredag aften er politiet massivt til stede i Gentofte."
-    },
-    {
-     "title": "15-årig dreng død efter ulykke med fem unge ved Borup",
-     "link": "https://www.bt.dk/krimi/15-aarig-dreng-doed-efter-ulykke-med-fem-unge-ved-borup?referrer=RSS",
-     "published": "2026-11-27T17:54+00:00",
-     "summary": "En 15-årig dreng er død, efter at fem drenge tirsdag kørte galt og ramte et træ på Midtsjælland."
-    },
-    {
-     "title": "Spejderkorps og bilkoncern er omfattet af større datalæk",
-     "link": "https://www.bt.dk/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek?referrer=RSS",
-     "published": "2026-11-27T17:50+00:00",
-     "summary": "Gymnasieskoler og andre organisationer har været ramt af datalæk, hvor telefonnumre er blevet kompromitteret."
-    },
-    {
-     "title": "B.T.s Mellemøst-korrespondent: Netanyahu er ikke frikendt, men han har al mulig grund til at juble",
-     "link": "https://www.bt.dk/udland/bts-mellemoest-korrespondent-netanyahu-er-ikke-frikendt-men-han-har-al-mulig-grund-til-at-juble?referrer=RSS",
-     "published": "2026-11-27T17:42+00:00",
-     "summary": "Hvis Israel ender med at skulle til valg igen, vil udviklingen i Netanyahus retssag styrke hans chancer for at klare sig bedre ved valget."
-    },
-    {
-     "title": "15-årig afgået ved døden efter trafikulykke",
-     "link": "https://www.bt.dk/krimi/15-aarig-afgaaet-ved-doeden-efter-trafikulykke?referrer=RSS",
-     "published": "2026-11-27T17:29+00:00",
-     "summary": "En af de personer, der kørte galt i tirsdags er nu afgået ved døden."
     }
    ]
   },
@@ -809,6 +809,30 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Blotter fortsat på spil i Silkeborg: 'Ekstra opmærksomme'",
+     "link": "https://www.bt.dk/krimi/blotter-fortsat-paa-spil-i-silkeborg-ekstra-opmaerksomme?referrer=RSS",
+     "published": "2026-11-27T19:11+00:00",
+     "summary": "Politiet har endnu ikke pågrebet manden, er har blottet sig foran flere børn."
+    },
+    {
+     "title": "MobilePay omsætter mindre på black friday end sidste år",
+     "link": "https://www.bt.dk/samfund/mobilepay-omsaetter-mindre-paa-black-friday-end-sidste-aar?referrer=RSS",
+     "published": "2026-11-27T19:10+00:00",
+     "summary": "MobilePays omsætning på black friday er faldet 27 procent fra sidste år, men ugerne op til var mere travle."
+    },
+    {
+     "title": "Spejderkorps og bilkoncern er omfattet af større datalæk",
+     "link": "https://www.bt.dk/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek?referrer=RSS",
+     "published": "2026-11-27T19:06+00:00",
+     "summary": "Gymnasieskoler og andre organisationer har været ramt af datalæk, hvor telefonnumre er blevet kompromitteret."
+    },
+    {
+     "title": "Putin afslører nyt atom-projekt",
+     "link": "https://www.bt.dk/udland/putin-afsloerer-nyt-atom-projekt?referrer=RSS",
+     "published": "2026-11-27T19:06+00:00",
+     "summary": ""
+    },
     {
      "title": "Legende vender tilbage med fiasko: Tævet af danskere",
      "link": "https://www.bt.dk/oevrig-sport/legende-vender-tilbage-med-fiasko-taevet-af-danskere?referrer=RSS",
@@ -844,30 +868,6 @@
      "link": "https://www.bt.dk/udland/amerikansk-militaerfly-beskyder-fragtskib-i-omanbugten?referrer=RSS",
      "published": "2026-11-27T18:18+00:00",
      "summary": "Trods flere advarsler forsøgte et skib at bryde den amerikanske maritime blokade mod iranske havne."
-    },
-    {
-     "title": "USA bekræfter: Har angrebet",
-     "link": "https://www.bt.dk/udland/usa-bekraefter-har-angrebet?referrer=RSS",
-     "published": "2026-11-27T18:15+00:00",
-     "summary": "Trods flere advarsler forsøgte et skib at bryde den amerikanske maritime blokade mod iranske havne."
-    },
-    {
-     "title": "Ny atomtrussel fra Kreml: 'Rusland kan gennemføre forebyggende atomangreb'",
-     "link": "https://www.bt.dk/udland/ny-atomtrussel-fra-kreml-rusland-kan-gennemfoere-forebyggende-atomangreb?referrer=RSS",
-     "published": "2026-11-27T18:13+00:00",
-     "summary": "Skræmmekampagne eller reel trussel? Putins allierede udsender ny atomadvarsel."
-    },
-    {
-     "title": "Mystisk politiaktion: Massivt til stede",
-     "link": "https://www.bt.dk/krimi/mystisk-politiaktion-massivt-til-stede?referrer=RSS",
-     "published": "2026-11-27T18:06+00:00",
-     "summary": "Fredag aften er politiet massivt til stede i Gentofte."
-    },
-    {
-     "title": "Sexolog ser det særligt nu: 'Utroskaben ligger nærmest i luften'",
-     "link": "https://www.bt.dk/sex-og-samliv/sexolog-ser-det-saerligt-nu-utroskaben-ligger-naermest-i-luften?referrer=RSS",
-     "published": "2026-11-27T17:55+00:00",
-     "summary": "Joan Ørting har et godt råd til at undgå utroskab i sit parforhold."
     }
    ]
   },
@@ -1932,8 +1932,81 @@
    "name": "Danmark",
    "topic": "danmark",
    "url": "https://cphpost.dk/feed/",
-   "status": "fejl: ParseError",
-   "items": []
+   "status": "ok",
+   "items": [
+    {
+     "title": "Audit shows tax errors for most content creators",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/audit-shows-tax-errors-for-most-content-creators/",
+     "published": "2026-11-27T15:02+00:00",
+     "summary": "Most social media content creators in Denmark make mistakes when they report their earnings to the government, according to Skattestyrelsen, the Danish Tax Agency, which is the national public authority responsible for assessing and …"
+    },
+    {
+     "title": "Thousands of Danish students’ phone numbers leaked",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/thousands-of-danish-students-phone-numbers-leaked/",
+     "published": "2026-11-27T15:01+00:00",
+     "summary": "At least 15,338 phone numbers belonging to high school students have been leaked in a data security breach. The incident was announced by Gymnasiefællesskabet, an association of Danish high schools. The education news outlet …"
+    },
+    {
+     "title": "Hackers breach US Air Force cloud platform",
+     "link": "https://cphpost.dk/2026-11-27/global/hackers-breach-us-air-force-cloud-platform/",
+     "published": "2026-11-27T15:00+00:00",
+     "summary": "Cybercriminals have broken into a central cloud platform used by the U.S. Air Force, according to three people with knowledge of the matter who spoke to the Reuters news agency. A large amount of data about tactical, personnel, and …"
+    },
+    {
+     "title": "Norwegian airline files for bankruptcy",
+     "link": "https://cphpost.dk/2026-11-27/global/norwegian-airline-files-for-bankruptcy/",
+     "published": "2026-11-27T15:00+00:00",
+     "summary": "The Norwegian low-cost airline Norse Atlantic has filed for bankruptcy, the company stated in an announcement on Friday. “The board of directors of Norse Atlantic Airways AS has made the difficult decision to file for bankruptcy despite …"
+    },
+    {
+     "title": "MobilePay sees fewer purchases this Black Friday",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/mobilepay-sees-fewer-purchases-this-black-friday/",
+     "published": "2026-11-27T15:00+00:00",
+     "summary": "The Danish payment company MobilePay recorded 20 percent fewer transactions on Black Friday this year compared to last year. MobilePay shared the numbers with Ritzau, the Danish news agency. While payments dropped on the day itself, the …"
+    },
+    {
+     "title": "Denmark gets its first female prosecutor general",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/denmark-gets-its-first-female-prosecutor-general/",
+     "published": "2026-11-27T15:00+00:00",
+     "summary": "Caroline Østergaard Nielsen has been named Denmark’s new Director of Public Prosecutions. She has already been serving in the role since August 1, after the former director, Lars Boje Nielsen, left the post to become the National …"
+    },
+    {
+     "title": "Your guide for staying warm and dry through the Danish winter",
+     "link": "https://cphpost.dk/2026-11-27/life-in-denmark/your-guide-for-staying-warm-and-dry-through-the-danish-winter/",
+     "published": "2026-11-27T14:30+00:00",
+     "summary": "From wool layers to waterproof cycling gear, here’s how to stay warm and dry through a typical winter in Denmark."
+    },
+    {
+     "title": "France’s economy shrank more than first estimated in third quarter",
+     "link": "https://cphpost.dk/2026-11-27/global/frances-economy-shrank-more-than-first-estimated-in-third-quarter/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "France’s economy contracted by 0.2% in the third quarter, a larger decline than initially estimated, as falling business investment weighed on growth. The national statistics agency, Insee, revised the figure Friday from its earlier …"
+    },
+    {
+     "title": "Frederiksen defends Denmark’s refusal to split from allies in EU budget talks",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/frederiksen-defends-denmarks-refusal-to-split-from-allies-in-eu-budget-talks/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "Prime Minister Mette Frederiksen defended Denmark’s decision to refuse further small-group negotiations at this week’s European Union budget summit, saying the country and six allies wanted to negotiate together. The summit in Brussels …"
+    },
+    {
+     "title": "Denmark’s last autumn weekend to bring clouds, near-freezing temperatures and some sun",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/denmarks-last-autumn-weekend-to-bring-clouds-near-freezing-temperatures-and-some-sun/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "Denmark will have a mostly cloudy final weekend of autumn, with occasional sunshine and a chance of rain or sleet, according to the Danish Meteorological Institute, DMI. “It is completely normal November weather, with signs that we are …"
+    },
+    {
+     "title": "Christmas cookies and cakes recalled over possible toxin contamination in flour",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/christmas-cookies-and-cakes-recalled-over-possible-toxin-contamination-in-flour/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "Cookies and Christmas cakes sold across Denmark are being recalled because they were made with flour that may contain elevated levels of mycotoxins, the Danish Veterinary and Food Administration said. The authority confirmed to Ritzau that …"
+    },
+    {
+     "title": "Norse Atlantic says leases for all 12 aircraft have been terminated",
+     "link": "https://cphpost.dk/2026-11-27/news/round-up/norse-atlantic-says-leases-for-all-12-aircraft-have-been-terminated/",
+     "published": "2026-11-27T10:57+00:00",
+     "summary": "Norse Atlantic said Friday that lease agreements for all 12 of its aircraft have been terminated as the Norwegian low-cost airline seeks funding to avoid bankruptcy. The company disputes the validity of the termination, according to a …"
+    }
+   ]
   }
  ]
 }

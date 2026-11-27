@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T19:04+00:00",
+ "generated": "2026-11-27T19:12+00:00",
  "metro": {
   "status": "ok",
   "url": "https://m.dk/da/drift-og-service/status-og-planlagte-driftsaendringer/",
@@ -123,5 +123,12 @@
   "title": "Vejromslag på vej",
   "time": "2026-11-27T13:18",
   "lead": "Første julefrokostfredag med lidt sol, en hel del skyer og måske en enkelt byge"
+ },
+ "um_tyrkiet": {
+  "status": "ok",
+  "url": "https://um.dk/rejse-og-ophold/rejse-til-udlandet/rejsevejledninger/tyrkiet",
+  "updated": "17.06.2026 Kl. 09.57",
+  "level": "gul",
+  "line": "Vær ekstra forsigtig: Hele landet, undtagen områderne i den orange bjælke og den røde bjælke nedenfor."
  }
 }
