@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T05:51+00:00",
+ "generated": "2026-11-27T08:51+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -8,6 +8,16 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/senestenyt",
    "status": "ok",
    "items": [
+    {
+     "title": "Fransk stjerneskuespiller skal igen for retten",
+     "link": "https://www.dr.dk/nyheder/seneste/fransk-stjerneskuespiller-skal-igen-retten",
+     "published": "2026-11-27T08:38+00:00"
+    },
+    {
+     "title": "Kvinde omkommet i brand i Ringe på Fyn",
+     "link": "https://www.dr.dk/nyheder/seneste/kvinde-omkommet-i-brand-i-ringe-paa-fyn",
+     "published": "2026-11-27T06:15+00:00"
+    },
     {
      "title": "Sydkorea sender seks nordkoreanere retur",
      "link": "https://www.dr.dk/nyheder/seneste/sydkorea-sender-seks-nordkoreanere-retur",
@@ -72,16 +82,6 @@
      "title": "Norsk flyselskab kæmper for overlevelse - aflyser flyvninger",
      "link": "https://www.dr.dk/nyheder/seneste/norsk-flyselskab-kaemper-overlevelse-aflyser-flyvninger",
      "published": "2026-11-26T08:15+00:00"
-    },
-    {
-     "title": "Flere ikke-vestlige indvandrere er i beskæftigelse",
-     "link": "https://www.dr.dk/nyheder/seneste/flere-ikke-vestlige-indvandrere-er-i-beskaeftigelse",
-     "published": "2026-11-26T07:52+00:00"
-    },
-    {
-     "title": "Otte teenagere anholdt for hjemmerøveri med pistol og kniv",
-     "link": "https://www.dr.dk/nyheder/seneste/otte-teenagere-anholdt-hjemmeroeveri-med-pistol-og-kniv",
-     "published": "2026-11-26T07:36+00:00"
     }
    ]
   },
@@ -93,6 +93,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Fransk stjerneskuespiller skal igen for retten",
+     "link": "https://www.dr.dk/nyheder/seneste/fransk-stjerneskuespiller-skal-igen-retten",
+     "published": "2026-11-27T08:38+00:00"
+    },
+    {
+     "title": "Kvinde omkommet i brand i Ringe på Fyn",
+     "link": "https://www.dr.dk/nyheder/seneste/kvinde-omkommet-i-brand-i-ringe-paa-fyn",
+     "published": "2026-11-27T06:15+00:00"
+    },
+    {
      "title": "Sydkorea sender seks nordkoreanere retur",
      "link": "https://www.dr.dk/nyheder/seneste/sydkorea-sender-seks-nordkoreanere-retur",
      "published": "2026-11-27T05:32+00:00"
@@ -156,16 +166,6 @@
      "title": "Norsk flyselskab kæmper for overlevelse - aflyser flyvninger",
      "link": "https://www.dr.dk/nyheder/seneste/norsk-flyselskab-kaemper-overlevelse-aflyser-flyvninger",
      "published": "2026-11-26T08:15+00:00"
-    },
-    {
-     "title": "Flere ikke-vestlige indvandrere er i beskæftigelse",
-     "link": "https://www.dr.dk/nyheder/seneste/flere-ikke-vestlige-indvandrere-er-i-beskaeftigelse",
-     "published": "2026-11-26T07:52+00:00"
-    },
-    {
-     "title": "Otte teenagere anholdt for hjemmerøveri med pistol og kniv",
-     "link": "https://www.dr.dk/nyheder/seneste/otte-teenagere-anholdt-hjemmeroeveri-med-pistol-og-kniv",
-     "published": "2026-11-26T07:36+00:00"
     }
    ]
   },
@@ -176,6 +176,36 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/indland",
    "status": "ok",
    "items": [
+    {
+     "title": "Butikker skal undersøge, hvad der får os til at købe mere dansk frugt og grønt",
+     "link": "https://www.dr.dk/nyheder/indland/butikker-skal-undersoege-hvad-der-faar-os-til-koebe-mere-dansk-frugt-og-groent",
+     "published": "2026-11-27T08:39+00:00"
+    },
+    {
+     "title": "Årets Black Friday er i gang",
+     "link": "https://www.dr.dk/nyheder/indland/aarets-black-friday-er-i-gang",
+     "published": "2026-11-27T08:21+00:00"
+    },
+    {
+     "title": "STIL SPØRGSMÅL om Black Friday: Hvad skal du være opmærksom på, når du går på tilbudsjagt?",
+     "link": "https://www.dr.dk/nyheder/penge/stil-spoergsmaal-om-black-friday-hvad-skal-du-vaere-opmaerksom-paa-naar-du-gaar-paa-tilbudsjagt",
+     "published": "2026-11-27T07:00+00:00"
+    },
+    {
+     "title": "Sådan sørger du for at dit elektronik bliver genbrugt",
+     "link": "https://www.dr.dk/nyheder/indland/reels/saadan-soerger-du-dit-elektronik-bliver-genbrugt",
+     "published": "2026-11-27T06:50+00:00"
+    },
+    {
+     "title": "DF: Borgmester har været 'naiv' angående kønsopdelte bassiner",
+     "link": "https://www.dr.dk/nyheder/indland/df-borgmester-har-vaeret-naiv-angaaende-koensopdelte-bassiner",
+     "published": "2026-11-27T06:32+00:00"
+    },
+    {
+     "title": "'Voldsom sag' for retten i dag: Far anklaget for sende datter væk i fire år og mishandle hende",
+     "link": "https://www.dr.dk/nyheder/indland/voldsom-sag-retten-i-dag-far-anklaget-sende-datter-vaek-i-fire-aar-og-mishandle-hende",
+     "published": "2026-11-27T05:58+00:00"
+    },
     {
      "title": "KORRESPONDENT Black Friday er butikkernes hadegave til dig",
      "link": "https://www.dr.dk/nyheder/penge/korrespondent-black-friday-er-butikkernes-hadegave-til-dig",
@@ -220,36 +250,6 @@
      "title": "Diana kalder sig 'Sparemor': Her er hendes fem bedste sparetips til Black Friday",
      "link": "https://www.dr.dk/nyheder/indland/diana-kalder-sig-sparemor-her-er-hendes-fem-bedste-sparetips-til-black-friday",
      "published": "2026-11-26T19:21+00:00"
-    },
-    {
-     "title": "Fem rumænere varetægtsfængslet efter vintyverier for millioner mod Michelin-restauranter",
-     "link": "https://www.dr.dk/nyheder/indland/fem-rumaenere-varetaegtsfaengslet-efter-vintyverier-millioner-mod-michelin-restauranter",
-     "published": "2026-11-26T18:59+00:00"
-    },
-    {
-     "title": "Ammende mand brækker anklen inden fernisering",
-     "link": "https://www.dr.dk/nyheder/indland/ammende-mand-braekker-anklen-inden-fernisering",
-     "published": "2026-11-26T18:42+00:00"
-    },
-    {
-     "title": "Efter brøler med kunstig intelligens: Nu forbyder kommune AI i socialsager",
-     "link": "https://www.dr.dk/nyheder/indland/efter-broeler-med-kunstig-intelligens-nu-forbyder-kommune-ai-i-socialsager",
-     "published": "2026-11-26T18:15+00:00"
-    },
-    {
-     "title": "Tre er fængslet i forbindelse med Pokémon-røveri i storcenter",
-     "link": "https://www.dr.dk/nyheder/indland/tre-er-faengslet-i-forbindelse-med-pokemon-roeveri-i-storcenter",
-     "published": "2026-11-26T18:03+00:00"
-    },
-    {
-     "title": "Myndigheder stoppede salget - nu vender airbag-cykelhjelm tilbage",
-     "link": "https://www.dr.dk/nyheder/indland/myndigheder-stoppede-salget-nu-vender-airbag-cykelhjelm-tilbage",
-     "published": "2026-11-26T16:58+00:00"
-    },
-    {
-     "title": "Snarrådig borger fælder 17-årig bedrager og sender ham i fængsel",
-     "link": "https://www.dr.dk/nyheder/indland/snarraadig-borger-faelder-17-aarig-bedrager-og-sender-ham-i-faengsel",
-     "published": "2026-11-26T16:55+00:00"
     }
    ]
   },
@@ -260,6 +260,26 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/udland",
    "status": "ok",
    "items": [
+    {
+     "title": "Korrespondent om forhandlingskollaps i EU: 'Alle lande er pressede'",
+     "link": "https://www.dr.dk/nyheder/udland/eu/korrespondent-om-forhandlingskollaps-i-eu-alle-lande-er-pressede",
+     "published": "2026-11-27T07:58+00:00"
+    },
+    {
+     "title": "Kvinder i Iran dømmes til døden i usædvanligt omfang: Forsker har ikke set lignende siden 1980'erne",
+     "link": "https://www.dr.dk/nyheder/udland/kvinder-i-iran-doemmes-til-doeden-i-usaedvanligt-omfang-forsker-har-ikke-set-lignende-siden-1980",
+     "published": "2026-11-27T07:49+00:00"
+    },
+    {
+     "title": "Forhøjet trusselsbillede: Forsvarsminister sender brev til 100.000 britiske veteraner",
+     "link": "https://www.dr.dk/nyheder/udland/forhoejet-trusselsbillede-forsvarsminister-sender-brev-til-100-000-britiske-veteraner",
+     "published": "2026-11-27T07:37+00:00"
+    },
+    {
+     "title": "Stort strømnedbrud på USA's østkyst efter storm",
+     "link": "https://www.dr.dk/nyheder/udland/stort-stroemnedbrud-paa-usa-s-oestkyst-efter-storm",
+     "published": "2026-11-27T06:06+00:00"
+    },
     {
      "title": "Trump: Aftalen om Grønland fik mig til at se 'lidt anderledes på tingene'",
      "link": "https://www.dr.dk/nyheder/udland/trump-aftalen-om-groenland-fik-mig-til-se-lidt-anderledes-paa-tingene",
@@ -314,26 +334,6 @@
      "title": "Netanyahu øjner afslutning på årelang retssag: ‘I dag brød sagen sammen’",
      "link": "https://www.dr.dk/nyheder/udland/netanyahu-oejner-afslutning-paa-aarelang-retssag-i-dag-broed-sagen-sammen",
      "published": "2026-11-26T12:30+00:00"
-    },
-    {
-     "title": "Island i sorg efter dødeligt skibsforlis",
-     "link": "https://www.dr.dk/nyheder/udland/island-i-sorg-efter-doedeligt-skibsforlis",
-     "published": "2026-11-26T12:25+00:00"
-    },
-    {
-     "title": "Første gang dansk dronning gør det - Mary besøger Colombia",
-     "link": "https://www.dr.dk/nyheder/udland/reels/foerste-gang-dansk-dronning-goer-det-mary-besoeger-colombia",
-     "published": "2026-11-26T11:47+00:00"
-    },
-    {
-     "title": "Fjernstyret bil viser afgørende stridspunkt i EU’s budget",
-     "link": "https://www.dr.dk/nyheder/udland/reels/fjernstyret-bil-viser-afgoerende-stridspunkt-i-eu-s-budget",
-     "published": "2026-11-26T09:30+00:00"
-    },
-    {
-     "title": "Duran Duran-stjerne er død",
-     "link": "https://www.dr.dk/nyheder/udland/duran-duran-stjerne-er-doed",
-     "published": "2026-11-26T07:57+00:00"
     }
    ]
   },
@@ -429,6 +429,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "STIL SPØRGSMÅL om Black Friday: Hvad skal du være opmærksom på, når du går på tilbudsjagt?",
+     "link": "https://www.dr.dk/nyheder/penge/stil-spoergsmaal-om-black-friday-hvad-skal-du-vaere-opmaerksom-paa-naar-du-gaar-paa-tilbudsjagt",
+     "published": "2026-11-27T07:00+00:00"
+    },
+    {
      "title": "KORRESPONDENT Black Friday er butikkernes hadegave til dig",
      "link": "https://www.dr.dk/nyheder/penge/korrespondent-black-friday-er-butikkernes-hadegave-til-dig",
      "published": "2026-11-27T05:40+00:00"
@@ -497,11 +502,6 @@
      "title": "Tusindvis af boligejere ramt af fejl i boligskatten: 'Det er uheldigt'",
      "link": "https://www.dr.dk/nyheder/penge/tusindvis-af-boligejere-ramt-af-fejl-i-boligskatten-det-er-uheldigt",
      "published": "2026-11-24T14:02+00:00"
-    },
-    {
-     "title": "ANALYSE Hvordan kan en enkelt mands comeback dog være 1000 milliarder dollar værd?",
-     "link": "https://www.dr.dk/nyheder/penge/analyse-hvordan-kan-en-enkelt-mands-comeback-dog-vaere-1000-milliarder-dollar-vaerd",
-     "published": "2026-11-24T12:22+00:00"
     }
    ]
   },
@@ -513,54 +513,54 @@
    "status": "ok",
    "items": [
     {
-     "title": "Risiko for glatte veje",
-     "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/pas-paa-risiko-for-glatte-veje/11367049",
-     "published": "2026-11-27T05:46+00:00"
+     "title": "Spotify afviser \nat følge trop",
+     "link": "https://ekstrabladet.dk/musik/intlmusiknyt/musiktjeneste-bandlyste-ai-musik-spotify-afviser-at-foelge-trop/11367207",
+     "published": "2026-11-27T08:48+00:00"
     },
     {
-     "title": "Rystet: Jeg skal passe på",
-     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/fc_koebenhavn/rystet-svensson-jeg-skal-passe-paa/11367018",
-     "published": "2026-11-27T05:42+00:00"
+     "title": "Mette Frederiksen vil have nyt udspil",
+     "link": "https://ekstrabladet.dk/nyheder/politik/mette-frederiksen-vil-have-nyt-udspil/11367239",
+     "published": "2026-11-27T08:39+00:00"
     },
     {
-     "title": "'Pludselig eksploderer det hele'",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/nelsson-om-vild-kamp-pludselig-eksploderer-det-hele/11367032",
-     "published": "2026-11-27T05:29+00:00"
+     "title": "Frygter sexfælde \nhos forsvarsgigant:\n- Alarmklokkerne bør ringe",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/frygter-sexfaelde-hos-forsvarsgigant-alarmklokkerne-boer-ringe/11367191",
+     "published": "2026-11-27T08:37+00:00"
     },
     {
-     "title": "Dansk festival scorer verdensnavn",
-     "link": "https://ekstrabladet.dk/musik/dkmusiknyt/jysk-festival-faar-besoeg-af-verdensstjerne/11366186",
-     "published": "2026-11-27T05:29+00:00"
+     "title": "Trods enorm fadæse: \nDanmark går forbi Norge",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/trods-fck-nedtur-danmark-hopper-forbi-norge/11367195",
+     "published": "2026-11-27T08:12+00:00"
     },
     {
-     "title": "Massiv stigning:\nKunderne \nstrømmer til",
-     "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/massiv-efterspoergsel-billetterne-rives-vaek/11365898",
-     "published": "2026-11-27T05:28+00:00"
+     "title": "Norsk flyselskab i krise: Selskab opsiger alle deres fly",
+     "link": "https://ekstrabladet.dk/penge/norsk-flyselskab-i-krise-selskab-opsiger-alle-deres-fly/11367196",
+     "published": "2026-11-27T08:01+00:00"
     },
     {
-     "title": "Kvinde død \ni brand",
-     "link": "https://ekstrabladet.dk/krimi/kvinde-doed-i-brand/11367037",
-     "published": "2026-11-27T05:20+00:00"
+     "title": "Kolliderede med rådyr: \nBagedyst-vinder i voldsomt biluheld",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/kolliderede-med-raadyr-bagedyst-vinder-i-voldsomt-biluheld/11367092",
+     "published": "2026-11-27T08:00+00:00"
     },
     {
-     "title": "Trump: \nIKKE \nen sikkerhedstrussel",
-     "link": "https://ekstrabladet.dk/nyheder/politik/trump-nvidias-topchef-udgoer-ikke-en-sikkerhedstrussel/11367008",
-     "published": "2026-11-27T05:18+00:00"
+     "title": "Europa måber: Dansk nedsmeltning",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/fck-fadaese-gaar-europa-rundt-dansk-nedsmeltning/11367169",
+     "published": "2026-11-27T07:35+00:00"
     },
     {
-     "title": "Solgt for 21 millioner",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/fransk-dronnings-brystkop-faar-ny-ejer-for-21-millioner/11367019",
-     "published": "2026-11-27T04:05+00:00"
+     "title": "Uheld: Motorvej helt spærret",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/uheld-motorvej-helt-spaerret/11367185",
+     "published": "2026-11-27T07:29+00:00"
     },
     {
-     "title": "Én aldersgruppe har problemer",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/borgere-over-50-aar-staar-for-halvdelen-af-gaelden-til-det-offentlige/11367025",
-     "published": "2026-11-27T04:05+00:00"
+     "title": "Ikast forlænger med dansk EM-stregspiller",
+     "link": "https://ekstrabladet.dk/sport/haandbold/ikast-forlaenger-med-dansk-em-stregspiller/11367132",
+     "published": "2026-11-27T07:22+00:00"
     },
     {
-     "title": "Jesper Asholt forsvarer udskældt trend: Jeg står ved det",
-     "link": "https://ekstrabladet.dk/underholdning/dkkendte/jesper-asholt-forsvarer-udskaeldt-trend-jeg-staar-ved-det/11366094",
-     "published": "2026-11-27T03:52+00:00"
+     "title": "Fire 18-årige blev fængslet for hjemmerøveri mod tre kvinder",
+     "link": "https://ekstrabladet.dk/krimi/fire-18-aarige-blev-faengslet-for-hjemmeroeveri-mod-tre-kvinder/11367151",
+     "published": "2026-11-27T07:17+00:00"
     }
    ]
   },
@@ -572,6 +572,31 @@
    "status": "ok",
    "items": [
     {
+     "title": "Mette Frederiksen vil have nyt udspil",
+     "link": "https://ekstrabladet.dk/nyheder/politik/mette-frederiksen-vil-have-nyt-udspil/11367239",
+     "published": "2026-11-27T08:39+00:00"
+    },
+    {
+     "title": "Frygter sexfælde \nhos forsvarsgigant:\n- Alarmklokkerne bør ringe",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/frygter-sexfaelde-hos-forsvarsgigant-alarmklokkerne-boer-ringe/11367191",
+     "published": "2026-11-27T08:37+00:00"
+    },
+    {
+     "title": "Uheld: Motorvej helt spærret",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/uheld-motorvej-helt-spaerret/11367185",
+     "published": "2026-11-27T07:29+00:00"
+    },
+    {
+     "title": "Danskerne vælger Mona Juul",
+     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/stor-overraskelse-danskerne-vaelger-mona-juul/11367135",
+     "published": "2026-11-27T07:02+00:00"
+    },
+    {
+     "title": "Erklærer undtagelsestilstand: 900.000 uden strøm",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/storme-udloeser-undtagelsestilstand-i-usa/11367065",
+     "published": "2026-11-27T06:07+00:00"
+    },
+    {
      "title": "Risiko for glatte veje",
      "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/pas-paa-risiko-for-glatte-veje/11367049",
      "published": "2026-11-27T05:46+00:00"
@@ -595,31 +620,6 @@
      "title": "Én aldersgruppe har problemer",
      "link": "https://ekstrabladet.dk/nyheder/samfund/borgere-over-50-aar-staar-for-halvdelen-af-gaelden-til-det-offentlige/11367025",
      "published": "2026-11-27T04:05+00:00"
-    },
-    {
-     "title": "Zelenskyj vil have USA til at øge presset på Putin",
-     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/zelenskyj-vil-have-usa-til-at-oege-presset-paa-putin/11367005",
-     "published": "2026-11-27T01:17+00:00"
-    },
-    {
-     "title": "Slut med pengeregn",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/argentina-forbyder-centralbanken-at-trykke-penge-til-staten/11367000",
-     "published": "2026-11-27T00:22+00:00"
-    },
-    {
-     "title": "Ukraine afviser: Vil ikke udvide krigen til andre lande",
-     "link": "https://ekstrabladet.dk/nyheder/ukraine-afviser-vil-ikke-udvide-krigen-til-andre-lande/11366983",
-     "published": "2026-11-26T22:52+00:00"
-    },
-    {
-     "title": "Mystisk fund på havets bund: Ligner noget fra en gyserfilm",
-     "link": "https://ekstrabladet.dk/nyheder/videnskab/maerkvaerdigt-fund-paa-havets-bund-troede-det-var-et-skibsvrag/11366355",
-     "published": "2026-11-26T22:32+00:00"
-    },
-    {
-     "title": "31 døde i flammehav: Nu er bilist anholdt",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/31-doede-i-flammehav-nu-er-bilist-anholdt/11366935",
-     "published": "2026-11-26T22:02+00:00"
     }
    ]
   },
@@ -631,54 +631,54 @@
    "status": "ok",
    "items": [
     {
-     "title": "Årets sidste efterårsweekend bliver en skyet omgang",
-     "link": "https://www.bt.dk/samfund/aarets-sidste-efteraarsweekend-bliver-en-skyet-omgang?referrer=RSS",
-     "published": "2026-11-27T05:46+00:00"
+     "title": "Mette F. ønsker nyt udspil til EU-budget efter resultatløst topmøde",
+     "link": "https://www.bt.dk/udland/mette-f-oensker-nyt-udspil-til-eu-budget-efter-resultatloest-topmoede?referrer=RSS",
+     "published": "2026-11-27T08:47+00:00"
     },
     {
-     "title": "Erklærer undtagelsestilstand: 900.000 uden strøm",
-     "link": "https://www.bt.dk/udland/erklaerer-undtagelsestilstand-900000-uden-stroem?referrer=RSS",
-     "published": "2026-11-27T05:40+00:00"
+     "title": "Far afviser vold og trusler mod datter under genopdragelsesrejse",
+     "link": "https://www.bt.dk/krimi/far-afviser-vold-og-trusler-mod-datter-under-genopdragelsesrejse?referrer=RSS",
+     "published": "2026-11-27T08:47+00:00"
     },
     {
-     "title": "Sydkorea sender seks nordkoreanske fiskere retur til nabolandet",
-     "link": "https://www.bt.dk/udland/sydkorea-sender-seks-nordkoreanske-fiskere-retur-til-nabolandet?referrer=RSS",
-     "published": "2026-11-27T05:29+00:00"
+     "title": "Lærervikar omkommet: Fik det pludselig dårligt for øjnene af elever",
+     "link": "https://www.bt.dk/udland/laerervikar-omkommet-fik-det-pludselig-daarligt-for-oejnene-af-elever?referrer=RSS",
+     "published": "2026-11-27T08:42+00:00"
     },
     {
-     "title": "'Dybt rystet': Fire brosten er blevet kastet ind gennem biler med sovende rumænere",
-     "link": "https://www.bt.dk/krimi/dybt-rystet-fire-brosten-er-blevet-kastet-ind-gennem-biler-med-sovende-rumaenere?referrer=RSS",
-     "published": "2026-11-27T05:17+00:00"
+     "title": "Flere långivere søger i RKI-registret i ugerne op til black friday",
+     "link": "https://www.bt.dk/erhverv/flere-laangivere-soeger-i-rki-registret-i-ugerne-op-til-black-friday?referrer=RSS",
+     "published": "2026-11-27T08:37+00:00"
     },
     {
-     "title": "Kvinde død i brand",
-     "link": "https://www.bt.dk/krimi/kvinde-doed-i-brand-5?referrer=RSS",
-     "published": "2026-11-27T05:13+00:00"
+     "title": "Rækker ud til Putin: Trump med ny chokmelding",
+     "link": "https://www.bt.dk/udland/raekker-ud-til-putin-trump-med-ny-chokmelding?referrer=RSS",
+     "published": "2026-11-27T08:21+00:00"
     },
     {
-     "title": "Nyt forslag kan koste diabetespatienter deres tilskud til Ozempic",
-     "link": "https://www.bt.dk/samfund/nyt-forslag-kan-koste-diabetespatienter-deres-tilskud-til-ozempic?referrer=RSS",
-     "published": "2026-11-27T04:30+00:00"
+     "title": "Tidligere TV 2-chef bliver ny programdirektør efter programkritik",
+     "link": "https://www.bt.dk/samfund/tidligere-tv-2-chef-bliver-ny-programdirektoer-efter-programkritik?referrer=RSS",
+     "published": "2026-11-27T08:19+00:00"
     },
     {
-     "title": "Hver tredje patient med nyt knæ sendes nu hjem samme dag",
-     "link": "https://www.bt.dk/samfund/hver-tredje-patient-med-nyt-knae-sendes-nu-hjem-samme-dag?referrer=RSS",
-     "published": "2026-11-27T04:30+00:00"
+     "title": "68-årig kvinde omkommer i brand på Fyn",
+     "link": "https://www.bt.dk/krimi/68-aarig-kvinde-omkommer-i-brand-paa-fyn?referrer=RSS",
+     "published": "2026-11-27T08:19+00:00"
     },
     {
-     "title": "Borgere over 50 år står for halvdelen af gælden til det offentlige",
-     "link": "https://www.bt.dk/samfund/borgere-over-50-aar-staar-for-halvdelen-af-gaelden-til-det-offentlige?referrer=RSS",
-     "published": "2026-11-27T04:03+00:00"
+     "title": "50 butikker skal få flere til at vælge dansk frugt og grønt",
+     "link": "https://www.bt.dk/samfund/50-butikker-skal-faa-flere-til-at-vaelge-dansk-frugt-og-groent?referrer=RSS",
+     "published": "2026-11-27T08:16+00:00"
     },
     {
-     "title": "Fransk dronnings brystkop får ny ejer for 21 millioner",
-     "link": "https://www.bt.dk/udland/fransk-dronnings-brystkop-faar-ny-ejer-for-21-millioner?referrer=RSS",
-     "published": "2026-11-27T03:39+00:00"
+     "title": "Norsk lavprisselskab i overlevelseskamp får opsagt flyaftaler",
+     "link": "https://www.bt.dk/udland/norsk-lavprisselskab-i-overlevelseskamp-faar-opsagt-flyaftaler?referrer=RSS",
+     "published": "2026-11-27T08:16+00:00"
     },
     {
-     "title": "New Zealands regering misser flertal med ét mandat efter valg",
-     "link": "https://www.bt.dk/udland/new-zealands-regering-misser-flertal-med-et-mandat-efter-valg?referrer=RSS",
-     "published": "2026-11-27T01:42+00:00"
+     "title": "Medie: Flere medlemmer af Centerpartiet støtter ikke Ulf Kristersson",
+     "link": "https://www.bt.dk/udland/medie-flere-medlemmer-af-centerpartiet-stoetter-ikke-ulf-kristersson?referrer=RSS",
+     "published": "2026-11-27T08:16+00:00"
     }
    ]
   },
@@ -690,54 +690,54 @@
    "status": "ok",
    "items": [
     {
-     "title": "Årets sidste efterårsweekend bliver en skyet omgang",
-     "link": "https://www.bt.dk/samfund/aarets-sidste-efteraarsweekend-bliver-en-skyet-omgang?referrer=RSS",
-     "published": "2026-11-27T05:46+00:00"
+     "title": "Mette F. ønsker nyt udspil til EU-budget efter resultatløst topmøde",
+     "link": "https://www.bt.dk/udland/mette-f-oensker-nyt-udspil-til-eu-budget-efter-resultatloest-topmoede?referrer=RSS",
+     "published": "2026-11-27T08:47+00:00"
     },
     {
-     "title": "Alexander Lind høster stor ros midt i vild målstime",
-     "link": "https://www.bt.dk/fodbold/alexander-lind-hoester-stor-ros-midt-i-vild-maalstime?referrer=RSS",
-     "published": "2026-11-27T05:46+00:00"
+     "title": "Far afviser vold og trusler mod datter under genopdragelsesrejse",
+     "link": "https://www.bt.dk/krimi/far-afviser-vold-og-trusler-mod-datter-under-genopdragelsesrejse?referrer=RSS",
+     "published": "2026-11-27T08:47+00:00"
     },
     {
-     "title": "Erklærer undtagelsestilstand: 900.000 uden strøm",
-     "link": "https://www.bt.dk/udland/erklaerer-undtagelsestilstand-900000-uden-stroem?referrer=RSS",
-     "published": "2026-11-27T05:40+00:00"
+     "title": "Lærervikar omkommet: Fik det pludselig dårligt for øjnene af elever",
+     "link": "https://www.bt.dk/udland/laerervikar-omkommet-fik-det-pludselig-daarligt-for-oejnene-af-elever?referrer=RSS",
+     "published": "2026-11-27T08:42+00:00"
     },
     {
-     "title": "Sydkorea sender seks nordkoreanske fiskere retur til nabolandet",
-     "link": "https://www.bt.dk/udland/sydkorea-sender-seks-nordkoreanske-fiskere-retur-til-nabolandet?referrer=RSS",
-     "published": "2026-11-27T05:29+00:00"
+     "title": "Flere långivere søger i RKI-registret i ugerne op til black friday",
+     "link": "https://www.bt.dk/erhverv/flere-laangivere-soeger-i-rki-registret-i-ugerne-op-til-black-friday?referrer=RSS",
+     "published": "2026-11-27T08:37+00:00"
     },
     {
-     "title": "Grev Felix afslører: Dronning Margrethe har det godt!",
-     "link": "https://www.bt.dk/danske-kendte/grev-felix-afsloerer-dronning-margrethe-har-det-godt?referrer=RSS",
-     "published": "2026-11-27T05:29+00:00"
+     "title": "Rækker ud til Putin: Trump med ny chokmelding",
+     "link": "https://www.bt.dk/udland/raekker-ud-til-putin-trump-med-ny-chokmelding?referrer=RSS",
+     "published": "2026-11-27T08:21+00:00"
     },
     {
-     "title": "Høje elpriser næsten hele dagen: I et lille tidsrum er der penge at spare",
-     "link": "https://www.bt.dk/privatoekonomi/hoeje-elpriser-naesten-hele-dagen-i-et-lille-tidsrum-er-der-penge-at-spare?referrer=RSS",
-     "published": "2026-11-27T05:26+00:00"
+     "title": "Tidligere TV 2-chef bliver ny programdirektør efter programkritik",
+     "link": "https://www.bt.dk/samfund/tidligere-tv-2-chef-bliver-ny-programdirektoer-efter-programkritik?referrer=RSS",
+     "published": "2026-11-27T08:19+00:00"
     },
     {
-     "title": "'Dybt rystet': Fire brosten er blevet kastet ind gennem biler med sovende rumænere",
-     "link": "https://www.bt.dk/krimi/dybt-rystet-fire-brosten-er-blevet-kastet-ind-gennem-biler-med-sovende-rumaenere?referrer=RSS",
-     "published": "2026-11-27T05:17+00:00"
+     "title": "68-årig kvinde omkommer i brand på Fyn",
+     "link": "https://www.bt.dk/krimi/68-aarig-kvinde-omkommer-i-brand-paa-fyn?referrer=RSS",
+     "published": "2026-11-27T08:19+00:00"
     },
     {
-     "title": "Kvinde død i brand",
-     "link": "https://www.bt.dk/krimi/kvinde-doed-i-brand-5?referrer=RSS",
-     "published": "2026-11-27T05:13+00:00"
+     "title": "50 butikker skal få flere til at vælge dansk frugt og grønt",
+     "link": "https://www.bt.dk/samfund/50-butikker-skal-faa-flere-til-at-vaelge-dansk-frugt-og-groent?referrer=RSS",
+     "published": "2026-11-27T08:16+00:00"
     },
     {
-     "title": "Nyt forslag kan koste diabetespatienter deres tilskud til Ozempic",
-     "link": "https://www.bt.dk/samfund/nyt-forslag-kan-koste-diabetespatienter-deres-tilskud-til-ozempic?referrer=RSS",
-     "published": "2026-11-27T04:30+00:00"
+     "title": "Norsk lavprisselskab i overlevelseskamp får opsagt flyaftaler",
+     "link": "https://www.bt.dk/udland/norsk-lavprisselskab-i-overlevelseskamp-faar-opsagt-flyaftaler?referrer=RSS",
+     "published": "2026-11-27T08:16+00:00"
     },
     {
-     "title": "Hver tredje patient med nyt knæ sendes nu hjem samme dag",
-     "link": "https://www.bt.dk/samfund/hver-tredje-patient-med-nyt-knae-sendes-nu-hjem-samme-dag?referrer=RSS",
-     "published": "2026-11-27T04:30+00:00"
+     "title": "Medie: Flere medlemmer af Centerpartiet støtter ikke Ulf Kristersson",
+     "link": "https://www.bt.dk/udland/medie-flere-medlemmer-af-centerpartiet-stoetter-ikke-ulf-kristersson?referrer=RSS",
+     "published": "2026-11-27T08:16+00:00"
     }
    ]
   },
@@ -951,6 +951,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Trænet på data fra Danmark: Ny AI forudser tidlig død ud fra ét enkelt billede",
+     "link": "https://www.version2.dk/artikel/traenet-paa-data-fra-danmark-ny-ai-forudser-tidlig-doed-ud-fra-et-enkelt-billede",
+     "published": "2026-11-27T07:29+00:00"
+    },
+    {
      "title": "Leder: Europa halter bagefter i kapløbet om fremtidens AI-robotter – nu skal vi selv på banen",
      "link": "https://www.version2.dk/holdning/europa-halter-bagefter-i-kaploebet-om-fremtidens-ai-robotter-nu-skal-vi-selv-paa-banen",
      "published": "2026-11-27T04:00+00:00"
@@ -961,8 +966,8 @@
      "published": "2026-11-27T04:00+00:00"
     },
     {
-     "title": "It-kæmpe fyrer chef efter Ingeniøren-afsløring: »Det blev en kort fornøjelse«",
-     "link": "https://www.version2.dk/artikel/it-kaempe-fyrer-chef-efter-ingenioeren-afsloering-det-blev-en-kort-fornoejelse",
+     "title": "It-mastodont fyrer chef efter Ingeniøren-afsløring: »Det blev en kort fornøjelse«",
+     "link": "https://www.version2.dk/artikel/it-mastodont-fyrer-chef-efter-ingenioeren-afsloering-det-blev-en-kort-fornoejelse",
      "published": "2026-11-26T13:17+00:00"
     },
     {
@@ -1019,11 +1024,6 @@
      "title": "Techgigant topper listen: Sådan er den blevet Danmarks mest attraktive it-arbejdsplads",
      "link": "https://www.version2.dk/artikel/techgigant-topper-listen-saadan-er-den-blevet-danmarks-mest-attraktive-it-arbejdsplads",
      "published": "2026-11-23T11:00+00:00"
-    },
-    {
-     "title": "Elefanten i Jensen Huangs soveværelse",
-     "link": "https://www.version2.dk/artikel/elefanten-i-jensen-huangs-sovevaerelse",
-     "published": "2026-11-23T10:00+00:00"
     }
    ]
   },
@@ -1034,6 +1034,21 @@
    "url": "https://ing.dk/rss/nyheder",
    "status": "ok",
    "items": [
+    {
+     "title": "Blogindlæg: Var det mig, der løste opgaven?",
+     "link": "https://ing.dk/holdning/var-det-mig-der-loeste-opgaven",
+     "published": "2026-11-27T08:13+00:00"
+    },
+    {
+     "title": "Trænet på data fra Danmark: Ny AI forudser tidlig død ud fra ét enkelt billede",
+     "link": "https://ing.dk/artikel/traenet-paa-data-fra-danmark-ny-ai-forudser-tidlig-doed-ud-fra-et-enkelt-billede",
+     "published": "2026-11-27T07:29+00:00"
+    },
+    {
+     "title": "Togbro på 2.700 tons sat op på under 24 timer: Sådan løste ingeniører kæmpeopgave i Hamborg",
+     "link": "https://ing.dk/artikel/togbro-paa-2700-tons-sat-op-paa-under-24-timer-saadan-loeste-ingenioerer-kaempeopgave-i-hamborg",
+     "published": "2026-11-27T07:04+00:00"
+    },
     {
      "title": "Milliardregning til skatteborgerne: Professorer beder politikere vrage fordyret motorvej",
      "link": "https://ing.dk/artikel/milliardregning-til-skatteborgerne-professorer-beder-politikere-vrage-fordyret-motorvej",
@@ -1050,8 +1065,8 @@
      "published": "2026-11-26T14:14+00:00"
     },
     {
-     "title": "It-kæmpe fyrer chef efter Ingeniøren-afsløring: »Det blev en kort fornøjelse«",
-     "link": "https://ing.dk/artikel/it-kaempe-fyrer-chef-efter-ingenioeren-afsloering-det-blev-en-kort-fornoejelse",
+     "title": "It-mastodont fyrer chef efter Ingeniøren-afsløring: »Det blev en kort fornøjelse«",
+     "link": "https://ing.dk/artikel/it-mastodont-fyrer-chef-efter-ingenioeren-afsloering-det-blev-en-kort-fornoejelse",
      "published": "2026-11-26T13:17+00:00"
     },
     {
@@ -1093,21 +1108,6 @@
      "title": "Jensen Huangs vanvittige comeback beviser, at AI lige nu er utæmmelig",
      "link": "https://ing.dk/artikel/jensen-huangs-vanvittige-comeback-beviser-ai-lige-nu-er-utaemmelig",
      "published": "2026-11-26T09:00+00:00"
-    },
-    {
-     "title": "Rost Alzheimer-medicin får nej fra Medicinrådet: »Vi er skuffede«",
-     "link": "https://ing.dk/artikel/rost-alzheimer-medicin-faar-nej-fra-medicinraadet-vi-er-skuffede",
-     "published": "2026-11-26T06:38+00:00"
-    },
-    {
-     "title": "Nationalbanken: Tabene ved en kraftig stormflod bliver mangedoblet – vi skal forebygge langt bedre",
-     "link": "https://ing.dk/artikel/nationalbanken-tabene-ved-en-kraftig-stormflod-bliver-mangedoblet-vi-skal-forebygge-langt-bedre",
-     "published": "2026-11-26T05:03+00:00"
-    },
-    {
-     "title": "Hospital delte Anne-Maries dybt private data med Microsoft uden samtykke: »Det gør mig rigtig vred«",
-     "link": "https://ing.dk/artikel/hospital-delte-anne-maries-dybt-private-data-med-microsoft-uden-samtykke-det-goer-mig-rigtig-vred",
-     "published": "2026-11-26T04:00+00:00"
     }
    ]
   },
@@ -1118,6 +1118,11 @@
    "url": "https://feeds.arstechnica.com/arstechnica/index",
    "status": "ok",
    "items": [
+    {
+     "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+     "link": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+     "published": "2026-11-27T08:00+00:00"
+    },
     {
      "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
      "link": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
@@ -1187,11 +1192,6 @@
      "title": "AI may soon change what it means to be a theoretical physicist",
      "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
      "published": "2026-11-25T12:00+00:00"
-    },
-    {
-     "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
-     "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
-     "published": "2026-11-24T22:50+00:00"
     }
    ]
   },
@@ -1346,6 +1346,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Why Your GPT-6.2 Usage Limits Are Running Out Faster",
+     "link": "https://www.theneuron.ai/news/gpt-6-2-usage-limits-billing-fix/",
+     "published": "2026-11-27T05:42+00:00"
+    },
+    {
      "title": "Can China Keep Building Competitive AI Models With Fewer Chips?",
      "link": "https://www.theneuron.ai/news/china-ai-models-fewer-chips/",
      "published": "2026-11-27T04:07+00:00"
@@ -1389,11 +1394,6 @@
      "title": "Epochal Time Portal Tests AI Forecasting on the Past Web",
      "link": "https://www.theneuron.ai/news/epochal-time-portal-ai-forecasting/",
      "published": "2026-11-25T17:19+00:00"
-    },
-    {
-     "title": "😺 DeepMind's new AI exam",
-     "link": "https://www.theneuron.ai/newsletter/deepmind-s-new-ai-exam/",
-     "published": "2026-11-25T09:30+00:00"
     }
    ]
   },
@@ -1454,14 +1454,14 @@
    "status": "ok",
    "items": [
     {
+     "title": "Black Friday: 25 Great Backpacking Gifts for $25 or Less",
+     "link": "https://sectionhiker.com/black-friday-25-great-backpacking-gifts/",
+     "published": "2026-11-27T06:30+00:00"
+    },
+    {
      "title": "Winter Bivy Sack Guide (2026)",
      "link": "https://sectionhiker.com/26winter-bivy-sack-guide/",
      "published": "2026-11-25T06:30+00:00"
-    },
-    {
-     "title": "Review: Cumulus Mountlite Down Jacket",
-     "link": "https://sectionhiker.com/review-cumulus-mountlite-down-jacket/",
-     "published": "2026-11-24T06:30+00:00"
     }
    ]
   },
