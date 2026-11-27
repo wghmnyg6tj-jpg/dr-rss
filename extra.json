@@ -1,0 +1,127 @@
+{
+ "generated": "2026-11-27T18:06+00:00",
+ "metro": {
+  "status": "ok",
+  "url": "https://m.dk/da/drift-og-service/status-og-planlagte-driftsaendringer/",
+  "now": "Normal togdrift",
+  "elevators": [
+   {
+    "station": "Lergravsparken",
+    "text": "Elevator er ude af drift grundet vedligehold."
+   }
+  ]
+ },
+ "dsb": {
+  "status": "ok",
+  "url": "https://www.dsb.dk/trafikinformation/",
+  "items": [
+   {
+    "updated": "Opdateret i dag kl. 14:30",
+    "route": "Odense - Fredericia København H - Fredericia - Aarhus H",
+    "title": "Togbusser for regionaltog og længere rejsetid mellem Odense og Fredericia",
+    "url": "https://www.dsb.dk/trafikinformation/akutte-aendringer/faerre-tog-mellem-kobenhavn-h-og-koge-nord-togbusser-for-regionaltog-mellem-odense-og-fredericia-fra-mandag-den-16-november/?trainType=tog"
+   },
+   {
+    "updated": "Seneste opdatering 26. nov. 19:17",
+    "route": "København H - Fredericia - Aarhus H Helsingør - København H København H - Køge - Næstved",
+    "title": "Længere rejsetid mellem landsdelene og færre tog mellem Helsingør, København H og Køge Nord/Køge",
+    "url": "https://www.dsb.dk/trafikinformation/akutte-aendringer/laengere-rejsetid-mellem-landsdelene-og-faerre-tog-mellem-helsingor-kobenhavn-h-og-koge/?trainType=tog"
+   }
+  ]
+ },
+ "star": {
+  "status": "ok",
+  "url": "https://www.star.dk/om-styrelsen/nyt/nyheder-og-aktuelt-fra-styrelsen-for-arbejdsmarked-og-rekruttering",
+  "items": [
+   {
+    "date": "2026-11-26",
+    "title": "Webinar om den nye hovedlov på beskæftigelsesområdet",
+    "url": "https://star.dk/om-styrelsen/nyt/nyheder-og-aktuelt-fra-styrelsen-for-arbejdsmarked-og-rekruttering/2026/11/invitation-webinar-om-ny-hovedlov-paa-beskaeftigelsesomraadet"
+   },
+   {
+    "date": "2026-11-18",
+    "title": "Stigning i ledigheden på 300 fuldtidspersoner i oktober 2026",
+    "url": "https://star.dk/om-styrelsen/nyt/nyheder-og-aktuelt-fra-styrelsen-for-arbejdsmarked-og-rekruttering/2026/11/stigning-i-ledigheden-paa-300-fuldtidspersoner-i-oktober-2026"
+   },
+   {
+    "date": "2026-11-04",
+    "title": "Ledighedsindikator peger på en mindre stigning i ledigheden i oktober 2026",
+    "url": "https://star.dk/om-styrelsen/nyt/nyheder-og-aktuelt-fra-styrelsen-for-arbejdsmarked-og-rekruttering/2026/11/ledighedsindikator-peger-paa-en-mindre-stigning-i-ledigheden-i-oktober-2026"
+   },
+   {
+    "date": "2026-10-19",
+    "title": "Stigning i ledigheden på 100 fuldtidspersoner i september 2026",
+    "url": "https://star.dk/om-styrelsen/nyt/nyheder-og-aktuelt-fra-styrelsen-for-arbejdsmarked-og-rekruttering/2026/10/stigning-i-ledigheden-paa-100-fuldtidspersoner-i-september-2026"
+   },
+   {
+    "date": "2026-10-09",
+    "title": "Rekrutteringssurvey efterår 2026",
+    "url": "https://star.dk/om-styrelsen/nyt/nyheder-og-aktuelt-fra-styrelsen-for-arbejdsmarked-og-rekruttering/2026/10/rekrutteringssurvey-efteraar-2026"
+   },
+   {
+    "date": "2026-10-08",
+    "title": "Beskæftigelsesreform: Ny hovedlov er fremsat i Folketingets åbningsuge",
+    "url": "https://star.dk/om-styrelsen/nyt/nyheder-og-aktuelt-fra-styrelsen-for-arbejdsmarked-og-rekruttering/2026/10/beskaeftigelsesreform-ny-hovedlov-er-fremsat-i-folketingets-aabningsuge"
+   },
+   {
+    "date": "2026-10-08",
+    "title": "Ankestyrelsen ændrer praksis for dagpenge under onlineuddannelse",
+    "url": "https://star.dk/om-styrelsen/nyt/nyheder-og-aktuelt-fra-styrelsen-for-arbejdsmarked-og-rekruttering/2026/10/ankestyrelsen-aendrer-praksis-om-ret-til-dagpenge-under-onlineuddannelse-udbudt-fra-uddannelsesinstitutioner-i-et-eu-land"
+   },
+   {
+    "date": "2026-10-06",
+    "title": "Webinar om den nye resultatopfølgning",
+    "url": "https://star.dk/om-styrelsen/nyt/nyheder-og-aktuelt-fra-styrelsen-for-arbejdsmarked-og-rekruttering/2026/10/se-eller-gense-webinaret-om-den-nye-resultatopfoelgning"
+   }
+  ]
+ },
+ "akasser": {
+  "status": "ok",
+  "url": "https://www.a-kasser.dk/nyheder",
+  "items": [
+   {
+    "date": "2026-11-10",
+    "title": "EU har vedtaget revision af regler om koordination af social sikring",
+    "summary": "Reglerne om koordinering af social sikring (herunder arbejdsløshedsunderstøttelse), når en person arbejder i et andet EU-land end sit hjemland er blevet opdateret.",
+    "url": "https://www.a-kasser.dk/revision-of-the-eu-social-security-coordination-rules/"
+   },
+   {
+    "date": "2026-10-05",
+    "title": "Svært for højtuddannede nyledige at komme hurtigt i job eller uddannelse",
+    "summary": "Den seneste måling af andel af nyledige der er i job eller uddannelse fra en A-kasse efter 3 og 6 mdr., viser at A-kasserne målrettet højtuddannede (Akademikernes A-kasse, MA A-kasse, CA A-kasse og AJKS) er blandt dem der klarer sig …",
+    "url": "https://www.a-kasser.dk/andel-af-ledige-i-job-eller-uddannelse-fra-a-kasse/"
+   },
+   {
+    "date": "2026-10-02",
+    "title": "Seniorer har lav ledighed men har samtidig svært ved at finde nyt job",
+    "summary": "Analyser fra Dansk Arbejdsgiverforening og VIVE viser at seniorer på 60+ ikke har højere ledighed end andre grupper på arbejdsmarkedet. Derimod har gruppen af 58-65 årige svært ved at få nyt job hvis de først er blevet ledige. .",
+    "url": "https://www.a-kasser.dk/ledighed-blandt-seniorer/"
+   },
+   {
+    "date": "2026-09-18",
+    "title": "Europa-Kommissionen har vedtaget pakken om fair arbejdskraftmobilitet",
+    "summary": "Pakken om fair arbejdskraftmobilitet skal sikre klare sociale rettigheder for alle i hele EU, uanset hvor man vælger at bo og arbejde. .",
+    "url": "https://www.a-kasser.dk/blog/eu-vil-sikre-klare-sociale-rettigheder-for-alle-uanset-hvor-man-vælger-at-bo-og-arbejde/"
+   },
+   {
+    "date": "2026-09-17",
+    "title": "Billigere kontingent og gratis lønsikring i Dansk Metal",
+    "summary": "Fra 1. december 2026 nedsættes kontingent i Dansk Metal fagforening med 100 kr. pr. måned. Endvidere indføres gratis kollektiv lønsikring som en del af medlemskabet fra 1. januar 2027.",
+    "url": "https://www.a-kasser.dk/blog/billigere-kontingent-og-gratis-lønsikring-i-dansk-metal/"
+   },
+   {
+    "date": "2026-09-17",
+    "title": "Stigning i ledigheden på 500 fuldtidspersoner i august 2026",
+    "summary": "Den sæsonkorrigerede ledighed som procent af arbejdsstyrken er fortsat 3,1 pct. i august 2026. Udviklingen dækker over, at antallet af sæsonkorrigerede ledige dagpengemodtagere i A-kasse er steget med 300 fuldtidspersoner fra juli til …",
+    "url": "https://www.a-kasser.dk/nyheder"
+   }
+  ]
+ },
+ "dmi": {
+  "status": "ok",
+  "url": "https://www.dmi.dk/meteorologens-kommentar/vejromslag-paa-vej",
+  "title": "Vejromslag på vej",
+  "time": "2026-11-27T13:18",
+  "lead": "Første julefrokostfredag med lidt sol, en hel del skyer og måske en enkelt byge"
+ }
+}
