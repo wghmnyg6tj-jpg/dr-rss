@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T18:12+00:00",
+ "generated": "2026-11-27T18:22+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -207,6 +207,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Ny pædofilfilm understreger betydningen af særlig rådgivningslinje – nu forlænger Red Barnet den med fire år",
+     "link": "https://www.dr.dk/nyheder/indland/ny-paedofilfilm-understreger-betydningen-af-saerlig-raadgivningslinje-nu-forlaenger-red-barnet-den",
+     "published": "2026-11-27T18:21+00:00",
+     "summary": "Red Barnet har fået 11,2 millioner til at forlænge deres rådgivningslinje TalMedOs med fire år."
+    },
+    {
      "title": "90.000 telefonnumre hos dansk bilkoncern er kompromitteret i stort sikkerhedsbrud",
      "link": "https://www.dr.dk/nyheder/indland/90-000-numre-hos-dansk-bilkoncern-er-kompromitteret-i-stort-sikkerhedsbrud",
      "published": "2026-11-27T17:36+00:00",
@@ -289,12 +295,6 @@
      "link": "https://www.dr.dk/nyheder/penge/stil-spoergsmaal-om-black-friday-hvad-skal-du-vaere-opmaerksom-paa-naar-du-gaar-paa-tilbudsjagt",
      "published": "2026-11-27T07:00+00:00",
      "summary": "I dag ruller den store forbrugerdag ind over butikkerne, og et panel svarer svarer på spørgsmål om, hvordan du forholder dig."
-    },
-    {
-     "title": "Sådan sørger du for at dit elektronik bliver genbrugt",
-     "link": "https://www.dr.dk/nyheder/indland/reels/saadan-soerger-du-dit-elektronik-bliver-genbrugt",
-     "published": "2026-11-27T06:50+00:00",
-     "summary": ""
     }
    ]
   },
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Amerikansk militærfly beskyder fragtskib i Omanbugten",
+     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/amerikansk-militaerfly-beskyder-fragtskib-i-omanbugten/11368051",
+     "published": "2026-11-27T18:16+00:00",
+     "summary": "Trods flere advarsler forsøgte et skib at bryde den amerikanske maritime blokade mod iranske havne"
+    },
+    {
      "title": "Stjernepar går fra hinanden",
      "link": "https://ekstrabladet.dk/underholdning/udlandkendte/stjernepar-gaar-fra-hinanden-afbryder-forlovelsen/11368056",
      "published": "2026-11-27T18:09+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/koerekorts-gak-gak-paa-kaershovedgaard/11365960",
      "published": "2026-11-27T17:20+00:00",
      "summary": "De udvisningsdømte kriminelle udlændinge på Kærshovedgård må ikke føre bil. Men et svar til Folketinget viser, at man ikke kan tage deres fysiske kørekort fra dem"
-    },
-    {
-     "title": "Spejderkorps og bilkoncern er omfattet af større datalæk",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek/11367999",
-     "published": "2026-11-27T17:14+00:00",
-     "summary": "Gymnasieskoler og andre organisationer har været ramt af datalæk, hvor telefonnumre er blevet kompromitteret"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Amerikansk militærfly beskyder fragtskib i Omanbugten",
+     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/amerikansk-militaerfly-beskyder-fragtskib-i-omanbugten/11368051",
+     "published": "2026-11-27T18:16+00:00",
+     "summary": "Trods flere advarsler forsøgte et skib at bryde den amerikanske maritime blokade mod iranske havne"
+    },
     {
      "title": "Frygter angreb \nmed mange \nofre i Europa",
      "link": "https://ekstrabladet.dk/nyheder/Udland/advarer-europa-frygter-angreb-med-mange-ofre/11367903",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/joern-hjorting-er-doed/11367884",
      "published": "2026-11-27T15:12+00:00",
      "summary": "Radioprogrammet \"De ringer, vi spiller\" og vært Jørn Hjorting var ugens højdepunkt for mange radiolyttere"
-    },
-    {
-     "title": "Antallet af danskere med KOL er begyndt at falde",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/antallet-af-danskere-med-kol-er-begyndt-at-falde/11367734",
-     "published": "2026-11-27T14:31+00:00",
-     "summary": "Antallet af personer med KOL er faldet efter flere år, hvor sygdommen blev mere udbredt"
     }
    ]
   },
@@ -740,6 +740,24 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Amerikansk militærfly beskyder fragtskib i Omanbugten",
+     "link": "https://www.bt.dk/udland/amerikansk-militaerfly-beskyder-fragtskib-i-omanbugten?referrer=RSS",
+     "published": "2026-11-27T18:18+00:00",
+     "summary": "Trods flere advarsler forsøgte et skib at bryde den amerikanske maritime blokade mod iranske havne."
+    },
+    {
+     "title": "USA bekræfter: Har angrebet",
+     "link": "https://www.bt.dk/udland/usa-bekraefter-har-angrebet?referrer=RSS",
+     "published": "2026-11-27T18:15+00:00",
+     "summary": "Trods flere advarsler forsøgte et skib at bryde den amerikanske maritime blokade mod iranske havne."
+    },
+    {
+     "title": "Ny atomtrussel fra Kreml: 'Rusland kan gennemføre forebyggende atomangreb'",
+     "link": "https://www.bt.dk/udland/ny-atomtrussel-fra-kreml-rusland-kan-gennemfoere-forebyggende-atomangreb?referrer=RSS",
+     "published": "2026-11-27T18:13+00:00",
+     "summary": "Skræmmekampagne eller reel trussel? Putins allierede udsender ny atomadvarsel."
+    },
     {
      "title": "Mystisk politiaktion: Massivt til stede",
      "link": "https://www.bt.dk/krimi/mystisk-politiaktion-massivt-til-stede?referrer=RSS",
@@ -781,24 +799,6 @@
      "link": "https://www.bt.dk/krimi/butiksejer-glad-efter-ny-udvikling-i-pokemon-roeveri?referrer=RSS",
      "published": "2026-11-27T17:14+00:00",
      "summary": "Fem personer er blevet sigtet for Pokémon-røveriet i Lyngby Storcenter."
-    },
-    {
-     "title": "Advarer: Falske SMS'er i omløb",
-     "link": "https://www.bt.dk/krimi/advarer-falske-smser-i-omloeb?referrer=RSS",
-     "published": "2026-11-27T17:04+00:00",
-     "summary": "Gymnasieskoler og andre organisationer har været ramt af datalæk, hvor telefonnumre er blevet kompromitteret."
-    },
-    {
-     "title": "Datatilsynet kritiserer Familieretshuset efter 47 sikkerhedsbrud",
-     "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-sikkerhedsbrud?referrer=RSS",
-     "published": "2026-11-27T16:52+00:00",
-     "summary": "Familieretshuset har flere gange delt beskyttede oplysninger med dem, som beskyttelsen skulle skærme mod."
-    },
-    {
-     "title": "Trump afslører: Grønland ændrede alt",
-     "link": "https://www.bt.dk/udland/trump-afsloerer-groenland-aendrede-alt?referrer=RSS",
-     "published": "2026-11-27T16:31+00:00",
-     "summary": "Donald Trump er absolut ikke glad for Nato i disse dage."
     }
    ]
   },
@@ -809,6 +809,24 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Amerikansk militærfly beskyder fragtskib i Omanbugten",
+     "link": "https://www.bt.dk/udland/amerikansk-militaerfly-beskyder-fragtskib-i-omanbugten?referrer=RSS",
+     "published": "2026-11-27T18:18+00:00",
+     "summary": "Trods flere advarsler forsøgte et skib at bryde den amerikanske maritime blokade mod iranske havne."
+    },
+    {
+     "title": "USA bekræfter: Har angrebet",
+     "link": "https://www.bt.dk/udland/usa-bekraefter-har-angrebet?referrer=RSS",
+     "published": "2026-11-27T18:15+00:00",
+     "summary": "Trods flere advarsler forsøgte et skib at bryde den amerikanske maritime blokade mod iranske havne."
+    },
+    {
+     "title": "Ny atomtrussel fra Kreml: 'Rusland kan gennemføre forebyggende atomangreb'",
+     "link": "https://www.bt.dk/udland/ny-atomtrussel-fra-kreml-rusland-kan-gennemfoere-forebyggende-atomangreb?referrer=RSS",
+     "published": "2026-11-27T18:13+00:00",
+     "summary": "Skræmmekampagne eller reel trussel? Putins allierede udsender ny atomadvarsel."
+    },
     {
      "title": "Mystisk politiaktion: Massivt til stede",
      "link": "https://www.bt.dk/krimi/mystisk-politiaktion-massivt-til-stede?referrer=RSS",
@@ -850,24 +868,6 @@
      "link": "https://www.bt.dk/krimi/15-aarig-afgaaet-ved-doeden-efter-trafikulykke?referrer=RSS",
      "published": "2026-11-27T17:29+00:00",
      "summary": "En af de personer, der kørte galt i tirsdags er nu afgået ved døden."
-    },
-    {
-     "title": "Styrelse: Flere organisationer kan være ramt af datalæk hos teleudbyder",
-     "link": "https://www.bt.dk/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek-hos-teleudbyder?referrer=RSS",
-     "published": "2026-11-27T17:26+00:00",
-     "summary": "Gymnasieelevers telefonnumre er lækket i sikkerhedsbrud, og også et antal organisationer kan være ramt."
-    },
-    {
-     "title": "Butiksejer glad efter ny udvikling i Pokémon-røveri",
-     "link": "https://www.bt.dk/krimi/butiksejer-glad-efter-ny-udvikling-i-pokemon-roeveri?referrer=RSS",
-     "published": "2026-11-27T17:14+00:00",
-     "summary": "Fem personer er blevet sigtet for Pokémon-røveriet i Lyngby Storcenter."
-    },
-    {
-     "title": "Advarer: Falske SMS'er i omløb",
-     "link": "https://www.bt.dk/krimi/advarer-falske-smser-i-omloeb?referrer=RSS",
-     "published": "2026-11-27T17:04+00:00",
-     "summary": "Gymnasieskoler og andre organisationer har været ramt af datalæk, hvor telefonnumre er blevet kompromitteret."
     }
    ]
   },
