@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T13:27:19Z",
+ "generated": "2026-11-27T13:29:24Z",
  "place": "Mørkhøj",
  "lat": 55.74,
  "lon": 12.5,
@@ -11,7 +11,18 @@
   "scanType": "doppler"
  },
  "odim": {
-  "what": {},
+  "what": {
+   "date": "20261127",
+   "gain": 0.5,
+   "nodata": 255,
+   "object": "COMP",
+   "offset": -32.0,
+   "product": "DBZH",
+   "source": "DMI-RADARGROUP",
+   "time": "131501",
+   "undetect": 0.0,
+   "version": "0.2"
+  },
   "where": {
    "LL_lat": 52.29427206432812,
    "LL_lon": 4.379082700525593,
@@ -49,12 +60,12 @@
  "near": {
   "10": null,
   "25": {
-   "max_dbz": 106.0,
-   "mm_h_estimat": 153764.6,
-   "niveau": "meget kraftig"
+   "max_dbz": 21.0,
+   "mm_h_estimat": 0.7,
+   "niveau": "let til moderat"
   }
  },
- "nodata_share": 0.0,
+ "nodata_share": 0.127,
  "legend": [
   {
    "fra_dbz": 10,

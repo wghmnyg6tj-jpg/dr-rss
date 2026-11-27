@@ -1,6 +1,6 @@
 {
  "version": 2,
- "generated": "2026-11-27T13:27:19Z",
+ "generated": "2026-11-27T13:29:24Z",
  "status": {
   "lightning": "ok",
   "dmi_forecast": "ok",
@@ -20,7 +20,7 @@
     "metno": "ok"
    },
    "dmi_forecast": {
-    "fetched": "2026-11-27T13:27:19Z",
+    "fetched": "2026-11-27T13:29:24Z",
     "run": "2026-11-27T090000Z",
     "point": [
      12.49897620651484,
@@ -459,7 +459,7 @@
     }
    },
    "observations": {
-    "fetched": "2026-11-27T13:27:19Z",
+    "fetched": "2026-11-27T13:29:24Z",
     "stations": {
      "06181": {
       "name": "Jægersborg",
@@ -927,7 +927,7 @@
     "metno": "ok"
    },
    "dmi_forecast": {
-    "fetched": "2026-11-27T13:27:19Z",
+    "fetched": "2026-11-27T13:29:24Z",
     "run": "2026-11-27T090000Z",
     "point": [
      10.200112071418971,
@@ -1366,7 +1366,7 @@
     }
    },
    "observations": {
-    "fetched": "2026-11-27T13:27:19Z",
+    "fetched": "2026-11-27T13:29:24Z",
     "stations": {
      "06074": {
       "name": "Kirstinesminde Flyveplads",
@@ -1890,7 +1890,7 @@
  ],
  "location_errors": [],
  "lightning": {
-  "fetched": "2026-11-27T13:27:19Z",
+  "fetched": "2026-11-27T13:29:24Z",
   "bbox": "11.9,55.39,13.1,56.09",
   "count_last_hour": 0,
   "count_last_day": 0
