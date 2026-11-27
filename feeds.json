@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T21:51+00:00",
+ "generated": "2026-11-27T22:07+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,30 @@
    "status": "ok",
    "items": [
     {
+     "title": "Nedturen fortsætter",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/chelsea-nedtur-fortsaetter-med-nederlag-til-nottingham-forest/11368199",
+     "published": "2026-11-27T22:00+00:00",
+     "summary": "Nottingham Forest udnyttede Chelseas defensive svagheder og sendte London-klubben hjem med et 2-3-nederlag"
+    },
+    {
+     "title": "Hjorting trodsede kultureliten: \n- Det var det,\nfolket ville have",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/hjorting-trodsede-kultureliten-det-var-det-folket-ville-have/11367900",
+     "published": "2026-11-27T22:00+00:00",
+     "summary": "Mens kultureliten kritiserede dansktopmusikken, kæmpede Jørn Hjorting for at give den plads i radioen. Ifølge Ole Tøpholm var radioikonet garant for den musik, som danskerne elskede"
+    },
+    {
+     "title": "Overtaget fejlede: - Pissehamrende ærgerligt",
+     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/broendbys-overtag-fejlede-pissehamrende-aergerligt/11368194",
+     "published": "2026-11-27T21:55+00:00",
+     "summary": "Thomas Nørgaard stod tilbage med en skuffende fornemmelse, efter det kun blev til et enkelt point mod Sønderjyske Fodbold"
+    },
+    {
+     "title": "Fjern TV 2-toppen",
+     "link": "https://ekstrabladet.dk/nyheder/lederen/fjern-tv-2-toppen/11368054",
+     "published": "2026-11-27T21:55+00:00",
+     "summary": ""
+    },
+    {
      "title": "Velkommen-skandalen vokser:\nSkylder danskere \nnæsten 300 millioner",
      "link": "https://ekstrabladet.dk/nyheder/samfund/velkommen-skandalen-vokser-skyldte-42.825-kunder-naesten-300-millioner/11368171",
      "published": "2026-11-27T21:44+00:00",
@@ -637,30 +661,6 @@
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/helt-konkrete-udlandsdroemme-nu-loefter-de-sloeret-for-planerne/11367462",
      "published": "2026-11-27T21:12+00:00",
      "summary": "Janni Ree og Jeppe Stokholm vil have et timeout-paradis sydpå på Algarvekysten, men mens Janni Ree siger, at Jeppe generelt gerne betaler det meste, betoner han grinende, at de trods alt har fællesøkonomi"
-    },
-    {
-     "title": "Mareridtsagtige spaghetti-orme fundet på havets bund",
-     "link": "https://ekstrabladet.dk/nyheder/videnskab/netop-opdaget-i-dybhavet-ny-familie-af-spaghetti-orme/11367850",
-     "published": "2026-11-27T21:06+00:00",
-     "summary": "Ny slægt af mareridtsagtige spaghetti-orme fundet på havets bund"
-    },
-    {
-     "title": "Kæmpe overraskelse: Første gang i år",
-     "link": "https://ekstrabladet.dk/sport/anden_sport/ishockey/foerste-gang-i-aar-herning-blue-fox-taber-i-ordinaer-tid/11368172",
-     "published": "2026-11-27T21:06+00:00",
-     "summary": "Herning Blue Fox måtte fredag aften gå fra isen med det første liganederlag i sæsonen i ordinær spilletid"
-    },
-    {
-     "title": "Flækkede knæet i Danmark: Misser sæsonen",
-     "link": "https://ekstrabladet.dk/sport/cykling/flaekkede-knaeskallen-i-danmark-stjerne-misser-hele-saesonen/11367881",
-     "published": "2026-11-27T21:01+00:00",
-     "summary": "Toon Aerts kan nu se frem mod landevejssæsonen 2027"
-    },
-    {
-     "title": "Medie: Nordkorea \npauser våbenhjælp \ntil Rusland",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/medie-nordkorea-pauser-vaabenhjaelp-til-rusland/11367143",
-     "published": "2026-11-27T20:53+00:00",
-     "summary": "Ifølge den ukrainske efterretningstjeneste HUR er der opstået diplomatisk uenighed mellem Rusland er Nordkorea, der er en af Ruslands vigtigste allierede"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Fjern TV 2-toppen",
+     "link": "https://ekstrabladet.dk/nyheder/lederen/fjern-tv-2-toppen/11368054",
+     "published": "2026-11-27T21:55+00:00",
+     "summary": ""
+    },
     {
      "title": "Velkommen-skandalen vokser:\nSkylder danskere \nnæsten 300 millioner",
      "link": "https://ekstrabladet.dk/nyheder/samfund/velkommen-skandalen-vokser-skyldte-42.825-kunder-naesten-300-millioner/11368171",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/koerekorts-gak-gak-paa-kaershovedgaard/11365960",
      "published": "2026-11-27T17:20+00:00",
      "summary": "De udvisningsdømte kriminelle udlændinge på Kærshovedgård må ikke føre bil. Men et svar til Folketinget viser, at man ikke kan tage deres fysiske kørekort fra dem"
-    },
-    {
-     "title": "Spejderkorps og bilkoncern er omfattet af større datalæk",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek/11367999",
-     "published": "2026-11-27T17:14+00:00",
-     "summary": "Gymnasieskoler og andre organisationer har været ramt af datalæk, hvor telefonnumre er blevet kompromitteret"
     }
    ]
   },
@@ -743,8 +743,14 @@
     {
      "title": "Ny skatteordning skal gøre firmacykler mere attraktive fra 2028",
      "link": "https://www.bt.dk/politik/ny-skatteordning-skal-goere-firmacykler-mere-attraktive-fra-2028?referrer=RSS",
-     "published": "2026-11-27T21:47+00:00",
+     "published": "2026-11-27T22:01+00:00",
      "summary": "Fra 2028 kan arbejdspladser tilbyde firmacykler på mere gunstige skattevilkår, og ansatte må bruge dem privat."
+    },
+    {
+     "title": "Efter flere røverier i købmandsbutikker: Nu er de dømt",
+     "link": "https://www.bt.dk/krimi/efter-flere-roeverier-i-koebmandsbutikker-nu-er-de-doemt?referrer=RSS",
+     "published": "2026-11-27T21:59+00:00",
+     "summary": "Samlet skal de afsone ti år og ti måneders fængsel."
     },
     {
      "title": "Velkommen skyldte 42.825 elkunder 292 millioner kroner ved konkurs",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek?referrer=RSS",
      "published": "2026-11-27T19:51+00:00",
      "summary": "Gymnasieskoler og andre organisationer har været ramt af datalæk, hvor telefonnumre er blevet kompromitteret."
-    },
-    {
-     "title": "Bekræfter: Uvedkommende har fået adgang",
-     "link": "https://www.bt.dk/krimi/bekraefter-uvedkommende-har-faaet-adgang?referrer=RSS",
-     "published": "2026-11-27T19:41+00:00",
-     "summary": "OnlineCity bekræfter cyberangreb mod over 15.000 gymnasieelever, men det samlede omfang er endnu ukendt."
     }
    ]
   },
@@ -810,10 +810,22 @@
    "status": "ok",
    "items": [
     {
+     "title": "Chelsea-nedtur fortsætter med nederlag til Nottingham Forest",
+     "link": "https://www.bt.dk/fodbold/chelsea-nedtur-fortsaetter-med-nederlag-til-nottingham-forest?referrer=RSS",
+     "published": "2026-11-27T22:01+00:00",
+     "summary": "Nottingham Forest udnyttede Chelseas defensive svagheder og sendte London-klubben hjem med et 2-3-nederlag."
+    },
+    {
      "title": "Ny skatteordning skal gøre firmacykler mere attraktive fra 2028",
      "link": "https://www.bt.dk/politik/ny-skatteordning-skal-goere-firmacykler-mere-attraktive-fra-2028?referrer=RSS",
-     "published": "2026-11-27T21:47+00:00",
+     "published": "2026-11-27T22:01+00:00",
      "summary": "Fra 2028 kan arbejdspladser tilbyde firmacykler på mere gunstige skattevilkår, og ansatte må bruge dem privat."
+    },
+    {
+     "title": "Efter flere røverier i købmandsbutikker: Nu er de dømt",
+     "link": "https://www.bt.dk/krimi/efter-flere-roeverier-i-koebmandsbutikker-nu-er-de-doemt?referrer=RSS",
+     "published": "2026-11-27T21:59+00:00",
+     "summary": "Samlet skal de afsone ti år og ti måneders fængsel."
     },
     {
      "title": "Dansk børnelæge giver børn Wegovy: 'Vi ser 12-årige, der vejer 125 kilo'",
@@ -856,18 +868,6 @@
      "link": "https://www.bt.dk/krimi/beder-hele-aarhus-kommune-om-hjaelp?referrer=RSS",
      "published": "2026-11-27T20:36+00:00",
      "summary": "Politiet søger en 80-årig dement mand."
-    },
-    {
-     "title": "Zelenskyj er på Putins dødsliste: Det vil få store konsekvenser",
-     "link": "https://www.bt.dk/udland/zelenskyj-er-paa-putins-doedsliste-det-vil-faa-store-konsekvenser?referrer=RSS",
-     "published": "2026-11-27T20:36+00:00",
-     "summary": "Hvis Rusland slår den ukrainske præsident ihjel, vil det få store konsekvenser for resten af verden."
-    },
-    {
-     "title": "Teleudbyder kender endnu ikke omfanget af cyberangreb",
-     "link": "https://www.bt.dk/samfund/teleudbyder-kender-endnu-ikke-omfanget-af-cyberangreb?referrer=RSS",
-     "published": "2026-11-27T20:21+00:00",
-     "summary": "OnlineCity bekræfter cyberangreb mod over 15.000 gymnasieelever, men det samlede omfang er endnu ukendt."
     }
    ]
   },
@@ -1017,6 +1017,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Live Update: Best Black Friday Deals for Photographers",
+     "link": "https://fstoppers.com/gear/live-update-best-black-friday-deals-photographers-905685?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-27T19:34+00:00",
+     "summary": "Updated 25 minutes ago . We've searched the web for the best Black Friday deals on photography and video gear, and we'll keep adding new ones all day as we find them. [ Read More ]"
+    },
+    {
      "title": "Why Thypoch Isn't Just Another Leica Lens Copycat",
      "link": "https://fstoppers.com/gear/why-thypoch-isnt-just-another-leica-lens-copycat-905498?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
      "published": "2026-11-27T17:03+00:00",
@@ -1027,12 +1033,6 @@
      "link": "https://fstoppers.com/education/675-days-dozen-visits-and-one-photo-football-stand-905683?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
      "published": "2026-11-27T16:03+00:00",
      "summary": "Most landscape work falls into two camps: scenes you stumble into and scenes you return to until the light finally cooperates. The second kind tests your patience, your forecasting, and your willingness to keep showing up for a photo that …"
-    },
-    {
-     "title": "Live Update: Best Black Friday Deals for Photographers",
-     "link": "https://fstoppers.com/gear/live-update-best-black-friday-deals-photographers-905685?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-     "published": "2026-11-27T15:34+00:00",
-     "summary": "We've searched the web for the best Black Friday deals on photography and video gear, and we'll keep adding new ones all day as we find them. [ Read More ]"
     },
     {
      "title": "How to Get a White Portrait Background Without a Third Light",

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T21:51+00:00",
+ "generated": "2026-11-27T22:07+00:00",
  "metro": {
   "status": "ok",
   "url": "https://m.dk/da/drift-og-service/status-og-planlagte-driftsaendringer/",
@@ -119,10 +119,10 @@
  },
  "dmi": {
   "status": "ok",
-  "url": "https://www.dmi.dk/meteorologens-kommentar/vejromslag-paa-vej",
-  "title": "Vejromslag på vej",
-  "time": "2026-11-27T13:18",
-  "lead": "Første julefrokostfredag med lidt sol, en hel del skyer og måske en enkelt byge"
+  "url": "https://www.dmi.dk/meteorologens-kommentar/et-eller-to-ser-men-hvad-er-forskellen",
+  "title": "Et eller to s’er – men hvad er forskellen?",
+  "time": "2026-11-27T22:50",
+  "lead": "Isslag"
  },
  "um_tyrkiet": {
   "status": "ok",
