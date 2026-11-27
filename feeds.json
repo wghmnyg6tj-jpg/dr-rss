@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T13:03+00:00",
+ "generated": "2026-11-27T13:12+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -513,6 +513,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Advarer: \nKan være \ndødeligt for katte",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/advarer-kan-vaere-doedeligt-for-katte/11367695",
+     "published": "2026-11-27T13:06+00:00"
+    },
+    {
      "title": "Historisk fadæse:\nFCK's spillerbudget er 31 gange større",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/chok-i-andorra-fcks-spillerbudget-er-31-gange-stoerre/11367702",
      "published": "2026-11-27T13:00+00:00"
@@ -556,11 +561,6 @@
      "title": "Officielt: Alexander Kamp forlader Uno-X",
      "link": "https://ekstrabladet.dk/sport/cykling/officielt-alexander-kamp-forlader-uno-x/11367485",
      "published": "2026-11-27T12:05+00:00"
-    },
-    {
-     "title": "Slår alarm! \nFlere lande \ni overhængende fare",
-     "link": "https://ekstrabladet.dk/nyheder/kritisk-flere-lande-i-overhaengende-fare-for-hungersnoed/11367591",
-     "published": "2026-11-27T12:03+00:00"
     }
    ]
   },
@@ -571,6 +571,11 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Advarer: \nKan være \ndødeligt for katte",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/advarer-kan-vaere-doedeligt-for-katte/11367695",
+     "published": "2026-11-27T13:06+00:00"
+    },
     {
      "title": "Reuters: \nHackere \nrammer \nUSA's flyvevåben",
      "link": "https://ekstrabladet.dk/nyheder/reuters-hackere-rammer-usas-flyvevaaben/11367507",
@@ -615,11 +620,6 @@
      "title": "Danskerne vælger Mona Juul",
      "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/stor-overraskelse-danskerne-vaelger-mona-juul/11367135",
      "published": "2026-11-27T07:02+00:00"
-    },
-    {
-     "title": "Erklærer undtagelsestilstand: 900.000 uden strøm",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/storme-udloeser-undtagelsestilstand-i-usa/11367065",
-     "published": "2026-11-27T06:07+00:00"
     }
    ]
   },
@@ -630,6 +630,16 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Styrelse advarer: Kontakt med hårtabsmidler kan være dødelig for katte",
+     "link": "https://www.bt.dk/samfund/styrelse-advarer-kontakt-med-haartabsmidler-kan-vaere-doedelig-for-katte?referrer=RSS",
+     "published": "2026-11-27T13:04+00:00"
+    },
+    {
+     "title": "Kan købes uden recept: Advarer mod lægemidler",
+     "link": "https://www.bt.dk/samfund/kan-koebes-uden-recept-advarer-mod-laegemidler?referrer=RSS",
+     "published": "2026-11-27T13:03+00:00"
+    },
     {
      "title": "Advarer: Det bliver glat i weekenden",
      "link": "https://www.bt.dk/vejret/advarer-det-bliver-glat-i-weekenden?referrer=RSS",
@@ -669,16 +679,6 @@
      "title": "Elon Musk med løfte: Vil donere aktier til alle amerikanske børn",
      "link": "https://www.bt.dk/udland/elon-musk-med-loefte-vil-donere-aktier-til-alle-amerikanske-boern?referrer=RSS",
      "published": "2026-11-27T12:32+00:00"
-    },
-    {
-     "title": "Landsret stadfæster dom for knivdrab på barndomsven",
-     "link": "https://www.bt.dk/krimi/landsret-stadfaester-dom-for-knivdrab-paa-barndomsven?referrer=RSS",
-     "published": "2026-11-27T12:20+00:00"
-    },
-    {
-     "title": "Danmark får første kvindelige rigsadvokat",
-     "link": "https://www.bt.dk/krimi/danmark-faar-foerste-kvindelige-rigsadvokat?referrer=RSS",
-     "published": "2026-11-27T12:20+00:00"
     }
    ]
   },
@@ -689,6 +689,16 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Styrelse advarer: Kontakt med hårtabsmidler kan være dødelig for katte",
+     "link": "https://www.bt.dk/samfund/styrelse-advarer-kontakt-med-haartabsmidler-kan-vaere-doedelig-for-katte?referrer=RSS",
+     "published": "2026-11-27T13:04+00:00"
+    },
+    {
+     "title": "Kan købes uden recept: Advarer mod lægemidler",
+     "link": "https://www.bt.dk/samfund/kan-koebes-uden-recept-advarer-mod-laegemidler?referrer=RSS",
+     "published": "2026-11-27T13:03+00:00"
+    },
     {
      "title": "Advarer: Det bliver glat i weekenden",
      "link": "https://www.bt.dk/vejret/advarer-det-bliver-glat-i-weekenden?referrer=RSS",
@@ -728,16 +738,6 @@
      "title": "Forlænget reparation betyder højere varmeregning",
      "link": "https://www.bt.dk/privatoekonomi/forlaenget-reparation-betyder-hoejere-varmeregning?referrer=RSS",
      "published": "2026-11-27T12:49+00:00"
-    },
-    {
-     "title": "Fogh med opsigtsvækkende melding: Bør sende danske tropper til Ukraine",
-     "link": "https://www.bt.dk/politik/fogh-med-opsigtsvaekkende-melding-boer-sende-danske-tropper-til-ukraine?referrer=RSS",
-     "published": "2026-11-27T12:38+00:00"
-    },
-    {
-     "title": "Formodet bandefigur fængslet for skud mod eksbokser og hans familie",
-     "link": "https://www.bt.dk/krimi/formodet-bandefigur-faengslet-for-skud-mod-eksbokser-og-hans-familie?referrer=RSS",
-     "published": "2026-11-27T12:37+00:00"
     }
    ]
   },
@@ -1473,6 +1473,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "The Pressure to Crush Miles Can Ruin Your Thru-Hike. Don’t Let It.",
+     "link": "https://thetrek.co/the-pressure-to-crush-miles-can-ruin-your-thru-hike-dont-let-it/",
+     "published": "2026-11-27T13:06+00:00"
+    },
+    {
      "title": "Happy Fails",
      "link": "https://thetrek.co/appalachian-trail/happy-fails/",
      "published": "2026-11-27T12:00+00:00"
@@ -1516,11 +1521,6 @@
      "title": "Zero In Hagerstown, MD",
      "link": "https://thetrek.co/appalachian-trail/zero-in-hagerstown-md/",
      "published": "2026-11-26T12:00+00:00"
-    },
-    {
-     "title": "The Hiker Bro Quiz: Find Out Your Official Bro Percentage",
-     "link": "https://thetrek.co/the-hiker-bro-quiz/",
-     "published": "2026-11-25T23:33+00:00"
     }
    ]
   },
