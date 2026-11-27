@@ -5,7 +5,7 @@ Billedet: 200 x 200 km omkring hovedområdet, kystlinjer (Natural Earth), rød p
 Farver efter radarens styrke (dBZ). Omregning til mm/t med Marshall-Palmer (Z = 200 R^1,6) er et estimat.
 Kræver: numpy, h5py, pillow, pyproj.
 """
-import io, json, math, sys, time, urllib.request, urllib.error
+import io, json, math, sys, time, urllib.request, urllib.error, warnings
 from datetime import datetime, timedelta, timezone
 
 DMI = "https://opendataapi.dmi.dk"
@@ -188,9 +188,18 @@ def main():
     # Nedbør tæt på stedet
     yy, xx = np.mgrid[0:len(rr), 0:len(cc)]
     dist_km = np.hypot((xx + c0 - cx) * xs, (yy + r0 - cy) * ys) / 1000
+    # Enkeltstående stærke pixels er ofte støj (vindmøller, skibe, bygninger). Teksten bruger derfor et
+    # 3x3-medianfilter: en pixel tæller kun, hvis mindst halvdelen af naboerne også har ekko. Billedet er urørt.
+    filled = np.where(np.isnan(sub) & ~nod, -32.0, sub)
+    pad = np.pad(filled, 1, constant_values=np.nan)
+    stack = np.stack([pad[i:i + filled.shape[0], j:j + filled.shape[1]] for i in range(3) for j in range(3)])
+    with warnings.catch_warnings():
+        warnings.simplefilter("ignore")
+        smooth = np.nanmedian(stack, axis=0)
+    smooth = np.where(nod | (smooth < 0), np.nan, smooth)
     near = {}
     for radius in (10, 25):
-        vals = sub[(dist_km <= radius) & ~np.isnan(sub)]
+        vals = smooth[(dist_km <= radius) & ~np.isnan(smooth)]
         mxv = float(vals.max()) if vals.size else None
         near[str(radius)] = None if mxv is None or mxv < 10 else {"max_dbz": round(mxv, 1), "mm_h_estimat": round(mmh(mxv), 1),
                                                                   "niveau": [lvl for lo_, _, lvl in LEVELS if mxv >= lo_][-1]}

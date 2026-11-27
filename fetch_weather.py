@@ -9,7 +9,7 @@ For hovedområdet desuden: DMI-lyn i et område omkring stedet.
 Hver kilde hentes for sig. Fejler en kilde, beholdes de forrige data for den kilde,
 og fejlen skrives i "status". Alle kald har gentagelse ved HTTP 429/5xx.
 """
-import json, socket, math, sys, time, urllib.request, urllib.error
+import json, os, socket, math, sys, time, urllib.request, urllib.error
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 
@@ -247,8 +247,10 @@ def main():
         if "lightning" in prev:
             out["lightning"] = prev["lightning"]
     out["status"].update(p0["status"])
-    with open(OUT, "w", encoding="utf-8") as f:
+    tmp = OUT + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
+    os.replace(tmp, OUT)      # atomisk: build_page.py/vejr_html.py læser aldrig en halv fil
     return 0
 
 

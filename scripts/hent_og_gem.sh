@@ -7,6 +7,7 @@
 # hentes main igen, og de nye filer lægges ovenpå (op til 5 forsøg).
 # Feeds venter højst VEJR_VENT sekunder (standard 20) på vejret. Er vejret ikke færdigt,
 # gemmes feeds (og radar) først, og vejret gemmes bagefter i et ekstra commit.
+# Til sidst bygges hele siden (build_page.py -> site/index.html), som Claude-opgaven lægger op uændret.
 # Alt ligger i main(), så bash har læst hele scriptet, før "git reset" i starten kan ændre filen.
 set -euo pipefail
 
@@ -24,7 +25,7 @@ gem() {
     git -C "$W" fetch -q --depth=1 origin main
     git -C "$W" reset -q --hard FETCH_HEAD
     for f in $files; do
-      if [ -f "/tmp/ud/$f" ]; then cp "/tmp/ud/$f" "$W/$f"; git -C "$W" add "$f"; fi
+      if [ -f "/tmp/ud/$f" ]; then mkdir -p "$W/$(dirname "$f")"; cp "/tmp/ud/$f" "$W/$f"; git -C "$W" add "$f"; fi
     done
     if git -C "$W" diff --cached --quiet; then
       echo "Ingen ændringer ($files)."
@@ -42,6 +43,23 @@ gem() {
   return 1
 }
 
+byg() {
+  # Bygger site/index.html. Fejler bygningen, gemmes de andre filer stadig.
+  if python3 build_page.py > /tmp/build.log 2>&1; then
+    echo "Side bygget: $(tail -c 400 /tmp/build.log)"
+    return 0
+  fi
+  echo "Bygning af siden fejlede:"; cat /tmp/build.log || true
+  return 1
+}
+
+kopier() {
+  local f
+  for f in $1; do
+    if [ -f "$f" ]; then mkdir -p "/tmp/ud/$(dirname "$f")"; cp "$f" "/tmp/ud/$f"; fi
+  done
+}
+
 main() {
   git config user.name "rss-bot"
   git config user.email "rss-bot@users.noreply.github.com"
@@ -54,9 +72,11 @@ main() {
     if python3 set_places.py "$PLACES_JSON"; then files="$files locations.json"; fi
   fi
 
-  # Vejr og radar hentes samtidig med feeds, så de ikke forsinker nyhederne
+  # Vejr, radar og ekstra kilder hentes samtidig med feeds, så de ikke forsinker nyhederne
   python3 fetch_weather.py > /tmp/vejr.log 2>&1 &
   local wpid=$!
+  python3 fetch_extra.py > /tmp/extra.log 2>&1 &
+  local xpid=$!
   local rpid=""
   if [ "${RADAR:-0}" = "1" ]; then
     python3 fetch_radar.py > /tmp/radar.log 2>&1 &
@@ -67,7 +87,7 @@ main() {
   # Vent højst VEJR_VENT sekunder på vejret (og radaren)
   local t=0 maxw="${VEJR_VENT:-20}"
   while [ "$t" -lt "$maxw" ]; do
-    if ! kill -0 "$wpid" 2>/dev/null && { [ -z "$rpid" ] || ! kill -0 "$rpid" 2>/dev/null; }; then break; fi
+    if ! kill -0 "$wpid" 2>/dev/null && ! kill -0 "$xpid" 2>/dev/null && { [ -z "$rpid" ] || ! kill -0 "$rpid" 2>/dev/null; }; then break; fi
     sleep 1; t=$((t + 1))
   done
 
@@ -86,13 +106,23 @@ main() {
     if [ -f radar.png ] && grep -q '"near"' radar.json 2>/dev/null; then files="$files radar.png"; fi
     rpid=""
   fi
-  for f in $files; do
-    if [ -f "$f" ]; then cp "$f" /tmp/ud/; fi
-  done
-  gem "$files" "Opdater feeds og vejr"
+  if [ -n "$xpid" ] && ! kill -0 "$xpid" 2>/dev/null; then
+    wait "$xpid" || echo "Ekstra kilder fejlede."
+    cat /tmp/extra.log || true
+    xpid=""
+  fi
+  if [ -f extra.json ]; then files="$files extra.json"; fi
+  if byg; then files="$files site/index.html site/build.json seen.json"; fi
+  kopier "$files"
+  gem "$files" "Opdater feeds, vejr og side"
 
-  if [ -n "$late" ] || [ -n "$rpid" ]; then
+  if [ -n "$late" ] || [ -n "$rpid" ] || [ -n "$xpid" ]; then
     local more=""
+    if [ -n "$xpid" ]; then
+      wait "$xpid" || echo "Ekstra kilder fejlede."
+      cat /tmp/extra.log || true
+      if [ -f extra.json ]; then more="$more extra.json"; fi
+    fi
     if [ -n "$late" ]; then
       if wait "$wpid"; then more="weather.json"; else echo "Vejrhentningen fejlede."; fi
       cat /tmp/vejr.log || true
@@ -103,10 +133,11 @@ main() {
       if [ -f radar.json ]; then more="$more radar.json"; fi
       if [ -f radar.png ] && grep -q '"near"' radar.json 2>/dev/null; then more="$more radar.png"; fi
     fi
-    for f in $more; do
-      if [ -f "$f" ]; then cp "$f" /tmp/ud/; fi
-    done
-    if [ -n "$more" ]; then gem "$more" "Opdater vejr"; fi
+    if [ -n "$more" ]; then
+      if byg; then more="$more site/index.html site/build.json seen.json"; fi
+      kopier "$more"
+      gem "$more" "Opdater vejr og side"
+    fi
   fi
 }
 

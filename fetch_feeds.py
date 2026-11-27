@@ -1,7 +1,7 @@
-"""Henter RSS-feeds og gemmer overskrifter, links og tidspunkter i feeds.json.
-Gemmer kun titel, link og tid. Ingen artikeltekst.
+"""Henter RSS-feeds og gemmer overskrifter, links, tidspunkter og kildens korte resumé i feeds.json.
+Resuméet er feedets egen teaser (description/summary), afkortet til ca. 240 tegn. Ingen artikeltekst.
 Ret listen FEEDS for at tilføje eller fjerne feeds."""
-import json, sys, urllib.request, urllib.error
+import html, json, re, sys, urllib.request, urllib.error
 from concurrent.futures import ThreadPoolExecutor
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
@@ -53,6 +53,20 @@ def iso(text):
     except Exception:
         return None
 
+def teaser(raw, limit=240):
+    """Kort, ren tekst ud fra feedets description/summary (HTML fjernes)."""
+    if not raw:
+        return ""
+    t = re.sub(r"<[^>]+>", " ", raw)
+    t = html.unescape(t)
+    t = re.sub(r"\s+", " ", t).strip()
+    t = re.sub(r"(The post .* appeared first on .*|Read more.*|Continue reading.*)$", "", t).strip()
+    if len(t) > limit:
+        cut = t[:limit].rsplit(" ", 1)[0].rstrip(",.;:–- ")
+        t = cut + " …"
+    return t
+
+
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml"})
     with urllib.request.urlopen(req, timeout=15) as r:
@@ -66,7 +80,8 @@ def parse(body):
         link = (it.findtext("link") or "").strip()
         if not title or not link.startswith("https://"):
             continue
-        items.append({"title": title, "link": link, "published": iso(it.findtext("pubDate"))})
+        items.append({"title": html.unescape(title), "link": link, "published": iso(it.findtext("pubDate")),
+                      "summary": teaser(it.findtext("description"))})
     if not items:
         ns = "{http://www.w3.org/2005/Atom}"
         for it in root.iter(ns + "entry"):
@@ -87,7 +102,8 @@ def parse(body):
                 except Exception:
                     pub = None
             if title and link.startswith("https://"):
-                items.append({"title": title, "link": link, "published": pub})
+                items.append({"title": html.unescape(title), "link": link, "published": pub,
+                              "summary": teaser(it.findtext(ns + "summary") or it.findtext(ns + "content"))})
     items.sort(key=lambda x: x["published"] or "", reverse=True)
     return items[:MAX_PER_FEED]
 
