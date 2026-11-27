@@ -242,7 +242,7 @@ html { scroll-behavior:smooth; scroll-padding-top:56px; }
 .threat-l{font-size:.62rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--red)}
 .threat-d{width:9px;height:9px;border-radius:50%;background:var(--muted);flex:0 0 auto}
 .threat[data-state="ok"] .threat-d{background:#3C8D5A}
-.threat[data-state="alert"] .threat-d{background:var(--red)}
+.threat[data-state="alert"] .threat-d{background:var(--red)}.threat[data-state="watch"] .threat-d{background:#D08A1E}.threat-s a{color:inherit}
 .threat[data-state="alert"]{border-color:var(--red);background:var(--tint)}
 .threat[data-state="alert"] .threat-s{color:var(--red);font-weight:700}
 .threat-s{min-width:0}
@@ -282,10 +282,10 @@ setTimeout(tick,30000);}
 claude.use('mcp').then(function(mcp){if(!mcp)return;w.hidden=false;
 function fire(id,tx){var a={trigger_id:id};if(tx)a.text=tx;return mcp.callTool('Claude Code Remote','fire_trigger',a).then(function(){return null;},function(e){return e||{};});}
 b.addEventListener('click',function(){if(b.dataset.done){location.reload();return;}
-var t0=Date.now();b.disabled=true;m.textContent='Starter RSS-hentning og opdatering…';
-Promise.all([Promise.race([wxP,new Promise(function(r){setTimeout(r,800);})]).then(function(){return fire(RSS,wxText());}),fire(SIDE,'KNAP: trykket '+new Date(t0).toISOString())]).then(function(r){var e1=r[0],e2=r[1];
-if(e2){m.textContent=why(e2)+(e1?'':' RSS-hentningen er startet.');b.disabled=false;return;}
-var base=e1?'RSS-hentningen kunne ikke startes. Opdateringen er startet kl. '+hm()+' med den nyeste RSS-fil.':'RSS-hentning og opdatering startet kl. '+hm()+'.';
+var t0=Date.now();b.disabled=true;m.textContent='Starter opdatering…';
+Promise.race([wxP,new Promise(function(r){setTimeout(r,800);})]).then(function(){var tx=wxText();return fire(RSS,(tx?tx+'\n':'')+'KNAP: trykket '+new Date(t0).toISOString());}).then(function(e){var e1=null,e2=e;
+if(e2){m.textContent=why(e2);b.disabled=false;return;}
+var base='Opdatering startet kl. '+hm()+'.';
 m.textContent=base+' Siden genindlæser selv, når den nye version er klar.';
 b.textContent='Genindlæs siden';b.dataset.done='1';b.disabled=false;watch(base,t0);});
 });
@@ -317,7 +317,7 @@ function go(){render();setInterval(render,300000);window.addEventListener("stora
   
   
  </section>
- <div class="wx-radar" id="wx-radar" hidden></div>{{DMI}}<div class="threat" id="threat-strip" data-state="pending" role="status"><span class="threat-d" aria-hidden="true"></span><span class="threat-l">Trusselsbillede</span><span class="threat-s">Henter seneste tjek …</span><span class="threat-t"></span></div>
+ <div class="wx-radar" id="wx-radar" hidden></div>{{DMI}}{{THREAT}}
  <aside class="latest" aria-label="Seneste nyt"><div class="latest-l">Seneste nyt</div><ul class="latest-s" tabindex="0">{{LATEST}}</ul>
 </aside>
  <script id="top-on-load">(function(){try{if('scrollRestoration' in history)history.scrollRestoration='manual';}catch(e){}function t(){if(location.hash){try{history.replaceState(null,'',location.pathname+location.search);}catch(e){}}window.scrollTo(0,0);}t();document.addEventListener('DOMContentLoaded',t);window.addEventListener('load',function(){t();setTimeout(t,60);setTimeout(t,300);});window.addEventListener('pageshow',t);})();</script><script>(function(){function s(){var u=document.querySelector('.latest-s');if(!u)return;var l=[].slice.call(u.querySelectorAll(':scope > li:not(.lt-dr)'));l.forEach(function(x,i){x._t=Date.parse(x.getAttribute('data-pub'))||0;x._i=i;});l.sort(function(a,b){return b._t-a._t||a._i-b._i;});var d=u.querySelector(':scope > li.lt-dr');l.forEach(function(x){u.insertBefore(x,d);});}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',s);else s();})();</script>

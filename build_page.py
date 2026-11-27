@@ -287,6 +287,57 @@ def dmi_line(extra, now):
             f'({t.day}. {MON[t.month - 1]} kl. {t:%H:%M}): {E(d.get("title", ""))}.{lead}{link}</p>')
 
 
+RE_ALARM = re.compile(r"\bartikel ?[45]\b|\barticle ?[45]\b|terrortrusl|trusselsniveau|luftrum\w* (?:er )?lukket|lukker luftrum|"
+                      r"kastrup\w*.{0,40}(?:lukket|lukker|evakuer)|lufthavn\w*.{0,30}lukket|strømafbrydelse|strømsvigt|blackout|"
+                      r"evakuer|cyberangreb mod|angreb på (?:danmark|nato|et nato)|mobiliser|undtagelsestilstand|"
+                      r"beredskab\w*.{0,30}(?:forhøj|akut|hæve)", re.I)
+
+
+def threat_block(items, extra, now):
+    """Automatisk trusselsfelt: alarmord i danske nyheder (24 t) + UM's rejsevejledning for Tyrkiet.
+    Claudes tjek (tirsdag og fredag) lægges på i browseren fra databasen (settings/threat)."""
+    base = load("threat_baseline.json", {}) or {}
+    since = now - timedelta(hours=24)
+    hits, seen_t = [], set()
+    for r in sorted((r for r in items if r["pub"] and r["pub"] >= since and r["topic"] in ("alment", "danmark")),
+                    key=lambda r: r["pub"], reverse=True):
+        if RE_ALARM.search(r["title"] + " " + r["summary"]):
+            nt = norm_title(r["title"])
+            if nt not in seen_t:
+                seen_t.add(nt)
+                hits.append(r)
+    um = (extra or {}).get("um_tyrkiet", {})
+    state, parts = "ok", []
+    if um.get("status") == "ok":
+        lv = um.get("level")
+        upd = (um.get("updated") or "").split(" Kl.")[0]
+        if lv in ("orange", "rød"):
+            state = "alert"
+            parts.append(f'Tyrkiet: UM fraråder {"alle" if lv == "rød" else "ikke-nødvendige"} rejser til hele landet (opdateret {E(upd)}). '
+                         f'<a href="{E(um["url"])}" target="_blank" rel="noopener">UM ↗</a>')
+        elif um.get("updated") and um.get("updated") != base.get("um_tyrkiet_updated"):
+            state = "watch"
+            parts.append(f'UM har opdateret rejsevejledningen for Tyrkiet ({E(upd)}). '
+                         f'<a href="{E(um["url"])}" target="_blank" rel="noopener">Tjek den ↗</a>')
+        else:
+            txt = {"gul": "Vær ekstra forsigtig", "grøn": "Vær opmærksom"}.get(lv, "niveau ukendt")
+            parts.append(f"Tyrkiet: {txt} (UM, uændret siden {E(upd)}).")
+    else:
+        parts.append("Tyrkiet: UM's side kunne ikke læses.")
+    if hits:
+        if state == "ok":
+            state = "watch"
+        h = hits[0]
+        more = f" (+{len(hits) - 1} mere)" if len(hits) > 1 else ""
+        parts.insert(0, f'Mulig trigger i nyhederne, tjek selv: <a href="{E(h["link"])}" target="_blank" rel="noopener">{E(h["title"])}</a> '
+                        f'({E(label(h["source"]))}, {pubtxt(h["pub"], now)}){more}.')
+    else:
+        parts.insert(0, "Ingen alarmord i de danske nyheder de seneste 24 timer.")
+    return (f'<div class="threat" id="threat-strip" data-state="{state}" data-auto="{state}" role="status"><span class="threat-d" aria-hidden="true"></span>'
+            f'<span class="threat-l">Trusselsbillede</span><span class="threat-s">{" ".join(parts)}</span>'
+            f'<span class="threat-t">Automatisk kl. {now:%H:%M}</span></div>')
+
+
 def db_scripts():
     return r'''<script id="cal-db">(function(){var box=document.getElementById('ev-box'),src=document.getElementById('ev-src'),miss=document.getElementById('cal-miss');if(!box)return;
 var WD=['Søn.','Man.','Tirs.','Ons.','Tors.','Fre.','Lør.'],MN=['jan.','feb.','mar.','apr.','maj','jun.','jul.','aug.','sep.','okt.','nov.','dec.'];
@@ -307,13 +358,12 @@ if(src)src.textContent='Dage uden events er skjult. Scroll ned for flere. Kilde:
 if(miss)miss.textContent=ok?('Hentet fra din telefon '+when(u)+'. Opdater fra Claude-appen: skriv "opdater kalender".'):'Ikke hentet endnu. Skriv "opdater kalender" i Claude-appen på telefonen.';}
 if(!window.claude||!claude.use){msg('Kalenderen kan kun vises i Claude.');return;}
 claude.use('db').then(function(db){if(!db)throw 0;return db.doc('settings/calendar').get();}).then(function(x){if(x&&x.exists)render(x.data());else{msg('Ingen kalender hentet endnu. Skriv "opdater kalender" i Claude-appen.');if(miss)miss.textContent='Ikke hentet endnu. Skriv "opdater kalender" i Claude-appen på telefonen.';}}).catch(function(){msg('Kalenderen kunne ikke hentes lige nu.');});})();</script>
-<script id="threat-db">(function(){var el=document.getElementById('threat-strip');if(!el)return;var s=el.querySelector('.threat-s'),t=el.querySelector('.threat-t'),MN=['jan.','feb.','mar.','apr.','maj','jun.','jul.','aug.','sep.','okt.','nov.','dec.'];
+<script id="threat-db">(function(){var el=document.getElementById('threat-strip');if(!el||!window.claude||!claude.use)return;var s=el.querySelector('.threat-s'),t=el.querySelector('.threat-t'),MN=['jan.','feb.','mar.','apr.','maj','jun.','jul.','aug.','sep.','okt.','nov.','dec.'];
 function p2(n){return('0'+n).slice(-2);}
-if(!window.claude||!claude.use){s.textContent='Trusselstjekket kan kun vises i Claude.';return;}
-claude.use('db').then(function(db){if(!db)throw 0;return db.doc('settings/threat').get();}).then(function(x){if(!x||!x.exists){s.textContent='Afventer første tjek. Det kører dagligt kl. 05:40.';return;}
-var v=x.data()||{},st=['ok','alert','pending'].indexOf(v.state)>=0?v.state:'pending',c=v.checked?new Date(v.checked):null;
-if(c&&!isNaN(c)&&Date.now()-c.getTime()>36*3600000&&st==='ok')st='pending';
-el.setAttribute('data-state',st);s.textContent=String(v.text||'');t.textContent=(c&&!isNaN(c))?('Tjekket '+c.getDate()+'. '+MN[c.getMonth()]+' kl. '+p2(c.getHours())+':'+p2(c.getMinutes())):'';}).catch(function(){s.textContent='Trusselstjekket kunne ikke hentes lige nu.';});})();</script>'''
+claude.use('db').then(function(db){if(!db)throw 0;return db.doc('settings/threat').get();}).then(function(x){if(!x||!x.exists)return;
+var v=x.data()||{},c=v.checked?new Date(v.checked):null;if(!c||isNaN(c)||Date.now()-c.getTime()>96*3600000)return;
+var sp=document.createElement('span');sp.className='threat-c';sp.textContent=' Claudes tjek '+c.getDate()+'. '+MN[c.getMonth()]+' kl. '+p2(c.getHours())+':'+p2(c.getMinutes())+': '+String(v.text||'');s.appendChild(sp);
+if(v.state==='alert')el.setAttribute('data-state','alert');else if(v.state==='pending'&&el.getAttribute('data-state')==='ok')el.setAttribute('data-state','watch');}).catch(function(){});})();</script>'''
 
 
 def miss_html(feeds, extra, now, built):
@@ -324,7 +374,8 @@ def miss_html(feeds, extra, now, built):
     ftxt = f"RSS hentet kl. {loc(fg):%H:%M}" if fg else "RSS-tid ukendt"
     ex = extra or {}
     st = ", ".join(f"{n} {'ok' if ex.get(k, {}).get('status') == 'ok' else 'fejl'}" for k, n in
-                   (("metro", "Metro"), ("dsb", "DSB"), ("star", "STAR"), ("akasser", "A-kasser.dk"), ("dmi", "DMI-kommentar")))
+                   (("metro", "Metro"), ("dsb", "DSB"), ("star", "STAR"), ("akasser", "A-kasser.dk"), ("dmi", "DMI-kommentar"),
+                    ("um_tyrkiet", "UM Tyrkiet")))
     p = [
         '<p><b>Kalender:</b> <span id="cal-miss">Mine events vises fra databasen. Opdater dem fra Claude-appen på telefonen: skriv "opdater kalender".</span></p>',
         '<p><b>Vejr:</b> Vejrdata mangler i denne opdatering.</p>',
@@ -333,8 +384,8 @@ def miss_html(feeds, extra, now, built):
         f'<p><b>Drift og officielle kilder:</b> {E(st)}. Bus kan ikke læses automatisk.</p>',
         '<p><b>Filter:</b> Siden Indstillinger (tandhjul øverst) styrer, hvilke artikler forsiden viser (kategorier, maksimal alder, antal pr. kategori). '
         'Standard er 12 timer; Outdoor og Fotografi 3 døgn. »Seneste nyt«-bjælken følger ikke filteret. Artikler ældre end 7 dage kommer ikke med.</p>',
-        f'<p><b>Opdatering:</b> Siden bygges automatisk af GitHub hvert 10. minut kl. 06–23. Claude lægger den op kl. 7, 10, 13 og 16, og når du '
-        f'trykker »Opdater nu«. Denne udgave er bygget {built.day}. {MON[built.month - 1]} kl. {built:%H:%M}.</p>',
+        f'<p><b>Opdatering:</b> Siden bygges automatisk af GitHub hvert 10. minut kl. 06–23. Claude lægger den op kl. ca. 06:50 og 16, og når du '
+        f'trykker »Opdater nu«. Trusselsfeltet er automatisk (alarmord i nyhederne og UM\'s rejsevejledning for Tyrkiet); Claude tjekker desuden tirsdag og fredag. Denne udgave er bygget {built.day}. {MON[built.month - 1]} kl. {built:%H:%M}.</p>',
     ]
     return "\n  ".join(p)
 
@@ -376,6 +427,7 @@ def main():
         "{{EVENTS}}": events_block(),
         "{{DRIFT}}": drift_block(extra, now),
         "{{DMI}}": dmi_line(extra, now),
+        "{{THREAT}}": threat_block(items, extra, now),
         "{{LATEST}}": latest_html(items, now),
         "{{MISS}}": "  " + miss_html(feeds, extra, now, now),
         "{{SOURCES}}": sources_html(feeds),

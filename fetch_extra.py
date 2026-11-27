@@ -6,6 +6,9 @@ Kilder (alle læses som almindelige websider; ingen login):
 - STAR: nyheder (dagpenge og beskæftigelse)
 - A-kasser.dk: nyheder
 - DMI: meteorologens seneste kommentar (overskrift, tid og første linje)
+- Udenrigsministeriet: rejsevejledningen for Tyrkiet (niveau for hele landet og opdateringsdato)
+
+PET (pet.dk) svarer ikke fra GitHub (timeout), så PET's trusselsniveau kan ikke hentes automatisk.
 
 Bus (dinoffentligetransport.dk) indlæses med JavaScript og kan ikke læses her; siden linker til den.
 Fejler en kilde, gemmes fejlen, og de andre kilder bruges stadig.
@@ -135,7 +138,29 @@ def dmi():
             "time": when.group(1) if when else None, "lead": lead[:200]}
 
 
-JOBS = {"metro": metro, "dsb": dsb, "star": star, "akasser": akasser, "dmi": dmi}
+def um_tyrkiet():
+    url = "https://um.dk/rejse-og-ophold/rejse-til-udlandet/rejsevejledninger/tyrkiet"
+    t = text(re.sub(r"<script[\s\S]*?</script>|<style[\s\S]*?</style>", " ", get(url)))
+    upd = re.search(r"Rejsevejledning opdateret:\s*([0-9.]+(?:\s*Kl\.\s*[0-9.]+)?)", t)
+    i = t.find("Gyldig:")
+    seg = t[i:i + 1500] if i >= 0 else t[:4000]
+    level, line = None, ""
+    for lv, pat in (("rød", r"Vi fraråder alle rejser:\s*Hele landet"),
+                    ("orange", r"Vi fraråder alle ikke-nødvendige rejser:\s*Hele landet"),
+                    ("gul", r"Vær ekstra forsigtig:\s*Hele landet"),
+                    ("grøn", r"Vær opmærksom:\s*Hele landet")):
+        m = re.search(pat, seg)
+        if m:
+            level = lv
+            end = seg.find(".", m.start())
+            line = seg[m.start(): end + 1 if end > 0 else m.start() + 160]
+            break
+    if not upd and not level:
+        raise ValueError("rejsevejledningen kunne ikke læses")
+    return {"url": url, "updated": upd.group(1).strip() if upd else None, "level": level, "line": line[:220]}
+
+
+JOBS = {"metro": metro, "dsb": dsb, "star": star, "akasser": akasser, "dmi": dmi, "um_tyrkiet": um_tyrkiet}
 
 
 def run(name):
@@ -147,7 +172,7 @@ def run(name):
 
 def main():
     out = {"generated": datetime.now(timezone.utc).isoformat(timespec="minutes")}
-    with ThreadPoolExecutor(max_workers=5) as pool:
+    with ThreadPoolExecutor(max_workers=6) as pool:
         for name, res in pool.map(run, JOBS):
             out[name] = res
             print(f"{name}: {res['status']}")
