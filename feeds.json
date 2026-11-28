@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T12:38+00:00",
+ "generated": "2026-11-28T12:49+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -207,6 +207,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Tilbagekaldelse på tilbagekaldelse: Kan du spise småkager med ro i maven?",
+     "link": "https://www.dr.dk/nyheder/indland/tilbagekaldelse-paa-tilbagekaldelse-kan-du-spise-smaakager-med-ro-i-maven",
+     "published": "2026-11-28T12:40+00:00",
+     "summary": "Fødevarestyrelsen har tilbagekaldt en række produkter. De fleste af dem har dog allerede nået 'bedst før-datoen'."
+    },
+    {
      "title": "Stak offer flere gange: 19-årig nægter sig skyldig i drab",
      "link": "https://www.dr.dk/nyheder/indland/stak-offer-flere-gange-19-aarig-naegter-sig-skyldig-i-drab",
      "published": "2026-11-28T12:23+00:00",
@@ -289,12 +295,6 @@
      "link": "https://www.dr.dk/nyheder/indland/reels/lukker-webshop-paa-black-friday-vil-forhindre-fejlkoeb",
      "published": "2026-11-27T19:45+00:00",
      "summary": ""
-    },
-    {
-     "title": "Kendte Youtube-brødre risikerer bøde på 140.000 kroner",
-     "link": "https://www.dr.dk/nyheder/indland/kendte-youtube-broedre-risikerer-boede-paa-140-000-kroner",
-     "published": "2026-11-27T19:18+00:00",
-     "summary": "Mikkel og Emil Trier Pedersens virksomhed var fredag i retten."
     }
    ]
   },
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Netop udgivet: Bidens bog flopper",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/netop-landet-paa-hylderne-bidens-bog-flopper/11368369",
+     "published": "2026-11-28T12:38+00:00",
+     "summary": "Joe Biden topper den amerikanske bestsellerliste for fagbøger, men hans erindringer sælger langt langsommere end Barack Obamas og Bill Clintons"
+    },
+    {
      "title": "Bekræfter: Andreas Christensen tilbage",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/spanskfodbold/bekraefter-andreas-christensen-tilbage/11368479",
      "published": "2026-11-28T12:28+00:00",
@@ -639,10 +645,10 @@
      "summary": "Mikkel Kesslers modstander er vokset op blandt banditter, og det giver motivation før lørdagens kamp"
     },
     {
-     "title": "Sigtet for knivdrab",
-     "link": "https://ekstrabladet.dk/krimi/sigtet-for-knivdrab/11368430",
+     "title": "19-årig fængslet for knivdrab",
+     "link": "https://ekstrabladet.dk/krimi/19-aarig-faengslet-for-knivdrab/11368430",
      "published": "2026-11-28T11:26+00:00",
-     "summary": "Offer stukket med kniv flere steder på kroppen"
+     "summary": "Offer stukket med kniv flere steder på kroppen, nu er 19-årig varetægtsfængslet"
     },
     {
      "title": "Pep Guardiola bekræfter: Sker aldrig igen",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/nyheder/Udland/elefant-stopper-scooterfoerer-paa-flugt/11368122",
      "published": "2026-11-28T11:12+00:00",
      "summary": "Drabsmistænkt på flugt blev stoppet brat, da en elefant pludselig trådte ud på vejen i Sri Lanka"
-    },
-    {
-     "title": "Frankrig rystet: Brændte ekskonen levende",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/frankrig-i-chok-braendte-ekskonen-levende/11368304",
-     "published": "2026-11-28T10:56+00:00",
-     "summary": "En fransk appeldomstol har stadfæstet livstidsdommen over 50-årige Mounir Boutaa, der brændte sin ekskone Chahinez Daoud levende. Inden drabet havde hun bedt politiet om beskyttelse"
     }
    ]
   },
@@ -741,16 +741,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "3,2 millioner husstande får fysisk pjece med opdaterede kriseråd",
+     "link": "https://www.bt.dk/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad?referrer=RSS",
+     "published": "2026-11-28T12:39+00:00",
+     "summary": "Samfundets svageste bør lave en huskeliste med vigtige telefonnumre i tilfælde af en krise, siger ministerie."
+    },
+    {
      "title": "Domstol afviser at stoppe britisk olieprojekt ved Falklandsøerne",
      "link": "https://www.bt.dk/udland/domstol-afviser-at-stoppe-britisk-olieprojekt-ved-falklandsoeerne?referrer=RSS",
      "published": "2026-11-28T12:32+00:00",
      "summary": "Argentina mener, at olieudvinding bryder FN-resolution i strid med Storbritannien om Falklandsøerne."
-    },
-    {
-     "title": "3,2 millioner husstande får fysisk pjece med opdaterede kriseråd",
-     "link": "https://www.bt.dk/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad?referrer=RSS",
-     "published": "2026-11-28T12:19+00:00",
-     "summary": "Samfundets svageste bør lave en huskeliste med vigtige telefonnumre i tilfælde af en krise, siger ministerie."
     },
     {
      "title": "Millioner skal tilbagebetales efter mangeårig usikkerhed om gæld",
@@ -810,6 +810,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "3,2 millioner husstande får fysisk pjece med opdaterede kriseråd",
+     "link": "https://www.bt.dk/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad?referrer=RSS",
+     "published": "2026-11-28T12:39+00:00",
+     "summary": "Samfundets svageste bør lave en huskeliste med vigtige telefonnumre i tilfælde af en krise, siger ministerie."
+    },
+    {
      "title": "Domstol afviser at stoppe britisk olieprojekt ved Falklandsøerne",
      "link": "https://www.bt.dk/udland/domstol-afviser-at-stoppe-britisk-olieprojekt-ved-falklandsoeerne?referrer=RSS",
      "published": "2026-11-28T12:32+00:00",
@@ -820,12 +826,6 @@
      "link": "https://www.bt.dk/dagligvarer/i-krig-med-gigant-orker-ikke-det-vroevl?referrer=RSS",
      "published": "2026-11-28T12:29+00:00",
      "summary": "Erling Daell går til kamp mod Salling Group."
-    },
-    {
-     "title": "3,2 millioner husstande får fysisk pjece med opdaterede kriseråd",
-     "link": "https://www.bt.dk/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad?referrer=RSS",
-     "published": "2026-11-28T12:19+00:00",
-     "summary": "Samfundets svageste bør lave en huskeliste med vigtige telefonnumre i tilfælde af en krise, siger ministerie."
     },
     {
      "title": "Millioner skal tilbagebetales efter mangeårig usikkerhed om gæld",
