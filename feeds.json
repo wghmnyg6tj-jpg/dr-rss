@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T13:10+00:00",
+ "generated": "2026-11-28T13:19+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Vild nedtur:\nHan har tabt\n160 milliarder",
+     "link": "https://ekstrabladet.dk/penge/legendarisk-investors-vilde-nedtur-har-tabt-160-milliarder/11367820",
+     "published": "2026-11-28T13:15+00:00",
+     "summary": "Den amerikanske milliardær Carl Icahn har mistet omkring 95 procent af sin formue, og nu er hans forretningsimperium under voldsomt pres"
+    },
+    {
+     "title": "Forrygende skydning sikrer Grønland historisk resultat",
+     "link": "https://ekstrabladet.dk/sport/forrygende-skydning-sikrer-groenland-historisk-resultat/11368498",
+     "published": "2026-11-28T13:08+00:00",
+     "summary": "Skiskytterne Sondre og Ukaleq Slettemark skrev historie, da duoen sikrede Grønland en femteplads"
+    },
+    {
      "title": "3,2 millioner husstande får fysisk pjece med opdaterede kriseråd",
      "link": "https://ekstrabladet.dk/nyheder/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad/11368474",
      "published": "2026-11-28T12:54+00:00",
@@ -649,18 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/kessler-modstander-vil-oedelaegge-danskernes-weekend/11368362",
      "published": "2026-11-28T11:27+00:00",
      "summary": "Mikkel Kesslers modstander er vokset op blandt banditter, og det giver motivation før lørdagens kamp"
-    },
-    {
-     "title": "19-årig fængslet for knivdrab",
-     "link": "https://ekstrabladet.dk/krimi/19-aarig-faengslet-for-knivdrab/11368430",
-     "published": "2026-11-28T11:26+00:00",
-     "summary": "Offer stukket med kniv flere steder på kroppen, nu er 19-årig varetægtsfængslet"
-    },
-    {
-     "title": "Pep Guardiola bekræfter: Sker aldrig igen",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/spanskfodbold/pep-afviser-aldrig-mere-barcelona/11368410",
-     "published": "2026-11-28T11:16+00:00",
-     "summary": "Pep Guardiola har ingen planer om at vende tilbage til Barcelona som cheftræner. Det slår spanieren selv fast i et interview, hvor han også fortæller om sin fremtid"
     }
    ]
   },
@@ -810,6 +810,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Forrygende skydning sikrer Grønland historisk resultat",
+     "link": "https://www.bt.dk/sport/forrygende-skydning-sikrer-groenland-historisk-resultat?referrer=RSS",
+     "published": "2026-11-28T13:10+00:00",
+     "summary": "Skiskytterne Sondre og Ukaleq Slettemark skrev historie, da duoen sikrede Grønland en femteplads."
+    },
+    {
      "title": "19-årig sigtet for knivdrab siger at det var selvforsvar",
      "link": "https://www.bt.dk/krimi/19-aarig-sigtet-for-knivdrab-siger-at-det-var-selvforsvar?referrer=RSS",
      "published": "2026-11-28T13:03+00:00",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/boksning/kessler-fik-en-paa-hatten-og-blev-overrasket-hvor-kom-den-fra?referrer=RSS",
      "published": "2026-11-28T11:51+00:00",
      "summary": "Mikkel Kessler skulle bruge nogle dage i ringen på at finde rytmen mod sine sparringspartnere."
-    },
-    {
-     "title": "Bankkrak: Lukker med øjeblikkelig virkning",
-     "link": "https://www.bt.dk/udland/bankkrak-lukker-med-oejeblikkelig-virkning?referrer=RSS",
-     "published": "2026-11-28T11:43+00:00",
-     "summary": "Amerikanske United Fidelity er lukket af myndighederne."
     }
    ]
   },
