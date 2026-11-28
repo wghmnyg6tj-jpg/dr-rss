@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T06:23+00:00",
+ "generated": "2026-11-28T06:34+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -207,6 +207,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Johns høns får vaccinespray: 'Ellers skal jeg aflive dyrene'",
+     "link": "https://www.dr.dk/nyheder/indland/reels/johns-hoens-faar-vaccinespray-ellers-skal-jeg-aflive-dyrene",
+     "published": "2026-11-28T06:32+00:00",
+     "summary": ""
+    },
+    {
      "title": "Tonsvis af affald stilles foran genbrugsbutikkerne: Regningen løber op i millioner",
      "link": "https://www.dr.dk/nyheder/indland/tonsvis-af-affald-stilles-foran-genbrugsbutikkerne-regningen-loeber-op-i-millioner",
      "published": "2026-11-28T05:45+00:00",
@@ -289,12 +295,6 @@
      "link": "https://www.dr.dk/nyheder/indland/tidligere-radio-og-tv-vaert-joern-hjorting-er-doed",
      "published": "2026-11-27T15:17+00:00",
      "summary": "Jørn Hjorting var i mange år vært på radioprogrammet 'De ringer, vi spiller'. Han blev 95 år."
-    },
-    {
-     "title": "'Nuuk 'em all': Indtag Grønland som Trump i nyt arkadespil",
-     "link": "https://www.dr.dk/nyheder/indland/reels/nuuk-em-all-indtag-groenland-som-trump-i-nyt-arkadespil",
-     "published": "2026-11-27T14:45+00:00",
-     "summary": ""
     }
    ]
   },
