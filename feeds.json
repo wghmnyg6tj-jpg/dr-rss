@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T16:59+00:00",
+ "generated": "2026-11-28T17:09+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -57,6 +57,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Tiltale: 37-årig lagde betaling i forsøg på overgreb mod niårig",
+     "link": "https://ekstrabladet.dk/krimi/tiltale-37-aarig-betalte-knap-21.000-kroner-i-forsoeg-paa-overgreb-mod-niaarig/11368268",
+     "published": "2026-11-28T17:06+00:00",
+     "summary": "Ifølge anklageskriftet overførte manden knap 21.000 kroner i et forsøg på at begå et seksuelt overgreb mod pigen. Aftalen faldt til jorden, da der blev krævet flere penge"
+    },
+    {
      "title": "Frit fald: United ydmyget på Old Trafford",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/frit-fald-united-ydmyget-paa-old-trafford/11368689",
      "published": "2026-11-28T16:53+00:00",
@@ -109,12 +115,6 @@
      "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/kessler-fik-en-paa-hatten-under-optakt-hvor-kom-den-fra/11368457",
      "published": "2026-11-28T15:33+00:00",
      "summary": "Mikkel Kessler skulle bruge nogle dage i ringen på at finde rytmen mod sine sparringspartnere"
-    },
-    {
-     "title": "Motorvej spærret: Varevogn i flammer",
-     "link": "https://ekstrabladet.dk/krimi/motorvej-spaerret-varevogn-i-flammer/11368613",
-     "published": "2026-11-28T15:05+00:00",
-     "summary": "Der er ingen tilskadekomne i forbindelse med branden"
     }
    ]
   },
@@ -195,22 +195,28 @@
    "status": "ok",
    "items": [
     {
+     "title": "Netanyahu vil give rival premierministerpost først i foreslået rotation",
+     "link": "https://www.bt.dk/udland/netanyahu-vil-give-rival-premierministerpost-foerst-i-foreslaaet-rotation?referrer=RSS",
+     "published": "2026-11-28T17:07+00:00",
+     "summary": "Netanyahu er villig til at opgive sit princip om, at det største parti bør lede Israels regering, siger han."
+    },
+    {
+     "title": "17 er såret ved demonstration mod Albaniens regering",
+     "link": "https://www.bt.dk/udland/17-er-saaret-ved-demonstration-mod-albaniens-regering?referrer=RSS",
+     "published": "2026-11-28T17:04+00:00",
+     "summary": "Albanien har i de seneste mange måneder været præget af regeringskritiske demonstrationer."
+    },
+    {
      "title": "Saab får milliardordre på radarsystem til Ukraine",
      "link": "https://www.bt.dk/udland/saab-faar-milliardordre-paa-radarsystem-til-ukraine?referrer=RSS",
      "published": "2026-11-28T16:57+00:00",
      "summary": "Ukraine har bestilt flere radarsystemer af typen Giraffe, som skal hjælpe med at opdage droner og missiler."
     },
     {
-     "title": "Netanyahu vil give rival premierministerpost først i foreslået rotation",
-     "link": "https://www.bt.dk/udland/netanyahu-vil-give-rival-premierministerpost-foerst-i-foreslaaet-rotation?referrer=RSS",
-     "published": "2026-11-28T16:50+00:00",
-     "summary": "Netanyahu er villig til at opgive sit princip om, at det største parti bør lede Israels regering, siger han."
-    },
-    {
      "title": "Flammer i Albaniens gader: Kræver hans afgang!",
      "link": "https://www.bt.dk/udland/flammer-i-albaniens-gader-kraever-hans-afgang?referrer=RSS",
      "published": "2026-11-28T16:45+00:00",
-     "summary": "Det, der begyndte som protester mod et projekt med forbindelser til Donald Trumps svigersøn, har udviklet sig til et voldsomt oprør mod albanske magtelite."
+     "summary": "Det, der begyndte som protester mod et projekt med forbindelser til Donald Trumps svigersøn, har udviklet sig til et voldsomt oprør mod Albaniens magtelite."
     },
     {
      "title": "Dobbeltbookere bliver afsløret: Sådan tager restauranter kampen op",
@@ -247,12 +253,6 @@
      "link": "https://www.bt.dk/samfund/jyder-risikerer-at-staa-op-til-isslag-soendag?referrer=RSS",
      "published": "2026-11-28T15:28+00:00",
      "summary": "Prognoserne melder om muligt isslag i det jyske søndag morgen. Fyn og Sjælland ser ud til at gå fri."
-    },
-    {
-     "title": "Lars Løkke rejser til Indien: Skal tiltrække mere arbejdskraft",
-     "link": "https://www.bt.dk/politik/lars-loekke-rejser-til-indien-skal-tiltraekke-mere-arbejdskraft?referrer=RSS",
-     "published": "2026-11-28T15:27+00:00",
-     "summary": "'Indien har en enorm talentmasse med netop de kompetencer, som danske virksomheder efterspørger,' lyder det fra udenrigsminister Lars Løkke Rasmussen (M)."
     }
    ]
   },
@@ -264,28 +264,40 @@
    "status": "ok",
    "items": [
     {
+     "title": "Netanyahu vil give rival premierministerpost først i foreslået rotation",
+     "link": "https://www.bt.dk/udland/netanyahu-vil-give-rival-premierministerpost-foerst-i-foreslaaet-rotation?referrer=RSS",
+     "published": "2026-11-28T17:07+00:00",
+     "summary": "Netanyahu er villig til at opgive sit princip om, at det største parti bør lede Israels regering, siger han."
+    },
+    {
+     "title": "17 er såret ved demonstration mod Albaniens regering",
+     "link": "https://www.bt.dk/udland/17-er-saaret-ved-demonstration-mod-albaniens-regering?referrer=RSS",
+     "published": "2026-11-28T17:04+00:00",
+     "summary": "Albanien har i de seneste mange måneder været præget af regeringskritiske demonstrationer."
+    },
+    {
+     "title": "United synker mod bunden i Pochettinos voksende mareridt",
+     "link": "https://www.bt.dk/fodbold/united-synker-mod-bunden-i-pochettinos-voksende-mareridt-1?referrer=RSS",
+     "published": "2026-11-28T17:04+00:00",
+     "summary": "Mauricio Pochettino har fortsat ikke fundet mirakelkuren. Brentford vandt med 4-0 på Old Trafford."
+    },
+    {
+     "title": "United synker mod bunden i Pochettinos voksende mareridt",
+     "link": "https://www.bt.dk/fodbold/united-synker-mod-bunden-i-pochettinos-voksende-mareridt?referrer=RSS",
+     "published": "2026-11-28T17:02+00:00",
+     "summary": "Mauricio Pochettino har fortsat ikke fundet mirakelkuren. Brentford vandt med 4-0 på Old Trafford."
+    },
+    {
      "title": "Saab får milliardordre på radarsystem til Ukraine",
      "link": "https://www.bt.dk/udland/saab-faar-milliardordre-paa-radarsystem-til-ukraine?referrer=RSS",
      "published": "2026-11-28T16:57+00:00",
      "summary": "Ukraine har bestilt flere radarsystemer af typen Giraffe, som skal hjælpe med at opdage droner og missiler."
     },
     {
-     "title": "Storklubben Manchester United i krise",
-     "link": "https://www.bt.dk/fodbold/storklubben-manchester-united-i-krise?referrer=RSS",
-     "published": "2026-11-28T16:57+00:00",
-     "summary": ""
-    },
-    {
-     "title": "Netanyahu vil give rival premierministerpost først i foreslået rotation",
-     "link": "https://www.bt.dk/udland/netanyahu-vil-give-rival-premierministerpost-foerst-i-foreslaaet-rotation?referrer=RSS",
-     "published": "2026-11-28T16:50+00:00",
-     "summary": "Netanyahu er villig til at opgive sit princip om, at det største parti bør lede Israels regering, siger han."
-    },
-    {
      "title": "Flammer i Albaniens gader: Kræver hans afgang!",
      "link": "https://www.bt.dk/udland/flammer-i-albaniens-gader-kraever-hans-afgang?referrer=RSS",
      "published": "2026-11-28T16:45+00:00",
-     "summary": "Det, der begyndte som protester mod et projekt med forbindelser til Donald Trumps svigersøn, har udviklet sig til et voldsomt oprør mod albanske magtelite."
+     "summary": "Det, der begyndte som protester mod et projekt med forbindelser til Donald Trumps svigersøn, har udviklet sig til et voldsomt oprør mod Albaniens magtelite."
     },
     {
      "title": "Dobbeltbookere bliver afsløret: Sådan tager restauranter kampen op",
@@ -310,18 +322,6 @@
      "link": "https://www.bt.dk/udland/100-oppustelige-figurer-fylder-new-yorks-gader-ved-thanksgiving-parade?referrer=RSS",
      "published": "2026-11-28T16:09+00:00",
      "summary": "Macy's Thanksgiving Day Parade var egentlig planlagt til torsdag, men dårligt vejr fik den udskudt til lørdag."
-    },
-    {
-     "title": "Troede først, det var hormonelt. Så kom brevet: 'Det var, som om jeg allerede fik beskeden dér'",
-     "link": "https://www.bt.dk/samfund/troede-foerst-det-var-hormonelt-saa-kom-brevet-det-var-som-om-jeg-allerede-fik-beskeden-der?referrer=RSS",
-     "published": "2026-11-28T16:04+00:00",
-     "summary": "28-årige Jennifer Lindström havde endnu ikke fået det endelige svar fra lægerne. Men da hun åbnede indkaldelsen fra hospitalet, var der én lille detalje, der fik hende til straks at gribe telefonen."
-    },
-    {
-     "title": "Sarah Grünewald var tæt på at miste sin forlovede: Nu har hun ikke rørt alkohol og stoffer i et år",
-     "link": "https://www.bt.dk/danske-kendte/sarah-gruenewald-var-taet-paa-at-miste-sin-forlovede-nu-har-hun-ikke-roert-alkohol-og-stoffer-i-et-aar?referrer=RSS",
-     "published": "2026-11-28T15:59+00:00",
-     "summary": "Sarah Grünewald har den 11. december været clean i et år."
     }
    ]
   },
