@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T06:44+00:00",
+ "generated": "2026-11-28T06:55+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -207,6 +207,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Politiet vil kappe LTF's hoved af",
+     "link": "https://www.dr.dk/nyheder/indland/politiet-vil-kappe-ltf-s-hoved-af",
+     "published": "2026-11-28T06:44+00:00",
+     "summary": "Det er især på økonomien, at politiet vil skrue op for indsatsen mod Loyal to Familia."
+    },
+    {
      "title": "Johns høns får vaccinespray: 'Ellers skal jeg aflive dyrene'",
      "link": "https://www.dr.dk/nyheder/indland/reels/johns-hoens-faar-vaccinespray-ellers-skal-jeg-aflive-dyrene",
      "published": "2026-11-28T06:32+00:00",
@@ -289,12 +295,6 @@
      "link": "https://www.dr.dk/nyheder/indland/reels/sparemor-koeber-alle-julegaver-til-en-fjerdedel-af-prisen",
      "published": "2026-11-27T15:30+00:00",
      "summary": ""
-    },
-    {
-     "title": "Tidligere radio- og tv-vært Jørn Hjorting er død",
-     "link": "https://www.dr.dk/nyheder/indland/tidligere-radio-og-tv-vaert-joern-hjorting-er-doed",
-     "published": "2026-11-27T15:17+00:00",
-     "summary": "Jørn Hjorting var i mange år vært på radioprogrammet 'De ringer, vi spiller'. Han blev 95 år."
     }
    ]
   },
@@ -603,6 +603,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "De er landets\nstørste bande",
+     "link": "https://ekstrabladet.dk/krimi/politiets-hovedfjende-ltf-er-landets-stoerste-bande/11366138",
+     "published": "2026-11-28T06:54+00:00",
+     "summary": "Loyal to Familia har 200 medlemmer - en tredjedel sidder i fængsel, lyder det fra Rigspolitichefen."
+    },
+    {
+     "title": "Skandaleramt familie\nskovler milliarder ind",
+     "link": "https://ekstrabladet.dk/penge/en-million-i-timen-familien-oestergaards-formue-er-eksploderet/11367374",
+     "published": "2026-11-28T06:51+00:00",
+     "summary": "Familien er strøget direkte op på en plads i top fem over landets rigeste"
+    },
+    {
      "title": "Dansk golfspiller vinder terræn ved turnering i Australien",
      "link": "https://ekstrabladet.dk/sport/anden_sport/golf/dansk-golfspiller-vinder-terraen-ved-turnering-i-australien/11368235",
      "published": "2026-11-28T06:36+00:00",
@@ -649,18 +661,6 @@
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/kraevede-kamp-fuhlendorff-bog-makuleret-efter-strid-med-spang/11367477",
      "published": "2026-11-28T05:09+00:00",
      "summary": "Først forsøgte man at ændre en formulering i Christian Fuhlendorffs nye samtalebog. Et helt afsnit er nu ude af e- og lydbog, mens den fysiske bog er trukket tilbage for at undgå retsmøde"
-    },
-    {
-     "title": "Model døde efter fest med NFL-stjerne: Raser mod 'falske' anklager",
-     "link": "https://ekstrabladet.dk/sport/anden_sport/nfl/model-doede-efter-fest-med-nfl-stjerne-raser-mod-falske-anklager/11367291",
-     "published": "2026-11-28T05:03+00:00",
-     "summary": "Sagen om Kimberly Fattorinis død har fået nyt liv, efter Shawne Merriman er gået ud og afviser de seneste beskyldninger. Sagen handler om en overdosisdød, et civilt søgsmål og en erstatning på millioner"
-    },
-    {
-     "title": "Politiet med efterlysning: Har du set Karen?",
-     "link": "https://ekstrabladet.dk/krimi/80-aarige-karen-efterlyses-gik-fra-kolding-sygehus/11368239",
-     "published": "2026-11-28T04:53+00:00",
-     "summary": "Karen blev senest set fredag omkring klokken 23. Politiet beder offentligheden om hjælp til at finde hende"
     }
    ]
   },
@@ -741,6 +741,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Netflix-opslag går verden rundt: Trump Jr. helt paf",
+     "link": "https://www.bt.dk/udland/netflix-opslag-gaar-verden-rundt-trump-jr-helt-paf?referrer=RSS",
+     "published": "2026-11-28T06:51+00:00",
+     "summary": "Opslaget er bestemt ikke faldet i alles smag."
+    },
+    {
+     "title": "Isabella fandt sin søster dræbt: ‘Jeg var slet ikke forberedt på det, jeg kom ind til‘",
+     "link": "https://www.bt.dk/krimi/isabella-fandt-sin-soester-draebt-jeg-var-slet-ikke-forberedt-paa-det-jeg-kom-ind-til?referrer=RSS",
+     "published": "2026-11-28T06:47+00:00",
+     "summary": "En stormende forelskelse endte i drab og selvmord, og smadrede to familier. Isabella Borup ville ønske, hun havde kendt til de syv advarselstegn, der går forud for et partnerdrab. For måske kunne ulykken have være afværget."
+    },
+    {
      "title": "DMI advarer: Farligt vejr på vej",
      "link": "https://www.bt.dk/vejret/dmi-advarer-farligt-vejr-paa-vej?referrer=RSS",
      "published": "2026-11-28T06:21+00:00",
@@ -787,18 +799,6 @@
      "link": "https://www.bt.dk/udland/ukraine-nedskyder-for-foerste-gang-russisk-drone-med-lasersystem?referrer=RSS",
      "published": "2026-11-28T01:35+00:00",
      "summary": "Lasersystem har ifølge ukrainsk forsvarsorganisation nedskudt en jetdrevet russisk drone for første gang."
-    },
-    {
-     "title": "OpenAI og Apple beskylder hinanden for at stjæle hemmeligheder",
-     "link": "https://www.bt.dk/udland/openai-og-apple-beskylder-hinanden-for-at-stjaele-hemmeligheder?referrer=RSS",
-     "published": "2026-11-27T23:10+00:00",
-     "summary": "Apple har tidligere sagsøgt OpenAI. Fredag har selskabet, der har lavet ChatGPT, indsendt et modsvar."
-    },
-    {
-     "title": "Morten Bødskov beskyldte Rusland for migrantkrise, men det var ikke sandt",
-     "link": "https://www.bt.dk/politik/morten-boedskov-beskyldte-rusland-for-migrantkrise-men-det-var-ikke-sandt?referrer=RSS",
-     "published": "2026-11-27T22:42+00:00",
-     "summary": "Ifølge mediet tjekdet.dk viser et svar fra EUs udenrigstjeneste, EEAS, at Rusland ikke stod bag migrantkrise i Ceuta i sommer."
     }
    ]
   },
@@ -809,6 +809,18 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Netflix-opslag går verden rundt: Trump Jr. helt paf",
+     "link": "https://www.bt.dk/udland/netflix-opslag-gaar-verden-rundt-trump-jr-helt-paf?referrer=RSS",
+     "published": "2026-11-28T06:51+00:00",
+     "summary": "Opslaget er bestemt ikke faldet i alles smag."
+    },
+    {
+     "title": "Isabella fandt sin søster dræbt: ‘Jeg var slet ikke forberedt på det, jeg kom ind til‘",
+     "link": "https://www.bt.dk/krimi/isabella-fandt-sin-soester-draebt-jeg-var-slet-ikke-forberedt-paa-det-jeg-kom-ind-til?referrer=RSS",
+     "published": "2026-11-28T06:47+00:00",
+     "summary": "En stormende forelskelse endte i drab og selvmord, og smadrede to familier. Isabella Borup ville ønske, hun havde kendt til de syv advarselstegn, der går forud for et partnerdrab. For måske kunne ulykken have være afværget."
+    },
     {
      "title": "DMI advarer: Farligt vejr på vej",
      "link": "https://www.bt.dk/vejret/dmi-advarer-farligt-vejr-paa-vej?referrer=RSS",
@@ -856,18 +868,6 @@
      "link": "https://www.bt.dk/krimi/politiet-beder-om-hjaelp-forsvundet-fra-sygehus-i-nat?referrer=RSS",
      "published": "2026-11-28T05:05+00:00",
      "summary": "Karen blev senest set 27. november omkring klokken 23."
-    },
-    {
-     "title": "Styrt med militærhelikopter har dræbt otte i Peru",
-     "link": "https://www.bt.dk/udland/styrt-med-militaerhelikopter-har-draebt-otte-i-peru?referrer=RSS",
-     "published": "2026-11-28T04:33+00:00",
-     "summary": "En helikopter fra Perus militær var på redningsaktion, da den selv styrtede, oplyser forsvarsministerium."
-    },
-    {
-     "title": "Politiet anholder person efter uroligheder mellem ishockeyfans",
-     "link": "https://www.bt.dk/oevrig-sport/politiet-anholder-person-efter-uroligheder-mellem-ishockeyfans?referrer=RSS",
-     "published": "2026-11-28T04:19+00:00",
-     "summary": "En politibetjent er blevet behandlet på hospitalet efter uroligheder mellem ishockeyfans i Rødovre fredag."
     }
    ]
   },
