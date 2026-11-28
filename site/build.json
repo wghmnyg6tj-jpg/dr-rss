@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-28T06:44:40+00:00",
- "built_local": "2026-11-28 07:44",
+ "generated": "2026-11-28T06:45:08+00:00",
+ "built_local": "2026-11-28 07:45",
  "feeds_generated": "2026-11-28T06:44+00:00",
  "weather": {
   "ok": true,
@@ -19,7 +19,7 @@
   "foto": 10
  },
  "latest": 20,
- "bytes": 133320,
+ "bytes": 131960,
  "checks": {
   "tl_li": 24,
   "one_body_end": true,
