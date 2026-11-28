@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T11:57+00:00",
+ "generated": "2026-11-28T12:07+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Millioner skal tilbagebetales efter mangeårig usikkerhed om gæld",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/millioner-skal-tilbagebetales-efter-mangeaarig-usikkerhed-om-gaeld/11368468",
+     "published": "2026-11-28T12:02+00:00",
+     "summary": "Staten skal nu tilbagebetale millioner til borgere og virksomheder, der kan have betalt ugyldig gæld"
+    },
+    {
+     "title": "Dokument afslører: Rigmand betalte for ansat på Frihedsbrevet",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/dokument-erhvervsmand-betalte-loennen-til-bruggers-medarbejder/11366819",
+     "published": "2026-11-28T11:57+00:00",
+     "summary": "Fri og uafhængig: Færøsk mangemillionær har betalt for 'ekstra medarbejder' på Frihedsbrevet, mens en diskret erhvervsmand har ydet millionlån. Det viser selskabsdokumenter fra Mads Brüggers seneste kapitalforhøjelse"
+    },
+    {
      "title": "'Tak for alt morfar'",
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/joern-hjorting-mindes-tak-for-alt-morfar/11368442",
      "published": "2026-11-28T11:31+00:00",
@@ -649,18 +661,6 @@
      "link": "https://ekstrabladet.dk/underholdning/kongelige/udenlandskekongelige/prinsesse-kate-kraeft-er-ensomt/11367629",
      "published": "2026-11-28T10:40+00:00",
      "summary": "Prinsesse Kate afslører i et nyt klip fra sin kommende dokumentar, at kræftdiagnosen var en 'ensom rejse'"
-    },
-    {
-     "title": "Dansk stjerne på knæ",
-     "link": "https://ekstrabladet.dk/sport/anden_sport/motorsport/christian-lundgaard-skal-giftes/11368129",
-     "published": "2026-11-28T10:34+00:00",
-     "summary": "Chip Ganassis danske es har været på knæ foran kæresten Gabriella Gilrowski - og fik ja"
-    },
-    {
-     "title": "Advokat sigtet:\nHjalp rocker med\nsorte penge",
-     "link": "https://ekstrabladet.dk/krimi/advokat-sigtet-hjalp-rocker-med-sorte-penge/11368297",
-     "published": "2026-11-28T10:29+00:00",
-     "summary": "Voldsom sag, hvor også lægesekretær, der var kæreste med rocker, lavede ulovlige CPR-opslag på sygehusets datasystemer"
     }
    ]
   },
@@ -671,6 +671,18 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Millioner skal tilbagebetales efter mangeårig usikkerhed om gæld",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/millioner-skal-tilbagebetales-efter-mangeaarig-usikkerhed-om-gaeld/11368468",
+     "published": "2026-11-28T12:02+00:00",
+     "summary": "Staten skal nu tilbagebetale millioner til borgere og virksomheder, der kan have betalt ugyldig gæld"
+    },
+    {
+     "title": "Dokument afslører: Rigmand betalte for ansat på Frihedsbrevet",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/dokument-erhvervsmand-betalte-loennen-til-bruggers-medarbejder/11366819",
+     "published": "2026-11-28T11:57+00:00",
+     "summary": "Fri og uafhængig: Færøsk mangemillionær har betalt for 'ekstra medarbejder' på Frihedsbrevet, mens en diskret erhvervsmand har ydet millionlån. Det viser selskabsdokumenter fra Mads Brüggers seneste kapitalforhøjelse"
+    },
     {
      "title": "Elefant stopper \nscooterfører på flugt",
      "link": "https://ekstrabladet.dk/nyheder/Udland/elefant-stopper-scooterfoerer-paa-flugt/11368122",
@@ -718,18 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig/11368310",
      "published": "2026-11-28T08:14+00:00",
      "summary": "Tusindvis har fået usædvanligt kraftige smerter og blødninger, efter at de deltog i demonstrationer"
-    },
-    {
-     "title": "'Rystede helt vildt': Fly strejfede hinanden",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/passagerfly-strejfede-hinanden-foer-afgang/11368262",
-     "published": "2026-11-28T07:41+00:00",
-     "summary": "To American Airlines-fly stødte fredag sammen med vingespidserne i en lufthavn ved Washington D.C."
-    },
-    {
-     "title": "Superbakterier hos Ukraine-patienter: Frygter smitte",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/saarede-fra-ukraine-baerer-paa-superbakterier-ssi-frygter-spredning/11368259",
-     "published": "2026-11-28T06:11+00:00",
-     "summary": "Multiresistente bakterier er fundet hos 137 evakuerede ukrainere behandlet i Danmark. På et hollandsk hospital fik to børn blodforgiftning efter et udbrud"
     }
    ]
   },
@@ -740,6 +740,12 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Millioner skal tilbagebetales efter mangeårig usikkerhed om gæld",
+     "link": "https://www.bt.dk/samfund/millioner-skal-tilbagebetales-efter-mangeaarig-usikkerhed-om-gaeld?referrer=RSS",
+     "published": "2026-11-28T12:01+00:00",
+     "summary": "Staten skal nu tilbagebetale millioner til borgere og virksomheder, der kan have betalt ugyldig gæld."
+    },
     {
      "title": "19-årig sigtet for knivdrab siger at det var selvforsvar",
      "link": "https://www.bt.dk/krimi/19-aarig-sigtet-for-knivdrab-siger-at-det-var-selvforsvar?referrer=RSS",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/krimi/med-eskorte-til-rigshospitalet-cyklist-i-kritisk-tilstand?referrer=RSS",
      "published": "2026-11-28T10:07+00:00",
      "summary": "De pårørende er endnu ikke blevet underrettet."
-    },
-    {
-     "title": "Tidligere S-folketingsmedlem: Mette Frederiksen er ikke racist",
-     "link": "https://www.bt.dk/politik/tidligere-s-folketingsmedlem-mette-frederiksen-er-ikke-racist?referrer=RSS",
-     "published": "2026-11-28T09:40+00:00",
-     "summary": "Yildiz Akdogan mener, at \"befolkningsudskiftning\" er en \"uheldig formulering\" fra statsministerens side."
     }
    ]
   },
@@ -809,6 +809,12 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Millioner skal tilbagebetales efter mangeårig usikkerhed om gæld",
+     "link": "https://www.bt.dk/samfund/millioner-skal-tilbagebetales-efter-mangeaarig-usikkerhed-om-gaeld?referrer=RSS",
+     "published": "2026-11-28T12:01+00:00",
+     "summary": "Staten skal nu tilbagebetale millioner til borgere og virksomheder, der kan have betalt ugyldig gæld."
+    },
     {
      "title": "19-årig sigtet for knivdrab siger at det var selvforsvar",
      "link": "https://www.bt.dk/krimi/19-aarig-sigtet-for-knivdrab-siger-at-det-var-selvforsvar?referrer=RSS",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/politik/ny-skatteordning-skal-goere-firmacykler-mere-attraktive-fra-2028?referrer=RSS",
      "published": "2026-11-28T10:56+00:00",
      "summary": "Fra 2028 kan arbejdspladser tilbyde firmacykler på mere gunstige skattevilkår, og ansatte må bruge dem privat."
-    },
-    {
-     "title": "Forsvandt fra sygehus: Droner og hunde sat ind",
-     "link": "https://www.bt.dk/krimi/forsvandt-fra-sygehus-droner-og-hunde-sat-ind?referrer=RSS",
-     "published": "2026-11-28T10:30+00:00",
-     "summary": "Politiet gennemsøger også Kolding Sygehus indvendigt."
     }
    ]
   },
@@ -1314,6 +1314,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
+     "link": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
+     "published": "2026-11-28T12:00+00:00",
+     "summary": "Kindles are getting costlier faster than they're getting better."
+    },
+    {
      "title": "The best Black Friday deals Ars could find",
      "link": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
      "published": "2026-11-27T17:05+00:00",
@@ -1396,12 +1402,6 @@
      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
      "published": "2026-11-25T16:47+00:00",
      "summary": "Militaries have many reasons to target data centers and the cloud in wartime."
-    },
-    {
-     "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
-     "link": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
-     "published": "2026-11-25T16:33+00:00",
-     "summary": "Huawei didn’t try very hard to hide thefts of US trade secrets, DOJ says."
     }
    ]
   },
@@ -1728,6 +1728,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Life Goes On",
+     "link": "https://thetrek.co/appalachian-trail/life-goes-on-2/",
+     "published": "2026-11-28T12:00+00:00",
+     "summary": "A tough choice must be made in the closing days of my hike."
+    },
+    {
      "title": "Te Araroa day 33: Beautiful but brutal",
      "link": "https://thetrek.co/te-araroa-day-33-beautiful-but-brutal/",
      "published": "2026-11-28T07:41+00:00",
@@ -1780,12 +1786,6 @@
      "link": "https://thetrek.co/appalachian-trail/happy-fails/",
      "published": "2026-11-27T12:00+00:00",
      "summary": "I set off on my final 4 day backpacking stint, what surprises does the trail have in store for me?"
-    },
-    {
-     "title": "Introducing: Nomadic Nurse Goes Hiking",
-     "link": "https://thetrek.co/pacific-crest-trail/introducing-nomadic-nurse-goes-hiking/",
-     "published": "2026-11-26T21:17+00:00",
-     "summary": "Hey hikers!! My name is Emilie and I am originally from flat land Ontario in Canada, but now I work as a nurse in beautiful British Columbia. I am hiking the Pacific Crest Trail in 2027 which is why I am here, because my friends and family …"
     }
    ]
   },
