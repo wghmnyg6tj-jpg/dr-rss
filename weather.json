@@ -1,9 +1,9 @@
 {
  "version": 2,
- "generated": "2026-11-28T14:54:55Z",
+ "generated": "2026-11-28T15:05:09Z",
  "status": {
   "lightning": "ok",
-  "dmi_forecast": "ok",
+  "dmi_forecast": "HTTP 429",
   "observations": "ok",
   "metno": "ok"
  },
@@ -15,7 +15,7 @@
    "lon": 12.5,
    "found": null,
    "status": {
-    "dmi_forecast": "ok",
+    "dmi_forecast": "HTTP 429",
     "observations": "ok",
     "metno": "ok"
    },
@@ -459,7 +459,7 @@
     }
    },
    "observations": {
-    "fetched": "2026-11-28T14:54:55Z",
+    "fetched": "2026-11-28T15:05:09Z",
     "stations": {
      "06181": {
       "name": "Jægersborg",
@@ -469,25 +469,25 @@
       ],
       "dist_km": 3.4,
       "values": {
-       "humidity": {
-        "value": 62.18,
-        "observed": "2026-11-28T14:50:00Z"
-       },
        "temp_dry": {
-        "value": 2.02,
-        "observed": "2026-11-28T14:50:00Z"
+        "value": 2.2,
+        "observed": "2026-11-28T15:00:00Z"
        },
        "wind_dir": {
-        "value": 147.3,
-        "observed": "2026-11-28T14:50:00Z"
+        "value": 149.4,
+        "observed": "2026-11-28T15:00:00Z"
        },
        "wind_max": {
-        "value": 9.34,
-        "observed": "2026-11-28T14:50:00Z"
+        "value": 10.04,
+        "observed": "2026-11-28T15:00:00Z"
        },
        "wind_speed": {
-        "value": 4.98,
-        "observed": "2026-11-28T14:50:00Z"
+        "value": 6.1,
+        "observed": "2026-11-28T15:00:00Z"
+       },
+       "humidity": {
+        "value": 60.09,
+        "observed": "2026-11-28T15:00:00Z"
        }
       }
      },
@@ -508,13 +508,13 @@
       ],
       "dist_km": 6.6,
       "values": {
-       "humidity": {
-        "value": 58.31,
-        "observed": "2026-11-28T14:50:00Z"
-       },
        "temp_dry": {
         "value": 2.4,
-        "observed": "2026-11-28T14:50:00Z"
+        "observed": "2026-11-28T15:00:00Z"
+       },
+       "humidity": {
+        "value": 58.9,
+        "observed": "2026-11-28T15:00:00Z"
        }
       }
      },
@@ -915,7 +915,7 @@
    "lon": 12.5089,
    "found": "Søborg, Gladsaxe Kommune, Region Hovedstaden, 2870, Danmark",
    "status": {
-    "dmi_forecast": "ok",
+    "dmi_forecast": "fejl: The read operation timed out",
     "observations": "ok",
     "metno": "ok"
    },
@@ -1359,7 +1359,7 @@
     }
    },
    "observations": {
-    "fetched": "2026-11-28T14:54:55Z",
+    "fetched": "2026-11-28T15:05:09Z",
     "stations": {
      "06181": {
       "name": "Jægersborg",
@@ -1369,25 +1369,25 @@
       ],
       "dist_km": 3.5,
       "values": {
-       "humidity": {
-        "value": 62.18,
-        "observed": "2026-11-28T14:50:00Z"
-       },
        "temp_dry": {
-        "value": 2.02,
-        "observed": "2026-11-28T14:50:00Z"
+        "value": 2.2,
+        "observed": "2026-11-28T15:00:00Z"
        },
        "wind_dir": {
-        "value": 147.3,
-        "observed": "2026-11-28T14:50:00Z"
+        "value": 149.4,
+        "observed": "2026-11-28T15:00:00Z"
        },
        "wind_max": {
-        "value": 9.34,
-        "observed": "2026-11-28T14:50:00Z"
+        "value": 10.04,
+        "observed": "2026-11-28T15:00:00Z"
        },
        "wind_speed": {
-        "value": 4.98,
-        "observed": "2026-11-28T14:50:00Z"
+        "value": 6.1,
+        "observed": "2026-11-28T15:00:00Z"
+       },
+       "humidity": {
+        "value": 60.09,
+        "observed": "2026-11-28T15:00:00Z"
        }
       }
      },
@@ -1408,13 +1408,13 @@
       ],
       "dist_km": 6.0,
       "values": {
-       "humidity": {
-        "value": 58.31,
-        "observed": "2026-11-28T14:50:00Z"
-       },
        "temp_dry": {
         "value": 2.4,
-        "observed": "2026-11-28T14:50:00Z"
+        "observed": "2026-11-28T15:00:00Z"
+       },
+       "humidity": {
+        "value": 58.9,
+        "observed": "2026-11-28T15:00:00Z"
        }
       }
      },
@@ -1431,7 +1431,7 @@
    },
    "metno": {
     "updated_at": "2026-11-28T14:29:15Z",
-    "last_modified": "Sat, 28 Nov 2026 14:33:24 GMT",
+    "last_modified": "Sat, 28 Nov 2026 15:05:34 GMT",
     "lat": 55.7365,
     "lon": 12.5089,
     "point": [
@@ -1440,13 +1440,6 @@
      28
     ],
     "hours": {
-     "2026-11-28T14:00:00Z": {
-      "t2": 3.1,
-      "ws": 5.6,
-      "wd": 144.0,
-      "sym": "partlycloudy_day",
-      "mm": 0.0
-     },
      "2026-11-28T15:00:00Z": {
       "t2": 2.6,
       "ws": 5.1,
@@ -1805,13 +1798,13 @@
       "mm": 0.0
      }
     },
-    "fetched": "2026-11-28T14:33:13Z"
+    "fetched": "2026-11-28T15:05:09Z"
    }
   }
  ],
  "location_errors": [],
  "lightning": {
-  "fetched": "2026-11-28T14:54:55Z",
+  "fetched": "2026-11-28T15:05:09Z",
   "bbox": "11.9,55.39,13.1,56.09",
   "count_last_hour": 0,
   "count_last_day": 0
