@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T13:20+00:00",
+ "generated": "2026-11-28T13:31+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -8,6 +8,12 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/senestenyt",
    "status": "ok",
    "items": [
+    {
+     "title": "3,2 millioner husstande får kriseråd direkte i postkassen",
+     "link": "https://www.dr.dk/nyheder/seneste/3-2-millioner-husstande-faar-kriseraad-direkte-i-postkassen",
+     "published": "2026-11-28T13:22+00:00",
+     "summary": ""
+    },
     {
      "title": "Mindst syv børn dræbt i eksplosion nær skole i Afghanistan",
      "link": "https://www.dr.dk/nyheder/seneste/mindst-syv-boern-draebt-i-eksplosion-naer-skole-i-afghanistan",
@@ -90,12 +96,6 @@
      "title": "18-årig fængslet for skud mod tidligere boksers kolonihave",
      "link": "https://www.dr.dk/nyheder/seneste/18-aarig-faengslet-skud-mod-tidligere-boksers-kolonihave",
      "published": "2026-11-27T12:47+00:00",
-     "summary": ""
-    },
-    {
-     "title": "Landsret stadfæster dom mod 27-årig for drab",
-     "link": "https://www.dr.dk/nyheder/seneste/landsret-stadfaester-dom-mod-27-aarig-drab",
-     "published": "2026-11-27T12:26+00:00",
      "summary": ""
     }
    ]
@@ -108,6 +108,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "3,2 millioner husstande får kriseråd direkte i postkassen",
+     "link": "https://www.dr.dk/nyheder/seneste/3-2-millioner-husstande-faar-kriseraad-direkte-i-postkassen",
+     "published": "2026-11-28T13:22+00:00",
+     "summary": ""
+    },
+    {
      "title": "Mindst syv børn dræbt i eksplosion nær skole i Afghanistan",
      "link": "https://www.dr.dk/nyheder/seneste/mindst-syv-boern-draebt-i-eksplosion-naer-skole-i-afghanistan",
      "published": "2026-11-28T10:55+00:00",
@@ -189,12 +195,6 @@
      "title": "18-årig fængslet for skud mod tidligere boksers kolonihave",
      "link": "https://www.dr.dk/nyheder/seneste/18-aarig-faengslet-skud-mod-tidligere-boksers-kolonihave",
      "published": "2026-11-27T12:47+00:00",
-     "summary": ""
-    },
-    {
-     "title": "Landsret stadfæster dom mod 27-årig for drab",
-     "link": "https://www.dr.dk/nyheder/seneste/landsret-stadfaester-dom-mod-27-aarig-drab",
-     "published": "2026-11-27T12:26+00:00",
      "summary": ""
     }
    ]
@@ -222,7 +222,7 @@
      "title": "Stak offer flere gange: 19-årig nægter sig skyldig i drab",
      "link": "https://www.dr.dk/nyheder/indland/stak-offer-flere-gange-19-aarig-naegter-sig-skyldig-i-drab",
      "published": "2026-11-28T12:23+00:00",
-     "summary": "En 21-årig mand afgik natten til lørdag ved døden efter flere knivstik i Gentofte. En 19-årig mand er sigtet."
+     "summary": "En 21-årig døde efter flere knivstik. En 19-årig mand er blevet varetægtsfængslet."
     },
     {
      "title": "Over halvdelen af danske unge er blevet tilbudt stoffer: Her er de mest udbredte",
@@ -306,6 +306,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "FN-domstol afviser at stoppe britisk-israelsk olieprojekt ved Falklandsøerne",
+     "link": "https://www.dr.dk/nyheder/udland/fn-domstol-afviser-stoppe-britisk-israelsk-olieprojekt-ved-falklandsoeerne",
+     "published": "2026-11-28T13:23+00:00",
+     "summary": "Argentina gør stadig krav på Falklandsøerne og vil have olieprojekt stoppet."
+    },
+    {
      "title": "677 levende dyr fundet i smuglernes bagage",
      "link": "https://www.dr.dk/nyheder/udland/reels/677-levende-dyr-fundet-i-smuglernes-bagage",
      "published": "2026-11-28T12:35+00:00",
@@ -388,12 +394,6 @@
      "link": "https://www.dr.dk/nyheder/udland/trump-aftalen-om-groenland-fik-mig-til-se-lidt-anderledes-paa-tingene",
      "published": "2026-11-27T03:42+00:00",
      "summary": "Nato har ikke hjulpet USA nok i krigen mod Iran, men aftalen om Grønland fik Trump til at se \"lidt anderledes på tingene\", siger den amerikanske præsident."
-    },
-    {
-     "title": "Kun 24 EU-lande stiller sig bag Ukraine-lån på topmøde",
-     "link": "https://www.dr.dk/nyheder/udland/kun-24-eu-lande-stiller-sig-bag-ukraine-laan-paa-topmoede",
-     "published": "2026-11-27T01:12+00:00",
-     "summary": "Tysklands forbundskansler har krævet opbakning fra \"alle\" EU-lande til Ukraine, men flere lande siger nej."
     }
    ]
   },
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Stjerneskuespiller\ntrak sig fra\nrampelyset",
+     "link": "https://ekstrabladet.dk/underholdning/udlandkendte/trak-sig-fra-rampelyset-efter-retssag-johnny-depp-nyder-oe-livet/11368516",
+     "published": "2026-11-28T13:28+00:00",
+     "summary": "Stjerneskuespilleren nyder et fredfyldt liv væk fra rampelyset på sin ø på Bahamas"
+    },
+    {
      "title": "Vild nedtur:\nHan har tabt\n160 milliarder",
      "link": "https://ekstrabladet.dk/penge/legendarisk-investors-vilde-nedtur-har-tabt-160-milliarder/11367820",
      "published": "2026-11-28T13:15+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/joern-hjorting-mindes-tak-for-alt-morfar/11368442",
      "published": "2026-11-28T11:31+00:00",
      "summary": "I en alder af 95 år gik Jørn Hjorting fredag bort. Hans barnebarn har del en rørende hilsen til den ikoniske radiovært"
-    },
-    {
-     "title": "Vil ødelægge danskernes weekend",
-     "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/kessler-modstander-vil-oedelaegge-danskernes-weekend/11368362",
-     "published": "2026-11-28T11:27+00:00",
-     "summary": "Mikkel Kesslers modstander er vokset op blandt banditter, og det giver motivation før lørdagens kamp"
     }
    ]
   },
@@ -741,6 +741,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Mindst 30 døde i luftangreb",
+     "link": "https://www.bt.dk/udland/mindst-30-doede-i-luftangreb?referrer=RSS",
+     "published": "2026-11-28T13:22+00:00",
+     "summary": ""
+    },
+    {
      "title": "19-årig sigtet for knivdrab siger at det var selvforsvar",
      "link": "https://www.bt.dk/krimi/19-aarig-sigtet-for-knivdrab-siger-at-det-var-selvforsvar?referrer=RSS",
      "published": "2026-11-28T13:03+00:00",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/politik/ny-skatteordning-skal-goere-firmacykler-mere-attraktive-fra-2028?referrer=RSS",
      "published": "2026-11-28T10:56+00:00",
      "summary": "Fra 2028 kan arbejdspladser tilbyde firmacykler på mere gunstige skattevilkår, og ansatte må bruge dem privat."
-    },
-    {
-     "title": "Forsvandt fra sygehus: Droner og hunde sat ind",
-     "link": "https://www.bt.dk/krimi/forsvandt-fra-sygehus-droner-og-hunde-sat-ind?referrer=RSS",
-     "published": "2026-11-28T10:30+00:00",
-     "summary": "Politiet gennemsøger også Kolding Sygehus indvendigt."
     }
    ]
   },
@@ -809,6 +809,12 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Mindst 30 døde i luftangreb",
+     "link": "https://www.bt.dk/udland/mindst-30-doede-i-luftangreb?referrer=RSS",
+     "published": "2026-11-28T13:22+00:00",
+     "summary": ""
+    },
     {
      "title": "Forrygende skydning sikrer Grønland historisk resultat",
      "link": "https://www.bt.dk/sport/forrygende-skydning-sikrer-groenland-historisk-resultat?referrer=RSS",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/politik/firmacyklister-kan-spare-mindst-1200-kroner-i-skat-med-ny-ordning?referrer=RSS",
      "published": "2026-11-28T11:51+00:00",
      "summary": "Der er mindst 100 kroner at hente hver måned, hvis Alternativets firmacykelforslag kommer med i finansloven."
-    },
-    {
-     "title": "Kessler fik én på hatten og blev overrasket: Hvor kom dén fra?",
-     "link": "https://www.bt.dk/boksning/kessler-fik-en-paa-hatten-og-blev-overrasket-hvor-kom-den-fra?referrer=RSS",
-     "published": "2026-11-28T11:51+00:00",
-     "summary": "Mikkel Kessler skulle bruge nogle dage i ringen på at finde rytmen mod sine sparringspartnere."
     }
    ]
   },
@@ -1116,8 +1116,8 @@
    "status": "ok",
    "items": [
     {
-     "title": "AI-giganters talcirkus slår sprækker: Under overfladen lugter det af ny finanskrise",
-     "link": "https://www.version2.dk/artikel/ai-giganters-talcirkus-slaar-spraekker-under-overfladen-lugter-det-af-ny-finanskrise",
+     "title": "AI-giganternes talcirkus slår sprækker: Under overfladen lugter det af ny finanskrise",
+     "link": "https://www.version2.dk/artikel/ai-giganternes-talcirkus-slaar-spraekker-under-overfladen-lugter-det-af-ny-finanskrise",
      "published": "2026-11-28T04:00+00:00",
      "summary": "Nvidias topchef er tilbage på tronen, men under overfladen knager det i den amerikanske AI-økonomi. Gæld, tvivlsomme investeringer og datacentre med udsigt til milliardtab minder om optakten til finanskrisen i 2008."
     },
@@ -1221,8 +1221,8 @@
      "summary": "Datacentre og AI er i stigende grad på vælgernes hadelister. Med Jensen Huangs uskønne genkomst i Nvidia har Donald Trump måske gjort techeliten en bjørnetjeneste. Vi laver et dybt dyk i Nvidia-bossens liv og de AI-tendenser, som skræmmer …"
     },
     {
-     "title": "AI-giganters talcirkus slår sprækker: Under overfladen lugter det af ny finanskrise",
-     "link": "https://ing.dk/artikel/ai-giganters-talcirkus-slaar-spraekker-under-overfladen-lugter-det-af-ny-finanskrise",
+     "title": "AI-giganternes talcirkus slår sprækker: Under overfladen lugter det af ny finanskrise",
+     "link": "https://ing.dk/artikel/ai-giganternes-talcirkus-slaar-spraekker-under-overfladen-lugter-det-af-ny-finanskrise",
      "published": "2026-11-28T04:00+00:00",
      "summary": "Nvidias topchef er tilbage på tronen, men under overfladen knager det i den amerikanske AI-økonomi. Gæld, tvivlsomme investeringer og datacentre med udsigt til milliardtab minder om optakten til finanskrisen i 2008."
     },

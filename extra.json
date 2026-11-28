@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T13:20+00:00",
+ "generated": "2026-11-28T13:31+00:00",
  "metro": {
   "status": "ok",
   "url": "https://m.dk/da/drift-og-service/status-og-planlagte-driftsaendringer/",
@@ -73,7 +73,9 @@
     "title": "Webinar om den nye resultatopfølgning",
     "url": "https://star.dk/om-styrelsen/nyt/nyheder-og-aktuelt-fra-styrelsen-for-arbejdsmarked-og-rekruttering/2026/10/se-eller-gense-webinaret-om-den-nye-resultatopfoelgning"
    }
-  ]
+  ],
+  "stale_since": "2026-11-28T13:20+00:00",
+  "status_now": "fejl: HTTPError: HTTP Error 503: Service Unavailable"
  },
  "akasser": {
   "status": "ok",
