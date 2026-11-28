@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T16:49+00:00",
+ "generated": "2026-11-28T16:59+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -57,6 +57,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Frit fald: United ydmyget på Old Trafford",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/frit-fald-united-ydmyget-paa-old-trafford/11368689",
+     "published": "2026-11-28T16:53+00:00",
+     "summary": "Brentford vandt hele 4-0 mod kriseramte Manchester United på Old Trafford. Callum Wilson scorede kampens to første mål"
+    },
+    {
      "title": "Vanvidscifre: Absurd ydmygelse i Bundesligaen",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/tyskfodbold/vanvidscifre-schalke-blev-destrueret-i-oprykkerduel/11368674",
      "published": "2026-11-28T16:32+00:00",
@@ -109,12 +115,6 @@
      "link": "https://ekstrabladet.dk/krimi/motorvej-spaerret-varevogn-i-flammer/11368613",
      "published": "2026-11-28T15:05+00:00",
      "summary": "Der er ingen tilskadekomne i forbindelse med branden"
-    },
-    {
-     "title": "OB fyrer Thomas Helveg",
-     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/ob-fyrer-thomas-helveg/11368610",
-     "published": "2026-11-28T15:00+00:00",
-     "summary": "OB har opsagt samarbejdet med klublegenden Thomas Helveg, bekræfter Troels Bech over for Bold"
     }
    ]
   },
@@ -195,6 +195,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Saab får milliardordre på radarsystem til Ukraine",
+     "link": "https://www.bt.dk/udland/saab-faar-milliardordre-paa-radarsystem-til-ukraine?referrer=RSS",
+     "published": "2026-11-28T16:57+00:00",
+     "summary": "Ukraine har bestilt flere radarsystemer af typen Giraffe, som skal hjælpe med at opdage droner og missiler."
+    },
+    {
+     "title": "Netanyahu vil give rival premierministerpost først i foreslået rotation",
+     "link": "https://www.bt.dk/udland/netanyahu-vil-give-rival-premierministerpost-foerst-i-foreslaaet-rotation?referrer=RSS",
+     "published": "2026-11-28T16:50+00:00",
+     "summary": "Netanyahu er villig til at opgive sit princip om, at det største parti bør lede Israels regering, siger han."
+    },
+    {
      "title": "Flammer i Albaniens gader: Kræver hans afgang!",
      "link": "https://www.bt.dk/udland/flammer-i-albaniens-gader-kraever-hans-afgang?referrer=RSS",
      "published": "2026-11-28T16:45+00:00",
@@ -241,18 +253,6 @@
      "link": "https://www.bt.dk/politik/lars-loekke-rejser-til-indien-skal-tiltraekke-mere-arbejdskraft?referrer=RSS",
      "published": "2026-11-28T15:27+00:00",
      "summary": "'Indien har en enorm talentmasse med netop de kompetencer, som danske virksomheder efterspørger,' lyder det fra udenrigsminister Lars Løkke Rasmussen (M)."
-    },
-    {
-     "title": "Motorvej spærret: Varevogn i brand",
-     "link": "https://www.bt.dk/trafik/motorvej-spaerret-varevogn-i-brand?referrer=RSS",
-     "published": "2026-11-28T15:03+00:00",
-     "summary": ""
-    },
-    {
-     "title": "Må først prøveløslades om 22 år: Skrækkelig sag ryster Frankrig",
-     "link": "https://www.bt.dk/udland/maa-foerst-proeveloeslades-om-22-aar-skraekkelig-sag-ryster-frankrig?referrer=RSS",
-     "published": "2026-11-28T14:31+00:00",
-     "summary": "4. maj 2021 ventede Boutaa på Daoud uden for sit hjem i Mérignac, en forstad til Bordeaux."
     }
    ]
   },
@@ -263,6 +263,24 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Saab får milliardordre på radarsystem til Ukraine",
+     "link": "https://www.bt.dk/udland/saab-faar-milliardordre-paa-radarsystem-til-ukraine?referrer=RSS",
+     "published": "2026-11-28T16:57+00:00",
+     "summary": "Ukraine har bestilt flere radarsystemer af typen Giraffe, som skal hjælpe med at opdage droner og missiler."
+    },
+    {
+     "title": "Storklubben Manchester United i krise",
+     "link": "https://www.bt.dk/fodbold/storklubben-manchester-united-i-krise?referrer=RSS",
+     "published": "2026-11-28T16:57+00:00",
+     "summary": ""
+    },
+    {
+     "title": "Netanyahu vil give rival premierministerpost først i foreslået rotation",
+     "link": "https://www.bt.dk/udland/netanyahu-vil-give-rival-premierministerpost-foerst-i-foreslaaet-rotation?referrer=RSS",
+     "published": "2026-11-28T16:50+00:00",
+     "summary": "Netanyahu er villig til at opgive sit princip om, at det største parti bør lede Israels regering, siger han."
+    },
     {
      "title": "Flammer i Albaniens gader: Kræver hans afgang!",
      "link": "https://www.bt.dk/udland/flammer-i-albaniens-gader-kraever-hans-afgang?referrer=RSS",
@@ -304,24 +322,6 @@
      "link": "https://www.bt.dk/danske-kendte/sarah-gruenewald-var-taet-paa-at-miste-sin-forlovede-nu-har-hun-ikke-roert-alkohol-og-stoffer-i-et-aar?referrer=RSS",
      "published": "2026-11-28T15:59+00:00",
      "summary": "Sarah Grünewald har den 11. december været clean i et år."
-    },
-    {
-     "title": "Vilde billeder: Millionby under vand",
-     "link": "https://www.bt.dk/udland/vilde-billeder-millionby-under-vand?referrer=RSS",
-     "published": "2026-11-28T15:45+00:00",
-     "summary": "Voldsomme Thanksgiving-storme har oversvømmet gader og efterladt hundredtusindvis af husstande uden strøm langs USA's østkyst."
-    },
-    {
-     "title": "Janni Ree chokerer: 'Jeg blev slået'",
-     "link": "https://www.bt.dk/danske-kendte/janni-ree-chokerer-jeg-blev-slaaet?referrer=RSS",
-     "published": "2026-11-28T15:42+00:00",
-     "summary": "Den tidligere forsidefrue fortæller nu om en voldsom episode, som seerne aldrig fik at se."
-    },
-    {
-     "title": "Jyder risikerer at stå op til isslag søndag",
-     "link": "https://www.bt.dk/samfund/jyder-risikerer-at-staa-op-til-isslag-soendag?referrer=RSS",
-     "published": "2026-11-28T15:28+00:00",
-     "summary": "Prognoserne melder om muligt isslag i det jyske søndag morgen. Fyn og Sjælland ser ud til at gå fri."
     }
    ]
   },
