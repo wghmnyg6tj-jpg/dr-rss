@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T12:28+00:00",
+ "generated": "2026-11-28T12:38+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -306,6 +306,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "677 levende dyr fundet i smuglernes bagage",
+     "link": "https://www.dr.dk/nyheder/udland/reels/677-levende-dyr-fundet-i-smuglernes-bagage",
+     "published": "2026-11-28T12:35+00:00",
+     "summary": ""
+    },
+    {
      "title": "Læger uden Grænser: To ansatte er døde i israelsk angreb i Gaza",
      "link": "https://www.dr.dk/nyheder/udland/laeger-uden-graenser-ansatte-er-doede-i-israelsk-angreb-i-gaza",
      "published": "2026-11-28T05:41+00:00",
@@ -388,12 +394,6 @@
      "link": "https://www.dr.dk/nyheder/udland/kun-24-eu-lande-stiller-sig-bag-ukraine-laan-paa-topmoede",
      "published": "2026-11-27T01:12+00:00",
      "summary": "Tysklands forbundskansler har krævet opbakning fra \"alle\" EU-lande til Ukraine, men flere lande siger nej."
-    },
-    {
-     "title": "Forhandlingskollaps: Afbryder EU-topmøde en dag før tid",
-     "link": "https://www.dr.dk/nyheder/udland/eu/forhandlingskollaps-afbryder-eu-topmoede-en-dag-foer-tid",
-     "published": "2026-11-26T21:18+00:00",
-     "summary": "I forhandlingerne om EU's næste flerårige budget er landene så langt fra hinanden, at de nu går hver til sit - en dag før tid."
     }
    ]
   },
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Bekræfter: Andreas Christensen tilbage",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/spanskfodbold/bekraefter-andreas-christensen-tilbage/11368479",
+     "published": "2026-11-28T12:28+00:00",
+     "summary": "Andreas Christensen er klar til minutter, bekræfter Hansi Flick forud for kampen mod Deportivo A Coruña"
+    },
+    {
      "title": "Bossen bekræfter: Her er Vingegaards holdnavn",
      "link": "https://ekstrabladet.dk/sport/cykling/bossen-bekraefter-her-er-vingegaards-holdnavn/11368439",
      "published": "2026-11-28T12:19+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/nyheder/samfund/frankrig-i-chok-braendte-ekskonen-levende/11368304",
      "published": "2026-11-28T10:56+00:00",
      "summary": "En fransk appeldomstol har stadfæstet livstidsdommen over 50-årige Mounir Boutaa, der brændte sin ekskone Chahinez Daoud levende. Inden drabet havde hun bedt politiet om beskyttelse"
-    },
-    {
-     "title": "Købte Nvidia-aktier\nfor 300.000 \nkroner",
-     "link": "https://ekstrabladet.dk/penge/perfekt-timing-koebte-nvidia-aktier-for-300.000-kroner/11367741",
-     "published": "2026-11-28T10:46+00:00",
-     "summary": "Den danske investor Tobias Storm ejer nu Nvidia-aktier for omkring 820.000 kroner. Han mener, at markedet er blevet for pessimistisk om chipgigantens fremtid"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Netop udgivet: Bidens bog flopper",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/netop-landet-paa-hylderne-bidens-bog-flopper/11368369",
+     "published": "2026-11-28T12:38+00:00",
+     "summary": "Joe Biden topper den amerikanske bestsellerliste for fagbøger, men hans erindringer sælger langt langsommere end Barack Obamas og Bill Clintons"
+    },
     {
      "title": "Millioner skal tilbagebetales efter mangeårig usikkerhed om gæld",
      "link": "https://ekstrabladet.dk/nyheder/samfund/millioner-skal-tilbagebetales-efter-mangeaarig-usikkerhed-om-gaeld/11368468",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/samfund/raser-over-netflix-kys-hvad-er-der-galt-med-jer/11368317",
      "published": "2026-11-28T09:03+00:00",
      "summary": "Et videoklip med to kvinder, der kysser i en seng, og som Netflix delte på X på Thanksgiving, har fået Donald Trump Jr. til tasterne"
-    },
-    {
-     "title": "Mystik i Frankrig: Tusindevis af kvinder ramt",
-     "link": "https://ekstrabladet.dk/nyheder/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig/11368310",
-     "published": "2026-11-28T08:14+00:00",
-     "summary": "Tusindvis har fået usædvanligt kraftige smerter og blødninger, efter at de deltog i demonstrationer"
     }
    ]
   },
@@ -740,6 +740,12 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Domstol afviser at stoppe britisk olieprojekt ved Falklandsøerne",
+     "link": "https://www.bt.dk/udland/domstol-afviser-at-stoppe-britisk-olieprojekt-ved-falklandsoeerne?referrer=RSS",
+     "published": "2026-11-28T12:32+00:00",
+     "summary": "Argentina mener, at olieudvinding bryder FN-resolution i strid med Storbritannien om Falklandsøerne."
+    },
     {
      "title": "3,2 millioner husstande får fysisk pjece med opdaterede kriseråd",
      "link": "https://www.bt.dk/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad?referrer=RSS",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/krimi/forsvandt-fra-sygehus-droner-og-hunde-sat-ind?referrer=RSS",
      "published": "2026-11-28T10:30+00:00",
      "summary": "Politiet gennemsøger også Kolding Sygehus indvendigt."
-    },
-    {
-     "title": "Cyklist er kørt med eskorte til hospitalet efter ulykke",
-     "link": "https://www.bt.dk/krimi/cyklist-er-koert-med-eskorte-til-hospitalet-efter-ulykke?referrer=RSS",
-     "published": "2026-11-28T10:15+00:00",
-     "summary": "En cyklist er lørdag blevet påkørt af en personbil i et kryds i Næstved. Hans tilstand betegnes som kritisk."
     }
    ]
   },
@@ -809,6 +809,18 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Domstol afviser at stoppe britisk olieprojekt ved Falklandsøerne",
+     "link": "https://www.bt.dk/udland/domstol-afviser-at-stoppe-britisk-olieprojekt-ved-falklandsoeerne?referrer=RSS",
+     "published": "2026-11-28T12:32+00:00",
+     "summary": "Argentina mener, at olieudvinding bryder FN-resolution i strid med Storbritannien om Falklandsøerne."
+    },
+    {
+     "title": "I krig med gigant: 'Orker ikke det vrøvl'",
+     "link": "https://www.bt.dk/dagligvarer/i-krig-med-gigant-orker-ikke-det-vroevl?referrer=RSS",
+     "published": "2026-11-28T12:29+00:00",
+     "summary": "Erling Daell går til kamp mod Salling Group."
+    },
     {
      "title": "3,2 millioner husstande får fysisk pjece med opdaterede kriseråd",
      "link": "https://www.bt.dk/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad?referrer=RSS",
@@ -856,18 +868,6 @@
      "link": "https://www.bt.dk/krimi/sigtet-efter-21-aarigs-doed-det-var-selvforsvar?referrer=RSS",
      "published": "2026-11-28T11:24+00:00",
      "summary": "Intet tyder - på nuværende tidspunkt - på, at hændelsen er banderelateret."
-    },
-    {
-     "title": "Dronning Margrethe uddeler millioner: Her er modtagerne",
-     "link": "https://www.bt.dk/royale/dronning-margrethe-uddeler-millioner-her-er-modtagerne?referrer=RSS",
-     "published": "2026-11-28T11:05+00:00",
-     "summary": "I alt er der uddelt mere end tre millioner"
-    },
-    {
-     "title": "Yaqoub Ali: Mette Frederiksen havde ret, der skal være en stærk majoritetskultur",
-     "link": "https://www.bt.dk/debat/yaqoub-alimette-frederiksen-havde-ret-der-skal-vaere-en-staerk-majoritetskultur?referrer=RSS",
-     "published": "2026-11-28T11:00+00:00",
-     "summary": ""
     }
    ]
   },
@@ -1017,6 +1017,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Why a Bird Photographer Keeps Choosing Canon's RF 200-800mm Over Sharper Lenses",
+     "link": "https://fstoppers.com/gear/why-bird-photographer-keeps-choosing-canons-rf-200-800mm-over-sharper-lenses-905695?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-28T12:03+00:00",
+     "summary": "Canon's 200-800mm is big, stiff to zoom, and slow at the long end, yet no other Canon lens covers that range in a single barrel. If you shoot birds or wildlife, knowing when that range beats sharper, faster glass decides what you carry …"
+    },
+    {
+     "title": "6 Color Mistakes That Make Your Photos Look Muddy",
+     "link": "https://fstoppers.com/education/6-color-mistakes-make-your-photos-look-muddy-905694?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-28T10:03+00:00",
+     "summary": "Pushing the saturation and HSL sliders in Lightroom feels like the fastest route to vivid photos, yet heavy color often leaves an image busier and flatter than the scene you remember. Color decides where a viewer looks first, how deep the …"
+    },
+    {
      "title": "Butch Cassidy's Gang Sat for a Fort Worth Portrait in 1900, and the Pinkertons Cropped It for Wanted Posters",
      "link": "https://fstoppers.com/historical/butch-cassidys-gang-sat-fort-worth-portrait-1900-and-pinkertons-cropped-it-905336?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
      "published": "2026-11-27T22:03+00:00",
@@ -1026,7 +1038,7 @@
      "title": "Live Update: Best Black Friday Deals for Photographers",
      "link": "https://fstoppers.com/gear/live-update-best-black-friday-deals-photographers-905685?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
      "published": "2026-11-27T19:34+00:00",
-     "summary": "Updated 25 minutes ago . We've searched the web for the best Black Friday deals on photography and video gear, and we'll keep adding new ones all day as we find them. [ Read More ]"
+     "summary": "Updated 42 minutes ago . We've searched the web for the best Black Friday deals on photography and video gear, and we'll keep adding new ones all day as we find them. [ Read More ]"
     },
     {
      "title": "Why Thypoch Isn't Just Another Leica Lens Copycat",
@@ -1093,18 +1105,6 @@
      "link": "https://fstoppers.com/education/5-ways-get-better-photos-cloudy-days-905671?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
      "published": "2026-11-26T10:03+00:00",
      "summary": "You check the forecast, see a solid wall of gray for the weekend, and feel the pull to leave the camera at home. Overcast light strips away the shape and contrast that golden hour gives you for free, so every good frame on those days …"
-    },
-    {
-     "title": "Brightin Star’s New APO 35mm F/1.7 M-Mount Lens is Fabulous! But What’s APO?",
-     "link": "https://fstoppers.com/gear/brightin-stars-new-apo-35mm-f17-m-mount-lens-fabulous-whats-apo-905669?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-     "published": "2026-11-26T04:12+00:00",
-     "summary": "After two and a half years in development, Brightin Star has launched an apochromatic lens for Leica’s M-mount system that ticks all the right boxes as an extremely high-quality and practical 35mm prime for Leica shooters. Actually, you …"
-    },
-    {
-     "title": "Why Most Camera Buyers Should Skip the Extended Warranty at Checkout",
-     "link": "https://fstoppers.com/gear/why-most-camera-buyers-should-skip-extended-warranty-checkout-905335?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-     "published": "2026-11-25T22:03+00:00",
-     "summary": "At $1,998, its price in early November, a Sony a7 IV drew a checkout offer at a major camera retailer: three years of protection for $119.99. Most buyers should decline it. The breakdown coverage largely repeats what the manufacturer and a …"
     }
    ]
   },
