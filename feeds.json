@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T11:25+00:00",
+ "generated": "2026-11-28T11:35+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -207,6 +207,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Over halvdelen af danske unge er blevet tilbudt stoffer: Her er de mest udbredte",
+     "link": "https://www.dr.dk/nyheder/indland/over-halvdelen-af-danske-unge-er-blevet-tilbudt-stoffer-her-er-de-mest-udbredte",
+     "published": "2026-11-28T11:26+00:00",
+     "summary": "Unge møder blandt andet i høj grad et lægemiddel til behandling af ADHD."
+    },
+    {
      "title": "Familie overfaldet i eget hjem - to personer anholdt",
      "link": "https://www.dr.dk/nyheder/regionale/fyn/fynsk-familie-overfaldet-i-eget-hjem-personer-anholdt",
      "published": "2026-11-28T10:53+00:00",
@@ -289,12 +295,6 @@
      "link": "https://www.dr.dk/nyheder/indland/13-byroedder-har-bremset-kaempe-havneudvidelse-nu-vil-flere-have-staten-paa-banen",
      "published": "2026-11-27T19:00+00:00",
      "summary": "Flere mener, at selvom Kerteminde Byråd har sagt nej til en kæmpe udvidelse af Odense Havn, så må staten tage affære."
-    },
-    {
-     "title": "Ny pædofilfilm understreger betydningen af særlig rådgivningslinje – nu forlænger Red Barnet den med fire år",
-     "link": "https://www.dr.dk/nyheder/indland/ny-paedofilfilm-understreger-betydningen-af-saerlig-raadgivningslinje-nu-forlaenger-red-barnet-den",
-     "published": "2026-11-27T18:21+00:00",
-     "summary": "Red Barnet har fået 11,2 millioner til at forlænge deres rådgivningslinje TalMedOs med fire år."
     }
    ]
   },
@@ -603,6 +603,24 @@
    "status": "ok",
    "items": [
     {
+     "title": "'Tak for alt morfar'",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/joern-hjorting-mindes-tak-for-alt-morfar/11368442",
+     "published": "2026-11-28T11:31+00:00",
+     "summary": "I en alder af 95 år gik Jørn Hjorting fredag bort. Hans barnebarn har del en rørende hilsen til den ikoniske radiovært"
+    },
+    {
+     "title": "Vil ødelægge danskernes weekend",
+     "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/kessler-modstander-vil-oedelaegge-danskernes-weekend/11368362",
+     "published": "2026-11-28T11:27+00:00",
+     "summary": "Mikkel Kesslers modstander er vokset op blandt banditter, og det giver motivation før lørdagens kamp"
+    },
+    {
+     "title": "Sigtet for knivdrab",
+     "link": "https://ekstrabladet.dk/krimi/sigtet-for-knivdrab/11368430",
+     "published": "2026-11-28T11:26+00:00",
+     "summary": "Offer stukket med kniv flere steder på kroppen"
+    },
+    {
      "title": "Pep Guardiola bekræfter: Sker aldrig igen",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/spanskfodbold/pep-afviser-aldrig-mere-barcelona/11368410",
      "published": "2026-11-28T11:16+00:00",
@@ -643,24 +661,6 @@
      "link": "https://ekstrabladet.dk/krimi/advokat-sigtet-hjalp-rocker-med-sorte-penge/11368297",
      "published": "2026-11-28T10:29+00:00",
      "summary": "Voldsom sag, hvor også lægesekretær, der var kæreste med rocker, lavede ulovlige CPR-opslag på sygehusets datasystemer"
-    },
-    {
-     "title": "Elever dræbt i eksplosion \ni Afghanistan",
-     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/mindst-seks-elever-draebt-i-eksplosion-ved-skole-i-afghanistan/11368407",
-     "published": "2026-11-28T10:17+00:00",
-     "summary": "Foruden seks omkomne er 97 personer kommet til skade ved eksplosion i bygning i det østlige Afghanistan"
-    },
-    {
-     "title": "Cyklist i kritisk tilstand efter påkørsel i Næstved",
-     "link": "https://ekstrabladet.dk/krimi/cyklist-i-kritisk-tilstand-efter-paakoersel-i-naestved/11368412",
-     "published": "2026-11-28T10:08+00:00",
-     "summary": "En cyklist er lørdag blevet påkørt af en personbil i et kryds i Næstved. Hans tilstand betegnes som kritisk"
-    },
-    {
-     "title": "Vanvidsbryllup:\n500.000 mennesker\ndeltog",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/vanvidsbryllup-500.000-mennesker-deltog/11367482",
-     "published": "2026-11-28T09:53+00:00",
-     "summary": "I Indiens fattigste region, Bihar, er et bryllup for en toppolitikers datter løbet med al opmærksomheden. Selv har politikeren været genstand for flere efterforskninger, herunder for mord"
     }
    ]
   },
@@ -744,7 +744,7 @@
      "title": "Sigtet efter 21-årigs død: 'Det var selvforsvar'",
      "link": "https://www.bt.dk/krimi/sigtet-efter-21-aarigs-doed-det-var-selvforsvar?referrer=RSS",
      "published": "2026-11-28T11:24+00:00",
-     "summary": ""
+     "summary": "Intet tyder - på nuværende tidspunkt - på, at hændelsen er banderelateret."
     },
     {
      "title": "Yaqoub Ali: Mette Frederiksen havde ret, der skal være en stærk majoritetskultur",
@@ -813,7 +813,7 @@
      "title": "Sigtet efter 21-årigs død: 'Det var selvforsvar'",
      "link": "https://www.bt.dk/krimi/sigtet-efter-21-aarigs-doed-det-var-selvforsvar?referrer=RSS",
      "published": "2026-11-28T11:24+00:00",
-     "summary": ""
+     "summary": "Intet tyder - på nuværende tidspunkt - på, at hændelsen er banderelateret."
     },
     {
      "title": "Dronning Margrethe uddeler millioner: Her er modtagerne",
@@ -1581,6 +1581,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "The Neuron Academy - Dedicated Send - 11.28.26",
+     "link": "https://www.theneuron.ai/newsletter/the-neuron-academy-dedicated-send-11-28-26/",
+     "published": "2026-11-28T10:30+00:00",
+     "summary": ""
+    },
+    {
      "title": "😺 OpenAI claims matrix math's exact limit",
      "link": "https://www.theneuron.ai/newsletter/november-27-friday/",
      "published": "2026-11-27T09:30+00:00",
@@ -1633,12 +1639,6 @@
      "link": "https://www.theneuron.ai/newsletter/3-microsoft-execs-explain-their-ai-plan/",
      "published": "2026-11-25T20:05+00:00",
      "summary": ""
-    },
-    {
-     "title": "Magnitude Uses Your SSD to Run AI Models Bigger Than Your Memory",
-     "link": "https://www.theneuron.ai/news/magnitude-uses-your-ssd-to-run-ai-models-bigger-than-your-memory/",
-     "published": "2026-11-25T17:53+00:00",
-     "summary": "Magnitude says a 24 GB RTX 3090 generated 41 tokens per second with a 66 GB Qwen model. The open-source engine keeps frequently used weights in memory and streams the rest from an SSD. How soon you see the first word is a separate question."
     }
    ]
   },
