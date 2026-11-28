@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T08:38+00:00",
+ "generated": "2026-11-28T08:49+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Jensens vilde uge:\nStørste stigning \ni 19 måneder",
+     "link": "https://ekstrabladet.dk/penge/jensen-genopstaar-bedste-uge-i-19-maaneder-paa-wall-street/11368293",
+     "published": "2026-11-28T08:47+00:00",
+     "summary": "Efter flere ugers tæsk slog de amerikanske aktier tilbage. Nvidia-chefens comeback satte gang i handlen mandag, og fredag tog AI-aktierne endnu et hop"
+    },
+    {
      "title": "Pludselig ringede Kessler: - Mange følelser",
      "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/pludselig-ringede-mikkel-kessler-mange-foelelser/11367707",
      "published": "2026-11-28T08:19+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/krimi/21-aarig-doed-efter-knivstik/11368272",
      "published": "2026-11-28T07:10+00:00",
      "summary": "En 21-årig mand, som fredag aften ved 18-tiden blev stukket med en kniv i Gentofte, er i nat afgået ved døden"
-    },
-    {
-     "title": "Ny TV 2-chef i tæt samarbejde med \nfolkene bag 'Alle elsker Rasmus'",
-     "link": "https://ekstrabladet.dk/underholdning/filmogtv/ny-tv-2-chef-i-taet-samarbejde-med-selskab-bag-alle-elsker-rasmus/11367414",
-     "published": "2026-11-28T07:02+00:00",
-     "summary": "Sune Roland overtager posten som programdirektør på TV 2 og kommer direkte fra en stilling som direktør i Shift Studios, der havde et særdeles tæt samarbejde med Drive Studios, hvor han også havde kontor"
     }
    ]
   },
@@ -741,6 +741,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "21-årig mand dræbt med kniv - 19-årig sigtet for drabet",
+     "link": "https://www.bt.dk/krimi/21-aarig-mand-draebt-med-kniv-19-aarig-sigtet-for-drabet?referrer=RSS",
+     "published": "2026-11-28T08:45+00:00",
+     "summary": "En 19-årig mand vil lørdag blive krævet varetægtsfængslet for drab på 21-årig mand i Gentofte fredag aften."
+    },
+    {
+     "title": "Kvinder ramt af kramper og aborter efter tåregas under demoer i Frankrig",
+     "link": "https://www.bt.dk/udland/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig?referrer=RSS",
+     "published": "2026-11-28T08:38+00:00",
+     "summary": "Tusindvis har fået usædvanligt kraftige smerter og blødninger, efter at de deltog i demonstrationer."
+    },
+    {
      "title": "Familie truet med kniv og forsøgt bundet i eget hjem i nat",
      "link": "https://www.bt.dk/krimi/familie-truet-med-kniv-og-forsoegt-bundet-i-eget-hjem-i-nat?referrer=RSS",
      "published": "2026-11-28T08:31+00:00",
@@ -748,21 +760,9 @@
     },
     {
      "title": "Kvinder ramt af kramper og aborter efter tåregas under demoer i Frankrig",
-     "link": "https://www.bt.dk/udland/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig?referrer=RSS",
-     "published": "2026-11-28T08:10+00:00",
-     "summary": "Tusindvis har fået usædvanligt kraftige smerter og blødninger, efter at de deltog i demonstrationer."
-    },
-    {
-     "title": "Kvinder ramt af kramper og aborter efter tåregas under demoer i Frankrig",
      "link": "https://www.bt.dk/udland/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig-1?referrer=RSS",
      "published": "2026-11-28T07:59+00:00",
      "summary": ""
-    },
-    {
-     "title": "21-årig mand dræbt med kniv - 19-årig sigtet for drabet",
-     "link": "https://www.bt.dk/krimi/21-aarig-mand-draebt-med-kniv-19-aarig-sigtet-for-drabet?referrer=RSS",
-     "published": "2026-11-28T07:42+00:00",
-     "summary": "En 19-årig mand vil lørdag blive krævet varetægtsfængslet for drab på 21-årig mand i Gentofte fredag aften."
     },
     {
      "title": "Forsøgt bundet i nat: Familie i kæmpe mareridt",
@@ -810,6 +810,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "21-årig mand dræbt med kniv - 19-årig sigtet for drabet",
+     "link": "https://www.bt.dk/krimi/21-aarig-mand-draebt-med-kniv-19-aarig-sigtet-for-drabet?referrer=RSS",
+     "published": "2026-11-28T08:45+00:00",
+     "summary": "En 19-årig mand vil lørdag blive krævet varetægtsfængslet for drab på 21-årig mand i Gentofte fredag aften."
+    },
+    {
+     "title": "Kvinder ramt af kramper og aborter efter tåregas under demoer i Frankrig",
+     "link": "https://www.bt.dk/udland/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig?referrer=RSS",
+     "published": "2026-11-28T08:38+00:00",
+     "summary": "Tusindvis har fået usædvanligt kraftige smerter og blødninger, efter at de deltog i demonstrationer."
+    },
+    {
      "title": "Sexolog: Sådan undgår du utroskab til julefrokosten",
      "link": "https://www.bt.dk/sex-og-samliv/sexolog-saadan-undgaar-du-utroskab-til-julefrokosten?referrer=RSS",
      "published": "2026-11-28T08:36+00:00",
@@ -835,12 +847,6 @@
     },
     {
      "title": "Kvinder ramt af kramper og aborter efter tåregas under demoer i Frankrig",
-     "link": "https://www.bt.dk/udland/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig?referrer=RSS",
-     "published": "2026-11-28T08:10+00:00",
-     "summary": "Tusindvis har fået usædvanligt kraftige smerter og blødninger, efter at de deltog i demonstrationer."
-    },
-    {
-     "title": "Kvinder ramt af kramper og aborter efter tåregas under demoer i Frankrig",
      "link": "https://www.bt.dk/udland/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig-1?referrer=RSS",
      "published": "2026-11-28T07:59+00:00",
      "summary": ""
@@ -850,12 +856,6 @@
      "link": "https://www.bt.dk/danske-kendte/christian-fuhlendorff-blev-bitter-paa-sin-kendte-kollega-jeg-blev-noedt-til-at-arbejde-med-mig-selv?referrer=RSS",
      "published": "2026-11-28T07:44+00:00",
      "summary": "Komikeren fik siden et godt råd fra Søren Rasted."
-    },
-    {
-     "title": "21-årig mand dræbt med kniv - 19-årig sigtet for drabet",
-     "link": "https://www.bt.dk/krimi/21-aarig-mand-draebt-med-kniv-19-aarig-sigtet-for-drabet?referrer=RSS",
-     "published": "2026-11-28T07:42+00:00",
-     "summary": "En 19-årig mand vil lørdag blive krævet varetægtsfængslet for drab på 21-årig mand i Gentofte fredag aften."
     },
     {
      "title": "Læger advarer: Stiger med 800 procent",
