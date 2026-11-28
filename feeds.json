@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T05:52+00:00",
+ "generated": "2026-11-28T06:03+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "'De var rædselsslagne'",
+     "link": "https://ekstrabladet.dk/krimi/de-var-raedselsslagne/11367899",
+     "published": "2026-11-28T06:01+00:00",
+     "summary": "Der var ikke et gældsforhold mellem to gamle venner, men regulær afpresning, lyder det i sag mod Comanches-rocker"
+    },
+    {
      "title": "Styrt med militærhelikopter har dræbt otte i Peru",
      "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/styrt-med-militaerhelikopter-har-draebt-otte-i-peru/11368238",
      "published": "2026-11-28T05:40+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/anden_sport/nfl/vildt-syn-nfl-stjerner-toemte-iltbeholder/11367584",
      "published": "2026-11-27T22:26+00:00",
      "summary": "Der var taget ekstraordinære forholdsregler, da NFL-stjernerne gæstede Mexico City. Alligevel måtte en af de store iltbeholdere udskiftes allerede ved pausen"
-    },
-    {
-     "title": "Dømt for 191 drab\n- kendt skyldig i\n123 mere",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/blev-doemt-for-191-drab-nu-er-han-kendt-skyldig-i-123-drab-mere/11368030",
-     "published": "2026-11-27T22:15+00:00",
-     "summary": "Sektleder er kendt skyldig i drab på i alt 314 mennesker"
     }
    ]
   },
@@ -810,6 +810,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Hustruens store frygt: 'Jeg har det forfærdeligt'",
+     "link": "https://www.bt.dk/boksning/hustruens-store-frygt-jeg-har-det-forfaerdeligt?referrer=RSS",
+     "published": "2026-11-28T05:57+00:00",
+     "summary": "Kesslers hustru er bange – kan ikke holde det ud."
+    },
+    {
      "title": "Læger uden Grænser: To ansatte er døde i israelsk angreb i Gaza",
      "link": "https://www.bt.dk/udland/laeger-uden-graenser-to-ansatte-er-doede-i-israelsk-angreb-i-gaza?referrer=RSS",
      "published": "2026-11-28T05:49+00:00",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/udland/uganda-tester-eksperimentel-vaccine-mod-ebola?referrer=RSS",
      "published": "2026-11-28T03:24+00:00",
      "summary": "Uganda har fredag påbegyndt forsøg med eksperimentel ebolavaccine. I DR Congo gør man snart det samme."
-    },
-    {
-     "title": "Tyson Fury får grønt lys til boksebrag efter helbredsbekymring",
-     "link": "https://www.bt.dk/boksning/tyson-fury-faar-groent-lys-til-boksebrag-efter-helbredsbekymring?referrer=RSS",
-     "published": "2026-11-28T02:43+00:00",
-     "summary": "I en ny dokumentar fik hustru til bokser angiveligt ved en fejl sagt, at hendes mand var skizofren."
     }
    ]
   },
