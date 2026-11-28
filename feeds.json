@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T14:44+00:00",
+ "generated": "2026-11-28T14:54+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Hans Engell: \n- En sejr for Hummelgaard",
+     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/hans-engell-en-sejr-for-hummelgaard/11368577",
+     "published": "2026-11-28T14:52+00:00",
+     "summary": "Hans Engell peger på finansloven som en klar sejr til Peter Hummelgaard"
+    },
+    {
+     "title": "Dansker i vild optur: Stjæler showet i Tyskland",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/tyskfodbold/hertha-dansker-i-vild-optur-stjaeler-showet-i-tyskland/11368555",
+     "published": "2026-11-28T14:45+00:00",
+     "summary": "Sebastian Grønning stod for to af målene, da Hertha Berlin lørdag eftermiddag udbyggede forspringet til forfølgerne i 2. Bundesliga"
+    },
+    {
      "title": "Sarah Grünewald:\nTæt på at miste\nsin forlovede",
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/sarah-grunewald-om-tidligere-misbrug-taet-paa-at-miste-sin-forlovede/11368572",
      "published": "2026-11-28T14:39+00:00",
@@ -649,18 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/dorgu-starter-i-pochettinos-hjemmebanedebut/11368553",
      "published": "2026-11-28T13:58+00:00",
      "summary": "Patrick Dorgu er tilbage i startopstillingen, når Manchester United lørdag tager imod Brentford i Premier League"
-    },
-    {
-     "title": "Finanslov på vej: Indkalder til pressemøde",
-     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/finanslov-paa-vej-indkalder-til-pressemoede/11368526",
-     "published": "2026-11-28T13:39+00:00",
-     "summary": "Finansministeriet indkalder til pressemøde om finansloven søndag"
-    },
-    {
-     "title": "Bojana Popovic: - Skal nok have en pause",
-     "link": "https://ekstrabladet.dk/sport/haandbold/bojana-popovic-skal-nok-have-en-pause/11367157",
-     "published": "2026-11-28T13:33+00:00",
-     "summary": "Bojana Popovic har for nylig forlænget kontrakten som landsholdsassistent til udgangen af 2028, mens hun er stoppet som klubtræner i Rumænien"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Hans Engell: \n- En sejr for Hummelgaard",
+     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/hans-engell-en-sejr-for-hummelgaard/11368577",
+     "published": "2026-11-28T14:52+00:00",
+     "summary": "Hans Engell peger på finansloven som en klar sejr til Peter Hummelgaard"
+    },
     {
      "title": "5000 soldater \ngik land i i sex-hovedstad: \nSå ramte skuffelsen",
      "link": "https://ekstrabladet.dk/nyheder/Udland/5000-soldater-gik-land-i-i-sex-hovedstad-kaempe-fuser/11367619",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/mindst-ti-elever-draebt-i-eksplosion-ved-skole-i-afghanistan/11368407",
      "published": "2026-11-28T10:17+00:00",
      "summary": "Foruden ti omkomne er 110 personer kommet til skade ved eksplosion i bygning i det østlige Afghanistan"
-    },
-    {
-     "title": "Vanvidsbryllup:\n500.000 mennesker\ndeltog",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/vanvidsbryllup-500.000-mennesker-deltog/11367482",
-     "published": "2026-11-28T09:53+00:00",
-     "summary": "I Indiens fattigste region, Bihar, er et bryllup for en toppolitikers datter løbet med al opmærksomheden. Selv har politikeren været genstand for flere efterforskninger, herunder for mord"
     }
    ]
   },
