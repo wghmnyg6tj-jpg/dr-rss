@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T09:21+00:00",
+ "generated": "2026-11-28T09:31+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -612,7 +612,7 @@
      "title": "Stort databrud: 30.000 kunder kan være ramt",
      "link": "https://ekstrabladet.dk/nyheder/samfund/stort-databrud-30.000-kunder-kan-vaere-ramt/11368363",
      "published": "2026-11-28T09:06+00:00",
-     "summary": "Telefonnumre og i nogle tilfælde adresser kan være lækket, efter at uvedkommende fik adgang til en logfil hos elnetselskabets SMS-leverandør."
+     "summary": "Et databrud hos Trefors SMS-leverandør har muligvis betydet et læk af telefonnumre og adresser på kunder"
     },
     {
      "title": "Trump Jr. tyer til tasterne: Raser over Netflix-kys",
@@ -675,7 +675,7 @@
      "title": "Stort databrud: 30.000 kunder kan være ramt",
      "link": "https://ekstrabladet.dk/nyheder/samfund/stort-databrud-30.000-kunder-kan-vaere-ramt/11368363",
      "published": "2026-11-28T09:06+00:00",
-     "summary": "Telefonnumre og i nogle tilfælde adresser kan være lækket, efter at uvedkommende fik adgang til en logfil hos elnetselskabets SMS-leverandør."
+     "summary": "Et databrud hos Trefors SMS-leverandør har muligvis betydet et læk af telefonnumre og adresser på kunder"
     },
     {
      "title": "Trump Jr. tyer til tasterne: Raser over Netflix-kys",
@@ -741,6 +741,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Databrud kan have ramt 30.000 kunder hos elnetselskab",
+     "link": "https://www.bt.dk/samfund/databrud-kan-have-ramt-30000-kunder-hos-elnetselskab?referrer=RSS",
+     "published": "2026-11-28T09:23+00:00",
+     "summary": "Et databrud hos Trefors SMS-leverandør har muligvis betydet et læk af telefonnumre og adresser på kunder."
+    },
+    {
+     "title": "Tidligere S-folketingsmedlem: Mette Frederiksen er ikke racist",
+     "link": "https://www.bt.dk/politik/tidligere-s-folketingsmedlem-mette-frederiksen-er-ikke-racist?referrer=RSS",
+     "published": "2026-11-28T09:23+00:00",
+     "summary": "Yildiz Akdogan mener, at \"befolkningsudskiftning\" er en \"uheldig formulering\" fra statsministerens side."
+    },
+    {
      "title": "Kilder i Centerpartiet: Lederpost er på spil i strid om Ulf Kristersson",
      "link": "https://www.bt.dk/udland/kilder-i-centerpartiet-lederpost-er-paa-spil-i-strid-om-ulf-kristersson?referrer=RSS",
      "published": "2026-11-28T09:09+00:00",
@@ -787,18 +799,6 @@
      "link": "https://www.bt.dk/krimi/forsoegt-bundet-i-nat-familie-i-kaempe-mareridt?referrer=RSS",
      "published": "2026-11-28T07:34+00:00",
      "summary": "Familien består af en far, en mor og en ung kvinde. Derudover var datterens veninde til stede."
-    },
-    {
-     "title": "SSI holder øje: Superbakterier fra Ukraine på danske hospitaler",
-     "link": "https://www.bt.dk/samfund/ssi-holder-oeje-superbakterier-fra-ukraine-paa-danske-hospitaler?referrer=RSS",
-     "published": "2026-11-28T07:17+00:00",
-     "summary": "Der bliver holdt skarpt øje med udviklingen."
-    },
-    {
-     "title": "Stukket ned med kniv: 21-årig død i nat",
-     "link": "https://www.bt.dk/krimi/stukket-ned-med-kniv-21-aarig-doed-i-nat?referrer=RSS",
-     "published": "2026-11-28T07:03+00:00",
-     "summary": "De pårørende er underrettet."
     }
    ]
   },
@@ -809,6 +809,24 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Elisa Lykke om sine fire kræftforløb: Det har gjort mig mere taknemmelig",
+     "link": "https://www.bt.dk/danske-kendte/elisa-lykke-om-sine-fire-kraeftforloeb-det-har-gjort-mig-mere-taknemmelig?referrer=RSS",
+     "published": "2026-11-28T09:26+00:00",
+     "summary": "PR-agenten Elisa Lykke har været ramt af kræft flere gange. Særligt de seneste to kræftforløb har sat dybe spor og givet hende et helt nyt syn på livet."
+    },
+    {
+     "title": "Databrud kan have ramt 30.000 kunder hos elnetselskab",
+     "link": "https://www.bt.dk/samfund/databrud-kan-have-ramt-30000-kunder-hos-elnetselskab?referrer=RSS",
+     "published": "2026-11-28T09:23+00:00",
+     "summary": "Et databrud hos Trefors SMS-leverandør har muligvis betydet et læk af telefonnumre og adresser på kunder."
+    },
+    {
+     "title": "Tidligere S-folketingsmedlem: Mette Frederiksen er ikke racist",
+     "link": "https://www.bt.dk/politik/tidligere-s-folketingsmedlem-mette-frederiksen-er-ikke-racist?referrer=RSS",
+     "published": "2026-11-28T09:23+00:00",
+     "summary": "Yildiz Akdogan mener, at \"befolkningsudskiftning\" er en \"uheldig formulering\" fra statsministerens side."
+    },
     {
      "title": "Jørn Hjortings sidste ord: Det vil han huskes for",
      "link": "https://www.bt.dk/danske-kendte/joern-hjortings-sidste-ord-det-vil-han-huskes-for?referrer=RSS",
@@ -850,24 +868,6 @@
      "link": "https://www.bt.dk/krimi/21-aarig-mand-draebt-med-kniv-19-aarig-sigtet-for-drabet?referrer=RSS",
      "published": "2026-11-28T08:45+00:00",
      "summary": "En 19-årig mand vil lørdag blive krævet varetægtsfængslet for drab på 21-årig mand i Gentofte fredag aften."
-    },
-    {
-     "title": "Kvinder ramt af kramper og aborter efter tåregas under demoer i Frankrig",
-     "link": "https://www.bt.dk/udland/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig?referrer=RSS",
-     "published": "2026-11-28T08:38+00:00",
-     "summary": "Tusindvis har fået usædvanligt kraftige smerter og blødninger, efter at de deltog i demonstrationer."
-    },
-    {
-     "title": "Sexolog: Sådan undgår du utroskab til julefrokosten",
-     "link": "https://www.bt.dk/sex-og-samliv/sexolog-saadan-undgaar-du-utroskab-til-julefrokosten?referrer=RSS",
-     "published": "2026-11-28T08:36+00:00",
-     "summary": "Man kan forhindre utroskab gennem sin beklædning, lyder det fra kendt sexolog. Men hun har et endnu bedre råd."
-    },
-    {
-     "title": "Vært bryder ud i gråd: YouTube-hit slutter efter 12 år",
-     "link": "https://www.bt.dk/int-kendte/vaert-bryder-ud-i-graad-youtube-hit-slutter-efter-12-aar?referrer=RSS",
-     "published": "2026-11-28T08:32+00:00",
-     "summary": "Den sidste udgave af det populære 'Chicken Shop Date' er nu blevet publiceret."
     }
    ]
   },
@@ -1935,7 +1935,7 @@
    "status": "ok",
    "items": [
     {
-     "title": "They want our hands. Do they want us?",
+     "title": "Expert Insights: They want our hands. Do they want us?",
      "link": "https://cphpost.dk/2026-11-28/opinion/they-want-our-hands-do-they-want-us/",
      "published": "2026-11-28T07:48+00:00",
      "summary": "The author: Marianne Danling is a Danish intercultural communication expert who has called Berlin home for over 31 years. With a background in Cultural Studies and three decades of experience working with leaders and organisations across …"
