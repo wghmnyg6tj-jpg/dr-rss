@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T08:49+00:00",
+ "generated": "2026-11-28T08:59+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Brøndby-spiller ikke med i bussen: - Røgslør",
+     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/olti-hyseni-ikke-med-i-broendby-bussen-godt-gammeldags-roegsloer/11368346",
+     "published": "2026-11-28T08:56+00:00",
+     "summary": "Olti Hyseni kom ikke i aktion fredag aften mod Sønderjyske Fodbold, selvom han var en del af kamptruppen"
+    },
+    {
      "title": "Jensens vilde uge:\nStørste stigning \ni 19 måneder",
      "link": "https://ekstrabladet.dk/penge/jensen-genopstaar-bedste-uge-i-19-maaneder-paa-wall-street/11368293",
      "published": "2026-11-28T08:47+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/messi-og-co.-er-faerdige-i-mls-slutspillet/11368271",
      "published": "2026-11-28T07:17+00:00",
      "summary": "Inter Miamis forsvarende MLS-mestre tabte 0-1 til Columbus Crew og kommer ikke til at genvinde titlen"
-    },
-    {
-     "title": "21-årig død efter knivstik",
-     "link": "https://ekstrabladet.dk/krimi/21-aarig-doed-efter-knivstik/11368272",
-     "published": "2026-11-28T07:10+00:00",
-     "summary": "En 21-årig mand, som fredag aften ved 18-tiden blev stukket med en kniv i Gentofte, er i nat afgået ved døden"
     }
    ]
   },
@@ -724,12 +724,6 @@
      "link": "https://ekstrabladet.dk/nyheder/videnskab/netop-opdaget-i-dybhavet-ny-familie-af-spaghetti-orme/11367850",
      "published": "2026-11-27T21:06+00:00",
      "summary": "Ny slægt af mareridtsagtige spaghetti-orme fundet på havets bund"
-    },
-    {
-     "title": "Medie: Nordkorea \npauser våbenhjælp \ntil Rusland",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/medie-nordkorea-pauser-vaabenhjaelp-til-rusland/11367143",
-     "published": "2026-11-27T20:53+00:00",
-     "summary": "Ifølge den ukrainske efterretningstjeneste HUR er der opstået diplomatisk uenighed mellem Rusland er Nordkorea, der er en af Ruslands vigtigste allierede"
     }
    ]
   },
