@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T09:10+00:00",
+ "generated": "2026-11-28T09:20+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -207,6 +207,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Minister: Hvis salg af stoffer sker i nærheden af skoler, vil hammeren falde hårdere",
+     "link": "https://www.dr.dk/nyheder/indland/minister-hvis-salg-af-stoffer-sker-i-naerheden-af-skoler-vil-hammeren-falde-haardere",
+     "published": "2026-11-28T09:10+00:00",
+     "summary": "Regeringen lægger op til, at straffen for salg af stoffer i nærheden af skoler skal hæves med \"en tredjedel\"."
+    },
+    {
      "title": "21-årig død efter knivstik i Gentofte",
      "link": "https://www.dr.dk/nyheder/indland/21-aarig-doed-efter-knivstik-i-gentofte",
      "published": "2026-11-28T07:20+00:00",
@@ -289,12 +295,6 @@
      "link": "https://www.dr.dk/nyheder/indland/charlottes-sag-blev-afgjort-af-ai-nu-gaar-ombudsmand-ind-i-sagen",
      "published": "2026-11-27T17:21+00:00",
      "summary": "Nyborg Kommune brugte under 12 timer på at afvise en 36 sider lang klage - og undskyldte senere, at der var brugt kunstig intelligens i forbindelse med afgørelsen."
-    },
-    {
-     "title": "Radiokolleger mindes Jørn Hjorting: 'Det er jo dansktoppens far, der er gået bort i dag'",
-     "link": "https://www.dr.dk/nyheder/indland/radiokolleger-mindes-joern-hjorting-det-er-jo-dansktoppens-far-der-er-gaaet-bort-i-dag",
-     "published": "2026-11-27T17:20+00:00",
-     "summary": "Flere af Jørn Hjortings kollegaer beskriver ham som et koryfæ for samtaleradio og dansktopmusikken."
     }
    ]
   },
@@ -741,6 +741,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Kilder i Centerpartiet: Lederpost er på spil i strid om Ulf Kristersson",
+     "link": "https://www.bt.dk/udland/kilder-i-centerpartiet-lederpost-er-paa-spil-i-strid-om-ulf-kristersson?referrer=RSS",
+     "published": "2026-11-28T09:09+00:00",
+     "summary": "Centerpartiet er splittet efter udmelding om, at partiet vil støtte Ulf Kristersson som svensk statsminister."
+    },
+    {
      "title": "Frygter datalæk: 30.000 kunder ramt",
      "link": "https://www.bt.dk/samfund/frygter-datalaek-30000-kunder-ramt?referrer=RSS",
      "published": "2026-11-28T09:04+00:00",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/krimi/stukket-ned-med-kniv-21-aarig-doed-i-nat?referrer=RSS",
      "published": "2026-11-28T07:03+00:00",
      "summary": "De pårørende er underrettet."
-    },
-    {
-     "title": "Netflix-opslag går verden rundt: Trump Jr. helt paf",
-     "link": "https://www.bt.dk/udland/netflix-opslag-gaar-verden-rundt-trump-jr-helt-paf?referrer=RSS",
-     "published": "2026-11-28T06:51+00:00",
-     "summary": "Opslaget er bestemt ikke faldet i alles smag."
     }
    ]
   },
@@ -809,6 +809,18 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Jørn Hjortings sidste ord: Det vil han huskes for",
+     "link": "https://www.bt.dk/danske-kendte/joern-hjortings-sidste-ord-det-vil-han-huskes-for?referrer=RSS",
+     "published": "2026-11-28T09:13+00:00",
+     "summary": "Radiolegenden blev 95 år. Han nåede inden sin død at give et sidste interview til DR."
+    },
+    {
+     "title": "Kilder i Centerpartiet: Lederpost er på spil i strid om Ulf Kristersson",
+     "link": "https://www.bt.dk/udland/kilder-i-centerpartiet-lederpost-er-paa-spil-i-strid-om-ulf-kristersson?referrer=RSS",
+     "published": "2026-11-28T09:09+00:00",
+     "summary": "Centerpartiet er splittet efter udmelding om, at partiet vil støtte Ulf Kristersson som svensk statsminister."
+    },
     {
      "title": "Prinsesse Kate åbner op om kræftforløb: 'Det er en ensom rejse'",
      "link": "https://www.bt.dk/royale/prinsesse-kate-aabner-op-om-kraeftforloeb-det-er-en-ensom-rejse?referrer=RSS",
@@ -856,18 +868,6 @@
      "link": "https://www.bt.dk/int-kendte/vaert-bryder-ud-i-graad-youtube-hit-slutter-efter-12-aar?referrer=RSS",
      "published": "2026-11-28T08:32+00:00",
      "summary": "Den sidste udgave af det populære 'Chicken Shop Date' er nu blevet publiceret."
-    },
-    {
-     "title": "Familie truet med kniv og forsøgt bundet i eget hjem i nat",
-     "link": "https://www.bt.dk/krimi/familie-truet-med-kniv-og-forsoegt-bundet-i-eget-hjem-i-nat?referrer=RSS",
-     "published": "2026-11-28T08:31+00:00",
-     "summary": "En mand og en kvinde er anholdt i en speciel sag, hvor fire personer blev forsøgt bundet natten til lørdag."
-    },
-    {
-     "title": "Stjerneinstruktør fik chokbesked: 'Jeg var dybt skuffet'",
-     "link": "https://www.bt.dk/film-tv-og-streaming/stjerneinstruktoer-fik-chokbesked-jeg-var-dybt-skuffet?referrer=RSS",
-     "published": "2026-11-28T08:18+00:00",
-     "summary": "Til gengæld er der snart dobbelt lækkerbisken til biografgængerne"
     }
    ]
   },
