@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T13:31+00:00",
+ "generated": "2026-11-28T13:41+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Finanslov på vej: Indkalder til pressemøde",
+     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/finanslov-paa-vej-indkalder-til-pressemoede/11368526",
+     "published": "2026-11-28T13:39+00:00",
+     "summary": ""
+    },
+    {
+     "title": "Bojana Popovic: - Skal nok have en pause",
+     "link": "https://ekstrabladet.dk/sport/haandbold/bojana-popovic-skal-nok-have-en-pause/11367157",
+     "published": "2026-11-28T13:33+00:00",
+     "summary": "Bojana Popovic har for nylig forlænget kontrakten som landsholdsassistent til udgangen af 2028, mens hun er stoppet som klubtræner i Rumænien"
+    },
+    {
      "title": "Stjerneskuespiller\ntrak sig fra\nrampelyset",
      "link": "https://ekstrabladet.dk/underholdning/udlandkendte/trak-sig-fra-rampelyset-efter-retssag-johnny-depp-nyder-oe-livet/11368516",
      "published": "2026-11-28T13:28+00:00",
@@ -649,18 +661,6 @@
      "link": "https://ekstrabladet.dk/nyheder/samfund/millioner-skal-tilbagebetales-efter-mangeaarig-usikkerhed-om-gaeld/11368468",
      "published": "2026-11-28T12:02+00:00",
      "summary": "Staten skal nu tilbagebetale millioner til borgere og virksomheder, der kan have betalt ugyldig gæld"
-    },
-    {
-     "title": "Dokument afslører: Rigmand betalte for ansat på Frihedsbrevet",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/dokument-erhvervsmand-betalte-loennen-til-bruggers-medarbejder/11366819",
-     "published": "2026-11-28T11:57+00:00",
-     "summary": "Fri og uafhængig: Færøsk mangemillionær har betalt for 'ekstra medarbejder' på Frihedsbrevet, mens en diskret erhvervsmand har ydet millionlån. Det viser selskabsdokumenter fra Mads Brüggers seneste kapitalforhøjelse"
-    },
-    {
-     "title": "'Tak for alt morfar'",
-     "link": "https://ekstrabladet.dk/underholdning/dkkendte/joern-hjorting-mindes-tak-for-alt-morfar/11368442",
-     "published": "2026-11-28T11:31+00:00",
-     "summary": "I en alder af 95 år gik Jørn Hjorting fredag bort. Hans barnebarn har del en rørende hilsen til den ikoniske radiovært"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Finanslov på vej: Indkalder til pressemøde",
+     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/finanslov-paa-vej-indkalder-til-pressemoede/11368526",
+     "published": "2026-11-28T13:39+00:00",
+     "summary": ""
+    },
     {
      "title": "3,2 millioner husstande får fysisk pjece med opdaterede kriseråd",
      "link": "https://ekstrabladet.dk/nyheder/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad/11368474",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/s-profil-om-mette-frederiksen-hun-er-ikke-racist/11368375",
      "published": "2026-11-28T09:31+00:00",
      "summary": "Yildiz Akdogan (S) håber, at statsministeren dropper ordet 'befolkningsudskiftning'"
-    },
-    {
-     "title": "Stort databrud: 30.000 kunder kan være ramt",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/stort-databrud-30.000-kunder-kan-vaere-ramt/11368363",
-     "published": "2026-11-28T09:06+00:00",
-     "summary": "Et databrud hos Trefors SMS-leverandør har muligvis betydet et læk af telefonnumre og adresser på kunder"
     }
    ]
   },
@@ -741,16 +741,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "19-årig sigtet for knivdrab siger at det var selvforsvar",
+     "link": "https://www.bt.dk/krimi/19-aarig-sigtet-for-knivdrab-siger-at-det-var-selvforsvar?referrer=RSS",
+     "published": "2026-11-28T13:34+00:00",
+     "summary": "19-årig fængsles i fire uger. Der er en begrundet mistanke om, at han er skyldig i dødsvold, vurderer dommer."
+    },
+    {
      "title": "Mindst 30 døde i luftangreb",
      "link": "https://www.bt.dk/udland/mindst-30-doede-i-luftangreb?referrer=RSS",
      "published": "2026-11-28T13:22+00:00",
      "summary": ""
-    },
-    {
-     "title": "19-årig sigtet for knivdrab siger at det var selvforsvar",
-     "link": "https://www.bt.dk/krimi/19-aarig-sigtet-for-knivdrab-siger-at-det-var-selvforsvar?referrer=RSS",
-     "published": "2026-11-28T13:03+00:00",
-     "summary": "19-årig fængsles i fire uger. Der er en begrundet mistanke om, at han er skyldig i dødsvold, vurderer dommer."
     },
     {
      "title": "Domstol afviser at stoppe britisk olieprojekt ved Falklandsøerne",
@@ -810,6 +810,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "19-årig sigtet for knivdrab siger at det var selvforsvar",
+     "link": "https://www.bt.dk/krimi/19-aarig-sigtet-for-knivdrab-siger-at-det-var-selvforsvar?referrer=RSS",
+     "published": "2026-11-28T13:34+00:00",
+     "summary": "19-årig fængsles i fire uger. Der er en begrundet mistanke om, at han er skyldig i dødsvold, vurderer dommer."
+    },
+    {
      "title": "Mindst 30 døde i luftangreb",
      "link": "https://www.bt.dk/udland/mindst-30-doede-i-luftangreb?referrer=RSS",
      "published": "2026-11-28T13:22+00:00",
@@ -820,12 +826,6 @@
      "link": "https://www.bt.dk/sport/forrygende-skydning-sikrer-groenland-historisk-resultat?referrer=RSS",
      "published": "2026-11-28T13:10+00:00",
      "summary": "Skiskytterne Sondre og Ukaleq Slettemark skrev historie, da duoen sikrede Grønland en femteplads."
-    },
-    {
-     "title": "19-årig sigtet for knivdrab siger at det var selvforsvar",
-     "link": "https://www.bt.dk/krimi/19-aarig-sigtet-for-knivdrab-siger-at-det-var-selvforsvar?referrer=RSS",
-     "published": "2026-11-28T13:03+00:00",
-     "summary": "19-årig fængsles i fire uger. Der er en begrundet mistanke om, at han er skyldig i dødsvold, vurderer dommer."
     },
     {
      "title": "Freja kalder sig selv 'jysk og nærig': Sådan sparede hun 2.800 kroner på designerbord",

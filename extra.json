@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T13:31+00:00",
+ "generated": "2026-11-28T13:41+00:00",
  "metro": {
   "status": "ok",
   "url": "https://m.dk/da/drift-og-service/status-og-planlagte-driftsaendringer/",
@@ -16,7 +16,7 @@
   "url": "https://www.dsb.dk/trafikinformation/",
   "items": [
    {
-    "updated": "Seneste opdatering 27. nov. 14:30",
+    "updated": "Opdateret i dag kl. 14:37",
     "route": "Odense - Fredericia København H - Fredericia - Aarhus H",
     "title": "Togbusser for regionaltog og længere rejsetid mellem Odense og Fredericia",
     "url": "https://www.dsb.dk/trafikinformation/akutte-aendringer/faerre-tog-mellem-kobenhavn-h-og-koge-nord-togbusser-for-regionaltog-mellem-odense-og-fredericia-fra-mandag-den-16-november/?trainType=tog"
@@ -73,9 +73,7 @@
     "title": "Webinar om den nye resultatopfølgning",
     "url": "https://star.dk/om-styrelsen/nyt/nyheder-og-aktuelt-fra-styrelsen-for-arbejdsmarked-og-rekruttering/2026/10/se-eller-gense-webinaret-om-den-nye-resultatopfoelgning"
    }
-  ],
-  "stale_since": "2026-11-28T13:20+00:00",
-  "status_now": "fejl: HTTPError: HTTP Error 503: Service Unavailable"
+  ]
  },
  "akasser": {
   "status": "ok",
@@ -121,10 +119,10 @@
  },
  "dmi": {
   "status": "ok",
-  "url": "https://www.dmi.dk/meteorologens-kommentar/et-eller-to-ser-men-hvad-er-forskellen",
-  "title": "Et eller to s’er – men hvad er forskellen?",
-  "time": "2026-11-27T22:50",
-  "lead": "Isslag"
+  "url": "https://www.dmi.dk/meteorologens-kommentar/front-afloeser-hoejtryksvejr",
+  "title": "Front afløser højtryksvejr",
+  "time": "2026-11-28T14:35",
+  "lead": "Risiko for isslag i det jyske"
  },
  "um_tyrkiet": {
   "status": "ok",
