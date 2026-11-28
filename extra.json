@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T22:07+00:00",
+ "generated": "2026-11-28T03:59+00:00",
  "metro": {
   "status": "ok",
   "url": "https://m.dk/da/drift-og-service/status-og-planlagte-driftsaendringer/",
@@ -16,7 +16,7 @@
   "url": "https://www.dsb.dk/trafikinformation/",
   "items": [
    {
-    "updated": "Opdateret i dag kl. 14:30",
+    "updated": "Seneste opdatering 27. nov. 14:30",
     "route": "Odense - Fredericia København H - Fredericia - Aarhus H",
     "title": "Togbusser for regionaltog og længere rejsetid mellem Odense og Fredericia",
     "url": "https://www.dsb.dk/trafikinformation/akutte-aendringer/faerre-tog-mellem-kobenhavn-h-og-koge-nord-togbusser-for-regionaltog-mellem-odense-og-fredericia-fra-mandag-den-16-november/?trainType=tog"

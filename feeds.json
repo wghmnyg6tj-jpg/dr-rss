@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T22:07+00:00",
+ "generated": "2026-11-28T03:59+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -8,6 +8,12 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/senestenyt",
    "status": "ok",
    "items": [
+    {
+     "title": "Politiet anholder person efter uroligheder mellem ishockeyfans",
+     "link": "https://www.dr.dk/nyheder/seneste/politiet-anholder-person-efter-uroligheder-mellem-ishockeyfans",
+     "published": "2026-11-28T02:35+00:00",
+     "summary": ""
+    },
     {
      "title": "USA angriber fartøj i Omanbugten",
      "link": "https://www.dr.dk/nyheder/seneste/usa-angriber-fartoej-i-omanbugten",
@@ -90,12 +96,6 @@
      "title": "Skat kontrollerer igen content creators: Fejl i 95 procent af indberetningerne",
      "link": "https://www.dr.dk/nyheder/seneste/skat-kontrollerer-igen-content-creators-fejl-i-95-procent-af-indberetningerne",
      "published": "2026-11-27T11:38+00:00",
-     "summary": ""
-    },
-    {
-     "title": "Nordmakedoner varetægtsfængslet efter bombesprængning",
-     "link": "https://www.dr.dk/nyheder/seneste/nordmakedoner-varetaegtsfaengslet-efter-bombespraengning",
-     "published": "2026-11-27T10:58+00:00",
      "summary": ""
     }
    ]
@@ -108,6 +108,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Politiet anholder person efter uroligheder mellem ishockeyfans",
+     "link": "https://www.dr.dk/nyheder/seneste/politiet-anholder-person-efter-uroligheder-mellem-ishockeyfans",
+     "published": "2026-11-28T02:35+00:00",
+     "summary": ""
+    },
+    {
      "title": "USA angriber fartøj i Omanbugten",
      "link": "https://www.dr.dk/nyheder/seneste/usa-angriber-fartoej-i-omanbugten",
      "published": "2026-11-27T18:31+00:00",
@@ -189,12 +195,6 @@
      "title": "Skat kontrollerer igen content creators: Fejl i 95 procent af indberetningerne",
      "link": "https://www.dr.dk/nyheder/seneste/skat-kontrollerer-igen-content-creators-fejl-i-95-procent-af-indberetningerne",
      "published": "2026-11-27T11:38+00:00",
-     "summary": ""
-    },
-    {
-     "title": "Nordmakedoner varetægtsfængslet efter bombesprængning",
-     "link": "https://www.dr.dk/nyheder/seneste/nordmakedoner-varetaegtsfaengslet-efter-bombespraengning",
-     "published": "2026-11-27T10:58+00:00",
      "summary": ""
     }
    ]
@@ -306,6 +306,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "OpenAI og Apple beskylder hinanden for at stjæle hemmeligheder",
+     "link": "https://www.dr.dk/nyheder/udland/openai-og-apple-beskylder-hinanden-stjaele-hemmeligheder",
+     "published": "2026-11-28T02:34+00:00",
+     "summary": "Apple har tidligere sagsøgt OpenAI. Nu har selskabet, der står bag ChatGPT, indsendt et modsvar."
+    },
+    {
      "title": "Korrespondent om valg i Spanien: 'Det vækker frygten for, at fascismen bliver vakt til live igen'",
      "link": "https://www.dr.dk/nyheder/udland/korrespondent-om-valg-i-spanien-det-vaekker-frygten-fascismen-bliver-vakt-til-live-igen",
      "published": "2026-11-27T20:51+00:00",
@@ -388,12 +394,6 @@
      "link": "https://www.dr.dk/nyheder/penge/ekspert-lebron-james-kaster-ekstra-stjernedrys-paa-novo-med-nyt-nba-sponsorat",
      "published": "2026-11-26T19:41+00:00",
      "summary": "Ifølge sportsøkonom er Novo Nordisks sponsorat af NBA-holdet Philadelphia 76ers udtryk for et \"paradigmeskifte\" for virksomheden."
-    },
-    {
-     "title": "Sverige har haft russisk ambassadør til møde efter attentatplaner i Danmark",
-     "link": "https://www.dr.dk/nyheder/udland/sverige-har-haft-russisk-ambassadoer-til-moede-efter-attentatplaner-i-danmark",
-     "published": "2026-11-26T19:05+00:00",
-     "summary": "Ruslands handlinger blev fordømt, og støtte til Ukraine blev understreget, oplyser udenrigsminister."
     }
    ]
   },
@@ -603,6 +603,30 @@
    "status": "ok",
    "items": [
     {
+     "title": "Kardashian-søstre fuckede\nderes ansigter op",
+     "link": "https://ekstrabladet.dk/underholdning/udlandkendte/kardashian-soestre-fuckede-deres-ansigter-op-min-mor-begyndte-at-graede/11367467",
+     "published": "2026-11-27T22:33+00:00",
+     "summary": "Khloé og Kim Kardashian tog til Sydkorea for landets populære skønhedsbehandlinger, men det gik ikke som forventet"
+    },
+    {
+     "title": "Gigant går til modangreb:\nSagsøger\nApple",
+     "link": "https://ekstrabladet.dk/forbrug/Teknologi/openai-gaar-til-modangreb-sagsoeger-apple/11368220",
+     "published": "2026-11-27T22:32+00:00",
+     "summary": "Striden mellem techgiganterne tager til, og OpenAI slæber nu Apple i retten"
+    },
+    {
+     "title": "Sære scener",
+     "link": "https://ekstrabladet.dk/sport/anden_sport/nfl/vildt-syn-nfl-stjerner-toemte-iltbeholder/11367584",
+     "published": "2026-11-27T22:26+00:00",
+     "summary": "Der var taget ekstraordinære forholdsregler, da NFL-stjernerne gæstede Mexico City. Alligevel måtte en af de store iltbeholdere udskiftes allerede ved pausen"
+    },
+    {
+     "title": "Dømt for 191 drab\n- kendt skyldig i\n123 mere",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/blev-doemt-for-191-drab-nu-er-han-kendt-skyldig-i-123-drab-mere/11368030",
+     "published": "2026-11-27T22:15+00:00",
+     "summary": "Sektleder er kendt skyldig i drab på i alt 314 mennesker"
+    },
+    {
      "title": "Nedturen fortsætter",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/chelsea-nedtur-fortsaetter-med-nederlag-til-nottingham-forest/11368199",
      "published": "2026-11-27T22:00+00:00",
@@ -637,30 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/tyskfodbold/fullkrug-reddede-werder-bremen-i-haesblaesende-affaere/11368190",
      "published": "2026-11-27T21:37+00:00",
      "summary": "Borussia Mönchengladbach førte 3-1 på udebane mod Werder Bremen, men på to sene scoringer endte det 3-3. Niclas Füllkrug udlignede til allersidst"
-    },
-    {
-     "title": "Dommer knaldede målmand en på kassen",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/international_fodbold/dommer-knaldede-maalmand-en-paa-kassen/11367751",
-     "published": "2026-11-27T21:36+00:00",
-     "summary": "Der er åbenbart grænser for, hvad en fodbolddommer skal finde sig i. I Bolivia tog en dommer sagen i egen hånd - helt bogstaveligt"
-    },
-    {
-     "title": "Uro ved ishockeykamp: \nEn anholdt for \nvold mod politiet",
-     "link": "https://ekstrabladet.dk/krimi/uro-ved-ishockeykamp-en-anholdt-for-vold-mod-politiet/11368182",
-     "published": "2026-11-27T21:28+00:00",
-     "summary": "Flere betjente i kampuniform og hundepatruljer er rykket ud til Rødovre Skøjtehal, hvor politiet kontrollerer en bus med ishockeyfans efter aftenens lokalopgør"
-    },
-    {
-     "title": "Mystiske chiphandler:\nSpor fører til\nelskerinden",
-     "link": "https://ekstrabladet.dk/penge/mystiske-chiphandler-spor-foerer-til-topchefens-elskerinde/11367700",
-     "published": "2026-11-27T21:28+00:00",
-     "summary": "Sagen er ikke god for Jensen Huang, der undersøges for at være blevet udsat for spionage"
-    },
-    {
-     "title": "Helt konkrete udlandsdrømme: \nNu løfter de sløret for planerne",
-     "link": "https://ekstrabladet.dk/underholdning/dkkendte/helt-konkrete-udlandsdroemme-nu-loefter-de-sloeret-for-planerne/11367462",
-     "published": "2026-11-27T21:12+00:00",
-     "summary": "Janni Ree og Jeppe Stokholm vil have et timeout-paradis sydpå på Algarvekysten, men mens Janni Ree siger, at Jeppe generelt gerne betaler det meste, betoner han grinende, at de trods alt har fællesøkonomi"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Dømt for 191 drab\n- kendt skyldig i\n123 mere",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/blev-doemt-for-191-drab-nu-er-han-kendt-skyldig-i-123-drab-mere/11368030",
+     "published": "2026-11-27T22:15+00:00",
+     "summary": "Sektleder er kendt skyldig i drab på i alt 314 mennesker"
+    },
     {
      "title": "Fjern TV 2-toppen",
      "link": "https://ekstrabladet.dk/nyheder/lederen/fjern-tv-2-toppen/11368054",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/Udland/advarer-europa-frygter-angreb-med-mange-ofre/11367903",
      "published": "2026-11-27T17:41+00:00",
      "summary": "Russiske sabotageangreb i Europa er steget markant det seneste år. Nu advarer en førende tænketank om, at et angreb kan ende med en katastrofe med mange ofre"
-    },
-    {
-     "title": "Kørekorts\ngak-gak på\nKærshovedgård",
-     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/koerekorts-gak-gak-paa-kaershovedgaard/11365960",
-     "published": "2026-11-27T17:20+00:00",
-     "summary": "De udvisningsdømte kriminelle udlændinge på Kærshovedgård må ikke føre bil. Men et svar til Folketinget viser, at man ikke kan tage deres fysiske kørekort fra dem"
     }
    ]
   },
@@ -740,6 +740,30 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Uganda tester eksperimentel vaccine mod ebola",
+     "link": "https://www.bt.dk/udland/uganda-tester-eksperimentel-vaccine-mod-ebola?referrer=RSS",
+     "published": "2026-11-28T03:24+00:00",
+     "summary": "Uganda har fredag påbegyndt forsøg med eksperimentel ebolavaccine. I DR Congo gør man snart det samme."
+    },
+    {
+     "title": "Ukraine nedskyder for første gang russisk drone med lasersystem",
+     "link": "https://www.bt.dk/udland/ukraine-nedskyder-for-foerste-gang-russisk-drone-med-lasersystem?referrer=RSS",
+     "published": "2026-11-28T01:35+00:00",
+     "summary": "Lasersystem har ifølge ukrainsk forsvarsorganisation nedskudt en jetdrevet russisk drone for første gang."
+    },
+    {
+     "title": "OpenAI og Apple beskylder hinanden for at stjæle hemmeligheder",
+     "link": "https://www.bt.dk/udland/openai-og-apple-beskylder-hinanden-for-at-stjaele-hemmeligheder?referrer=RSS",
+     "published": "2026-11-27T23:10+00:00",
+     "summary": "Apple har tidligere sagsøgt OpenAI. Fredag har selskabet, der har lavet ChatGPT, indsendt et modsvar."
+    },
+    {
+     "title": "Morten Bødskov beskyldte Rusland for migrantkrise, men det var ikke sandt",
+     "link": "https://www.bt.dk/politik/morten-boedskov-beskyldte-rusland-for-migrantkrise-men-det-var-ikke-sandt?referrer=RSS",
+     "published": "2026-11-27T22:42+00:00",
+     "summary": "Ifølge mediet tjekdet.dk viser et svar fra EUs udenrigstjeneste, EEAS, at Rusland ikke stod bag migrantkrise i Ceuta i sommer."
+    },
     {
      "title": "Ny skatteordning skal gøre firmacykler mere attraktive fra 2028",
      "link": "https://www.bt.dk/politik/ny-skatteordning-skal-goere-firmacykler-mere-attraktive-fra-2028?referrer=RSS",
@@ -775,30 +799,6 @@
      "link": "https://www.bt.dk/udland/zelenskyj-er-paa-putins-doedsliste-det-vil-faa-store-konsekvenser?referrer=RSS",
      "published": "2026-11-27T20:36+00:00",
      "summary": "Hvis Rusland slår den ukrainske præsident ihjel, vil det få store konsekvenser for resten af verden."
-    },
-    {
-     "title": "Teleudbyder kender endnu ikke omfanget af cyberangreb",
-     "link": "https://www.bt.dk/samfund/teleudbyder-kender-endnu-ikke-omfanget-af-cyberangreb?referrer=RSS",
-     "published": "2026-11-27T20:21+00:00",
-     "summary": "OnlineCity bekræfter cyberangreb mod over 15.000 gymnasieelever, men det samlede omfang er endnu ukendt."
-    },
-    {
-     "title": "Vild udvikling: Realitydeltagers mor mistænkes for rolle i Pokemon-røveri",
-     "link": "https://www.bt.dk/krimi/vild-udviklingrealitydeltagers-mor-mistaenkes-for-rolle-i-pokemon-roeveri?referrer=RSS",
-     "published": "2026-11-27T20:09+00:00",
-     "summary": "Der var flere familiemedlemmer til stede under torsdagens grundlovsforhør."
-    },
-    {
-     "title": "Styrelse: Flere organisationer kan være ramt af datalæk hos teleudbyder",
-     "link": "https://www.bt.dk/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek-hos-teleudbyder?referrer=RSS",
-     "published": "2026-11-27T20:01+00:00",
-     "summary": "Teleudbyder har endnu ikke fastlagt omfanget af berørte kunder efter datalæk. Uautoriseret adgang er lukket."
-    },
-    {
-     "title": "Spejderkorps og bilkoncern er omfattet af større datalæk",
-     "link": "https://www.bt.dk/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek?referrer=RSS",
-     "published": "2026-11-27T19:51+00:00",
-     "summary": "Gymnasieskoler og andre organisationer har været ramt af datalæk, hvor telefonnumre er blevet kompromitteret."
     }
    ]
   },
@@ -810,64 +810,64 @@
    "status": "ok",
    "items": [
     {
-     "title": "Chelsea-nedtur fortsætter med nederlag til Nottingham Forest",
-     "link": "https://www.bt.dk/fodbold/chelsea-nedtur-fortsaetter-med-nederlag-til-nottingham-forest?referrer=RSS",
-     "published": "2026-11-27T22:01+00:00",
-     "summary": "Nottingham Forest udnyttede Chelseas defensive svagheder og sendte London-klubben hjem med et 2-3-nederlag."
+     "title": "Dansk golfspiller vinder terræn ved turnering i Australien",
+     "link": "https://www.bt.dk/oevrig-sport/dansk-golfspiller-vinder-terraen-ved-turnering-i-australien?referrer=RSS",
+     "published": "2026-11-28T03:38+00:00",
+     "summary": "Danske Nicolai Højgaard snuser til top-10 efter en flot tredje runde ved golfturnering i Australien."
     },
     {
-     "title": "Ny skatteordning skal gøre firmacykler mere attraktive fra 2028",
-     "link": "https://www.bt.dk/politik/ny-skatteordning-skal-goere-firmacykler-mere-attraktive-fra-2028?referrer=RSS",
-     "published": "2026-11-27T22:01+00:00",
-     "summary": "Fra 2028 kan arbejdspladser tilbyde firmacykler på mere gunstige skattevilkår, og ansatte må bruge dem privat."
+     "title": "Uganda tester eksperimentel vaccine mod ebola",
+     "link": "https://www.bt.dk/udland/uganda-tester-eksperimentel-vaccine-mod-ebola?referrer=RSS",
+     "published": "2026-11-28T03:24+00:00",
+     "summary": "Uganda har fredag påbegyndt forsøg med eksperimentel ebolavaccine. I DR Congo gør man snart det samme."
     },
     {
-     "title": "Efter flere røverier i købmandsbutikker: Nu er de dømt",
-     "link": "https://www.bt.dk/krimi/efter-flere-roeverier-i-koebmandsbutikker-nu-er-de-doemt?referrer=RSS",
-     "published": "2026-11-27T21:59+00:00",
-     "summary": "Samlet skal de afsone ti år og ti måneders fængsel."
+     "title": "Tyson Fury får grønt lys til boksebrag efter helbredsbekymring",
+     "link": "https://www.bt.dk/boksning/tyson-fury-faar-groent-lys-til-boksebrag-efter-helbredsbekymring?referrer=RSS",
+     "published": "2026-11-28T02:43+00:00",
+     "summary": "I en ny dokumentar fik hustru til bokser angiveligt ved en fejl sagt, at hendes mand var skizofren."
     },
     {
-     "title": "Dansk børnelæge giver børn Wegovy: 'Vi ser 12-årige, der vejer 125 kilo'",
-     "link": "https://www.bt.dk/sundhed/dansk-boernelaege-giver-boern-wegovy-vi-ser-12-aarige-der-vejer-125-kilo?referrer=RSS",
-     "published": "2026-11-27T21:44+00:00",
-     "summary": "Medicinalgiganterne Novo Nordisk og Eli Lilly tester nu vægttabsmedicin på børn helt ned til seks år. Men en dansk børnelæge maner til forsigtighed."
+     "title": "Brøndby-træner: Tidligt mål gav os en svær opgave",
+     "link": "https://www.bt.dk/fodbold/broendby-traener-tidligt-maal-gav-os-en-svaer-opgave?referrer=RSS",
+     "published": "2026-11-28T01:48+00:00",
+     "summary": "Brøndby satte ifølge træner sig selv på en svær opgave i Haderslev, hvor de spillede uafgjort mod bundprop."
     },
     {
-     "title": "Højlund afslører samtaler med United-stjerner: 'Var meget berørte'",
-     "link": "https://www.bt.dk/fodbold/hoejlund-afsloerer-samtaler-med-united-stjerner-var-meget-beroerte?referrer=RSS",
-     "published": "2026-11-27T21:39+00:00",
-     "summary": "»Jeg er sikker på, at de nok skal få vendt skuden,« siger Rasmus Højlund om krisen i hans tidligere klub, Manchester United."
+     "title": "Ukraine nedskyder for første gang russisk drone med lasersystem",
+     "link": "https://www.bt.dk/udland/ukraine-nedskyder-for-foerste-gang-russisk-drone-med-lasersystem?referrer=RSS",
+     "published": "2026-11-28T01:35+00:00",
+     "summary": "Lasersystem har ifølge ukrainsk forsvarsorganisation nedskudt en jetdrevet russisk drone for første gang."
     },
     {
-     "title": "Velkommen skyldte 42.825 elkunder 292 millioner kroner ved konkurs",
-     "link": "https://www.bt.dk/samfund/velkommen-skyldte-42825-elkunder-292-millioner-kroner-ved-konkurs?referrer=RSS",
-     "published": "2026-11-27T21:20+00:00",
-     "summary": "Kuratorerne har fundet forhold i materialet fra Velkommen, der har givet anledning til at underrette politiet."
+     "title": "Politiet anholder person efter uroligheder mellem ishockeyfans",
+     "link": "https://www.bt.dk/oevrig-sport/politiet-anholder-person-efter-uroligheder-mellem-ishockeyfans?referrer=RSS",
+     "published": "2026-11-28T00:22+00:00",
+     "summary": "En politibetjent er blevet behandlet på hospitalet efter uroligheder mellem ishockeyfans i Rødovre fredag."
     },
     {
-     "title": "Chok i Storbritannien: Kriminelle gassede koncertgæster",
-     "link": "https://www.bt.dk/udland/chok-i-storbritannien-kriminelle-gassede-koncertgaester?referrer=RSS",
-     "published": "2026-11-27T21:10+00:00",
-     "summary": "De kriminelle forsøgte at røve flere koncertgæster, efter de havde gasset dem."
+     "title": "OpenAI og Apple beskylder hinanden for at stjæle hemmeligheder",
+     "link": "https://www.bt.dk/udland/openai-og-apple-beskylder-hinanden-for-at-stjaele-hemmeligheder?referrer=RSS",
+     "published": "2026-11-27T23:10+00:00",
+     "summary": "Apple har tidligere sagsøgt OpenAI. Fredag har selskabet, der har lavet ChatGPT, indsendt et modsvar."
     },
     {
-     "title": "Aalborg Pirates holder topholdet fra fadet og vinder",
-     "link": "https://www.bt.dk/oevrig-sport/aalborg-pirates-holder-topholdet-fra-fadet-og-vinder?referrer=RSS",
-     "published": "2026-11-27T21:06+00:00",
-     "summary": "Herning Blue Fox måtte fredag aften gå fra isen med det første liganederlag i sæsonen i ordinær spilletid."
+     "title": "Morten Bødskov beskyldte Rusland for migrantkrise, men det var ikke sandt",
+     "link": "https://www.bt.dk/politik/morten-boedskov-beskyldte-rusland-for-migrantkrise-men-det-var-ikke-sandt?referrer=RSS",
+     "published": "2026-11-27T22:42+00:00",
+     "summary": "Ifølge mediet tjekdet.dk viser et svar fra EUs udenrigstjeneste, EEAS, at Rusland ikke stod bag migrantkrise i Ceuta i sommer."
     },
     {
-     "title": "Vild konkurs: Skylder penge til 42.825 danskere",
-     "link": "https://www.bt.dk/privatoekonomi/vild-konkurs-skylder-penge-til-42825-danskere?referrer=RSS",
-     "published": "2026-11-27T20:43+00:00",
-     "summary": "Kuratorerne har fundet forhold i materialet fra Velkommen, der har givet anledning til at underrette politiet."
+     "title": "Chokerende scener: Vildt masseslagsmål på stadion",
+     "link": "https://www.bt.dk/fodbold/chokerende-scener-vildt-masseslagsmaal-paa-stadion?referrer=RSS",
+     "published": "2026-11-27T22:36+00:00",
+     "summary": "Der udfoldede sig et voldsomt drama torsdag aften."
     },
     {
-     "title": "Beder hele Aarhus Kommune om hjælp",
-     "link": "https://www.bt.dk/krimi/beder-hele-aarhus-kommune-om-hjaelp?referrer=RSS",
-     "published": "2026-11-27T20:36+00:00",
-     "summary": "Politiet søger en 80-årig dement mand."
+     "title": "Kritik af dronning Mette-Marits nej: 'Vi skal ikke være naive'",
+     "link": "https://www.bt.dk/royale/kritik-af-dronning-mette-marits-nej-vi-skal-ikke-vaere-naive?referrer=RSS",
+     "published": "2026-11-27T22:35+00:00",
+     "summary": "Den norske dronning vil ikke afgive forklaring for den såkaldte Epstein-kommission."
     }
    ]
   },
@@ -1017,6 +1017,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Butch Cassidy's Gang Sat for a Fort Worth Portrait in 1900, and the Pinkertons Cropped It for Wanted Posters",
+     "link": "https://fstoppers.com/historical/butch-cassidys-gang-sat-fort-worth-portrait-1900-and-pinkertons-cropped-it-905336?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+     "published": "2026-11-27T22:03+00:00",
+     "summary": "Pinkerton's National Detective Agency printed two photographs of George Parker on its Circular No. 2, issued from Denver on January 22, 1902. The one on the left, captioned \"First photograph taken July 15, 1894,\" is a Wyoming penitentiary …"
+    },
+    {
      "title": "Live Update: Best Black Friday Deals for Photographers",
      "link": "https://fstoppers.com/gear/live-update-best-black-friday-deals-photographers-905685?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
      "published": "2026-11-27T19:34+00:00",
@@ -1099,12 +1105,6 @@
      "link": "https://fstoppers.com/gear/why-most-camera-buyers-should-skip-extended-warranty-checkout-905335?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
      "published": "2026-11-25T22:03+00:00",
      "summary": "At $1,998, its price in early November, a Sony a7 IV drew a checkout offer at a major camera retailer: three years of protection for $119.99. Most buyers should decline it. The breakdown coverage largely repeats what the manufacturer and a …"
-    },
-    {
-     "title": "Testing Dell's Biggest Monitor Ever",
-     "link": "https://fstoppers.com/gear/testing-dells-biggest-monitor-ever-905620?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-     "published": "2026-11-25T17:03+00:00",
-     "summary": "For about two years, I've worked on four 4K monitors. The setup was a huge pain to build, and honestly, it's kind of ugly. So when the Dell UltraSharp 52 Thunderbolt Hub Monitor came out, a single 51.5-inch curved screen at 6,144 x 2,560 …"
     }
    ]
   },
@@ -1115,6 +1115,12 @@
    "url": "https://www.version2.dk/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Blogindlæg: Meshcore #2",
+     "link": "https://www.version2.dk/holdning/meshcore-2",
+     "published": "2026-11-27T21:37+00:00",
+     "summary": "Ulempen ved at være autodidakt, er at man skal blive ved med at være autodidakt og derfor laver jeg som regel to projekter om året, et i sommerferien og et i juleferien, med henblik på at blive klogere - en eller anden forstand.Som jeg …"
+    },
     {
      "title": "Jensen Huangs vanvittige comeback beviser, at AI lige nu er utæmmelig",
      "link": "https://www.version2.dk/artikel/jensen-huangs-vanvittige-comeback-beviser-ai-lige-nu-er-utaemmelig",
@@ -1198,12 +1204,6 @@
      "link": "https://www.version2.dk/artikel/nvidia-i-kovending-topchef-genindtraeder-med-oejeblikkelig-virkning",
      "published": "2026-11-23T14:17+00:00",
      "summary": "Jensen Huang var væk fra Nvidia i halvanden uge efter skandaler-sager om utroskab. Nu er han tilbage."
-    },
-    {
-     "title": "Krypteringsprofessor afblæser panik efter knækket gåde: Men én opdagelse vil få ham op af stolen",
-     "link": "https://www.version2.dk/artikel/krypteringsprofessor-afblaeser-panik-efter-knaekket-gaade-men-en-opdagelse-vil-faa-ham-op-af-stolen",
-     "published": "2026-11-23T13:48+00:00",
-     "summary": "En sprogmodel har hjulpet med at bevise Riemann-hypotesen på blot seks uger. Ifølge dansk kryptografiprofessor ændrer det dog intet for beskyttelsen af dine data."
     }
    ]
   },
@@ -1650,6 +1650,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "The Best Winter Boots for Men in 2026",
+     "link": "https://gearjunkie.com/footwear/boots/best-winter-boots-review",
+     "published": "2026-11-27T21:07+00:00",
+     "summary": "From everyday use to working outdoors, these are the 9 best winter boots for men in 2026, including top picks from Danner, KEEN, Kamik, and…"
+    },
+    {
+     "title": "The Best Black Friday Deals on Outdoor Gear",
+     "link": "https://gearjunkie.com/deals/black-friday-cyber-monday-outdoor-gear",
+     "published": "2026-11-27T17:19+00:00",
+     "summary": "Find the best Black Friday and holiday deals from brands like REI, Garmin, and Timberland."
+    },
+    {
      "title": "‘Hotel California’ Bike, Black Leather TNF, Patriotic Ski Suit, and More Emerging Gear",
      "link": "https://gearjunkie.com/emerging-gear/emerging-gear-11-27-2026",
      "published": "2026-11-27T16:40+00:00",
@@ -1668,12 +1680,6 @@
      "summary": "If the maker of hardcore 4x4s moves to the US, what will that mean for American customers?"
     },
     {
-     "title": "The Best Black Friday Deals on Outdoor Gear",
-     "link": "https://gearjunkie.com/deals/black-friday-cyber-monday-outdoor-gear",
-     "published": "2026-11-25T16:51+00:00",
-     "summary": "Find the best Black Friday and holiday deals from brands like REI, Garmin, and Timberland."
-    },
-    {
      "title": "Your Childhood Toy, All Grown Up: SimpleShot Axiom Slingshot Review",
      "link": "https://gearjunkie.com/hunting/simpleshot-axiom-review",
      "published": "2026-11-25T16:42+00:00",
@@ -1690,12 +1696,6 @@
      "link": "https://gearjunkie.com/camping/therm-a-rest-boost-650-sleeping-bag-review",
      "published": "2026-11-24T19:25+00:00",
      "summary": "If traditional mummy bags leave you feeling trapped, the Boost 650 is your ticket to a struggle-free night under the stars."
-    },
-    {
-     "title": "The 16 Best Kit Cars in 2026: Make Your DIY Automotive Dreams A Reality",
-     "link": "https://gearjunkie.com/motors/best-kit-cars",
-     "published": "2026-11-24T19:13+00:00",
-     "summary": "By building a car from the ground up, you'll get an end result that you are excited to drive. Check out our 16 best DIY…"
     }
    ]
   },
@@ -1728,6 +1728,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "The Foothills Trail – Day 2",
+     "link": "https://thetrek.co/the-foothills-trail-day-2-2/",
+     "published": "2026-11-28T02:25+00:00",
+     "summary": "Day 2 on the Foothills Trail started off easy by the river, but tough climbs and freezing temperatures quickly tested me. With numb fingers and damp firewood at camp, I pushed through the cold and learned that trail weather always wins."
+    },
+    {
      "title": "Te Araroa day 32: A cruisy start to the CSQ, and LOFI is born",
      "link": "https://thetrek.co/te-araroa-day-32-a-cruisy-start-to-the-csq-and-lofi-is-born/",
      "published": "2026-11-27T21:42+00:00",
@@ -1740,10 +1746,10 @@
      "summary": "Between a mold-infested sleeping bag, curious black bears (including a face-to-face encounter), countless tick and chigger bites, sleepless cold nights, unexpected detours due to navigational mistakes, and a few genuinely beautiful …"
     },
     {
-     "title": "My Gear Is Ready.  My Mind is Stoic. My Body?  It’s Still in Negotiations!",
+     "title": "Preparing for 2200….Because One Does Not Simply “Pop Out for a bit of a Hike”",
      "link": "https://thetrek.co/appalachian-trail/my-gear-is-ready-my-mind-is-stoic-my-body-its-still-in-negotiations/",
      "published": "2026-11-27T18:03+00:00",
-     "summary": "WELCOME TO YOUR NEW OBSESSION: Preparing for a thru hike on Appalachian Trail truly begins with just one burning question; “What will I need to walk 2200 miles?” Pretty simple and straightforward right? Theoretically, yes……that is. of …"
+     "summary": "WELCOME TO YOUR NEW OBSESSION: Preparing for a thru hike on Appalachian Trail truly begins with just one burning question; “What will I actually need to walk 2200 miles?” That’s pretty simple and straightforward right? Theoretically …"
     },
     {
      "title": "Escaping the Farting Ghost Hotel: 17.6 Miles into Portugal",
@@ -1780,12 +1786,6 @@
      "link": "https://thetrek.co/trail-marshall-vs-troll-marshal-gifts-for-hikers-and-whos-a-hiker-bro-this-week-on-trail-3/",
      "published": "2026-11-26T21:00+00:00",
      "summary": "Trail Marshall has 88,000 Facebook followers, a bio promising love and positivity, and calls the Appalachian Trail a “Bourbon Street in the woods.” On this episode of This Week on Trail, produced by The Trek, hosts Jess “Sassafras” and …"
-    },
-    {
-     "title": "A Man Just Ran 3,015 Miles From San Francisco to New York in 41 Days, Setting New Record",
-     "link": "https://thetrek.co/a-man-just-ran-3015-miles-from-san-francisco-to-new-york-in-41-days-setting-new-record/",
-     "published": "2026-11-26T15:44+00:00",
-     "summary": "When Cameron Balser left San Francisco at 4:59 a.m. on October 10, he set out to run the 3,015-mile Trans America route across the United States in under 42 days in pursuit of a new transcontinental record. About six weeks later, he …"
     }
    ]
   },
