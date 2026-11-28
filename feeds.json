@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T17:31+00:00",
+ "generated": "2026-11-28T17:41+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Kopierede \nN3ONs \nstemme med AI",
+     "link": "https://ekstrabladet.dk/forbrug/Teknologi/kopierede-kendt-streamers-stemme-med-ai-nu-falder-hammeren/11367323",
+     "published": "2026-11-28T17:34+00:00",
+     "summary": "En amerikansk mand er blevet dømt for at have misbrugt streamer-stjernen N3ONs stemme"
+    },
+    {
      "title": "Motorvej helt spærret: Find en anden rute",
      "link": "https://ekstrabladet.dk/krimi/motorvej-helt-spaerret-find-en-anden-rute/11368713",
      "published": "2026-11-28T17:24+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/agf-fan-politianmeldt-fej-handling/11368518",
      "published": "2026-11-28T16:12+00:00",
      "summary": "Bergensavisen har nu politianmeldt episoden, hvor en journalist fra mediet blev slået i ansigtet af en AGF-fan i forbindelse med torsdagens kamp mod Brann"
-    },
-    {
-     "title": "United sætter forfærdelig PL-rekord",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/united-saetter-forfaerdelig-pl-rekord/11368647",
-     "published": "2026-11-28T15:58+00:00",
-     "summary": "Manchester United er det første hold i Premier Leagues historie, der har indkasseret mindst to mål i seks halvlege på stribe"
     }
    ]
   },
@@ -741,6 +741,24 @@
    "status": "ok",
    "items": [
     {
+     "title": "Motorvej helt spærret: Find andre veje",
+     "link": "https://www.bt.dk/trafik/motorvej-helt-spaerret-find-andre-veje?referrer=RSS",
+     "published": "2026-11-28T17:37+00:00",
+     "summary": ""
+    },
+    {
+     "title": "Putin afslører nyt våben",
+     "link": "https://www.bt.dk/udland/putin-afsloerer-nyt-vaaben?referrer=RSS",
+     "published": "2026-11-28T17:34+00:00",
+     "summary": "Ifølge præsidenten er det kun Rusland, der kan producere våben i den kaliber."
+    },
+    {
+     "title": "Netanyahu vil give rival premierministerpost først i foreslået rotation",
+     "link": "https://www.bt.dk/udland/netanyahu-vil-give-rival-premierministerpost-foerst-i-foreslaaet-rotation?referrer=RSS",
+     "published": "2026-11-28T17:31+00:00",
+     "summary": "Netanyahu er villig til at opgive sit princip om, at det største parti bør lede Israels regering, siger han."
+    },
+    {
      "title": "17 er såret ved demonstration mod Albaniens regering",
      "link": "https://www.bt.dk/udland/17-er-saaret-ved-demonstration-mod-albaniens-regering?referrer=RSS",
      "published": "2026-11-28T17:14+00:00",
@@ -751,12 +769,6 @@
      "link": "https://www.bt.dk/udland/saab-faar-milliardordre-paa-radarsystem-til-ukraine?referrer=RSS",
      "published": "2026-11-28T17:11+00:00",
      "summary": "Ukraine har bestilt flere radarsystemer af typen Giraffe, som skal hjælpe med at opdage droner og missiler."
-    },
-    {
-     "title": "Netanyahu vil give rival premierministerpost først i foreslået rotation",
-     "link": "https://www.bt.dk/udland/netanyahu-vil-give-rival-premierministerpost-foerst-i-foreslaaet-rotation?referrer=RSS",
-     "published": "2026-11-28T17:07+00:00",
-     "summary": "Netanyahu er villig til at opgive sit princip om, at det største parti bør lede Israels regering, siger han."
     },
     {
      "title": "Flammer i Albaniens gader: Kræver hans afgang!",
@@ -787,18 +799,6 @@
      "link": "https://www.bt.dk/samfund/troede-foerst-det-var-hormonelt-saa-kom-brevet-det-var-som-om-jeg-allerede-fik-beskeden-der?referrer=RSS",
      "published": "2026-11-28T16:04+00:00",
      "summary": "28-årige Jennifer Lindström havde endnu ikke fået det endelige svar fra lægerne. Men da hun åbnede indkaldelsen fra hospitalet, var der én lille detalje, der fik hende til straks at gribe telefonen."
-    },
-    {
-     "title": "Vilde billeder: Millionby under vand",
-     "link": "https://www.bt.dk/udland/vilde-billeder-millionby-under-vand?referrer=RSS",
-     "published": "2026-11-28T15:45+00:00",
-     "summary": "Voldsomme Thanksgiving-storme har oversvømmet gader og efterladt hundredtusindvis af husstande uden strøm langs USA's østkyst."
-    },
-    {
-     "title": "Jyder risikerer at stå op til isslag søndag",
-     "link": "https://www.bt.dk/samfund/jyder-risikerer-at-staa-op-til-isslag-soendag?referrer=RSS",
-     "published": "2026-11-28T15:28+00:00",
-     "summary": "Prognoserne melder om muligt isslag i det jyske søndag morgen. Fyn og Sjælland ser ud til at gå fri."
     }
    ]
   },
@@ -809,6 +809,30 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Motorvej helt spærret: Find andre veje",
+     "link": "https://www.bt.dk/trafik/motorvej-helt-spaerret-find-andre-veje?referrer=RSS",
+     "published": "2026-11-28T17:37+00:00",
+     "summary": ""
+    },
+    {
+     "title": "Smadrer alle rekorder: Overgår film, musik og TV på ét døgn",
+     "link": "https://www.bt.dk/gaming/smadrer-alle-rekorder-overgaar-film-musik-og-tv-paa-et-doegn?referrer=RSS",
+     "published": "2026-11-28T17:35+00:00",
+     "summary": "Ingen kan følge med GTA. Det nye spil har på bare 24 timer omsat for svimlende 3,8 milliarder dollar og overhaler dermed nogle af verdens største underholdningsucceser."
+    },
+    {
+     "title": "Putin afslører nyt våben",
+     "link": "https://www.bt.dk/udland/putin-afsloerer-nyt-vaaben?referrer=RSS",
+     "published": "2026-11-28T17:34+00:00",
+     "summary": "Ifølge præsidenten er det kun Rusland, der kan producere våben i den kaliber."
+    },
+    {
+     "title": "Netanyahu vil give rival premierministerpost først i foreslået rotation",
+     "link": "https://www.bt.dk/udland/netanyahu-vil-give-rival-premierministerpost-foerst-i-foreslaaet-rotation?referrer=RSS",
+     "published": "2026-11-28T17:31+00:00",
+     "summary": "Netanyahu er villig til at opgive sit princip om, at det største parti bør lede Israels regering, siger han."
+    },
     {
      "title": "LIVE: Følg Kesslers comeback her",
      "link": "https://www.bt.dk/boksning/live-foelg-kesslers-comeback-her?referrer=RSS",
@@ -828,12 +852,6 @@
      "summary": "Ukraine har bestilt flere radarsystemer af typen Giraffe, som skal hjælpe med at opdage droner og missiler."
     },
     {
-     "title": "Netanyahu vil give rival premierministerpost først i foreslået rotation",
-     "link": "https://www.bt.dk/udland/netanyahu-vil-give-rival-premierministerpost-foerst-i-foreslaaet-rotation?referrer=RSS",
-     "published": "2026-11-28T17:07+00:00",
-     "summary": "Netanyahu er villig til at opgive sit princip om, at det største parti bør lede Israels regering, siger han."
-    },
-    {
      "title": "United synker mod bunden i Pochettinos voksende mareridt",
      "link": "https://www.bt.dk/fodbold/united-synker-mod-bunden-i-pochettinos-voksende-mareridt-1?referrer=RSS",
      "published": "2026-11-28T17:04+00:00",
@@ -850,24 +868,6 @@
      "link": "https://www.bt.dk/udland/flammer-i-albaniens-gader-kraever-hans-afgang?referrer=RSS",
      "published": "2026-11-28T16:45+00:00",
      "summary": "Det, der begyndte som protester mod et projekt med forbindelser til Donald Trumps svigersøn, har udviklet sig til et voldsomt oprør mod Albaniens magtelite."
-    },
-    {
-     "title": "Dobbeltbookere bliver afsløret: Sådan tager restauranter kampen op",
-     "link": "https://www.bt.dk/samfund/dobbeltbookere-bliver-afsloeret-saadan-tager-restauranter-kampen-op?referrer=RSS",
-     "published": "2026-11-28T16:40+00:00",
-     "summary": "Ny funktion giver besked ved dobbeltbooking."
-    },
-    {
-     "title": "Bayern-anfører ser rødt for at hive i håret i 0-0-kamp",
-     "link": "https://www.bt.dk/fodbold/bayern-anfoerer-ser-roedt-for-at-hive-i-haaret-i-0-0-kamp?referrer=RSS",
-     "published": "2026-11-28T16:33+00:00",
-     "summary": "For tredje kamp i træk gik Bayern München fra banen uden sejr, da det blev til en nullert mod Hamburger SV."
-    },
-    {
-     "title": "Zelenskyjs bagland: Kræver Trumps svigersøn fjernet",
-     "link": "https://www.bt.dk/nyheder/zelenskyjs-bagland-kraever-trumps-svigersoen-fjernet?referrer=RSS",
-     "published": "2026-11-28T16:15+00:00",
-     "summary": "Jared Kushner er helt tæt på magtens centrum i Washington og fredsforhandlingerne, men nu kræver Zelenskyjs bagland ham fjernet."
     }
    ]
   },
@@ -978,6 +978,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Fujifilm Brings Back Fujichrome Fortia with New Forte Chrome Film Simulation",
+     "link": "https://www.fujirumors.com/fujifilm-brings-back-fujichrome-fortia-with-new-forte-chrome-film-simulation/",
+     "published": "2026-11-28T17:35+00:00",
+     "summary": "Join Now – The Nr.1 Fujifilm X-T Community 🔥 Join Now – Fujifilm Film Simulation Group – The Nr.1 Fujifilm Community on the Planet 🌍 We told that the name of the new film simulation coming with the Fujifilm X-T6 will be “Forte Chrome”. And …"
+    },
+    {
      "title": "HOT: First Leaked Image of Fujifilm X-T6 and XF50-140mmF2.8 II",
      "link": "https://www.fujirumors.com/hot-first-leaked-image-of-fujifilm-x-t6-and-xf50-140mmf2-8-ii/",
      "published": "2026-11-28T11:53+00:00",
@@ -1000,12 +1006,6 @@
      "link": "https://www.fujirumors.com/black-friday-just-dropped-the-best-deals-here/",
      "published": "2026-11-27T10:43+00:00",
      "summary": "Black Friday has now unleashed all the offers. Below you can see the best ones for your country: BLACK FRIDAY DEAL PAGES 🇺🇸 USA: Amazon US / BHphoto / Adorama / BestBuy / Nuzira 🇨🇦 CAN: Amazon CA / Camera Canada 🇯🇵 JP: Amazon JP 🇩🇪 GER …"
-    },
-    {
-     "title": "Insane Fujifilm Black Friday Deals Unleashed in UK – GFX100RF now £700 Off and Additional 10% Discount on all X and GFX Lenses",
-     "link": "https://www.fujirumors.com/insane-fujifilm-black-friday-deals-unleashed-in-uk-gfx100rf-now-700-off-and-additional-10-discount-on-all-x-and-gfx-lenses/",
-     "published": "2026-11-27T05:35+00:00",
-     "summary": "If you thought the current X and GFX deals were good, well, then you might want to take a look at this one. GFX100RF – save £700 (£425 cashback + £275 instant rebate) WexPhotoVideo / ParkcameraUK / Clifton Camera save 10% on all X mount …"
     }
    ]
   },
