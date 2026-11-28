@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T10:33+00:00",
+ "generated": "2026-11-28T10:43+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "- Kræft er\nensomt",
+     "link": "https://ekstrabladet.dk/underholdning/kongelige/udenlandskekongelige/prinsesse-kate-kraeft-er-ensomt/11367629",
+     "published": "2026-11-28T10:40+00:00",
+     "summary": "Prinsesse Kate afslører i et nyt klip fra sin kommende dokumentar, at kræftdiagnosen var en 'ensom rejse'"
+    },
+    {
+     "title": "Dansk stjerne på knæ",
+     "link": "https://ekstrabladet.dk/sport/anden_sport/motorsport/christian-lundgaard-skal-giftes/11368129",
+     "published": "2026-11-28T10:34+00:00",
+     "summary": "Chip Ganassis danske es har været på knæ foran kæresten Gabriella Gilrowski - og fik ja"
+    },
+    {
      "title": "Advokat sigtet:\nHjalp rocker med\nsorte penge",
      "link": "https://ekstrabladet.dk/krimi/advokat-sigtet-hjalp-rocker-med-sorte-penge/11368297",
      "published": "2026-11-28T10:29+00:00",
@@ -649,18 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/chelsea-fans-tordner-mod-wesley-fofana-du-er-ikke-velkommen-her/11368264",
      "published": "2026-11-28T09:19+00:00",
      "summary": "Chelsea-fans viste utilfredshed med Wesley Fofana i form af pibekoncert og tilråb, mens Xabi Alonso forsøger at støtte spilleren"
-    },
-    {
-     "title": "Stort databrud: 30.000 kunder kan være ramt",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/stort-databrud-30.000-kunder-kan-vaere-ramt/11368363",
-     "published": "2026-11-28T09:06+00:00",
-     "summary": "Et databrud hos Trefors SMS-leverandør har muligvis betydet et læk af telefonnumre og adresser på kunder"
-    },
-    {
-     "title": "Trump Jr. tyer til tasterne: Raser over Netflix-kys",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/raser-over-netflix-kys-hvad-er-der-galt-med-jer/11368317",
-     "published": "2026-11-28T09:03+00:00",
-     "summary": "Et videoklip med to kvinder, der kysser i en seng, og som Netflix delte på X på Thanksgiving, har fået Donald Trump Jr. til tasterne"
     }
    ]
   },

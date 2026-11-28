@@ -1,13 +1,13 @@
 {
- "generated": "2026-11-28T10:33:41+00:00",
- "built_local": "2026-11-28 11:33",
- "feeds_generated": "2026-11-28T10:33+00:00",
+ "generated": "2026-11-28T10:44:06+00:00",
+ "built_local": "2026-11-28 11:44",
+ "feeds_generated": "2026-11-28T10:43+00:00",
  "weather": {
   "ok": true,
   "exit": 0,
   "celler": 24,
   "hovedomraade": "Mørkhøj",
-  "radar": "Radar: DMI kl. 11:25 (9 min gammelt)."
+  "radar": "Radar: DMI kl. 11:35 (9 min gammelt)."
  },
  "counts": {
   "danmark": 12,
@@ -19,7 +19,7 @@
   "foto": 10
  },
  "latest": 20,
- "bytes": 131646,
+ "bytes": 131575,
  "checks": {
   "tl_li": 24,
   "one_body_end": true,
