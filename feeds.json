@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T12:17+00:00",
+ "generated": "2026-11-28T12:28+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -207,6 +207,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Stak offer flere gange: 19-årig nægter sig skyldig i drab",
+     "link": "https://www.dr.dk/nyheder/indland/stak-offer-flere-gange-19-aarig-naegter-sig-skyldig-i-drab",
+     "published": "2026-11-28T12:23+00:00",
+     "summary": "En 21-årig mand afgik natten til lørdag ved døden efter flere knivstik i Gentofte. En 19-årig mand er sigtet."
+    },
+    {
      "title": "Over halvdelen af danske unge er blevet tilbudt stoffer: Her er de mest udbredte",
      "link": "https://www.dr.dk/nyheder/indland/over-halvdelen-af-danske-unge-er-blevet-tilbudt-stoffer-her-er-de-mest-udbredte",
      "published": "2026-11-28T11:26+00:00",
@@ -289,12 +295,6 @@
      "link": "https://www.dr.dk/nyheder/indland/kendte-youtube-broedre-risikerer-boede-paa-140-000-kroner",
      "published": "2026-11-27T19:18+00:00",
      "summary": "Mikkel og Emil Trier Pedersens virksomhed var fredag i retten."
-    },
-    {
-     "title": "13 byrødder har bremset kæmpe havneudvidelse - nu vil flere have staten på banen",
-     "link": "https://www.dr.dk/nyheder/indland/13-byroedder-har-bremset-kaempe-havneudvidelse-nu-vil-flere-have-staten-paa-banen",
-     "published": "2026-11-27T19:00+00:00",
-     "summary": "Flere mener, at selvom Kerteminde Byråd har sagt nej til en kæmpe udvidelse af Odense Havn, så må staten tage affære."
     }
    ]
   },
@@ -504,6 +504,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Staten skal betale ugyldig gæld tilbage til folk",
+     "link": "https://www.dr.dk/nyheder/penge/staten-skal-betale-ugyldig-gaeld-tilbage-til-folk",
+     "published": "2026-11-28T12:15+00:00",
+     "summary": "Borgere og virksomheder har ventet for længe på afklaring af, om deres gæld bestod, siger minister."
+    },
+    {
      "title": "Skattevæsnet fejler, og nu skylder Michael pludselig 22.000 kroner: 'Det er mafiametoder. Det er voldsomt'",
      "link": "https://www.dr.dk/nyheder/penge/skattevaesnet-fejler-og-nu-skylder-michael-pludselig-22-000-kroner-det-er-mafiametoder-det-er",
      "published": "2026-11-28T12:14+00:00",
@@ -586,12 +592,6 @@
      "link": "https://www.dr.dk/nyheder/penge/teknologiaktier-oplever-store-fald-ved-boersaabning-i-new-york",
      "published": "2026-11-25T15:38+00:00",
      "summary": "Nvidia falder med omkring otte procent, mens Anthropic er over tre procent nede."
-    },
-    {
-     "title": "Nets med advarsel op til Black Friday",
-     "link": "https://www.dr.dk/nyheder/indland/nets-med-advarsel-op-til-black-friday",
-     "published": "2026-11-25T07:29+00:00",
-     "summary": "Efter Black Friday registrerer betalingsvirksomheden omkring 15 procent flere kortreklamationer end normalt i Norden."
     }
    ]
   },
@@ -602,6 +602,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/all/",
    "status": "ok",
    "items": [
+    {
+     "title": "Bossen bekræfter: Her er Vingegaards holdnavn",
+     "link": "https://ekstrabladet.dk/sport/cykling/bossen-bekraefter-her-er-vingegaards-holdnavn/11368439",
+     "published": "2026-11-28T12:19+00:00",
+     "summary": "Vi skal vænne os til ikke at kalde Jonas Vingegaard for Visma-rytter. For det er han ikke længere"
+    },
     {
      "title": "Millioner skal tilbagebetales efter mangeårig usikkerhed om gæld",
      "link": "https://ekstrabladet.dk/nyheder/samfund/millioner-skal-tilbagebetales-efter-mangeaarig-usikkerhed-om-gaeld/11368468",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/penge/perfekt-timing-koebte-nvidia-aktier-for-300.000-kroner/11367741",
      "published": "2026-11-28T10:46+00:00",
      "summary": "Den danske investor Tobias Storm ejer nu Nvidia-aktier for omkring 820.000 kroner. Han mener, at markedet er blevet for pessimistisk om chipgigantens fremtid"
-    },
-    {
-     "title": "- Kræft er\nensomt",
-     "link": "https://ekstrabladet.dk/underholdning/kongelige/udenlandskekongelige/prinsesse-kate-kraeft-er-ensomt/11367629",
-     "published": "2026-11-28T10:40+00:00",
-     "summary": "Prinsesse Kate afslører i et nyt klip fra sin kommende dokumentar, at kræftdiagnosen var en 'ensom rejse'"
     }
    ]
   },
@@ -741,6 +741,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "3,2 millioner husstande får fysisk pjece med opdaterede kriseråd",
+     "link": "https://www.bt.dk/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad?referrer=RSS",
+     "published": "2026-11-28T12:19+00:00",
+     "summary": "Samfundets svageste bør lave en huskeliste med vigtige telefonnumre i tilfælde af en krise, siger ministerie."
+    },
+    {
      "title": "Millioner skal tilbagebetales efter mangeårig usikkerhed om gæld",
      "link": "https://www.bt.dk/samfund/millioner-skal-tilbagebetales-efter-mangeaarig-usikkerhed-om-gaeld?referrer=RSS",
      "published": "2026-11-28T12:01+00:00",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/krimi/cyklist-er-koert-med-eskorte-til-hospitalet-efter-ulykke?referrer=RSS",
      "published": "2026-11-28T10:15+00:00",
      "summary": "En cyklist er lørdag blevet påkørt af en personbil i et kryds i Næstved. Hans tilstand betegnes som kritisk."
-    },
-    {
-     "title": "Med eskorte til Rigshospitalet: Cyklist i kritisk tilstand",
-     "link": "https://www.bt.dk/krimi/med-eskorte-til-rigshospitalet-cyklist-i-kritisk-tilstand?referrer=RSS",
-     "published": "2026-11-28T10:07+00:00",
-     "summary": "De pårørende er endnu ikke blevet underrettet."
     }
    ]
   },
@@ -809,6 +809,12 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "3,2 millioner husstande får fysisk pjece med opdaterede kriseråd",
+     "link": "https://www.bt.dk/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad?referrer=RSS",
+     "published": "2026-11-28T12:19+00:00",
+     "summary": "Samfundets svageste bør lave en huskeliste med vigtige telefonnumre i tilfælde af en krise, siger ministerie."
+    },
     {
      "title": "Millioner skal tilbagebetales efter mangeårig usikkerhed om gæld",
      "link": "https://www.bt.dk/samfund/millioner-skal-tilbagebetales-efter-mangeaarig-usikkerhed-om-gaeld?referrer=RSS",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/debat/yaqoub-alimette-frederiksen-havde-ret-der-skal-vaere-en-staerk-majoritetskultur?referrer=RSS",
      "published": "2026-11-28T11:00+00:00",
      "summary": ""
-    },
-    {
-     "title": "Ny skatteordning skal gøre firmacykler mere attraktive fra 2028",
-     "link": "https://www.bt.dk/politik/ny-skatteordning-skal-goere-firmacykler-mere-attraktive-fra-2028?referrer=RSS",
-     "published": "2026-11-28T10:56+00:00",
-     "summary": "Fra 2028 kan arbejdspladser tilbyde firmacykler på mere gunstige skattevilkår, og ansatte må bruge dem privat."
     }
    ]
   },
