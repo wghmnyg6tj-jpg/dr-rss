@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T07:26+00:00",
+ "generated": "2026-11-28T07:36+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -504,6 +504,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Er din løn høj eller lav?",
+     "link": "https://www.dr.dk/nyheder/penge/reels/er-din-loen-hoej-eller-lav",
+     "published": "2026-11-28T07:29+00:00",
+     "summary": ""
+    },
+    {
      "title": "Gik du for meget shop-amok på Black Friday? Sådan kommer du af med dine varer",
      "link": "https://www.dr.dk/nyheder/penge/gik-du-meget-shop-amok-paa-black-friday-saadan-kommer-du-af-med-dine-varer",
      "published": "2026-11-28T07:02+00:00",
@@ -586,12 +592,6 @@
      "link": "https://www.dr.dk/nyheder/penge/din-pension-bliver-stadigvaek-investeret-i-nvidia-trods-massiv-kritik",
      "published": "2026-11-24T20:45+00:00",
      "summary": "Fem af Danmarks største pensionsselskaber fastholder indtil videre deres investeringer i Nvidia trods anklager om korruption og dårlig virksomhedsledelse efter genansættelsen af Jensen Huang."
-    },
-    {
-     "title": "Medarbejder fra Filmskolen fratrådt efter sag om mulig svindel med benzinkort",
-     "link": "https://www.dr.dk/nyheder/penge/medarbejder-fra-filmskolen-fratraadt-efter-sag-om-mulig-svindel-med-benzinkort",
-     "published": "2026-11-24T16:24+00:00",
-     "summary": "Filmskolen tager kraftig opfordring fra minister om politianmeldelse til efterretning."
     }
    ]
   },
@@ -741,6 +741,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Forsøgt bundet i nat: Familie i kæmpe mareridt",
+     "link": "https://www.bt.dk/krimi/forsoegt-bundet-i-nat-familie-i-kaempe-mareridt?referrer=RSS",
+     "published": "2026-11-28T07:34+00:00",
+     "summary": "Familien består af en far, en mor og en ung kvinde. Derudover var datterens veninde til stede."
+    },
+    {
      "title": "SSI holder øje: Superbakterier fra Ukraine på danske hospitaler",
      "link": "https://www.bt.dk/samfund/ssi-holder-oeje-superbakterier-fra-ukraine-paa-danske-hospitaler?referrer=RSS",
      "published": "2026-11-28T07:17+00:00",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/guides/anmeldelsenaar-broedet-slaar-svinet-er-der-altsaa-noget-helt-galt-i-julevaerkstedet?referrer=RSS",
      "published": "2026-11-28T05:41+00:00",
      "summary": ""
-    },
-    {
-     "title": "Politiet beder om hjælp: Forsvundet fra sygehus i nat",
-     "link": "https://www.bt.dk/krimi/politiet-beder-om-hjaelp-forsvundet-fra-sygehus-i-nat?referrer=RSS",
-     "published": "2026-11-28T05:05+00:00",
-     "summary": "Karen blev senest set 27. november omkring klokken 23."
     }
    ]
   },
@@ -809,6 +809,18 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Forsøgt bundet i nat: Familie i kæmpe mareridt",
+     "link": "https://www.bt.dk/krimi/forsoegt-bundet-i-nat-familie-i-kaempe-mareridt?referrer=RSS",
+     "published": "2026-11-28T07:34+00:00",
+     "summary": "Familien består af en far, en mor og en ung kvinde. Derudover var datterens veninde til stede."
+    },
+    {
+     "title": "Messi og co. er færdige i MLS-slutspillet",
+     "link": "https://www.bt.dk/fodbold/messi-og-co-er-faerdige-i-mls-slutspillet?referrer=RSS",
+     "published": "2026-11-28T07:29+00:00",
+     "summary": "Inter Miamis forsvarende MLS-mestre tabte 0-1 til Columbus Crew og kommer ikke til at genvinde titlen."
+    },
     {
      "title": "Rosalinde Mynster ser uhyggelig tendens: 'Nu er det lækre damer i stiletter og lipgloss'",
      "link": "https://www.bt.dk/danske-kendte/rosalinde-mynster-ser-uhyggelig-tendens-nu-er-det-laekre-damer-i-stiletter-og-lipgloss?referrer=RSS",
@@ -856,18 +868,6 @@
      "link": "https://www.bt.dk/vejret/dmi-advarer-farligt-vejr-paa-vej?referrer=RSS",
      "published": "2026-11-28T06:21+00:00",
      "summary": "Fænomenet kan ramme Danmark sidst på natten til søndag."
-    },
-    {
-     "title": "Får tæsk af Obama",
-     "link": "https://www.bt.dk/udland/faar-taesk-af-obama?referrer=RSS",
-     "published": "2026-11-28T06:04+00:00",
-     "summary": "Joe Biden skuffer både salgs- og kvalitetsmæssigt."
-    },
-    {
-     "title": "Hustruens store frygt: 'Jeg har det forfærdeligt'",
-     "link": "https://www.bt.dk/boksning/hustruens-store-frygt-jeg-har-det-forfaerdeligt?referrer=RSS",
-     "published": "2026-11-28T05:57+00:00",
-     "summary": "Kesslers hustru er bange – kan ikke holde det ud."
     }
    ]
   },
