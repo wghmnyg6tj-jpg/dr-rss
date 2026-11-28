@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T15:05+00:00",
+ "generated": "2026-11-28T15:15+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,10 +603,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Motorvej spærret: Varevogn i flammer",
+     "link": "https://ekstrabladet.dk/krimi/motorvej-spaerret-varevogn-i-flammer/11368613",
+     "published": "2026-11-28T15:05+00:00",
+     "summary": "Der er ingen tilskadekomne i forbindelse med branden"
+    },
+    {
      "title": "OB fyrer Thomas Helveg",
      "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/ob-fyrer-thomas-helveg/11368610",
      "published": "2026-11-28T15:00+00:00",
-     "summary": "OB har opsagt samarbejdet med klublegenden Thomas Helveg, bekræfter Troels Bech over for Sport Fyn"
+     "summary": "OB har opsagt samarbejdet med klublegenden Thomas Helveg, bekræfter Troels Bech over for Bold"
     },
     {
      "title": "Hans Engell: \n- En sejr for Hummelgaard",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/forbrug/sundhed/simpel-oevelse-traen-dig-til-bedre-blodomloeb-i-penis/11362659",
      "published": "2026-11-28T14:11+00:00",
      "summary": "Det kan give 'mærkbare resultater i sengen', lyder det fra ekspert"
-    },
-    {
-     "title": "Respekten er væk: Karma er en bitch",
-     "link": "https://ekstrabladet.dk/sport/formel_1/respekten-er-vaek-karma-er-en-bitch/11366584",
-     "published": "2026-11-28T14:11+00:00",
-     "summary": "George Russell er en 'prinsesse' og Max Verstappen en egoist, som 'føler sig bedre' end alle andre. Her er historien om deres udsædvanlige fjendskab"
     }
    ]
   },
@@ -741,8 +741,14 @@
    "status": "ok",
    "items": [
     {
-     "title": "Thomas Helveg færdig",
-     "link": "https://www.bt.dk/nyheder/thomas-helveg-faerdig?referrer=RSS",
+     "title": "100 oppustelige figurer fylder New Yorks gader ved Thanksgiving-parade",
+     "link": "https://www.bt.dk/udland/100-oppustelige-figurer-fylder-new-yorks-gader-ved-thanksgiving-parade?referrer=RSS",
+     "published": "2026-11-28T15:04+00:00",
+     "summary": "Macy's Thanksgiving Day Parade var egentlig planlagt til torsdag, men dårligt vejr fik den udskudt til lørdag."
+    },
+    {
+     "title": "Thomas Helveg er færdig",
+     "link": "https://www.bt.dk/nyheder/thomas-helveg-er-faerdig?referrer=RSS",
      "published": "2026-11-28T15:03+00:00",
      "summary": ""
     },
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad?referrer=RSS",
      "published": "2026-11-28T12:53+00:00",
      "summary": "Samfundets svageste bør lave en huskeliste med vigtige telefonnumre i tilfælde af en krise, siger ministerie."
-    },
-    {
-     "title": "Millioner skal tilbagebetales efter mangeårig usikkerhed om gæld",
-     "link": "https://www.bt.dk/samfund/millioner-skal-tilbagebetales-efter-mangeaarig-usikkerhed-om-gaeld?referrer=RSS",
-     "published": "2026-11-28T12:01+00:00",
-     "summary": "Staten skal nu tilbagebetale millioner til borgere og virksomheder, der kan have betalt ugyldig gæld."
     }
    ]
   },
@@ -810,8 +810,14 @@
    "status": "ok",
    "items": [
     {
-     "title": "Thomas Helveg færdig",
-     "link": "https://www.bt.dk/nyheder/thomas-helveg-faerdig?referrer=RSS",
+     "title": "100 oppustelige figurer fylder New Yorks gader ved Thanksgiving-parade",
+     "link": "https://www.bt.dk/udland/100-oppustelige-figurer-fylder-new-yorks-gader-ved-thanksgiving-parade?referrer=RSS",
+     "published": "2026-11-28T15:04+00:00",
+     "summary": "Macy's Thanksgiving Day Parade var egentlig planlagt til torsdag, men dårligt vejr fik den udskudt til lørdag."
+    },
+    {
+     "title": "Thomas Helveg er færdig",
+     "link": "https://www.bt.dk/nyheder/thomas-helveg-er-faerdig?referrer=RSS",
      "published": "2026-11-28T15:03+00:00",
      "summary": ""
     },
@@ -861,12 +867,6 @@
      "title": "Indkalder til pressemøde",
      "link": "https://www.bt.dk/politik/indkalder-til-pressemoede?referrer=RSS",
      "published": "2026-11-28T13:44+00:00",
-     "summary": ""
-    },
-    {
-     "title": "Mindst 30 døde i luftangreb",
-     "link": "https://www.bt.dk/udland/mindst-30-doede-i-luftangreb?referrer=RSS",
-     "published": "2026-11-28T13:22+00:00",
      "summary": ""
     }
    ]
@@ -1728,6 +1728,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "700 Camino Miles, Secret Shortcuts, and Our Final Walk to Esposende",
+     "link": "https://thetrek.co/700-camino-miles-secret-shortcuts-and-our-final-walk-to-esposende/",
+     "published": "2026-11-28T15:07+00:00",
+     "summary": "Day 51 from Viana do Castelo to Marinhas Todays Miles: 13 miles Total Camino Miles: 701.6 This morning, I woke up early. Because of the time difference here in Portugal, the sun rises around 5:30 a.m. We set out around 7:00 a.m. and …"
+    },
+    {
      "title": "Day 41: The Next Chapter",
      "link": "https://thetrek.co/day-41-the-next-chapter/",
      "published": "2026-11-28T14:21+00:00",
@@ -1780,12 +1786,6 @@
      "link": "https://thetrek.co/escaping-the-farting-ghost-hotel-17-6-miles-into-portugal/",
      "published": "2026-11-27T14:57+00:00",
      "summary": "Day 50 from Caminha to Viana do Castelo Todays Miles: 17.6 miles Total Camino Miles: 688.6 A Haunted Night and Morning Glitches We both thought the place we slept in last night was haunted. It was on the backside of a thousand-year-old …"
-    },
-    {
-     "title": "What’s in My Pack…",
-     "link": "https://thetrek.co/appalachian-trail/whats-in-my-pack-3/",
-     "published": "2026-11-27T14:39+00:00",
-     "summary": "Well, let’s see. There’s raingear, gloves, hat, a blanket, sweatshirt, a calculus book, some water… Hold up. What was that? A calculus book? Yes. I also have my astronomy and chemistry books in there. Back when I was in college – before …"
     }
    ]
   },
