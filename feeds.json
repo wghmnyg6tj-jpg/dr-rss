@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T07:37+00:00",
+ "generated": "2026-11-28T07:47+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "'Rystede helt vildt': Fly strejfede hinanden",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/passagerfly-strejfede-hinanden-foer-afgang/11368262",
+     "published": "2026-11-28T07:41+00:00",
+     "summary": "To American Airlines-fly stødte fredag sammen med vingespidserne i en lufthavn ved Washington D.C."
+    },
+    {
      "title": "Messi og co. er færdige",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/messi-og-co.-er-faerdige-i-mls-slutspillet/11368271",
      "published": "2026-11-28T07:17+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/krimi/de-var-raedselsslagne/11367899",
      "published": "2026-11-28T06:01+00:00",
      "summary": "Der var ikke et gældsforhold mellem to gamle venner, men regulær afpresning, lyder det i sag mod Comanches-rocker"
-    },
-    {
-     "title": "Styrt med militærhelikopter har dræbt otte i Peru",
-     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/styrt-med-militaerhelikopter-har-draebt-otte-i-peru/11368238",
-     "published": "2026-11-28T05:40+00:00",
-     "summary": "En helikopter fra Perus militær var på redningsaktion, da den selv styrtede, oplyser forsvarsministerium"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "'Rystede helt vildt': Fly strejfede hinanden",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/passagerfly-strejfede-hinanden-foer-afgang/11368262",
+     "published": "2026-11-28T07:41+00:00",
+     "summary": "To American Airlines-fly stødte fredag sammen med vingespidserne i en lufthavn ved Washington D.C."
+    },
     {
      "title": "Superbakterier hos Ukraine-patienter: Frygter smitte",
      "link": "https://ekstrabladet.dk/nyheder/samfund/saarede-fra-ukraine-baerer-paa-superbakterier-ssi-frygter-spredning/11368259",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/samfund/vil-have-fat-i-100.000-veteraner-forberedt-paa-det-vaerste/11367204",
      "published": "2026-11-27T20:08+00:00",
      "summary": "Det britiske forsvarsministerium har sendt breve til tidligere soldater for at styrke beredskabet, hvis landet en dag får brug for at indkalde dem"
-    },
-    {
-     "title": "Efter togkaos: Borgmestre sender appel",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/efter-togkaos-borgmestre-sender-appel-til-folketinget/11367320",
-     "published": "2026-11-27T19:58+00:00",
-     "summary": "Tre fynske borgmestre sender nu en appel til de fynskvalgte folketingsmedlemmer. De frygter, at et midlertidigt togstop kan få varige konsekvenser for de små stationer"
     }
    ]
   },
@@ -741,6 +741,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "21-årig mand dræbt med kniv - 19-årig sigtet for drabet",
+     "link": "https://www.bt.dk/krimi/21-aarig-mand-draebt-med-kniv-19-aarig-sigtet-for-drabet?referrer=RSS",
+     "published": "2026-11-28T07:42+00:00",
+     "summary": "En 19-årig mand vil lørdag blive krævet varetægtsfængslet for drab på 21-årig mand i Gentofte fredag aften."
+    },
+    {
      "title": "Forsøgt bundet i nat: Familie i kæmpe mareridt",
      "link": "https://www.bt.dk/krimi/forsoegt-bundet-i-nat-familie-i-kaempe-mareridt?referrer=RSS",
      "published": "2026-11-28T07:34+00:00",
@@ -751,12 +757,6 @@
      "link": "https://www.bt.dk/samfund/ssi-holder-oeje-superbakterier-fra-ukraine-paa-danske-hospitaler?referrer=RSS",
      "published": "2026-11-28T07:17+00:00",
      "summary": "Der bliver holdt skarpt øje med udviklingen."
-    },
-    {
-     "title": "21-årig mand dræbt med kniv - 19-årig sigtet for drabet",
-     "link": "https://www.bt.dk/krimi/21-aarig-mand-draebt-med-kniv-19-aarig-sigtet-for-drabet?referrer=RSS",
-     "published": "2026-11-28T07:12+00:00",
-     "summary": "En 19-årig mand vil lørdag blive krævet varetægtsfængslet for drab på 21-årig mand i Gentofte fredag aften."
     },
     {
      "title": "Stukket ned med kniv: 21-årig død i nat",
@@ -810,6 +810,24 @@
    "status": "ok",
    "items": [
     {
+     "title": "Christian Fuhlendorff blev bitter på sin kendte kollega: ‘Jeg blev nødt til at arbejde med mig selv’",
+     "link": "https://www.bt.dk/danske-kendte/christian-fuhlendorff-blev-bitter-paa-sin-kendte-kollega-jeg-blev-noedt-til-at-arbejde-med-mig-selv?referrer=RSS",
+     "published": "2026-11-28T07:44+00:00",
+     "summary": "Komikeren fik siden et godt råd fra Søren Rasted."
+    },
+    {
+     "title": "21-årig mand dræbt med kniv - 19-årig sigtet for drabet",
+     "link": "https://www.bt.dk/krimi/21-aarig-mand-draebt-med-kniv-19-aarig-sigtet-for-drabet?referrer=RSS",
+     "published": "2026-11-28T07:42+00:00",
+     "summary": "En 19-årig mand vil lørdag blive krævet varetægtsfængslet for drab på 21-årig mand i Gentofte fredag aften."
+    },
+    {
+     "title": "Læger advarer: Stiger med 800 procent",
+     "link": "https://www.bt.dk/sundhed/laeger-advarer-stiger-med-800-procent?referrer=RSS",
+     "published": "2026-11-28T07:41+00:00",
+     "summary": "I 2025 døde i alt 72.000 personer af mæslingrelaterede årsager."
+    },
+    {
      "title": "Forsøgt bundet i nat: Familie i kæmpe mareridt",
      "link": "https://www.bt.dk/krimi/forsoegt-bundet-i-nat-familie-i-kaempe-mareridt?referrer=RSS",
      "published": "2026-11-28T07:34+00:00",
@@ -834,12 +852,6 @@
      "summary": "Der bliver holdt skarpt øje med udviklingen."
     },
     {
-     "title": "21-årig mand dræbt med kniv - 19-årig sigtet for drabet",
-     "link": "https://www.bt.dk/krimi/21-aarig-mand-draebt-med-kniv-19-aarig-sigtet-for-drabet?referrer=RSS",
-     "published": "2026-11-28T07:12+00:00",
-     "summary": "En 19-årig mand vil lørdag blive krævet varetægtsfængslet for drab på 21-årig mand i Gentofte fredag aften."
-    },
-    {
      "title": "Stukket ned med kniv: 21-årig død i nat",
      "link": "https://www.bt.dk/krimi/stukket-ned-med-kniv-21-aarig-doed-i-nat?referrer=RSS",
      "published": "2026-11-28T07:03+00:00",
@@ -856,18 +868,6 @@
      "link": "https://www.bt.dk/udland/netflix-opslag-gaar-verden-rundt-trump-jr-helt-paf?referrer=RSS",
      "published": "2026-11-28T06:51+00:00",
      "summary": "Opslaget er bestemt ikke faldet i alles smag."
-    },
-    {
-     "title": "Isabella fandt sin søster dræbt: ‘Jeg var slet ikke forberedt på det, jeg kom ind til‘",
-     "link": "https://www.bt.dk/krimi/isabella-fandt-sin-soester-draebt-jeg-var-slet-ikke-forberedt-paa-det-jeg-kom-ind-til?referrer=RSS",
-     "published": "2026-11-28T06:47+00:00",
-     "summary": "En stormende forelskelse endte i drab og selvmord, og smadrede to familier. Isabella Borup ville ønske, hun havde kendt til de syv advarselstegn, der går forud for et partnerdrab. For måske kunne ulykken have være afværget."
-    },
-    {
-     "title": "DMI advarer: Farligt vejr på vej",
-     "link": "https://www.bt.dk/vejret/dmi-advarer-farligt-vejr-paa-vej?referrer=RSS",
-     "published": "2026-11-28T06:21+00:00",
-     "summary": "Fænomenet kan ramme Danmark sidst på natten til søndag."
     }
    ]
   },
@@ -1728,6 +1728,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Te Araroa day 33: Beautiful but brutal",
+     "link": "https://thetrek.co/te-araroa-day-33-beautiful-but-brutal/",
+     "published": "2026-11-28T07:41+00:00",
+     "summary": "24.5km, Daly’s Clearing hut to Te Rereatukahia hut Note: As I’ve mentioned in the past, Lindsay is also a Trek blogger. Although we’ve been covering the same ground for a while, her blog is much funnier than mine and definitely worth …"
+    },
+    {
      "title": "The Foothills Trail – Day 2",
      "link": "https://thetrek.co/the-foothills-trail-day-2-2/",
      "published": "2026-11-28T02:25+00:00",
@@ -1780,12 +1786,6 @@
      "link": "https://thetrek.co/pacific-crest-trail/introducing-nomadic-nurse-goes-hiking/",
      "published": "2026-11-26T21:17+00:00",
      "summary": "Hey hikers!! My name is Emilie and I am originally from flat land Ontario in Canada, but now I work as a nurse in beautiful British Columbia. I am hiking the Pacific Crest Trail in 2027 which is why I am here, because my friends and family …"
-    },
-    {
-     "title": "Trail Marshall vs. Troll Marshal, Gifts for Hikers, and Who’s a Hiker Bro | This Week on Trail #3",
-     "link": "https://thetrek.co/trail-marshall-vs-troll-marshal-gifts-for-hikers-and-whos-a-hiker-bro-this-week-on-trail-3/",
-     "published": "2026-11-26T21:00+00:00",
-     "summary": "Trail Marshall has 88,000 Facebook followers, a bio promising love and positivity, and calls the Appalachian Trail a “Bourbon Street in the woods.” On this episode of This Week on Trail, produced by The Trek, hosts Jess “Sassafras” and …"
     }
    ]
   },
