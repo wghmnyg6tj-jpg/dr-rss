@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T14:12+00:00",
+ "generated": "2026-11-28T14:22+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Bankkrak i USA: \nStørste i \nover to år",
+     "link": "https://ekstrabladet.dk/penge/bankkrak-i-usa-stoerste-i-over-to-aar/11368488",
+     "published": "2026-11-28T14:19+00:00",
+     "summary": "Amerikanske myndigheder har lukket United Fidelity Bank. Regningen for krakket ventes at løbe op i 1,83 milliarder dollar"
+    },
+    {
      "title": "Simpel øvelse hjælper: Få en fastere rejsning",
      "link": "https://ekstrabladet.dk/forbrug/sundhed/simpel-oevelse-traen-dig-til-bedre-blodomloeb-i-penis/11362659",
      "published": "2026-11-28T14:11+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/nyheder/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad/11368474",
      "published": "2026-11-28T12:54+00:00",
      "summary": "Samfundets svageste bør lave en huskeliste med vigtige telefonnumre i tilfælde af en krise, siger ministerie"
-    },
-    {
-     "title": "Netop udgivet: Bidens bog flopper",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/netop-landet-paa-hylderne-bidens-bog-flopper/11368369",
-     "published": "2026-11-28T12:38+00:00",
-     "summary": "Joe Biden topper den amerikanske bestsellerliste for fagbøger, men hans erindringer sælger langt langsommere end Barack Obamas og Bill Clintons"
     }
    ]
   },
@@ -1728,6 +1728,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Day 41: The Next Chapter",
+     "link": "https://thetrek.co/day-41-the-next-chapter/",
+     "published": "2026-11-28T14:21+00:00",
+     "summary": "Waking up in my own bed, in my own room, it felt so strange. The best shower I’ve had on the Camino was hot and full of pressure, helping to ease the sickness that was brewing internally. The Camino dads bought ingredients for breakfast …"
+    },
+    {
      "title": "Best Deals for Hikers and Backpackers From the REI Cyber Week Sale",
      "link": "https://thetrek.co/best-deals-for-hikers-and-backpackers-from-the-rei-cyber-week-sale/",
      "published": "2026-11-28T12:59+00:00",
@@ -1780,12 +1786,6 @@
      "link": "https://thetrek.co/appalachian-trail/whats-in-my-pack-3/",
      "published": "2026-11-27T14:39+00:00",
      "summary": "Well, let’s see. There’s raingear, gloves, hat, a blanket, sweatshirt, a calculus book, some water… Hold up. What was that? A calculus book? Yes. I also have my astronomy and chemistry books in there. Back when I was in college – before …"
-    },
-    {
-     "title": "The Pressure to Crush Miles Can Ruin Your Thru-Hike. Don’t Let It.",
-     "link": "https://thetrek.co/the-pressure-to-crush-miles-can-ruin-your-thru-hike-dont-let-it/",
-     "published": "2026-11-27T13:06+00:00",
-     "summary": "After years of planning, you’re finally doing the thing: you’re thru-hiking! It’s exhilarating, it’s liberating, and it’s … remarkably stressful. You knew the trail would be hard, but now that you’re actually out there living the dream …"
     }
    ]
   },
