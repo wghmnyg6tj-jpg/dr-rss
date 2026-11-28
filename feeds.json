@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T17:21+00:00",
+ "generated": "2026-11-28T17:31+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,24 @@
    "status": "ok",
    "items": [
     {
+     "title": "Motorvej helt spærret: Find en anden rute",
+     "link": "https://ekstrabladet.dk/krimi/motorvej-helt-spaerret-find-en-anden-rute/11368713",
+     "published": "2026-11-28T17:24+00:00",
+     "summary": "Det er endnu uvist, om nogen er kommet til skade i forbindelse med uheldet"
+    },
+    {
+     "title": "Ny finanslov på vej: \nHer er gaverne",
+     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/ny-finanslov-paa-vej-her-er-gaverne/11368618",
+     "published": "2026-11-28T17:22+00:00",
+     "summary": "Fra billigere benzin til en ny ordning for firmacykler. Her er, hvad vi indtil videre ved om den kommende finanslov"
+    },
+    {
+     "title": "Trækker bilgiganter\nmed i milliardstrid",
+     "link": "https://ekstrabladet.dk/penge/volkswagen-traekker-bmw-og-mercedes-ind-i-milliardstrid/11367628",
+     "published": "2026-11-28T17:21+00:00",
+     "summary": "Indien mener, at VW har betalt for lidt i told. Nu har den tyske bilgigant lagt rivalernes importtal på dommerens bord"
+    },
+    {
      "title": "Tv-jobkalenderen er totalt tom: \n- Alt er oppe i luften lige nu",
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/tv-jobkalenderen-er-totalt-tom-alt-er-oppe-i-luften-lige-nu/11367346",
      "published": "2026-11-28T17:08+00:00",
@@ -643,24 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/united-saetter-forfaerdelig-pl-rekord/11368647",
      "published": "2026-11-28T15:58+00:00",
      "summary": "Manchester United er det første hold i Premier Leagues historie, der har indkasseret mindst to mål i seks halvlege på stribe"
-    },
-    {
-     "title": "Blomster på stedet, hvor 21-årig blev dødeligt såret af knivstik",
-     "link": "https://ekstrabladet.dk/krimi/blomster-paa-stedet-hvor-21-aarig-blev-doedeligt-saaret-af-knivstik/11368631",
-     "published": "2026-11-28T15:57+00:00",
-     "summary": "Vidne så formodet knivstikker løbe fra gerningssted og kontaktede politiet. Kort efter blev 19-årig anholdt"
-    },
-    {
-     "title": "Efter kræftforløb:\nElisa Lykke er taknemmelig\nfor livet",
-     "link": "https://ekstrabladet.dk/underholdning/dkkendte/elisa-lykke-efter-kraeftforloeb-er-blevet-mere-taknemmelig/11368629",
-     "published": "2026-11-28T15:40+00:00",
-     "summary": "Den danske forfatter og pr-agent har fået et nyt livssyn efter sine kræftforløb"
-    },
-    {
-     "title": "Jyder risikerer at stå op til isslag søndag",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/vejret/jyder-risikerer-at-staa-op-til-isslag-soendag/11368628",
-     "published": "2026-11-28T15:36+00:00",
-     "summary": "Prognoserne melder om muligt isslag i det jyske søndag morgen. Fyn og Sjælland ser ud til at gå fri"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Ny finanslov på vej: \nHer er gaverne",
+     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/ny-finanslov-paa-vej-her-er-gaverne/11368618",
+     "published": "2026-11-28T17:22+00:00",
+     "summary": "Fra billigere benzin til en ny ordning for firmacykler. Her er, hvad vi indtil videre ved om den kommende finanslov"
+    },
     {
      "title": "Jyder risikerer at stå op til isslag søndag",
      "link": "https://ekstrabladet.dk/nyheder/samfund/vejret/jyder-risikerer-at-staa-op-til-isslag-soendag/11368628",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/Udland/elefant-stopper-scooterfoerer-paa-flugt/11368122",
      "published": "2026-11-28T11:12+00:00",
      "summary": "Drabsmistænkt på flugt blev stoppet brat, da en elefant pludselig trådte ud på vejen i Sri Lanka"
-    },
-    {
-     "title": "Frankrig rystet: Brændte ekskonen levende",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/frankrig-i-chok-braendte-ekskonen-levende/11368304",
-     "published": "2026-11-28T10:56+00:00",
-     "summary": "En fransk appeldomstol har stadfæstet livstidsdommen over 50-årige Mounir Boutaa, der brændte sin ekskone Chahinez Daoud levende. Inden drabet havde hun bedt politiet om beskyttelse"
     }
    ]
   },
