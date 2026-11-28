@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T17:10+00:00",
+ "generated": "2026-11-28T17:21+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -741,22 +741,22 @@
    "status": "ok",
    "items": [
     {
-     "title": "Netanyahu vil give rival premierministerpost først i foreslået rotation",
-     "link": "https://www.bt.dk/udland/netanyahu-vil-give-rival-premierministerpost-foerst-i-foreslaaet-rotation?referrer=RSS",
-     "published": "2026-11-28T17:07+00:00",
-     "summary": "Netanyahu er villig til at opgive sit princip om, at det største parti bør lede Israels regering, siger han."
-    },
-    {
      "title": "17 er såret ved demonstration mod Albaniens regering",
      "link": "https://www.bt.dk/udland/17-er-saaret-ved-demonstration-mod-albaniens-regering?referrer=RSS",
-     "published": "2026-11-28T17:04+00:00",
+     "published": "2026-11-28T17:14+00:00",
      "summary": "Albanien har i de seneste mange måneder været præget af regeringskritiske demonstrationer."
     },
     {
      "title": "Saab får milliardordre på radarsystem til Ukraine",
      "link": "https://www.bt.dk/udland/saab-faar-milliardordre-paa-radarsystem-til-ukraine?referrer=RSS",
-     "published": "2026-11-28T16:57+00:00",
+     "published": "2026-11-28T17:11+00:00",
      "summary": "Ukraine har bestilt flere radarsystemer af typen Giraffe, som skal hjælpe med at opdage droner og missiler."
+    },
+    {
+     "title": "Netanyahu vil give rival premierministerpost først i foreslået rotation",
+     "link": "https://www.bt.dk/udland/netanyahu-vil-give-rival-premierministerpost-foerst-i-foreslaaet-rotation?referrer=RSS",
+     "published": "2026-11-28T17:07+00:00",
+     "summary": "Netanyahu er villig til at opgive sit princip om, at det største parti bør lede Israels regering, siger han."
     },
     {
      "title": "Flammer i Albaniens gader: Kræver hans afgang!",
@@ -810,16 +810,28 @@
    "status": "ok",
    "items": [
     {
-     "title": "Netanyahu vil give rival premierministerpost først i foreslået rotation",
-     "link": "https://www.bt.dk/udland/netanyahu-vil-give-rival-premierministerpost-foerst-i-foreslaaet-rotation?referrer=RSS",
-     "published": "2026-11-28T17:07+00:00",
-     "summary": "Netanyahu er villig til at opgive sit princip om, at det største parti bør lede Israels regering, siger han."
+     "title": "LIVE: Følg Kesslers comeback her",
+     "link": "https://www.bt.dk/boksning/live-foelg-kesslers-comeback-her?referrer=RSS",
+     "published": "2026-11-28T17:18+00:00",
+     "summary": ""
     },
     {
      "title": "17 er såret ved demonstration mod Albaniens regering",
      "link": "https://www.bt.dk/udland/17-er-saaret-ved-demonstration-mod-albaniens-regering?referrer=RSS",
-     "published": "2026-11-28T17:04+00:00",
+     "published": "2026-11-28T17:14+00:00",
      "summary": "Albanien har i de seneste mange måneder været præget af regeringskritiske demonstrationer."
+    },
+    {
+     "title": "Saab får milliardordre på radarsystem til Ukraine",
+     "link": "https://www.bt.dk/udland/saab-faar-milliardordre-paa-radarsystem-til-ukraine?referrer=RSS",
+     "published": "2026-11-28T17:11+00:00",
+     "summary": "Ukraine har bestilt flere radarsystemer af typen Giraffe, som skal hjælpe med at opdage droner og missiler."
+    },
+    {
+     "title": "Netanyahu vil give rival premierministerpost først i foreslået rotation",
+     "link": "https://www.bt.dk/udland/netanyahu-vil-give-rival-premierministerpost-foerst-i-foreslaaet-rotation?referrer=RSS",
+     "published": "2026-11-28T17:07+00:00",
+     "summary": "Netanyahu er villig til at opgive sit princip om, at det største parti bør lede Israels regering, siger han."
     },
     {
      "title": "United synker mod bunden i Pochettinos voksende mareridt",
@@ -832,12 +844,6 @@
      "link": "https://www.bt.dk/fodbold/united-synker-mod-bunden-i-pochettinos-voksende-mareridt?referrer=RSS",
      "published": "2026-11-28T17:02+00:00",
      "summary": "Mauricio Pochettino har fortsat ikke fundet mirakelkuren. Brentford vandt med 4-0 på Old Trafford."
-    },
-    {
-     "title": "Saab får milliardordre på radarsystem til Ukraine",
-     "link": "https://www.bt.dk/udland/saab-faar-milliardordre-paa-radarsystem-til-ukraine?referrer=RSS",
-     "published": "2026-11-28T16:57+00:00",
-     "summary": "Ukraine har bestilt flere radarsystemer af typen Giraffe, som skal hjælpe med at opdage droner og missiler."
     },
     {
      "title": "Flammer i Albaniens gader: Kræver hans afgang!",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/nyheder/zelenskyjs-bagland-kraever-trumps-svigersoen-fjernet?referrer=RSS",
      "published": "2026-11-28T16:15+00:00",
      "summary": "Jared Kushner er helt tæt på magtens centrum i Washington og fredsforhandlingerne, men nu kræver Zelenskyjs bagland ham fjernet."
-    },
-    {
-     "title": "100 oppustelige figurer fylder New Yorks gader ved thanksgiving-parade",
-     "link": "https://www.bt.dk/udland/100-oppustelige-figurer-fylder-new-yorks-gader-ved-thanksgiving-parade?referrer=RSS",
-     "published": "2026-11-28T16:09+00:00",
-     "summary": "Macy's Thanksgiving Day Parade var egentlig planlagt til torsdag, men dårligt vejr fik den udskudt til lørdag."
     }
    ]
   },
