@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T08:07+00:00",
+ "generated": "2026-11-28T08:17+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Står til bøde",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/chokerede-danske-youtube-stjerner-i-retten-staar-til-boede/11368313",
+     "published": "2026-11-28T08:16+00:00",
+     "summary": "Tvillingebrødrene bag TrierGaming og Trierne er i retten for skjult reklame og risikerer en bøde på 140.000 kroner"
+    },
+    {
+     "title": "Mystik i Frankrig: Tusindevis af kvinder ramt",
+     "link": "https://ekstrabladet.dk/nyheder/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig/11368310",
+     "published": "2026-11-28T08:14+00:00",
+     "summary": "Tusindvis har fået usædvanligt kraftige smerter og blødninger, efter at de deltog i demonstrationer"
+    },
+    {
      "title": "MobilePay i\nmarkant fald",
      "link": "https://ekstrabladet.dk/penge/black-friday-ligner-en-fuser-hos-mobilepay/11367834",
      "published": "2026-11-28T07:58+00:00",
@@ -649,18 +661,6 @@
      "link": "https://ekstrabladet.dk/penge/en-million-i-timen-familien-oestergaards-formue-er-eksploderet/11367374",
      "published": "2026-11-28T06:51+00:00",
      "summary": "Familien er strøget direkte op på en plads i top fem over landets rigeste"
-    },
-    {
-     "title": "Dansk golfspiller vinder terræn ved turnering i Australien",
-     "link": "https://ekstrabladet.dk/sport/anden_sport/golf/dansk-golfspiller-vinder-terraen-ved-turnering-i-australien/11368235",
-     "published": "2026-11-28T06:36+00:00",
-     "summary": "Danske Nicolai Højgaard snuser til top-10 efter en flot tredje runde ved golfturnering i Australien"
-    },
-    {
-     "title": "Neestrups svære beslutning:\n- Skal man lære\n at leve med",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/international_fodbold/jacob-neestrups-svaere-beslutning-det-skal-man-laere-at-leve-med/11365846",
-     "published": "2026-11-28T06:22+00:00",
-     "summary": "Den tidligere FCK-chef havde mange overvejelser, inden han forlod København for at blive træner i Panathinaikos"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Mystik i Frankrig: Tusindevis af kvinder ramt",
+     "link": "https://ekstrabladet.dk/nyheder/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig/11368310",
+     "published": "2026-11-28T08:14+00:00",
+     "summary": "Tusindvis har fået usædvanligt kraftige smerter og blødninger, efter at de deltog i demonstrationer"
+    },
     {
      "title": "'Rystede helt vildt': Fly strejfede hinanden",
      "link": "https://ekstrabladet.dk/nyheder/Udland/passagerfly-strejfede-hinanden-foer-afgang/11368262",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/Udland/medie-nordkorea-pauser-vaabenhjaelp-til-rusland/11367143",
      "published": "2026-11-27T20:53+00:00",
      "summary": "Ifølge den ukrainske efterretningstjeneste HUR er der opstået diplomatisk uenighed mellem Rusland er Nordkorea, der er en af Ruslands vigtigste allierede"
-    },
-    {
-     "title": "Vil have styr på reserven:\nKontakter\n100.000",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/vil-have-fat-i-100.000-veteraner-forberedt-paa-det-vaerste/11367204",
-     "published": "2026-11-27T20:08+00:00",
-     "summary": "Det britiske forsvarsministerium har sendt breve til tidligere soldater for at styrke beredskabet, hvis landet en dag får brug for at indkalde dem"
     }
    ]
   },
@@ -741,8 +741,14 @@
    "status": "ok",
    "items": [
     {
-     "title": "Ramt af mystiske blødninger",
-     "link": "https://www.bt.dk/udland/ramt-af-mystiske-bloedninger?referrer=RSS",
+     "title": "Kvinder ramt af kramper og aborter efter tåregas under demoer i Frankrig",
+     "link": "https://www.bt.dk/udland/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig?referrer=RSS",
+     "published": "2026-11-28T08:10+00:00",
+     "summary": "Tusindvis har fået usædvanligt kraftige smerter og blødninger, efter at de deltog i demonstrationer."
+    },
+    {
+     "title": "Kvinder ramt af kramper og aborter efter tåregas under demoer i Frankrig",
+     "link": "https://www.bt.dk/udland/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig-1?referrer=RSS",
      "published": "2026-11-28T07:59+00:00",
      "summary": ""
     },
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/udland/faar-taesk-af-obama?referrer=RSS",
      "published": "2026-11-28T06:04+00:00",
      "summary": "Joe Biden skuffer både salgs- og kvalitetsmæssigt."
-    },
-    {
-     "title": "Læger uden Grænser: To ansatte er døde i israelsk angreb i Gaza",
-     "link": "https://www.bt.dk/udland/laeger-uden-graenser-to-ansatte-er-doede-i-israelsk-angreb-i-gaza?referrer=RSS",
-     "published": "2026-11-28T05:49+00:00",
-     "summary": "Det israelske militær hævder, at organisations dræbte sikkerhedsvagter havde tilknytning til Hamas."
     }
    ]
   },
@@ -810,8 +810,14 @@
    "status": "ok",
    "items": [
     {
-     "title": "Ramt af mystiske blødninger",
-     "link": "https://www.bt.dk/udland/ramt-af-mystiske-bloedninger?referrer=RSS",
+     "title": "Kvinder ramt af kramper og aborter efter tåregas under demoer i Frankrig",
+     "link": "https://www.bt.dk/udland/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig?referrer=RSS",
+     "published": "2026-11-28T08:10+00:00",
+     "summary": "Tusindvis har fået usædvanligt kraftige smerter og blødninger, efter at de deltog i demonstrationer."
+    },
+    {
+     "title": "Kvinder ramt af kramper og aborter efter tåregas under demoer i Frankrig",
+     "link": "https://www.bt.dk/udland/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig-1?referrer=RSS",
      "published": "2026-11-28T07:59+00:00",
      "summary": ""
     },
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/krimi/stukket-ned-med-kniv-21-aarig-doed-i-nat?referrer=RSS",
      "published": "2026-11-28T07:03+00:00",
      "summary": "De pårørende er underrettet."
-    },
-    {
-     "title": "Tidligere United-spiller bryder sammen: Kone troede, han skulle dø",
-     "link": "https://www.bt.dk/fodbold/tidligere-united-spiller-bryder-sammen-kone-troede-han-skulle-doe?referrer=RSS",
-     "published": "2026-11-28T06:59+00:00",
-     "summary": "Darron Gibsons misbrug fik i 2021 alvorlige konsekvenser, da det pludselig så sort ud."
     }
    ]
   },
