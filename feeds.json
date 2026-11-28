@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T03:59+00:00",
+ "generated": "2026-11-28T05:51+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -8,6 +8,12 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/senestenyt",
    "status": "ok",
    "items": [
+    {
+     "title": "Styrt med militærhelikopter har dræbt otte i Peru",
+     "link": "https://www.dr.dk/nyheder/seneste/styrt-med-militaerhelikopter-har-draebt-otte-i-peru",
+     "published": "2026-11-28T04:11+00:00",
+     "summary": ""
+    },
     {
      "title": "Politiet anholder person efter uroligheder mellem ishockeyfans",
      "link": "https://www.dr.dk/nyheder/seneste/politiet-anholder-person-efter-uroligheder-mellem-ishockeyfans",
@@ -90,12 +96,6 @@
      "title": "Ny rigsadvokat udpeget",
      "link": "https://www.dr.dk/nyheder/seneste/ny-rigsadvokat-udpeget",
      "published": "2026-11-27T11:53+00:00",
-     "summary": ""
-    },
-    {
-     "title": "Skat kontrollerer igen content creators: Fejl i 95 procent af indberetningerne",
-     "link": "https://www.dr.dk/nyheder/seneste/skat-kontrollerer-igen-content-creators-fejl-i-95-procent-af-indberetningerne",
-     "published": "2026-11-27T11:38+00:00",
      "summary": ""
     }
    ]
@@ -108,6 +108,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Styrt med militærhelikopter har dræbt otte i Peru",
+     "link": "https://www.dr.dk/nyheder/seneste/styrt-med-militaerhelikopter-har-draebt-otte-i-peru",
+     "published": "2026-11-28T04:11+00:00",
+     "summary": ""
+    },
+    {
      "title": "Politiet anholder person efter uroligheder mellem ishockeyfans",
      "link": "https://www.dr.dk/nyheder/seneste/politiet-anholder-person-efter-uroligheder-mellem-ishockeyfans",
      "published": "2026-11-28T02:35+00:00",
@@ -190,12 +196,6 @@
      "link": "https://www.dr.dk/nyheder/seneste/ny-rigsadvokat-udpeget",
      "published": "2026-11-27T11:53+00:00",
      "summary": ""
-    },
-    {
-     "title": "Skat kontrollerer igen content creators: Fejl i 95 procent af indberetningerne",
-     "link": "https://www.dr.dk/nyheder/seneste/skat-kontrollerer-igen-content-creators-fejl-i-95-procent-af-indberetningerne",
-     "published": "2026-11-27T11:38+00:00",
-     "summary": ""
     }
    ]
   },
@@ -206,6 +206,24 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/indland",
    "status": "ok",
    "items": [
+    {
+     "title": "Tonsvis af affald stilles foran genbrugsbutikkerne: Regningen løber op i millioner",
+     "link": "https://www.dr.dk/nyheder/indland/tonsvis-af-affald-stilles-foran-genbrugsbutikkerne-regningen-loeber-op-i-millioner",
+     "published": "2026-11-28T05:45+00:00",
+     "summary": "Ifølge ministerie vil det være i strid med EU-regler, hvis genbrugsbutikkerne ikke betalte for at komme af affaldet."
+    },
+    {
+     "title": "Kan DR-journalist snige sig med på Danmarks vildeste selfie?",
+     "link": "https://www.dr.dk/nyheder/indland/reels/kan-dr-journalist-snige-sig-med-paa-danmarks-vildeste-selfie",
+     "published": "2026-11-28T05:30+00:00",
+     "summary": ""
+    },
+    {
+     "title": "Ny analyse: Det er fortsat i byen og ikke på Snapchat, unge primært tilbydes stoffer",
+     "link": "https://www.dr.dk/nyheder/indland/ny-analyse-det-er-fortsat-i-byen-og-ikke-paa-snapchat-unge-primaert-tilbydes-stoffer",
+     "published": "2026-11-28T05:00+00:00",
+     "summary": "Justitsministeren mener ikke, at man fra politisk side har fokuseret for meget på salg af stoffer på online platforme."
+    },
     {
      "title": "Før sin død fortalte Jørn Hjorting DR, hvad han håber at blive husket for",
      "link": "https://www.dr.dk/nyheder/indland/foer-sin-doed-fortalte-joern-hjorting-dr-hvad-han-haaber-blive-husket",
@@ -277,24 +295,6 @@
      "link": "https://www.dr.dk/nyheder/indland/reels/nuuk-em-all-indtag-groenland-som-trump-i-nyt-arkadespil",
      "published": "2026-11-27T14:45+00:00",
      "summary": ""
-    },
-    {
-     "title": "Tusindvis af gymnasieelevers telefonnumre er blevet lækket",
-     "link": "https://www.dr.dk/nyheder/indland/tusindvis-af-gymnasieelevers-telefonnumre-er-blevet-laekket",
-     "published": "2026-11-27T14:00+00:00",
-     "summary": "I en måned har uvedkommende haft adgang til filer, der blandt andet indeholder telefonnumre."
-    },
-    {
-     "title": "’Vi bliver bekræftet i, at det er rigtigt at handle på Black Friday, når alle andre gør det’: Læs forbrugereksperternes svar om Black Friday",
-     "link": "https://www.dr.dk/nyheder/indland/vi-bliver-bekraeftet-i-det-er-rigtigt-handle-paa-black-friday-naar-alle-andre-goer-det-laes",
-     "published": "2026-11-27T11:07+00:00",
-     "summary": "Det er atter den tid på året, hvor Black Friday finder sted. Hvordan forholder du dig som forbruger?"
-    },
-    {
-     "title": "Mens tilbudsjagten raser, lukker Michael sin butik",
-     "link": "https://www.dr.dk/nyheder/indland/mens-tilbudsjagten-raser-lukker-michael-sin-butik",
-     "published": "2026-11-27T10:54+00:00",
-     "summary": "Mindre erhvervsdrivende kan have svært ved at følge med de store kæders Black Friday-tilbud. For Michael Friedrichsen betyder det, han bruger dagen et helt andet sted end i sin butik."
     }
    ]
   },
@@ -305,6 +305,18 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/udland",
    "status": "ok",
    "items": [
+    {
+     "title": "Læger uden Grænser: To ansatte er døde i israelsk angreb i Gaza",
+     "link": "https://www.dr.dk/nyheder/udland/laeger-uden-graenser-ansatte-er-doede-i-israelsk-angreb-i-gaza",
+     "published": "2026-11-28T05:41+00:00",
+     "summary": "Det israelske militær hævder, at organisations dræbte sikkerhedsvagter havde tilknytning til Hamas."
+    },
+    {
+     "title": "DR til vælgermøde i spansk tyrefægtningsarena: Højrefløjskandidat modtaget som 'en superstjerne'",
+     "link": "https://www.dr.dk/nyheder/udland/dr-til-vaelgermoede-i-spansk-tyrefaegtningsarena-hoejrefloejskandidat-modtaget-som-en-superstjerne",
+     "published": "2026-11-28T04:50+00:00",
+     "summary": "Søndagens valg i Spanien kan potentielt markere et kursskifte og give den yderste højrefløj plads i landets regering."
+    },
     {
      "title": "OpenAI og Apple beskylder hinanden for at stjæle hemmeligheder",
      "link": "https://www.dr.dk/nyheder/udland/openai-og-apple-beskylder-hinanden-stjaele-hemmeligheder",
@@ -382,18 +394,6 @@
      "link": "https://www.dr.dk/nyheder/udland/eu/forhandlingskollaps-afbryder-eu-topmoede-en-dag-foer-tid",
      "published": "2026-11-26T21:18+00:00",
      "summary": "I forhandlingerne om EU's næste flerårige budget er landene så langt fra hinanden, at de nu går hver til sit - en dag før tid."
-    },
-    {
-     "title": "Slagsmål om vitalt Ukraine-lån spidser til: 'Ingen mulighed' for kompromisser i år, siger Merz",
-     "link": "https://www.dr.dk/nyheder/udland/slagsmaal-om-vitalt-ukraine-laan-spidser-til-ingen-mulighed-kompromisser-i-aar-siger-merz",
-     "published": "2026-11-26T21:00+00:00",
-     "summary": "Det er ikke kun EU's syvårige budget, der er på dagsordenen under topmødet i Bruxelles. Ukraine mangler milliarder til forsvaret mod Rusland."
-    },
-    {
-     "title": "Ekspert: LeBron James kaster 'ekstra stjernedrys' på Novo med nyt NBA-sponsorat",
-     "link": "https://www.dr.dk/nyheder/penge/ekspert-lebron-james-kaster-ekstra-stjernedrys-paa-novo-med-nyt-nba-sponsorat",
-     "published": "2026-11-26T19:41+00:00",
-     "summary": "Ifølge sportsøkonom er Novo Nordisks sponsorat af NBA-holdet Philadelphia 76ers udtryk for et \"paradigmeskifte\" for virksomheden."
     }
    ]
   },
@@ -603,6 +603,42 @@
    "status": "ok",
    "items": [
     {
+     "title": "Styrt med militærhelikopter har dræbt otte i Peru",
+     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/styrt-med-militaerhelikopter-har-draebt-otte-i-peru/11368238",
+     "published": "2026-11-28T05:40+00:00",
+     "summary": "En helikopter fra Perus militær var på redningsaktion, da den selv styrtede, oplyser forsvarsministerium"
+    },
+    {
+     "title": "Koncert evakueret: Politiet deler ny teori",
+     "link": "https://ekstrabladet.dk/play/Eksternt_Indhold/Viaplay/Underholdning/koncert-evakueret-efter-mystisk-stof-politiet-deler-ny-teori/11368249",
+     "published": "2026-11-28T05:38+00:00",
+     "summary": "89 personer fik symptomer under en koncert med rapperen Don Toliver i Manchester. Politiet mistænker nu, at organiserede kriminelle stod bag røverier i salen"
+    },
+    {
+     "title": "USA's luftvåben ramt af hackerangreb",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/usas-luftvaaben-ramt-af-hackerangreb/11368247",
+     "published": "2026-11-28T05:28+00:00",
+     "summary": "Hackere er trængt ind på en platform, som det amerikanske luftvåben bruger til at holde styr på bomber og missiler mere end 200 steder i verden. Det er uvist, om der er stjålet data"
+    },
+    {
+     "title": "Krævede kamp: Fuhlendorff-bog makuleret",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/kraevede-kamp-fuhlendorff-bog-makuleret-efter-strid-med-spang/11367477",
+     "published": "2026-11-28T05:09+00:00",
+     "summary": "Først forsøgte man at ændre en formulering i Christian Fuhlendorffs nye samtalebog. Et helt afsnit er nu ude af e- og lydbog, mens den fysiske bog er trukket tilbage for at undgå retsmøde"
+    },
+    {
+     "title": "Model døde efter fest med NFL-stjerne: Raser mod 'falske' anklager",
+     "link": "https://ekstrabladet.dk/sport/anden_sport/nfl/model-doede-efter-fest-med-nfl-stjerne-raser-mod-falske-anklager/11367291",
+     "published": "2026-11-28T05:03+00:00",
+     "summary": "Sagen om Kimberly Fattorinis død har fået nyt liv, efter Shawne Merriman er gået ud og afviser de seneste beskyldninger. Sagen handler om en overdosisdød, et civilt søgsmål og en erstatning på millioner"
+    },
+    {
+     "title": "Politiet med efterlysning: Har du set Karen?",
+     "link": "https://ekstrabladet.dk/krimi/80-aarige-karen-efterlyses-gik-fra-kolding-sygehus/11368239",
+     "published": "2026-11-28T04:53+00:00",
+     "summary": "Karen blev senest set fredag omkring klokken 23. Politiet beder offentligheden om hjælp til at finde hende"
+    },
+    {
      "title": "Kardashian-søstre fuckede\nderes ansigter op",
      "link": "https://ekstrabladet.dk/underholdning/udlandkendte/kardashian-soestre-fuckede-deres-ansigter-op-min-mor-begyndte-at-graede/11367467",
      "published": "2026-11-27T22:33+00:00",
@@ -625,42 +661,6 @@
      "link": "https://ekstrabladet.dk/nyheder/Udland/blev-doemt-for-191-drab-nu-er-han-kendt-skyldig-i-123-drab-mere/11368030",
      "published": "2026-11-27T22:15+00:00",
      "summary": "Sektleder er kendt skyldig i drab på i alt 314 mennesker"
-    },
-    {
-     "title": "Nedturen fortsætter",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/chelsea-nedtur-fortsaetter-med-nederlag-til-nottingham-forest/11368199",
-     "published": "2026-11-27T22:00+00:00",
-     "summary": "Nottingham Forest udnyttede Chelseas defensive svagheder og sendte London-klubben hjem med et 2-3-nederlag"
-    },
-    {
-     "title": "Hjorting trodsede kultureliten: \n- Det var det,\nfolket ville have",
-     "link": "https://ekstrabladet.dk/underholdning/dkkendte/hjorting-trodsede-kultureliten-det-var-det-folket-ville-have/11367900",
-     "published": "2026-11-27T22:00+00:00",
-     "summary": "Mens kultureliten kritiserede dansktopmusikken, kæmpede Jørn Hjorting for at give den plads i radioen. Ifølge Ole Tøpholm var radioikonet garant for den musik, som danskerne elskede"
-    },
-    {
-     "title": "Overtaget fejlede: - Pissehamrende ærgerligt",
-     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/broendbys-overtag-fejlede-pissehamrende-aergerligt/11368194",
-     "published": "2026-11-27T21:55+00:00",
-     "summary": "Thomas Nørgaard stod tilbage med en skuffende fornemmelse, efter det kun blev til et enkelt point mod Sønderjyske Fodbold"
-    },
-    {
-     "title": "Fjern TV 2-toppen",
-     "link": "https://ekstrabladet.dk/nyheder/lederen/fjern-tv-2-toppen/11368054",
-     "published": "2026-11-27T21:55+00:00",
-     "summary": ""
-    },
-    {
-     "title": "Velkommen-skandalen vokser:\nSkylder danskere \nnæsten 300 millioner",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/velkommen-skandalen-vokser-skyldte-42.825-kunder-naesten-300-millioner/11368171",
-     "published": "2026-11-27T21:44+00:00",
-     "summary": "Nye dokumenter fra det konkursramte elselskab viser, at tusindvis af kunder havde store beløb til gode. Ifølge kuratorerne stoppede selskabet allerede i 2024 med løbende at betale pengene tilbage"
-    },
-    {
-     "title": "Füllkrug reddede Werder Bremen i hæsblæsende affære",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/tyskfodbold/fullkrug-reddede-werder-bremen-i-haesblaesende-affaere/11368190",
-     "published": "2026-11-27T21:37+00:00",
-     "summary": "Borussia Mönchengladbach førte 3-1 på udebane mod Werder Bremen, men på to sene scoringer endte det 3-3. Niclas Füllkrug udlignede til allersidst"
     }
    ]
   },
@@ -671,6 +671,18 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Styrt med militærhelikopter har dræbt otte i Peru",
+     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/styrt-med-militaerhelikopter-har-draebt-otte-i-peru/11368238",
+     "published": "2026-11-28T05:40+00:00",
+     "summary": "En helikopter fra Perus militær var på redningsaktion, da den selv styrtede, oplyser forsvarsministerium"
+    },
+    {
+     "title": "USA's luftvåben ramt af hackerangreb",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/usas-luftvaaben-ramt-af-hackerangreb/11368247",
+     "published": "2026-11-28T05:28+00:00",
+     "summary": "Hackere er trængt ind på en platform, som det amerikanske luftvåben bruger til at holde styr på bomber og missiler mere end 200 steder i verden. Det er uvist, om der er stjålet data"
+    },
     {
      "title": "Dømt for 191 drab\n- kendt skyldig i\n123 mere",
      "link": "https://ekstrabladet.dk/nyheder/Udland/blev-doemt-for-191-drab-nu-er-han-kendt-skyldig-i-123-drab-mere/11368030",
@@ -718,18 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/putin-praesenterer-ny-atomdrevet-ubaad/11368094",
      "published": "2026-11-27T19:07+00:00",
      "summary": "Ud over den nye atomdrevne ubåd \"Perm\", som flåden fik overdraget ved en ceremoni fredag, er fem mere på vej"
-    },
-    {
-     "title": "Amerikansk militærfly beskyder fragtskib i Omanbugten",
-     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/amerikansk-militaerfly-beskyder-fragtskib-i-omanbugten/11368051",
-     "published": "2026-11-27T18:16+00:00",
-     "summary": "Trods flere advarsler forsøgte et skib at bryde den amerikanske maritime blokade mod iranske havne"
-    },
-    {
-     "title": "Frygter angreb \nmed mange \nofre i Europa",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/advarer-europa-frygter-angreb-med-mange-ofre/11367903",
-     "published": "2026-11-27T17:41+00:00",
-     "summary": "Russiske sabotageangreb i Europa er steget markant det seneste år. Nu advarer en førende tænketank om, at et angreb kan ende med en katastrofe med mange ofre"
     }
    ]
   },
@@ -740,6 +740,30 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Læger uden Grænser: To ansatte er døde i israelsk angreb i Gaza",
+     "link": "https://www.bt.dk/udland/laeger-uden-graenser-to-ansatte-er-doede-i-israelsk-angreb-i-gaza?referrer=RSS",
+     "published": "2026-11-28T05:49+00:00",
+     "summary": "Det israelske militær hævder, at organisations dræbte sikkerhedsvagter havde tilknytning til Hamas."
+    },
+    {
+     "title": "Anmeldelse: Når brødet slår svinet, er der altså noget helt galt i juleværkstedet",
+     "link": "https://www.bt.dk/guides/anmeldelsenaar-broedet-slaar-svinet-er-der-altsaa-noget-helt-galt-i-julevaerkstedet?referrer=RSS",
+     "published": "2026-11-28T05:41+00:00",
+     "summary": ""
+    },
+    {
+     "title": "Politiet beder om hjælp: Forsvundet fra sygehus i nat",
+     "link": "https://www.bt.dk/krimi/politiet-beder-om-hjaelp-forsvundet-fra-sygehus-i-nat?referrer=RSS",
+     "published": "2026-11-28T05:05+00:00",
+     "summary": "Karen blev senest set 27. november omkring klokken 23."
+    },
+    {
+     "title": "Styrt med militærhelikopter har dræbt otte i Peru",
+     "link": "https://www.bt.dk/udland/styrt-med-militaerhelikopter-har-draebt-otte-i-peru?referrer=RSS",
+     "published": "2026-11-28T04:33+00:00",
+     "summary": "En helikopter fra Perus militær var på redningsaktion, da den selv styrtede, oplyser forsvarsministerium."
+    },
     {
      "title": "Uganda tester eksperimentel vaccine mod ebola",
      "link": "https://www.bt.dk/udland/uganda-tester-eksperimentel-vaccine-mod-ebola?referrer=RSS",
@@ -775,30 +799,6 @@
      "link": "https://www.bt.dk/krimi/efter-flere-roeverier-i-koebmandsbutikker-nu-er-de-doemt?referrer=RSS",
      "published": "2026-11-27T21:59+00:00",
      "summary": "Samlet skal de afsone ti år og ti måneders fængsel."
-    },
-    {
-     "title": "Velkommen skyldte 42.825 elkunder 292 millioner kroner ved konkurs",
-     "link": "https://www.bt.dk/samfund/velkommen-skyldte-42825-elkunder-292-millioner-kroner-ved-konkurs?referrer=RSS",
-     "published": "2026-11-27T21:20+00:00",
-     "summary": "Kuratorerne har fundet forhold i materialet fra Velkommen, der har givet anledning til at underrette politiet."
-    },
-    {
-     "title": "Chok i Storbritannien: Kriminelle gassede koncertgæster",
-     "link": "https://www.bt.dk/udland/chok-i-storbritannien-kriminelle-gassede-koncertgaester?referrer=RSS",
-     "published": "2026-11-27T21:10+00:00",
-     "summary": "De kriminelle forsøgte at røve flere koncertgæster, efter de havde gasset dem."
-    },
-    {
-     "title": "Beder hele Aarhus Kommune om hjælp",
-     "link": "https://www.bt.dk/krimi/beder-hele-aarhus-kommune-om-hjaelp?referrer=RSS",
-     "published": "2026-11-27T20:36+00:00",
-     "summary": "Politiet søger en 80-årig dement mand."
-    },
-    {
-     "title": "Zelenskyj er på Putins dødsliste: Det vil få store konsekvenser",
-     "link": "https://www.bt.dk/udland/zelenskyj-er-paa-putins-doedsliste-det-vil-faa-store-konsekvenser?referrer=RSS",
-     "published": "2026-11-27T20:36+00:00",
-     "summary": "Hvis Rusland slår den ukrainske præsident ihjel, vil det få store konsekvenser for resten af verden."
     }
    ]
   },
@@ -809,6 +809,48 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Læger uden Grænser: To ansatte er døde i israelsk angreb i Gaza",
+     "link": "https://www.bt.dk/udland/laeger-uden-graenser-to-ansatte-er-doede-i-israelsk-angreb-i-gaza?referrer=RSS",
+     "published": "2026-11-28T05:49+00:00",
+     "summary": "Det israelske militær hævder, at organisations dræbte sikkerhedsvagter havde tilknytning til Hamas."
+    },
+    {
+     "title": "Anmeldelse: Når brødet slår svinet, er der altså noget helt galt i juleværkstedet",
+     "link": "https://www.bt.dk/guides/anmeldelsenaar-broedet-slaar-svinet-er-der-altsaa-noget-helt-galt-i-julevaerkstedet?referrer=RSS",
+     "published": "2026-11-28T05:41+00:00",
+     "summary": ""
+    },
+    {
+     "title": "Få uger efter dramatisk kamp: Bronson Reed er død",
+     "link": "https://www.bt.dk/oevrig-sport/faa-uger-efter-dramatisk-kamp-bronson-reed-er-doed?referrer=RSS",
+     "published": "2026-11-28T05:21+00:00",
+     "summary": "Dødsfaldet kommer få uger efter en dramatisk kamp."
+    },
+    {
+     "title": "Total priskrig om hakket oksekød: Kæmpe prisfald",
+     "link": "https://www.bt.dk/dagligvarer/total-priskrig-om-hakket-oksekoed-kaempe-prisfald?referrer=RSS",
+     "published": "2026-11-28T05:12+00:00",
+     "summary": "For tredje uge i træk falder den laveste pris for hakket oksekød i landets dagligvarekæder. Det viser B.T.s pristjek."
+    },
+    {
+     "title": "Politiet beder om hjælp: Forsvundet fra sygehus i nat",
+     "link": "https://www.bt.dk/krimi/politiet-beder-om-hjaelp-forsvundet-fra-sygehus-i-nat?referrer=RSS",
+     "published": "2026-11-28T05:05+00:00",
+     "summary": "Karen blev senest set 27. november omkring klokken 23."
+    },
+    {
+     "title": "Styrt med militærhelikopter har dræbt otte i Peru",
+     "link": "https://www.bt.dk/udland/styrt-med-militaerhelikopter-har-draebt-otte-i-peru?referrer=RSS",
+     "published": "2026-11-28T04:33+00:00",
+     "summary": "En helikopter fra Perus militær var på redningsaktion, da den selv styrtede, oplyser forsvarsministerium."
+    },
+    {
+     "title": "Politiet anholder person efter uroligheder mellem ishockeyfans",
+     "link": "https://www.bt.dk/oevrig-sport/politiet-anholder-person-efter-uroligheder-mellem-ishockeyfans?referrer=RSS",
+     "published": "2026-11-28T04:19+00:00",
+     "summary": "En politibetjent er blevet behandlet på hospitalet efter uroligheder mellem ishockeyfans i Rødovre fredag."
+    },
     {
      "title": "Dansk golfspiller vinder terræn ved turnering i Australien",
      "link": "https://www.bt.dk/oevrig-sport/dansk-golfspiller-vinder-terraen-ved-turnering-i-australien?referrer=RSS",
@@ -826,48 +868,6 @@
      "link": "https://www.bt.dk/boksning/tyson-fury-faar-groent-lys-til-boksebrag-efter-helbredsbekymring?referrer=RSS",
      "published": "2026-11-28T02:43+00:00",
      "summary": "I en ny dokumentar fik hustru til bokser angiveligt ved en fejl sagt, at hendes mand var skizofren."
-    },
-    {
-     "title": "Brøndby-træner: Tidligt mål gav os en svær opgave",
-     "link": "https://www.bt.dk/fodbold/broendby-traener-tidligt-maal-gav-os-en-svaer-opgave?referrer=RSS",
-     "published": "2026-11-28T01:48+00:00",
-     "summary": "Brøndby satte ifølge træner sig selv på en svær opgave i Haderslev, hvor de spillede uafgjort mod bundprop."
-    },
-    {
-     "title": "Ukraine nedskyder for første gang russisk drone med lasersystem",
-     "link": "https://www.bt.dk/udland/ukraine-nedskyder-for-foerste-gang-russisk-drone-med-lasersystem?referrer=RSS",
-     "published": "2026-11-28T01:35+00:00",
-     "summary": "Lasersystem har ifølge ukrainsk forsvarsorganisation nedskudt en jetdrevet russisk drone for første gang."
-    },
-    {
-     "title": "Politiet anholder person efter uroligheder mellem ishockeyfans",
-     "link": "https://www.bt.dk/oevrig-sport/politiet-anholder-person-efter-uroligheder-mellem-ishockeyfans?referrer=RSS",
-     "published": "2026-11-28T00:22+00:00",
-     "summary": "En politibetjent er blevet behandlet på hospitalet efter uroligheder mellem ishockeyfans i Rødovre fredag."
-    },
-    {
-     "title": "OpenAI og Apple beskylder hinanden for at stjæle hemmeligheder",
-     "link": "https://www.bt.dk/udland/openai-og-apple-beskylder-hinanden-for-at-stjaele-hemmeligheder?referrer=RSS",
-     "published": "2026-11-27T23:10+00:00",
-     "summary": "Apple har tidligere sagsøgt OpenAI. Fredag har selskabet, der har lavet ChatGPT, indsendt et modsvar."
-    },
-    {
-     "title": "Morten Bødskov beskyldte Rusland for migrantkrise, men det var ikke sandt",
-     "link": "https://www.bt.dk/politik/morten-boedskov-beskyldte-rusland-for-migrantkrise-men-det-var-ikke-sandt?referrer=RSS",
-     "published": "2026-11-27T22:42+00:00",
-     "summary": "Ifølge mediet tjekdet.dk viser et svar fra EUs udenrigstjeneste, EEAS, at Rusland ikke stod bag migrantkrise i Ceuta i sommer."
-    },
-    {
-     "title": "Chokerende scener: Vildt masseslagsmål på stadion",
-     "link": "https://www.bt.dk/fodbold/chokerende-scener-vildt-masseslagsmaal-paa-stadion?referrer=RSS",
-     "published": "2026-11-27T22:36+00:00",
-     "summary": "Der udfoldede sig et voldsomt drama torsdag aften."
-    },
-    {
-     "title": "Kritik af dronning Mette-Marits nej: 'Vi skal ikke være naive'",
-     "link": "https://www.bt.dk/royale/kritik-af-dronning-mette-marits-nej-vi-skal-ikke-vaere-naive?referrer=RSS",
-     "published": "2026-11-27T22:35+00:00",
-     "summary": "Den norske dronning vil ikke afgive forklaring for den såkaldte Epstein-kommission."
     }
    ]
   },
@@ -1116,6 +1116,24 @@
    "status": "ok",
    "items": [
     {
+     "title": "AI-giganters talcirkus slår sprækker: Under overfladen lugter det af ny finanskrise",
+     "link": "https://www.version2.dk/artikel/ai-giganters-talcirkus-slaar-spraekker-under-overfladen-lugter-det-af-ny-finanskrise",
+     "published": "2026-11-28T04:00+00:00",
+     "summary": "Nvidias topchef er tilbage på tronen, men under overfladen knager det i den amerikanske AI-økonomi. Gæld, tvivlsomme investeringer og datacentre med udsigt til milliardtab minder om optakten til finanskrisen i 2008."
+    },
+    {
+     "title": "Jensen Huang er tilbage: Men måske er særbehandling præcis det, som techselskaberne ikke har brug for",
+     "link": "https://www.version2.dk/artikel/jensen-huang-er-tilbage-men-maaske-er-saerbehandling-praecis-det-som-techselskaberne-ikke-har-brug",
+     "published": "2026-11-28T04:00+00:00",
+     "summary": "Datacentre og AI er i stigende grad på vælgernes hadelister. Med Jensen Huangs uskønne genkomst i Nvidia har Donald Trump måske gjort techeliten en bjørnetjeneste. Vi laver et dybt dyk i Nvidia-bossens liv og de AI-tendenser, som skræmmer …"
+    },
+    {
+     "title": "AI ryger på skoleskemaet: »Lærerne ved lige så lidt som eleverne«",
+     "link": "https://www.version2.dk/artikel/ai-ryger-paa-skoleskemaet-laererne-ved-lige-saa-lidt-som-eleverne",
+     "published": "2026-11-28T04:00+00:00",
+     "summary": "Der skal efteruddannelse til lærerne med i posen, hvis missionen skal lykkes, mener fagfolk."
+    },
+    {
      "title": "Blogindlæg: Meshcore #2",
      "link": "https://www.version2.dk/holdning/meshcore-2",
      "published": "2026-11-27T21:37+00:00",
@@ -1186,24 +1204,6 @@
      "link": "https://www.version2.dk/holdning/itu-rektor-svarer-i-ai-debat-forskere-og-ledelser-paa-landets-universiteter-sidder-med-samme",
      "published": "2026-11-24T11:00+00:00",
      "summary": "I et indlæg i Ingeniøren skriver Herbert Hertz van den Berk, som er studerende på IT-Universitetet i København, at det i spørgsmålet om kunstig intelligens er op til den »enkelte studerende selv at navigere mellem industriens løfter …"
-    },
-    {
-     "title": "Højere løn trækker it-folk til det private – men pengene gør det ikke alene",
-     "link": "https://www.version2.dk/artikel/hoejere-loen-traekker-it-folk-til-det-private-men-pengene-goer-det-ikke-alene",
-     "published": "2026-11-24T11:00+00:00",
-     "summary": "Offentlige it-arbejdspladser kan ikke følge med de private, når det kommer til løn og spændende opgaver, lyder det fra en rekrutteringsekspert."
-    },
-    {
-     "title": "Datacenter-direktør forklarer: Derfor er der så meget mystik om nye projekter",
-     "link": "https://www.version2.dk/artikel/datacenter-direktoer-forklarer-derfor-er-der-saa-meget-mystik-om-nye-projekter",
-     "published": "2026-11-24T04:00+00:00",
-     "summary": "Selv længere henne i processen holder branchen tæt omkring, hvem der i sidste ende skal eje og operere Danmarks nye datacentre. Regeringen har gjort den oplysning central for industriens fremtid."
-    },
-    {
-     "title": "Nvidia i kovending: Topchef genindtræder med øjeblikkelig virkning",
-     "link": "https://www.version2.dk/artikel/nvidia-i-kovending-topchef-genindtraeder-med-oejeblikkelig-virkning",
-     "published": "2026-11-23T14:17+00:00",
-     "summary": "Jensen Huang var væk fra Nvidia i halvanden uge efter skandaler-sager om utroskab. Nu er han tilbage."
     }
    ]
   },
@@ -1214,6 +1214,24 @@
    "url": "https://ing.dk/rss/nyheder",
    "status": "ok",
    "items": [
+    {
+     "title": "Jensen Huang er tilbage: Men måske er særbehandling præcis det, som techselskaberne ikke har brug for",
+     "link": "https://ing.dk/artikel/jensen-huang-er-tilbage-men-maaske-er-saerbehandling-praecis-det-som-techselskaberne-ikke-har-brug",
+     "published": "2026-11-28T04:00+00:00",
+     "summary": "Datacentre og AI er i stigende grad på vælgernes hadelister. Med Jensen Huangs uskønne genkomst i Nvidia har Donald Trump måske gjort techeliten en bjørnetjeneste. Vi laver et dybt dyk i Nvidia-bossens liv og de AI-tendenser, som skræmmer …"
+    },
+    {
+     "title": "AI-giganters talcirkus slår sprækker: Under overfladen lugter det af ny finanskrise",
+     "link": "https://ing.dk/artikel/ai-giganters-talcirkus-slaar-spraekker-under-overfladen-lugter-det-af-ny-finanskrise",
+     "published": "2026-11-28T04:00+00:00",
+     "summary": "Nvidias topchef er tilbage på tronen, men under overfladen knager det i den amerikanske AI-økonomi. Gæld, tvivlsomme investeringer og datacentre med udsigt til milliardtab minder om optakten til finanskrisen i 2008."
+    },
+    {
+     "title": "1943: Statsbanernes nye isbryder er også passagerdamper",
+     "link": "https://ing.dk/artikel/1943-statsbanernes-nye-isbryder-er-ogsaa-passagerdamper",
+     "published": "2026-11-28T04:00+00:00",
+     "summary": "Med sin maskinkraft på 6.000 HK gør isbryderen ‘Holger Danske’ det muligt at forcere selv de største istykkelser, vi kan komme ud for i de danske farvande, skrev Ingeniør- og Bygningsvæsen i 1943."
+    },
     {
      "title": "Kampen om Danmarks fregat-milliarder spidser til: Her er det franske bud på fremtidens danske flåde",
      "link": "https://ing.dk/artikel/kampen-om-danmarks-fregat-milliarder-spidser-til-her-er-det-franske-bud-paa-fremtidens-danske-flaade",
@@ -1285,24 +1303,6 @@
      "link": "https://ing.dk/artikel/se-om-du-bliver-ramt-disse-14-elbilmaerker-koerer-rundt-med-en-alvorlig-fejl-0",
      "published": "2026-11-26T12:55+00:00",
      "summary": "Denne artikel blev bragt første gang i maj 2026.Der er mange ting at sætte sig ind i, når man skifter den gamle fossilbil ud med en eldreven. Langt de fleste fortæller, at det er en helt ny bilvirkelighed, man træder ind i.Men når man har …"
-    },
-    {
-     "title": "»Chokerende« opdagelse: Rumsonde opklarer gådefuld asteroide-kollision",
-     "link": "https://ing.dk/artikel/chokerende-opdagelse-rumsonde-opklarer-gaadefuld-asteroide-kollision",
-     "published": "2026-11-26T12:00+00:00",
-     "summary": "ESAs rumsonde Hera blev sendt ud for at undersøge en asteroide-kollision fra 2022. Da den nåede frem, ventede der overraskende nok hundredvis af stenblokke."
-    },
-    {
-     "title": "Klimarådet slår alarm: Landbruget mangler teknologi til at fjerne 1,4 millioner tons CO2",
-     "link": "https://ing.dk/artikel/klimaraadet-slaar-alarm-landbruget-mangler-teknologi-til-fjerne-14-millioner-tons-co2",
-     "published": "2026-11-26T11:00+00:00",
-     "summary": "Landbruget er langt fra målet i den grønne trepart om at reducere sine CO2-udledninger inden 2030 – og heller ikke en øget brug af teknologiske løsninger kan indfri målet, viser en ny analyse fra Klimarådet."
-    },
-    {
-     "title": "Ny AI-brøler i Nyborg vækker bekymring: »Der er formentlig også tale om flere databrud«",
-     "link": "https://ing.dk/artikel/ny-ai-broeler-i-nyborg-vaekker-bekymring-der-er-formentlig-ogsaa-tale-om-flere-databrud",
-     "published": "2026-11-26T11:00+00:00",
-     "summary": "Efter endnu en sag om brud på Nyborg Kommunes AI-regler er kommet frem, frygter kommunen, at det er sket i flere tilfælde. Nu vil kommunen undersøge omfanget og regner med at anmelde flere databrud til Datatilsynet."
     }
    ]
   },
@@ -1935,6 +1935,42 @@
    "status": "ok",
    "items": [
     {
+     "title": "Ukraine downs Russian drone with laser for first time",
+     "link": "https://cphpost.dk/2026-11-28/global/ukraine-downs-russian-drone-with-laser-for-first-time/",
+     "published": "2026-11-28T04:58+00:00",
+     "summary": "Ukraine has for the first time used a so-called laser weapon to shoot down a jet-powered Russian drone. The state-supported Ukrainian defense organization Brave1 announced this on Friday. Earlier this week, Serhij Beskrestnov, who is a …"
+    },
+    {
+     "title": "OpenAI and Apple accuse each other of stealing secrets",
+     "link": "https://cphpost.dk/2026-11-28/global/openai-and-apple-accuse-each-other-of-stealing-secrets/",
+     "published": "2026-11-28T04:58+00:00",
+     "summary": "The American company OpenAI has on Friday presented a response in a case that the tech giant Apple has brought against the company. The news agencies Reuters and AFP report this based on court documents. In a lawsuit this summer, Apple …"
+    },
+    {
+     "title": "Putin unveils new nuclear submarine",
+     "link": "https://cphpost.dk/2026-11-28/global/putin-unveils-new-nuclear-submarine/",
+     "published": "2026-11-28T04:58+00:00",
+     "summary": "Russia’s president, Vladimir Putin, on Friday unveiled a new nuclear-powered submarine that has been named “Perm”. – Russia is one of the few countries in the world that is capable of building this type of powerful submarines, weapons with …"
+    },
+    {
+     "title": "Telecom provider yet to know cyberattack’s extent",
+     "link": "https://cphpost.dk/2026-11-28/news/round-up/telecom-provider-yet-to-know-cyberattacks-extent/",
+     "published": "2026-11-28T04:58+00:00",
+     "summary": "OnlineCity.io confirms that the company has been subjected to a cyberattack, in which unauthorized parties have gained access to and extracted data from the systems, including SMS traffic. The attack has included phone numbers of more than …"
+    },
+    {
+     "title": "New tax scheme to boost company bikes from 2028",
+     "link": "https://cphpost.dk/2026-11-28/news/round-up/new-tax-scheme-to-boost-company-bikes-from-2028/",
+     "published": "2026-11-28T04:58+00:00",
+     "summary": "From 2028, it will be possible for workplaces to make company bicycles available to employees on more favorable tax terms. A new tax scheme is intended to make it more attractive to choose the bicycle over the car to and from work. The …"
+    },
+    {
+     "title": "Bankrupt Velkommen owed 42,825 power customers 292m kr",
+     "link": "https://cphpost.dk/2026-11-28/news/round-up/bankrupt-velkommen-owed-42825-power-customers-292m-kr/",
+     "published": "2026-11-28T04:58+00:00",
+     "summary": "The bankrupt electricity company Velkommen A/S owed around 292 million kroner to 42,825 customers at the time of the bankruptcy in August 2026. Det svarer til, at hver kunde i gennemsnit havde omkring 6800 kroner til gode hos selskabet. -> …"
+    },
+    {
      "title": "Audit shows tax errors for most content creators",
      "link": "https://cphpost.dk/2026-11-27/news/round-up/audit-shows-tax-errors-for-most-content-creators/",
      "published": "2026-11-27T15:02+00:00",
@@ -1969,42 +2005,6 @@
      "link": "https://cphpost.dk/2026-11-27/news/round-up/denmark-gets-its-first-female-prosecutor-general/",
      "published": "2026-11-27T15:00+00:00",
      "summary": "Caroline Østergaard Nielsen has been named Denmark’s new Director of Public Prosecutions. She has already been serving in the role since August 1, after the former director, Lars Boje Nielsen, left the post to become the National …"
-    },
-    {
-     "title": "Your guide for staying warm and dry through the Danish winter",
-     "link": "https://cphpost.dk/2026-11-27/life-in-denmark/your-guide-for-staying-warm-and-dry-through-the-danish-winter/",
-     "published": "2026-11-27T14:30+00:00",
-     "summary": "From wool layers to waterproof cycling gear, here’s how to stay warm and dry through a typical winter in Denmark."
-    },
-    {
-     "title": "France’s economy shrank more than first estimated in third quarter",
-     "link": "https://cphpost.dk/2026-11-27/global/frances-economy-shrank-more-than-first-estimated-in-third-quarter/",
-     "published": "2026-11-27T10:57+00:00",
-     "summary": "France’s economy contracted by 0.2% in the third quarter, a larger decline than initially estimated, as falling business investment weighed on growth. The national statistics agency, Insee, revised the figure Friday from its earlier …"
-    },
-    {
-     "title": "Frederiksen defends Denmark’s refusal to split from allies in EU budget talks",
-     "link": "https://cphpost.dk/2026-11-27/news/round-up/frederiksen-defends-denmarks-refusal-to-split-from-allies-in-eu-budget-talks/",
-     "published": "2026-11-27T10:57+00:00",
-     "summary": "Prime Minister Mette Frederiksen defended Denmark’s decision to refuse further small-group negotiations at this week’s European Union budget summit, saying the country and six allies wanted to negotiate together. The summit in Brussels …"
-    },
-    {
-     "title": "Denmark’s last autumn weekend to bring clouds, near-freezing temperatures and some sun",
-     "link": "https://cphpost.dk/2026-11-27/news/round-up/denmarks-last-autumn-weekend-to-bring-clouds-near-freezing-temperatures-and-some-sun/",
-     "published": "2026-11-27T10:57+00:00",
-     "summary": "Denmark will have a mostly cloudy final weekend of autumn, with occasional sunshine and a chance of rain or sleet, according to the Danish Meteorological Institute, DMI. “It is completely normal November weather, with signs that we are …"
-    },
-    {
-     "title": "Christmas cookies and cakes recalled over possible toxin contamination in flour",
-     "link": "https://cphpost.dk/2026-11-27/news/round-up/christmas-cookies-and-cakes-recalled-over-possible-toxin-contamination-in-flour/",
-     "published": "2026-11-27T10:57+00:00",
-     "summary": "Cookies and Christmas cakes sold across Denmark are being recalled because they were made with flour that may contain elevated levels of mycotoxins, the Danish Veterinary and Food Administration said. The authority confirmed to Ritzau that …"
-    },
-    {
-     "title": "Norse Atlantic says leases for all 12 aircraft have been terminated",
-     "link": "https://cphpost.dk/2026-11-27/news/round-up/norse-atlantic-says-leases-for-all-12-aircraft-have-been-terminated/",
-     "published": "2026-11-27T10:57+00:00",
-     "summary": "Norse Atlantic said Friday that lease agreements for all 12 of its aircraft have been terminated as the Norwegian low-cost airline seeks funding to avoid bankruptcy. The company disputes the validity of the termination, according to a …"
     }
    ]
   }
