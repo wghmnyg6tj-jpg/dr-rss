@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T07:57+00:00",
+ "generated": "2026-11-28T08:07+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "MobilePay i\nmarkant fald",
+     "link": "https://ekstrabladet.dk/penge/black-friday-ligner-en-fuser-hos-mobilepay/11367834",
+     "published": "2026-11-28T07:58+00:00",
+     "summary": "MobilePays omsætning på black friday er faldet 27 procent fra sidste år, men ugerne op til var mere travle"
+    },
+    {
      "title": "Bronson Reed blev blot 38 år: 'Er knust'",
      "link": "https://ekstrabladet.dk/sport/anden_sport/bronson-reed-er-doed-blev-38-aar/11368269",
      "published": "2026-11-28T07:46+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/international_fodbold/jacob-neestrups-svaere-beslutning-det-skal-man-laere-at-leve-med/11365846",
      "published": "2026-11-28T06:22+00:00",
      "summary": "Den tidligere FCK-chef havde mange overvejelser, inden han forlod København for at blive træner i Panathinaikos"
-    },
-    {
-     "title": "Superbakterier hos Ukraine-patienter: Frygter smitte",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/saarede-fra-ukraine-baerer-paa-superbakterier-ssi-frygter-spredning/11368259",
-     "published": "2026-11-28T06:11+00:00",
-     "summary": "Multiresistente bakterier er fundet hos 137 evakuerede ukrainere behandlet i Danmark. På et hollandsk hospital fik to børn blodforgiftning efter et udbrud"
     }
    ]
   },
@@ -741,6 +741,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Ramt af mystiske blødninger",
+     "link": "https://www.bt.dk/udland/ramt-af-mystiske-bloedninger?referrer=RSS",
+     "published": "2026-11-28T07:59+00:00",
+     "summary": ""
+    },
+    {
      "title": "21-årig mand dræbt med kniv - 19-årig sigtet for drabet",
      "link": "https://www.bt.dk/krimi/21-aarig-mand-draebt-med-kniv-19-aarig-sigtet-for-drabet?referrer=RSS",
      "published": "2026-11-28T07:42+00:00",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/udland/laeger-uden-graenser-to-ansatte-er-doede-i-israelsk-angreb-i-gaza?referrer=RSS",
      "published": "2026-11-28T05:49+00:00",
      "summary": "Det israelske militær hævder, at organisations dræbte sikkerhedsvagter havde tilknytning til Hamas."
-    },
-    {
-     "title": "Anmeldelse: Når brødet slår svinet, er der altså noget helt galt i juleværkstedet",
-     "link": "https://www.bt.dk/guides/anmeldelsenaar-broedet-slaar-svinet-er-der-altsaa-noget-helt-galt-i-julevaerkstedet?referrer=RSS",
-     "published": "2026-11-28T05:41+00:00",
-     "summary": ""
     }
    ]
   },
@@ -809,6 +809,12 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Ramt af mystiske blødninger",
+     "link": "https://www.bt.dk/udland/ramt-af-mystiske-bloedninger?referrer=RSS",
+     "published": "2026-11-28T07:59+00:00",
+     "summary": ""
+    },
     {
      "title": "Christian Fuhlendorff blev bitter på sin kendte kollega: ‘Jeg blev nødt til at arbejde med mig selv’",
      "link": "https://www.bt.dk/danske-kendte/christian-fuhlendorff-blev-bitter-paa-sin-kendte-kollega-jeg-blev-noedt-til-at-arbejde-med-mig-selv?referrer=RSS",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/fodbold/tidligere-united-spiller-bryder-sammen-kone-troede-han-skulle-doe?referrer=RSS",
      "published": "2026-11-28T06:59+00:00",
      "summary": "Darron Gibsons misbrug fik i 2021 alvorlige konsekvenser, da det pludselig så sort ud."
-    },
-    {
-     "title": "Netflix-opslag går verden rundt: Trump Jr. helt paf",
-     "link": "https://www.bt.dk/udland/netflix-opslag-gaar-verden-rundt-trump-jr-helt-paf?referrer=RSS",
-     "published": "2026-11-28T06:51+00:00",
-     "summary": "Opslaget er bestemt ikke faldet i alles smag."
     }
    ]
   },
