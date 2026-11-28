@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T15:37+00:00",
+ "generated": "2026-11-28T15:47+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Efter kræftforløb:\nElisa Lykke er taknemmelig\nfor livet",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/elisa-lykke-efter-kraeftforloeb-er-blevet-mere-taknemmelig/11368629",
+     "published": "2026-11-28T15:40+00:00",
+     "summary": "Den danske forfatter og pr-agent har fået et nyt livssyn efter sine kræftforløb"
+    },
+    {
+     "title": "Jyder risikerer at stå op til isslag søndag",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/vejret/jyder-risikerer-at-staa-op-til-isslag-soendag/11368628",
+     "published": "2026-11-28T15:36+00:00",
+     "summary": "Prognoserne melder om muligt isslag i det jyske søndag morgen. Fyn og Sjælland ser ud til at gå fri"
+    },
+    {
      "title": "Fik én på hatten: Hvor kom dén fra?",
      "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/kessler-fik-en-paa-hatten-under-optakt-hvor-kom-den-fra/11368457",
      "published": "2026-11-28T15:33+00:00",
@@ -649,18 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/haandbold/danmark-uddeler-prygl-i-em-generalproeve/11368579",
      "published": "2026-11-28T14:28+00:00",
      "summary": "Færøerne kunne ikke stille det store op mod Danmark, der diskede op med en håndboldlektion i Trondheim"
-    },
-    {
-     "title": "5000 soldater \ngik land i i sex-hovedstad: \nSå ramte skuffelsen",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/5000-soldater-gik-land-i-i-sex-hovedstad-kaempe-fuser/11367619",
-     "published": "2026-11-28T14:22+00:00",
-     "summary": "5000 amerikanske soldater lagde til i Pattaya, men byens prostituerede stod tilbage med en lang næse"
-    },
-    {
-     "title": "Bankkrak i USA: \nStørste i \nover to år",
-     "link": "https://ekstrabladet.dk/penge/bankkrak-i-usa-stoerste-i-over-to-aar/11368488",
-     "published": "2026-11-28T14:19+00:00",
-     "summary": "Amerikanske myndigheder har lukket United Fidelity Bank. Regningen for krakket ventes at løbe op i 1,83 milliarder dollar"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Jyder risikerer at stå op til isslag søndag",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/vejret/jyder-risikerer-at-staa-op-til-isslag-soendag/11368628",
+     "published": "2026-11-28T15:36+00:00",
+     "summary": "Prognoserne melder om muligt isslag i det jyske søndag morgen. Fyn og Sjælland ser ud til at gå fri"
+    },
     {
      "title": "Hans Engell: \n- En sejr for Hummelgaard",
      "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/hans-engell-en-sejr-for-hummelgaard/11368577",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/samfund/frankrig-i-chok-braendte-ekskonen-levende/11368304",
      "published": "2026-11-28T10:56+00:00",
      "summary": "En fransk appeldomstol har stadfæstet livstidsdommen over 50-årige Mounir Boutaa, der brændte sin ekskone Chahinez Daoud levende. Inden drabet havde hun bedt politiet om beskyttelse"
-    },
-    {
-     "title": "Elever dræbt i eksplosion \ni Afghanistan",
-     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/mindst-ti-elever-draebt-i-eksplosion-ved-skole-i-afghanistan/11368407",
-     "published": "2026-11-28T10:17+00:00",
-     "summary": "Foruden ti omkomne er 110 personer kommet til skade ved eksplosion i bygning i det østlige Afghanistan"
     }
    ]
   },
@@ -740,6 +740,12 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Vilde billeder: Millionby under vand",
+     "link": "https://www.bt.dk/udland/vilde-billeder-millionby-under-vand?referrer=RSS",
+     "published": "2026-11-28T15:45+00:00",
+     "summary": "Voldsomme Thanksgiving-storme har oversvømmet gader og efterladt hundredtusindvis af husstande uden strøm langs USA's østkyst."
+    },
     {
      "title": "100 oppustelige figurer fylder New Yorks gader ved Thanksgiving-parade",
      "link": "https://www.bt.dk/udland/100-oppustelige-figurer-fylder-new-yorks-gader-ved-thanksgiving-parade?referrer=RSS",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/politik/indkalder-til-pressemoede?referrer=RSS",
      "published": "2026-11-28T13:44+00:00",
      "summary": ""
-    },
-    {
-     "title": "Mindst 30 døde i luftangreb",
-     "link": "https://www.bt.dk/udland/mindst-30-doede-i-luftangreb?referrer=RSS",
-     "published": "2026-11-28T13:22+00:00",
-     "summary": ""
     }
    ]
   },
@@ -809,6 +809,18 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Vilde billeder: Millionby under vand",
+     "link": "https://www.bt.dk/udland/vilde-billeder-millionby-under-vand?referrer=RSS",
+     "published": "2026-11-28T15:45+00:00",
+     "summary": "Voldsomme Thanksgiving-storme har oversvømmet gader og efterladt hundredtusindvis af husstande uden strøm langs USA's østkyst."
+    },
+    {
+     "title": "Janni Ree chokerer: 'Jeg blev slået'",
+     "link": "https://www.bt.dk/danske-kendte/janni-ree-chokerer-jeg-blev-slaaet?referrer=RSS",
+     "published": "2026-11-28T15:42+00:00",
+     "summary": "Den tidligere forsidefrue fortæller nu om en voldsom episode, som seerne aldrig fik at se."
+    },
     {
      "title": "100 oppustelige figurer fylder New Yorks gader ved Thanksgiving-parade",
      "link": "https://www.bt.dk/udland/100-oppustelige-figurer-fylder-new-yorks-gader-ved-thanksgiving-parade?referrer=RSS",
@@ -856,18 +868,6 @@
      "link": "https://www.bt.dk/tennis/carlos-alcaraz-sender-spanien-i-davis-cup-finalen?referrer=RSS",
      "published": "2026-11-28T14:36+00:00",
      "summary": "Spanien slog Storbritannien 2-0 i semifinalen og møder Italien i en gentagelse af sidste års Davis Cup-finale."
-    },
-    {
-     "title": "Må først prøveløslades om 22 år: Skrækkelig sag ryster Frankrig",
-     "link": "https://www.bt.dk/udland/maa-foerst-proeveloeslades-om-22-aar-skraekkelig-sag-ryster-frankrig?referrer=RSS",
-     "published": "2026-11-28T14:31+00:00",
-     "summary": "4. maj 2021 ventede Boutaa på Daoud uden for sit hjem i Mérignac, en forstad til Bordeaux."
-    },
-    {
-     "title": "Hummelgaard inviterer til pressemøde om finansloven for 2027",
-     "link": "https://www.bt.dk/politik/hummelgaard-inviterer-til-pressemoede-om-finansloven-for-2027?referrer=RSS",
-     "published": "2026-11-28T14:09+00:00",
-     "summary": "Finansloven for næste år lader til at være på plads eller tæt på, eftersom der er indkaldt til pressemøde."
     }
    ]
   },
@@ -1728,6 +1728,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Overdue for a long hike!",
+     "link": "https://thetrek.co/overdue-for-a-long-hike/",
+     "published": "2026-11-28T15:44+00:00",
+     "summary": "After what feels like years of planning we’re finally starting our Eastern Continental Trail thru- hike in February 2027! I am so excited to just be putting one foot in front of the other again for a long walk. But first… Who is Overdue? …"
+    },
+    {
      "title": "700 Camino Miles, Secret Shortcuts, and Our Final Walk to Esposende",
      "link": "https://thetrek.co/700-camino-miles-secret-shortcuts-and-our-final-walk-to-esposende/",
      "published": "2026-11-28T15:07+00:00",
@@ -1780,12 +1786,6 @@
      "link": "https://thetrek.co/appalachian-trail/my-gear-is-ready-my-mind-is-stoic-my-body-its-still-in-negotiations/",
      "published": "2026-11-27T18:03+00:00",
      "summary": "WELCOME TO YOUR NEW OBSESSION: Preparing for a thru hike on Appalachian Trail truly begins with just one burning question; “What will I actually need to walk 2200 miles?” That’s pretty simple and straightforward right? Theoretically …"
-    },
-    {
-     "title": "Escaping the Farting Ghost Hotel: 17.6 Miles into Portugal",
-     "link": "https://thetrek.co/escaping-the-farting-ghost-hotel-17-6-miles-into-portugal/",
-     "published": "2026-11-27T14:57+00:00",
-     "summary": "Day 50 from Caminha to Viana do Castelo Todays Miles: 17.6 miles Total Camino Miles: 688.6 A Haunted Night and Morning Glitches We both thought the place we slept in last night was haunted. It was on the backside of a thousand-year-old …"
     }
    ]
   },
