@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T12:49+00:00",
+ "generated": "2026-11-28T13:00+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "3,2 millioner husstande får fysisk pjece med opdaterede kriseråd",
+     "link": "https://ekstrabladet.dk/nyheder/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad/11368474",
+     "published": "2026-11-28T12:54+00:00",
+     "summary": "Samfundets svageste bør lave en huskeliste med vigtige telefonnumre i tilfælde af en krise, siger ministerie"
+    },
+    {
      "title": "Netop udgivet: Bidens bog flopper",
      "link": "https://ekstrabladet.dk/nyheder/samfund/netop-landet-paa-hylderne-bidens-bog-flopper/11368369",
      "published": "2026-11-28T12:38+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/spanskfodbold/pep-afviser-aldrig-mere-barcelona/11368410",
      "published": "2026-11-28T11:16+00:00",
      "summary": "Pep Guardiola har ingen planer om at vende tilbage til Barcelona som cheftræner. Det slår spanieren selv fast i et interview, hvor han også fortæller om sin fremtid"
-    },
-    {
-     "title": "Elefant stopper \nscooterfører på flugt",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/elefant-stopper-scooterfoerer-paa-flugt/11368122",
-     "published": "2026-11-28T11:12+00:00",
-     "summary": "Drabsmistænkt på flugt blev stoppet brat, da en elefant pludselig trådte ud på vejen i Sri Lanka"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "3,2 millioner husstande får fysisk pjece med opdaterede kriseråd",
+     "link": "https://ekstrabladet.dk/nyheder/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad/11368474",
+     "published": "2026-11-28T12:54+00:00",
+     "summary": "Samfundets svageste bør lave en huskeliste med vigtige telefonnumre i tilfælde af en krise, siger ministerie"
+    },
     {
      "title": "Netop udgivet: Bidens bog flopper",
      "link": "https://ekstrabladet.dk/nyheder/samfund/netop-landet-paa-hylderne-bidens-bog-flopper/11368369",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/samfund/stort-databrud-30.000-kunder-kan-vaere-ramt/11368363",
      "published": "2026-11-28T09:06+00:00",
      "summary": "Et databrud hos Trefors SMS-leverandør har muligvis betydet et læk af telefonnumre og adresser på kunder"
-    },
-    {
-     "title": "Trump Jr. tyer til tasterne: Raser over Netflix-kys",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/raser-over-netflix-kys-hvad-er-der-galt-med-jer/11368317",
-     "published": "2026-11-28T09:03+00:00",
-     "summary": "Et videoklip med to kvinder, der kysser i en seng, og som Netflix delte på X på Thanksgiving, har fået Donald Trump Jr. til tasterne"
     }
    ]
   },
@@ -741,16 +741,16 @@
    "status": "ok",
    "items": [
     {
-     "title": "3,2 millioner husstande får fysisk pjece med opdaterede kriseråd",
-     "link": "https://www.bt.dk/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad?referrer=RSS",
-     "published": "2026-11-28T12:39+00:00",
-     "summary": "Samfundets svageste bør lave en huskeliste med vigtige telefonnumre i tilfælde af en krise, siger ministerie."
-    },
-    {
      "title": "Domstol afviser at stoppe britisk olieprojekt ved Falklandsøerne",
      "link": "https://www.bt.dk/udland/domstol-afviser-at-stoppe-britisk-olieprojekt-ved-falklandsoeerne?referrer=RSS",
-     "published": "2026-11-28T12:32+00:00",
+     "published": "2026-11-28T12:56+00:00",
      "summary": "Argentina mener, at olieudvinding bryder FN-resolution i strid med Storbritannien om Falklandsøerne."
+    },
+    {
+     "title": "3,2 millioner husstande får fysisk pjece med opdaterede kriseråd",
+     "link": "https://www.bt.dk/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad?referrer=RSS",
+     "published": "2026-11-28T12:53+00:00",
+     "summary": "Samfundets svageste bør lave en huskeliste med vigtige telefonnumre i tilfælde af en krise, siger ministerie."
     },
     {
      "title": "Millioner skal tilbagebetales efter mangeårig usikkerhed om gæld",
@@ -810,16 +810,22 @@
    "status": "ok",
    "items": [
     {
+     "title": "Domstol afviser at stoppe britisk olieprojekt ved Falklandsøerne",
+     "link": "https://www.bt.dk/udland/domstol-afviser-at-stoppe-britisk-olieprojekt-ved-falklandsoeerne?referrer=RSS",
+     "published": "2026-11-28T12:56+00:00",
+     "summary": "Argentina mener, at olieudvinding bryder FN-resolution i strid med Storbritannien om Falklandsøerne."
+    },
+    {
      "title": "3,2 millioner husstande får fysisk pjece med opdaterede kriseråd",
      "link": "https://www.bt.dk/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad?referrer=RSS",
-     "published": "2026-11-28T12:39+00:00",
+     "published": "2026-11-28T12:53+00:00",
      "summary": "Samfundets svageste bør lave en huskeliste med vigtige telefonnumre i tilfælde af en krise, siger ministerie."
     },
     {
-     "title": "Domstol afviser at stoppe britisk olieprojekt ved Falklandsøerne",
-     "link": "https://www.bt.dk/udland/domstol-afviser-at-stoppe-britisk-olieprojekt-ved-falklandsoeerne?referrer=RSS",
-     "published": "2026-11-28T12:32+00:00",
-     "summary": "Argentina mener, at olieudvinding bryder FN-resolution i strid med Storbritannien om Falklandsøerne."
+     "title": "Flick melder Christensen klar til comeback",
+     "link": "https://www.bt.dk/fodbold/flick-melder-christensen-klar-til-comeback?referrer=RSS",
+     "published": "2026-11-28T12:53+00:00",
+     "summary": "Andreas Christensen er i spil til minutter søndag mod Deportivo A Coruña, fortæller Hansi Flick på pressemøde."
     },
     {
      "title": "I krig med gigant: 'Orker ikke det vrøvl'",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/fodbold/haanes-af-egne-fans-for-aaben-skaerm?referrer=RSS",
      "published": "2026-11-28T11:36+00:00",
      "summary": "Chelsea-spilleren begik også et par store fejl."
-    },
-    {
-     "title": "Sigtet efter 21-årigs død: 'Det var selvforsvar'",
-     "link": "https://www.bt.dk/krimi/sigtet-efter-21-aarigs-doed-det-var-selvforsvar?referrer=RSS",
-     "published": "2026-11-28T11:24+00:00",
-     "summary": "Intet tyder - på nuværende tidspunkt - på, at hændelsen er banderelateret."
     }
    ]
   },
@@ -1728,6 +1728,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Best Deals for Hikers and Backpackers From the REI Cyber Week Sale",
+     "link": "https://thetrek.co/best-deals-for-hikers-and-backpackers-from-the-rei-cyber-week-sale/",
+     "published": "2026-11-28T12:59+00:00",
+     "summary": "This is a sponsored post brought to you by REI Co-op. The REI Cyber Week Sale runs from 11/28 to 12/7 with limited and new deals dropping all week long. Quality backpacking gear is worth the investment, and it doesn’t have to break the …"
+    },
+    {
      "title": "Life Goes On",
      "link": "https://thetrek.co/appalachian-trail/life-goes-on-2/",
      "published": "2026-11-28T12:00+00:00",
@@ -1780,12 +1786,6 @@
      "link": "https://thetrek.co/the-pressure-to-crush-miles-can-ruin-your-thru-hike-dont-let-it/",
      "published": "2026-11-27T13:06+00:00",
      "summary": "After years of planning, you’re finally doing the thing: you’re thru-hiking! It’s exhilarating, it’s liberating, and it’s … remarkably stressful. You knew the trail would be hard, but now that you’re actually out there living the dream …"
-    },
-    {
-     "title": "Happy Fails",
-     "link": "https://thetrek.co/appalachian-trail/happy-fails/",
-     "published": "2026-11-27T12:00+00:00",
-     "summary": "I set off on my final 4 day backpacking stint, what surprises does the trail have in store for me?"
     }
    ]
   },
