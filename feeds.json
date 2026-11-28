@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T10:54+00:00",
+ "generated": "2026-11-28T10:59+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -8,6 +8,12 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/senestenyt",
    "status": "ok",
    "items": [
+    {
+     "title": "Mindst syv børn dræbt i eksplosion nær skole i Afghanistan",
+     "link": "https://www.dr.dk/nyheder/seneste/mindst-syv-boern-draebt-i-eksplosion-naer-skole-i-afghanistan",
+     "published": "2026-11-28T10:55+00:00",
+     "summary": ""
+    },
     {
      "title": "30.000 kunder hos elnetselskab kan være ramt af datalæk",
      "link": "https://www.dr.dk/nyheder/seneste/30-000-kunder-hos-elnetselskab-kan-vaere-ramt-af-datalaek",
@@ -90,12 +96,6 @@
      "title": "Landsret stadfæster dom mod 27-årig for drab",
      "link": "https://www.dr.dk/nyheder/seneste/landsret-stadfaester-dom-mod-27-aarig-drab",
      "published": "2026-11-27T12:26+00:00",
-     "summary": ""
-    },
-    {
-     "title": "Familieretshuset får igen kritik",
-     "link": "https://www.dr.dk/nyheder/seneste/ny-kritik-af-familieretshuset",
-     "published": "2026-11-27T12:07+00:00",
      "summary": ""
     }
    ]
@@ -108,6 +108,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Mindst syv børn dræbt i eksplosion nær skole i Afghanistan",
+     "link": "https://www.dr.dk/nyheder/seneste/mindst-syv-boern-draebt-i-eksplosion-naer-skole-i-afghanistan",
+     "published": "2026-11-28T10:55+00:00",
+     "summary": ""
+    },
+    {
      "title": "30.000 kunder hos elnetselskab kan være ramt af datalæk",
      "link": "https://www.dr.dk/nyheder/seneste/30-000-kunder-hos-elnetselskab-kan-vaere-ramt-af-datalaek",
      "published": "2026-11-28T09:57+00:00",
@@ -189,12 +195,6 @@
      "title": "Landsret stadfæster dom mod 27-årig for drab",
      "link": "https://www.dr.dk/nyheder/seneste/landsret-stadfaester-dom-mod-27-aarig-drab",
      "published": "2026-11-27T12:26+00:00",
-     "summary": ""
-    },
-    {
-     "title": "Familieretshuset får igen kritik",
-     "link": "https://www.dr.dk/nyheder/seneste/ny-kritik-af-familieretshuset",
-     "published": "2026-11-27T12:07+00:00",
      "summary": ""
     }
    ]
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Frankrig rystet: Brændte ekskonen levende",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/frankrig-i-chok-braendte-ekskonen-levende/11368304",
+     "published": "2026-11-28T10:56+00:00",
+     "summary": "En fransk appeldomstol har stadfæstet livstidsdommen over 50-årige Mounir Boutaa, der brændte sin ekskone Chahinez Daoud levende. Inden drabet havde hun bedt politiet om beskyttelse"
+    },
+    {
      "title": "Købte Nvidia-aktier\nfor 300.000 \nkroner",
      "link": "https://ekstrabladet.dk/penge/perfekt-timing-koebte-nvidia-aktier-for-300.000-kroner/11367741",
      "published": "2026-11-28T10:46+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/jackie-navarro-frygtede-det-vaerste-han-vil-slaa-mig-ihjel/11368373",
      "published": "2026-11-28T09:31+00:00",
      "summary": "Den 40-årige tv-kendis taler i et eksklusivt interview med Ekstra Bladet ud om den vold, hun har levet med. En mand blev tidligere på måneden dømt i sagen"
-    },
-    {
-     "title": "S-profil om Mette Frederiksen: - Hun er ikke racist",
-     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/s-profil-om-mette-frederiksen-hun-er-ikke-racist/11368375",
-     "published": "2026-11-28T09:31+00:00",
-     "summary": "Yildiz Akdogan (S) håber, at statsministeren dropper ordet 'befolkningsudskiftning'"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Frankrig rystet: Brændte ekskonen levende",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/frankrig-i-chok-braendte-ekskonen-levende/11368304",
+     "published": "2026-11-28T10:56+00:00",
+     "summary": "En fransk appeldomstol har stadfæstet livstidsdommen over 50-årige Mounir Boutaa, der brændte sin ekskone Chahinez Daoud levende. Inden drabet havde hun bedt politiet om beskyttelse"
+    },
     {
      "title": "Elever dræbt i eksplosion \ni Afghanistan",
      "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/mindst-seks-elever-draebt-i-eksplosion-ved-skole-i-afghanistan/11368407",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/styrt-med-militaerhelikopter-har-draebt-otte-i-peru/11368238",
      "published": "2026-11-28T05:40+00:00",
      "summary": "En helikopter fra Perus militær var på redningsaktion, da den selv styrtede, oplyser forsvarsministerium"
-    },
-    {
-     "title": "USA's luftvåben ramt af hackerangreb",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/usas-luftvaaben-ramt-af-hackerangreb/11368247",
-     "published": "2026-11-28T05:28+00:00",
-     "summary": "Hackere er trængt ind på en platform, som det amerikanske luftvåben bruger til at holde styr på bomber og missiler mere end 200 steder i verden. Det er uvist, om der er stjålet data"
     }
    ]
   },
@@ -740,6 +740,12 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Ny skatteordning skal gøre firmacykler mere attraktive fra 2028",
+     "link": "https://www.bt.dk/politik/ny-skatteordning-skal-goere-firmacykler-mere-attraktive-fra-2028?referrer=RSS",
+     "published": "2026-11-28T10:56+00:00",
+     "summary": "Fra 2028 kan arbejdspladser tilbyde firmacykler på mere gunstige skattevilkår, og ansatte må bruge dem privat."
+    },
     {
      "title": "Forsvandt fra sygehus: Droner og hunde sat ind",
      "link": "https://www.bt.dk/krimi/forsvandt-fra-sygehus-droner-og-hunde-sat-ind?referrer=RSS",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/udland/passagerer-var-raedselsslagne-chok-i-luften?referrer=RSS",
      "published": "2026-11-28T08:59+00:00",
      "summary": "Braget kunne høres ti kilometer væk."
-    },
-    {
-     "title": "21-årig mand dræbt med kniv - 19-årig sigtet for drabet",
-     "link": "https://www.bt.dk/krimi/21-aarig-mand-draebt-med-kniv-19-aarig-sigtet-for-drabet?referrer=RSS",
-     "published": "2026-11-28T08:45+00:00",
-     "summary": "En 19-årig mand vil lørdag blive krævet varetægtsfængslet for drab på 21-årig mand i Gentofte fredag aften."
     }
    ]
   },
@@ -809,6 +809,12 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Ny skatteordning skal gøre firmacykler mere attraktive fra 2028",
+     "link": "https://www.bt.dk/politik/ny-skatteordning-skal-goere-firmacykler-mere-attraktive-fra-2028?referrer=RSS",
+     "published": "2026-11-28T10:56+00:00",
+     "summary": "Fra 2028 kan arbejdspladser tilbyde firmacykler på mere gunstige skattevilkår, og ansatte må bruge dem privat."
+    },
     {
      "title": "Forsvandt fra sygehus: Droner og hunde sat ind",
      "link": "https://www.bt.dk/krimi/forsvandt-fra-sygehus-droner-og-hunde-sat-ind?referrer=RSS",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/udland/kilder-i-centerpartiet-lederpost-er-paa-spil-i-strid-om-ulf-kristersson?referrer=RSS",
      "published": "2026-11-28T09:33+00:00",
      "summary": "Centerpartiet er splittet efter udmelding om, at partiet vil støtte Ulf Kristersson som svensk statsminister."
-    },
-    {
-     "title": "Elisa Lykke om sine fire kræftforløb: Det har gjort mig mere taknemmelig",
-     "link": "https://www.bt.dk/danske-kendte/elisa-lykke-om-sine-fire-kraeftforloeb-det-har-gjort-mig-mere-taknemmelig?referrer=RSS",
-     "published": "2026-11-28T09:26+00:00",
-     "summary": "PR-agenten Elisa Lykke har været ramt af kræft flere gange. Særligt de seneste to kræftforløb har sat dybe spor og givet hende et helt nyt syn på livet."
     }
    ]
   },
