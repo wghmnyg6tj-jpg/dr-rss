@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T09:20+00:00",
+ "generated": "2026-11-28T09:21+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Raser over egen spiller: 'Du er ikke velkommen her'",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/chelsea-fans-tordner-mod-wesley-fofana-du-er-ikke-velkommen-her/11368264",
+     "published": "2026-11-28T09:19+00:00",
+     "summary": "Chelsea-fans viste utilfredshed med Wesley Fofana i form af pibekoncert og tilråb, mens Xabi Alonso forsøger at støtte spilleren"
+    },
+    {
      "title": "Stort databrud: 30.000 kunder kan være ramt",
      "link": "https://ekstrabladet.dk/nyheder/samfund/stort-databrud-30.000-kunder-kan-vaere-ramt/11368363",
      "published": "2026-11-28T09:06+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/penge/black-friday-ligner-en-fuser-hos-mobilepay/11367834",
      "published": "2026-11-28T07:58+00:00",
      "summary": "MobilePays omsætning på black friday er faldet 27 procent fra sidste år, men ugerne op til var mere travle"
-    },
-    {
-     "title": "Bronson Reed blev blot 38 år: 'Er knust'",
-     "link": "https://ekstrabladet.dk/sport/anden_sport/bronson-reed-er-doed-blev-38-aar/11368269",
-     "published": "2026-11-28T07:46+00:00",
-     "summary": "Wrestlingstjernen er død i en alt for ung alder"
     }
    ]
   },
