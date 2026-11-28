@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T08:28+00:00",
+ "generated": "2026-11-28T08:38+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -604,7 +604,7 @@
    "items": [
     {
      "title": "Pludselig ringede Kessler: - Mange følelser",
-     "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/mikkel-kessler-ringede-mange-foelelser/11367707",
+     "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/pludselig-ringede-mikkel-kessler-mange-foelelser/11367707",
      "published": "2026-11-28T08:19+00:00",
      "summary": "Mikkel Kessler er blevet en god ven for Kalle Sauerland, som derfor har specielle følelser med ind til kampen"
     },
@@ -741,6 +741,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Familie truet med kniv og forsøgt bundet i eget hjem i nat",
+     "link": "https://www.bt.dk/krimi/familie-truet-med-kniv-og-forsoegt-bundet-i-eget-hjem-i-nat?referrer=RSS",
+     "published": "2026-11-28T08:31+00:00",
+     "summary": "En mand og en kvinde er anholdt i en speciel sag, hvor fire personer blev forsøgt bundet natten til lørdag."
+    },
+    {
      "title": "Kvinder ramt af kramper og aborter efter tåregas under demoer i Frankrig",
      "link": "https://www.bt.dk/udland/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig?referrer=RSS",
      "published": "2026-11-28T08:10+00:00",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/vejret/dmi-advarer-farligt-vejr-paa-vej?referrer=RSS",
      "published": "2026-11-28T06:21+00:00",
      "summary": "Fænomenet kan ramme Danmark sidst på natten til søndag."
-    },
-    {
-     "title": "Får tæsk af Obama",
-     "link": "https://www.bt.dk/udland/faar-taesk-af-obama?referrer=RSS",
-     "published": "2026-11-28T06:04+00:00",
-     "summary": "Joe Biden skuffer både salgs- og kvalitetsmæssigt."
     }
    ]
   },
@@ -809,6 +809,24 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Sexolog: Sådan undgår du utroskab til julefrokosten",
+     "link": "https://www.bt.dk/sex-og-samliv/sexolog-saadan-undgaar-du-utroskab-til-julefrokosten?referrer=RSS",
+     "published": "2026-11-28T08:36+00:00",
+     "summary": "Man kan forhindre utroskab gennem sin beklædning, lyder det fra kendt sexolog. Men hun har et endnu bedre råd."
+    },
+    {
+     "title": "Vært bryder ud i gråd: YouTube-hit slutter efter 12 år",
+     "link": "https://www.bt.dk/int-kendte/vaert-bryder-ud-i-graad-youtube-hit-slutter-efter-12-aar?referrer=RSS",
+     "published": "2026-11-28T08:32+00:00",
+     "summary": "Den sidste udgave af det populære 'Chicken Shop Date' er nu blevet publiceret."
+    },
+    {
+     "title": "Familie truet med kniv og forsøgt bundet i eget hjem i nat",
+     "link": "https://www.bt.dk/krimi/familie-truet-med-kniv-og-forsoegt-bundet-i-eget-hjem-i-nat?referrer=RSS",
+     "published": "2026-11-28T08:31+00:00",
+     "summary": "En mand og en kvinde er anholdt i en speciel sag, hvor fire personer blev forsøgt bundet natten til lørdag."
+    },
     {
      "title": "Stjerneinstruktør fik chokbesked: 'Jeg var dybt skuffet'",
      "link": "https://www.bt.dk/film-tv-og-streaming/stjerneinstruktoer-fik-chokbesked-jeg-var-dybt-skuffet?referrer=RSS",
@@ -850,24 +868,6 @@
      "link": "https://www.bt.dk/krimi/forsoegt-bundet-i-nat-familie-i-kaempe-mareridt?referrer=RSS",
      "published": "2026-11-28T07:34+00:00",
      "summary": "Familien består af en far, en mor og en ung kvinde. Derudover var datterens veninde til stede."
-    },
-    {
-     "title": "Messi og co. er færdige i MLS-slutspillet",
-     "link": "https://www.bt.dk/fodbold/messi-og-co-er-faerdige-i-mls-slutspillet?referrer=RSS",
-     "published": "2026-11-28T07:29+00:00",
-     "summary": "Inter Miamis forsvarende MLS-mestre tabte 0-1 til Columbus Crew og kommer ikke til at genvinde titlen."
-    },
-    {
-     "title": "Rosalinde Mynster ser uhyggelig tendens: 'Nu er det lækre damer i stiletter og lipgloss'",
-     "link": "https://www.bt.dk/danske-kendte/rosalinde-mynster-ser-uhyggelig-tendens-nu-er-det-laekre-damer-i-stiletter-og-lipgloss?referrer=RSS",
-     "published": "2026-11-28T07:19+00:00",
-     "summary": "Rosalinde Mynster spiller skurk i årets TV 2-julekalender. Hun tør ikke sige højt, hvem hun har fundet inspiration i."
-    },
-    {
-     "title": "SSI holder øje: Superbakterier fra Ukraine på danske hospitaler",
-     "link": "https://www.bt.dk/samfund/ssi-holder-oeje-superbakterier-fra-ukraine-paa-danske-hospitaler?referrer=RSS",
-     "published": "2026-11-28T07:17+00:00",
-     "summary": "Der bliver holdt skarpt øje med udviklingen."
     }
    ]
   },
