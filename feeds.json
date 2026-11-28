@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T09:31+00:00",
+ "generated": "2026-11-28T09:41+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Eksklusivt interview: \n- Han ville slå mig ihjel",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/jackie-navarro-frygtede-det-vaerste-han-vil-slaa-mig-ihjel/11368373",
+     "published": "2026-11-28T09:31+00:00",
+     "summary": "Den 40-årige tv-kendis taler i et eksklusivt interview med Ekstra Bladet ud om den vold, hun har levet med. En mand blev tidligere på måneden dømt i sagen"
+    },
+    {
+     "title": "S-profil om Mette Frederiksen: - Hun er ikke racist",
+     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/s-profil-om-mette-frederiksen-hun-er-ikke-racist/11368375",
+     "published": "2026-11-28T09:31+00:00",
+     "summary": "Yildiz Akdogan (S) håber, at statsministeren dropper ordet 'befolkningsudskiftning'"
+    },
+    {
      "title": "Raser over egen spiller: 'Du er ikke velkommen her'",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/chelsea-fans-tordner-mod-wesley-fofana-du-er-ikke-velkommen-her/11368264",
      "published": "2026-11-28T09:19+00:00",
@@ -649,18 +661,6 @@
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/chokerede-danske-youtube-stjerner-i-retten-staar-til-boede/11368313",
      "published": "2026-11-28T08:16+00:00",
      "summary": "Tvillingebrødrene bag TrierGaming og Trierne er i retten for skjult reklame og risikerer en bøde på 140.000 kroner"
-    },
-    {
-     "title": "Mystik i Frankrig: Tusindevis af kvinder ramt",
-     "link": "https://ekstrabladet.dk/nyheder/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig/11368310",
-     "published": "2026-11-28T08:14+00:00",
-     "summary": "Tusindvis har fået usædvanligt kraftige smerter og blødninger, efter at de deltog i demonstrationer"
-    },
-    {
-     "title": "MobilePay i\nmarkant fald",
-     "link": "https://ekstrabladet.dk/penge/black-friday-ligner-en-fuser-hos-mobilepay/11367834",
-     "published": "2026-11-28T07:58+00:00",
-     "summary": "MobilePays omsætning på black friday er faldet 27 procent fra sidste år, men ugerne op til var mere travle"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "S-profil om Mette Frederiksen: - Hun er ikke racist",
+     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/s-profil-om-mette-frederiksen-hun-er-ikke-racist/11368375",
+     "published": "2026-11-28T09:31+00:00",
+     "summary": "Yildiz Akdogan (S) håber, at statsministeren dropper ordet 'befolkningsudskiftning'"
+    },
     {
      "title": "Stort databrud: 30.000 kunder kan være ramt",
      "link": "https://ekstrabladet.dk/nyheder/samfund/stort-databrud-30.000-kunder-kan-vaere-ramt/11368363",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/lederen/fjern-tv-2-toppen/11368054",
      "published": "2026-11-27T21:55+00:00",
      "summary": ""
-    },
-    {
-     "title": "Velkommen-skandalen vokser:\nSkylder danskere \nnæsten 300 millioner",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/velkommen-skandalen-vokser-skyldte-42.825-kunder-naesten-300-millioner/11368171",
-     "published": "2026-11-27T21:44+00:00",
-     "summary": "Nye dokumenter fra det konkursramte elselskab viser, at tusindvis af kunder havde store beløb til gode. Ifølge kuratorerne stoppede selskabet allerede i 2024 med løbende at betale pengene tilbage"
     }
    ]
   },
@@ -741,21 +741,27 @@
    "status": "ok",
    "items": [
     {
-     "title": "Databrud kan have ramt 30.000 kunder hos elnetselskab",
-     "link": "https://www.bt.dk/samfund/databrud-kan-have-ramt-30000-kunder-hos-elnetselskab?referrer=RSS",
-     "published": "2026-11-28T09:23+00:00",
-     "summary": "Et databrud hos Trefors SMS-leverandør har muligvis betydet et læk af telefonnumre og adresser på kunder."
-    },
-    {
      "title": "Tidligere S-folketingsmedlem: Mette Frederiksen er ikke racist",
      "link": "https://www.bt.dk/politik/tidligere-s-folketingsmedlem-mette-frederiksen-er-ikke-racist?referrer=RSS",
-     "published": "2026-11-28T09:23+00:00",
+     "published": "2026-11-28T09:40+00:00",
      "summary": "Yildiz Akdogan mener, at \"befolkningsudskiftning\" er en \"uheldig formulering\" fra statsministerens side."
+    },
+    {
+     "title": "Flytter på stribe: Trumps topfolk bor nu på militærbaser",
+     "link": "https://www.bt.dk/udland/flytter-paa-stribe-trumps-topfolk-bor-nu-paa-militaerbaser?referrer=RSS",
+     "published": "2026-11-28T09:40+00:00",
+     "summary": "Det sker af sikkerhedsmæssige årsager."
+    },
+    {
+     "title": "Databrud kan have ramt 30.000 kunder hos elnetselskab",
+     "link": "https://www.bt.dk/samfund/databrud-kan-have-ramt-30000-kunder-hos-elnetselskab?referrer=RSS",
+     "published": "2026-11-28T09:36+00:00",
+     "summary": "Et databrud hos Trefors SMS-leverandør har muligvis betydet et læk af telefonnumre og adresser på kunder."
     },
     {
      "title": "Kilder i Centerpartiet: Lederpost er på spil i strid om Ulf Kristersson",
      "link": "https://www.bt.dk/udland/kilder-i-centerpartiet-lederpost-er-paa-spil-i-strid-om-ulf-kristersson?referrer=RSS",
-     "published": "2026-11-28T09:09+00:00",
+     "published": "2026-11-28T09:33+00:00",
      "summary": "Centerpartiet er splittet efter udmelding om, at partiet vil støtte Ulf Kristersson som svensk statsminister."
     },
     {
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/udland/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig-1?referrer=RSS",
      "published": "2026-11-28T07:59+00:00",
      "summary": ""
-    },
-    {
-     "title": "Forsøgt bundet i nat: Familie i kæmpe mareridt",
-     "link": "https://www.bt.dk/krimi/forsoegt-bundet-i-nat-familie-i-kaempe-mareridt?referrer=RSS",
-     "published": "2026-11-28T07:34+00:00",
-     "summary": "Familien består af en far, en mor og en ung kvinde. Derudover var datterens veninde til stede."
     }
    ]
   },
@@ -810,34 +810,40 @@
    "status": "ok",
    "items": [
     {
+     "title": "Tidligere S-folketingsmedlem: Mette Frederiksen er ikke racist",
+     "link": "https://www.bt.dk/politik/tidligere-s-folketingsmedlem-mette-frederiksen-er-ikke-racist?referrer=RSS",
+     "published": "2026-11-28T09:40+00:00",
+     "summary": "Yildiz Akdogan mener, at \"befolkningsudskiftning\" er en \"uheldig formulering\" fra statsministerens side."
+    },
+    {
+     "title": "Flytter på stribe: Trumps topfolk bor nu på militærbaser",
+     "link": "https://www.bt.dk/udland/flytter-paa-stribe-trumps-topfolk-bor-nu-paa-militaerbaser?referrer=RSS",
+     "published": "2026-11-28T09:40+00:00",
+     "summary": "Det sker af sikkerhedsmæssige årsager."
+    },
+    {
+     "title": "Databrud kan have ramt 30.000 kunder hos elnetselskab",
+     "link": "https://www.bt.dk/samfund/databrud-kan-have-ramt-30000-kunder-hos-elnetselskab?referrer=RSS",
+     "published": "2026-11-28T09:36+00:00",
+     "summary": "Et databrud hos Trefors SMS-leverandør har muligvis betydet et læk af telefonnumre og adresser på kunder."
+    },
+    {
+     "title": "Kilder i Centerpartiet: Lederpost er på spil i strid om Ulf Kristersson",
+     "link": "https://www.bt.dk/udland/kilder-i-centerpartiet-lederpost-er-paa-spil-i-strid-om-ulf-kristersson?referrer=RSS",
+     "published": "2026-11-28T09:33+00:00",
+     "summary": "Centerpartiet er splittet efter udmelding om, at partiet vil støtte Ulf Kristersson som svensk statsminister."
+    },
+    {
      "title": "Elisa Lykke om sine fire kræftforløb: Det har gjort mig mere taknemmelig",
      "link": "https://www.bt.dk/danske-kendte/elisa-lykke-om-sine-fire-kraeftforloeb-det-har-gjort-mig-mere-taknemmelig?referrer=RSS",
      "published": "2026-11-28T09:26+00:00",
      "summary": "PR-agenten Elisa Lykke har været ramt af kræft flere gange. Særligt de seneste to kræftforløb har sat dybe spor og givet hende et helt nyt syn på livet."
     },
     {
-     "title": "Databrud kan have ramt 30.000 kunder hos elnetselskab",
-     "link": "https://www.bt.dk/samfund/databrud-kan-have-ramt-30000-kunder-hos-elnetselskab?referrer=RSS",
-     "published": "2026-11-28T09:23+00:00",
-     "summary": "Et databrud hos Trefors SMS-leverandør har muligvis betydet et læk af telefonnumre og adresser på kunder."
-    },
-    {
-     "title": "Tidligere S-folketingsmedlem: Mette Frederiksen er ikke racist",
-     "link": "https://www.bt.dk/politik/tidligere-s-folketingsmedlem-mette-frederiksen-er-ikke-racist?referrer=RSS",
-     "published": "2026-11-28T09:23+00:00",
-     "summary": "Yildiz Akdogan mener, at \"befolkningsudskiftning\" er en \"uheldig formulering\" fra statsministerens side."
-    },
-    {
      "title": "Jørn Hjortings sidste ord: Det vil han huskes for",
      "link": "https://www.bt.dk/danske-kendte/joern-hjortings-sidste-ord-det-vil-han-huskes-for?referrer=RSS",
      "published": "2026-11-28T09:13+00:00",
      "summary": "Radiolegenden blev 95 år. Han nåede inden sin død at give et sidste interview til DR."
-    },
-    {
-     "title": "Kilder i Centerpartiet: Lederpost er på spil i strid om Ulf Kristersson",
-     "link": "https://www.bt.dk/udland/kilder-i-centerpartiet-lederpost-er-paa-spil-i-strid-om-ulf-kristersson?referrer=RSS",
-     "published": "2026-11-28T09:09+00:00",
-     "summary": "Centerpartiet er splittet efter udmelding om, at partiet vil støtte Ulf Kristersson som svensk statsminister."
     },
     {
      "title": "Prinsesse Kate åbner op om kræftforløb: 'Det er en ensom rejse'",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/udland/passagerer-var-raedselsslagne-chok-i-luften?referrer=RSS",
      "published": "2026-11-28T08:59+00:00",
      "summary": "Braget kunne høres ti kilometer væk."
-    },
-    {
-     "title": "21-årig mand dræbt med kniv - 19-årig sigtet for drabet",
-     "link": "https://www.bt.dk/krimi/21-aarig-mand-draebt-med-kniv-19-aarig-sigtet-for-drabet?referrer=RSS",
-     "published": "2026-11-28T08:45+00:00",
-     "summary": "En 19-årig mand vil lørdag blive krævet varetægtsfængslet for drab på 21-årig mand i Gentofte fredag aften."
     }
    ]
   },
