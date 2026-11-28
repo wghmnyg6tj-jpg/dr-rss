@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T13:52+00:00",
+ "generated": "2026-11-28T14:02+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -8,6 +8,12 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/senestenyt",
    "status": "ok",
    "items": [
+    {
+     "title": "Musik fra GTA topper hitlister",
+     "link": "https://www.dr.dk/nyheder/seneste/musik-fra-gta-topper-hitlister",
+     "published": "2026-11-28T13:55+00:00",
+     "summary": ""
+    },
     {
      "title": "3,2 millioner husstande får kriseråd direkte i postkassen",
      "link": "https://www.dr.dk/nyheder/seneste/3-2-millioner-husstande-faar-kriseraad-direkte-i-postkassen",
@@ -90,12 +96,6 @@
      "title": "FN advarer: Sult og hungersnød truer 16 områder i verden",
      "link": "https://www.dr.dk/nyheder/seneste/fn-advarer-sult-og-hungersnoed-truer-16-omraader-i-verden",
      "published": "2026-11-27T13:33+00:00",
-     "summary": ""
-    },
-    {
-     "title": "18-årig fængslet for skud mod tidligere boksers kolonihave",
-     "link": "https://www.dr.dk/nyheder/seneste/18-aarig-faengslet-skud-mod-tidligere-boksers-kolonihave",
-     "published": "2026-11-27T12:47+00:00",
      "summary": ""
     }
    ]
@@ -108,6 +108,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Musik fra GTA topper hitlister",
+     "link": "https://www.dr.dk/nyheder/seneste/musik-fra-gta-topper-hitlister",
+     "published": "2026-11-28T13:55+00:00",
+     "summary": ""
+    },
+    {
      "title": "3,2 millioner husstande får kriseråd direkte i postkassen",
      "link": "https://www.dr.dk/nyheder/seneste/3-2-millioner-husstande-faar-kriseraad-direkte-i-postkassen",
      "published": "2026-11-28T13:22+00:00",
@@ -189,12 +195,6 @@
      "title": "FN advarer: Sult og hungersnød truer 16 områder i verden",
      "link": "https://www.dr.dk/nyheder/seneste/fn-advarer-sult-og-hungersnoed-truer-16-omraader-i-verden",
      "published": "2026-11-27T13:33+00:00",
-     "summary": ""
-    },
-    {
-     "title": "18-årig fængslet for skud mod tidligere boksers kolonihave",
-     "link": "https://www.dr.dk/nyheder/seneste/18-aarig-faengslet-skud-mod-tidligere-boksers-kolonihave",
-     "published": "2026-11-27T12:47+00:00",
      "summary": ""
     }
    ]
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Dorgu starter i Pochettinos hjemmebanedebut",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/dorgu-starter-i-pochettinos-hjemmebanedebut/11368553",
+     "published": "2026-11-28T13:58+00:00",
+     "summary": "Patrick Dorgu er tilbage i startopstillingen, når Manchester United lørdag tager imod Brentford i Premier League"
+    },
+    {
      "title": "Finanslov på vej: Indkalder til pressemøde",
      "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/finanslov-paa-vej-indkalder-til-pressemoede/11368526",
      "published": "2026-11-28T13:39+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/cykling/bossen-bekraefter-her-er-vingegaards-holdnavn/11368439",
      "published": "2026-11-28T12:19+00:00",
      "summary": "Vi skal vænne os til ikke at kalde Jonas Vingegaard for Visma-rytter. For det er han ikke længere"
-    },
-    {
-     "title": "Millioner skal tilbagebetales efter mangeårig usikkerhed om gæld",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/millioner-skal-tilbagebetales-efter-mangeaarig-usikkerhed-om-gaeld/11368468",
-     "published": "2026-11-28T12:02+00:00",
-     "summary": "Staten skal nu tilbagebetale millioner til borgere og virksomheder, der kan have betalt ugyldig gæld"
     }
    ]
   },
@@ -812,7 +812,7 @@
     {
      "title": "Hummelgaard inviterer til pressemøde om finansloven for 2027",
      "link": "https://www.bt.dk/politik/hummelgaard-inviterer-til-pressemoede-om-finansloven-for-2027?referrer=RSS",
-     "published": "2026-11-28T13:48+00:00",
+     "published": "2026-11-28T13:51+00:00",
      "summary": "Finansloven for næste år lader til at være på plads eller tæt på, eftersom der er indkaldt til pressemøde."
     },
     {
@@ -1482,6 +1482,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+     "link": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+     "published": "2026-11-28T14:00+00:00",
+     "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models."
+    },
+    {
      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
      "published": "2026-11-26T20:03+00:00",
@@ -1564,12 +1570,6 @@
      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
      "published": "2026-11-24T21:48+00:00",
      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
-    },
-    {
-     "title": "Even the best AI agents struggle with everyday life",
-     "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-     "published": "2026-11-24T21:33+00:00",
-     "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems."
     }
    ]
   },
