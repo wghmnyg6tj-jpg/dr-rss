@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T10:02+00:00",
+ "generated": "2026-11-28T10:12+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -207,6 +207,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "De her ting behøver du ikke give til genbrug - det bliver alligevel smidt ud",
+     "link": "https://www.dr.dk/nyheder/indland/de-her-ting-behoever-du-ikke-give-til-genbrug-det-bliver-alligevel-smidt-ud",
+     "published": "2026-11-28T10:06+00:00",
+     "summary": "Det er blandt andet ødelagt legetøj og slidte køkkenting, der bliver sorteret fra og kørt på genbrugsstationen."
+    },
+    {
      "title": "Minister: Hvis salg af stoffer sker i nærheden af skoler, vil hammeren falde hårdere",
      "link": "https://www.dr.dk/nyheder/indland/minister-hvis-salg-af-stoffer-sker-i-naerheden-af-skoler-vil-hammeren-falde-haardere",
      "published": "2026-11-28T09:10+00:00",
@@ -289,12 +295,6 @@
      "link": "https://www.dr.dk/nyheder/indland/90-000-numre-hos-dansk-bilkoncern-er-kompromitteret-i-stort-sikkerhedsbrud",
      "published": "2026-11-27T17:36+00:00",
      "summary": "Både Semler Gruppen, flere gymnasier og Det Danske Spejderkorps er berørt af sikkerhedsbrud hos en teleudbyder."
-    },
-    {
-     "title": "Charlottes sag blev lynekspederet af AI: Nu går ombudsmand ind i sagen",
-     "link": "https://www.dr.dk/nyheder/indland/charlottes-sag-blev-afgjort-af-ai-nu-gaar-ombudsmand-ind-i-sagen",
-     "published": "2026-11-27T17:21+00:00",
-     "summary": "Nyborg Kommune brugte under 12 timer på at afvise en 36 sider lang klage - og undskyldte senere, at der var brugt kunstig intelligens i forbindelse med afgørelsen."
     }
    ]
   },
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Cyklist i kritisk tilstand efter påkørsel i Næstved",
+     "link": "https://ekstrabladet.dk/krimi/cyklist-i-kritisk-tilstand-efter-paakoersel-i-naestved/11368412",
+     "published": "2026-11-28T10:08+00:00",
+     "summary": "En cyklist er lørdag formiddag blevet ramt af en bil og kørt med ambulance under eskorte til Rigshospitalet"
+    },
+    {
      "title": "Vanvidsbryllup:\n500.000 mennesker\ndeltog",
      "link": "https://ekstrabladet.dk/nyheder/Udland/vanvidsbryllup-500.000-mennesker-deltog/11367482",
      "published": "2026-11-28T09:53+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/penge/jensen-genopstaar-bedste-uge-i-19-maaneder-paa-wall-street/11368293",
      "published": "2026-11-28T08:47+00:00",
      "summary": "Efter flere ugers tæsk slog de amerikanske aktier tilbage. Nvidia-chefens comeback satte gang i handlen mandag, og fredag tog AI-aktierne endnu et hop"
-    },
-    {
-     "title": "Pludselig ringede Kessler: - Mange følelser",
-     "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/pludselig-ringede-mikkel-kessler-mange-foelelser/11367707",
-     "published": "2026-11-28T08:19+00:00",
-     "summary": "Mikkel Kessler er blevet en god ven for Kalle Sauerland, som derfor har specielle følelser med ind til kampen"
     }
    ]
   },
@@ -741,6 +741,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Med eskorte til Rigshospitalet: Cyklist i kritisk tilstand",
+     "link": "https://www.bt.dk/krimi/med-eskorte-til-rigshospitalet-cyklist-i-kritisk-tilstand?referrer=RSS",
+     "published": "2026-11-28T10:07+00:00",
+     "summary": "De pårørende er endnu ikke blevet underrettet."
+    },
+    {
      "title": "Tidligere S-folketingsmedlem: Mette Frederiksen er ikke racist",
      "link": "https://www.bt.dk/politik/tidligere-s-folketingsmedlem-mette-frederiksen-er-ikke-racist?referrer=RSS",
      "published": "2026-11-28T09:40+00:00",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/krimi/familie-truet-med-kniv-og-forsoegt-bundet-i-eget-hjem-i-nat?referrer=RSS",
      "published": "2026-11-28T08:31+00:00",
      "summary": "En mand og en kvinde er anholdt i en speciel sag, hvor fire personer blev forsøgt bundet natten til lørdag."
-    },
-    {
-     "title": "Kvinder ramt af kramper og aborter efter tåregas under demoer i Frankrig",
-     "link": "https://www.bt.dk/udland/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig-1?referrer=RSS",
-     "published": "2026-11-28T07:59+00:00",
-     "summary": ""
     }
    ]
   },
@@ -809,6 +809,12 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Med eskorte til Rigshospitalet: Cyklist i kritisk tilstand",
+     "link": "https://www.bt.dk/krimi/med-eskorte-til-rigshospitalet-cyklist-i-kritisk-tilstand?referrer=RSS",
+     "published": "2026-11-28T10:07+00:00",
+     "summary": "De pårørende er endnu ikke blevet underrettet."
+    },
     {
      "title": "Kendt sportsjournalist: Jeg er alvorligt syg",
      "link": "https://www.bt.dk/film-tv-og-streaming/kendt-sportsjournalist-jeg-er-alvorligt-syg?referrer=RSS",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/royale/prinsesse-kate-aabner-op-om-kraeftforloeb-det-er-en-ensom-rejse?referrer=RSS",
      "published": "2026-11-28T09:04+00:00",
      "summary": "Kongehuset har delt et nyt klip fra den kommende dokumentar."
-    },
-    {
-     "title": "Frygter datalæk: 30.000 kunder ramt",
-     "link": "https://www.bt.dk/samfund/frygter-datalaek-30000-kunder-ramt?referrer=RSS",
-     "published": "2026-11-28T09:04+00:00",
-     "summary": ""
     }
    ]
   },
@@ -1797,6 +1797,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "The Real Northern Lights Train in Norway Is Better Than the Fake AI-Generated One",
+     "link": "https://www.outsideonline.com/adventure-travel/destinations/norway-northern-lights-trains/",
+     "published": "2026-11-28T10:05+00:00",
+     "summary": "AI-generated videos gave travelers the wrong impression of Norway's northern lights train. The real three-hour journey swaps futuristic glass ceilings for a remote Arctic night hike and dark skies near the Swedish border."
+    },
+    {
      "title": "The Underrated Plank Variation That Strengthens Your Body for the Trail and Slopes",
      "link": "https://www.outsideonline.com/health/training-performance/reverse-plank-hinge/",
      "published": "2026-11-28T10:00+00:00",
@@ -1849,12 +1855,6 @@
      "link": "https://www.outsideonline.com/outdoor-gear/tools/health-wellness-gifts-2026/",
      "published": "2026-11-25T10:35+00:00",
      "summary": "Trust us, these “healthy” gifts will actually get used."
-    },
-    {
-     "title": "I Started Surfing at 52 and It Helped Me Survive Cancer",
-     "link": "https://www.outsideonline.com/culture/essays-culture/exercise-during-breast-cancer-treatment/",
-     "published": "2026-11-25T10:19+00:00",
-     "summary": "After a cancer diagnosis and a double mastectomy, I refused to give up the ocean. Catching waves became my lifeline through 14 months, 3 surgeries, and 21 rounds of chemotherapy and immunotherapy infusions."
     }
    ]
   },
