@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T14:33+00:00",
+ "generated": "2026-11-28T14:44+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -21,7 +21,7 @@
      "summary": ""
     },
     {
-     "title": "Mindst syv børn dræbt i eksplosion nær skole i Afghanistan",
+     "title": "Mindst ti børn dræbt i eksplosion nær skole i Afghanistan",
      "link": "https://www.dr.dk/nyheder/seneste/mindst-syv-boern-draebt-i-eksplosion-naer-skole-i-afghanistan",
      "published": "2026-11-28T10:55+00:00",
      "summary": ""
@@ -120,7 +120,7 @@
      "summary": ""
     },
     {
-     "title": "Mindst syv børn dræbt i eksplosion nær skole i Afghanistan",
+     "title": "Mindst ti børn dræbt i eksplosion nær skole i Afghanistan",
      "link": "https://www.dr.dk/nyheder/seneste/mindst-syv-boern-draebt-i-eksplosion-naer-skole-i-afghanistan",
      "published": "2026-11-28T10:55+00:00",
      "summary": ""
@@ -207,6 +207,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Mathilde er ny i Hjemmeværnet: ’Det handler ikke kun om at dirigere trafik’",
+     "link": "https://www.dr.dk/nyheder/indland/mathilde-er-ny-i-hjemmevaernet-det-handler-ikke-kun-om-dirigere-trafik",
+     "published": "2026-11-28T14:32+00:00",
+     "summary": "De frivillige strømmer til Hjemmeværnet. Folk vil gerne gøre en forskel, siger rekrutteringschef."
+    },
+    {
      "title": "De unge tror på den gamle: 'Han vinder på knockout'",
      "link": "https://www.dr.dk/nyheder/indland/reels/de-unge-tror-paa-den-gamle-han-vinder-paa-knockout",
      "published": "2026-11-28T13:03+00:00",
@@ -289,12 +295,6 @@
      "link": "https://www.dr.dk/nyheder/indland/foer-sin-doed-fortalte-joern-hjorting-dr-hvad-han-haaber-blive-husket",
      "published": "2026-11-27T20:36+00:00",
      "summary": "Før sin død fortalte Jørn Hjorting DR, hvad han vil huskes for, og hvad han tænker om døden."
-    },
-    {
-     "title": "Hvert femte barn vil forbyde samlekort i skolen og SFO'en",
-     "link": "https://www.dr.dk/nyheder/indland/hvert-femte-barn-vil-forbyde-samlekort-i-skolen-og-sfo-en",
-     "published": "2026-11-27T20:10+00:00",
-     "summary": "Flere skoler rundt omkring i landet har allerede forbudt samlekortene, efter de har skabt konflikter."
     }
    ]
   },
@@ -603,6 +603,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Sarah Grünewald:\nTæt på at miste\nsin forlovede",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/sarah-grunewald-om-tidligere-misbrug-taet-paa-at-miste-sin-forlovede/11368572",
+     "published": "2026-11-28T14:39+00:00",
+     "summary": "Den danske tv-vært nåede så langt ud i sit misbrug af alkohol og stoffer, at hun var tæt på at miste manden i sit liv"
+    },
+    {
+     "title": "Carlos Alcaraz sender Spanien i Davis Cup-finalen",
+     "link": "https://ekstrabladet.dk/sport/anden_sport/tennis/carlos-alcaraz-sender-spanien-i-davis-cup-finalen/11368581",
+     "published": "2026-11-28T14:37+00:00",
+     "summary": "Spanien slog Storbritannien 2-0 i semifinalen og møder Italien i en gentagelse af sidste års Davis Cup-finale"
+    },
+    {
      "title": "Klasseforskel: Dansk magtdemonstration i EM-generalprøve",
      "link": "https://ekstrabladet.dk/sport/haandbold/danmark-uddeler-prygl-i-em-generalproeve/11368579",
      "published": "2026-11-28T14:28+00:00",
@@ -649,18 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/haandbold/bojana-popovic-skal-nok-have-en-pause/11367157",
      "published": "2026-11-28T13:33+00:00",
      "summary": "Bojana Popovic har for nylig forlænget kontrakten som landsholdsassistent til udgangen af 2028, mens hun er stoppet som klubtræner i Rumænien"
-    },
-    {
-     "title": "Stjerneskuespiller\ntrak sig fra\nrampelyset",
-     "link": "https://ekstrabladet.dk/underholdning/udlandkendte/trak-sig-fra-rampelyset-efter-retssag-johnny-depp-nyder-oe-livet/11368516",
-     "published": "2026-11-28T13:28+00:00",
-     "summary": "Stjerneskuespilleren nyder et fredfyldt liv væk fra rampelyset på sin ø på Bahamas"
-    },
-    {
-     "title": "Vild nedtur:\nHan har tabt\n160 milliarder",
-     "link": "https://ekstrabladet.dk/penge/legendarisk-investors-vilde-nedtur-har-tabt-160-milliarder/11367820",
-     "published": "2026-11-28T13:15+00:00",
-     "summary": "Den amerikanske milliardær Carl Icahn har mistet omkring 95 procent af sin formue, og nu er hans forretningsimperium under voldsomt pres"
     }
    ]
   },
@@ -721,9 +721,9 @@
     },
     {
      "title": "Elever dræbt i eksplosion \ni Afghanistan",
-     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/mindst-seks-elever-draebt-i-eksplosion-ved-skole-i-afghanistan/11368407",
+     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/mindst-ti-elever-draebt-i-eksplosion-ved-skole-i-afghanistan/11368407",
      "published": "2026-11-28T10:17+00:00",
-     "summary": "Foruden seks omkomne er 97 personer kommet til skade ved eksplosion i bygning i det østlige Afghanistan"
+     "summary": "Foruden ti omkomne er 110 personer kommet til skade ved eksplosion i bygning i det østlige Afghanistan"
     },
     {
      "title": "Vanvidsbryllup:\n500.000 mennesker\ndeltog",
@@ -810,16 +810,22 @@
    "status": "ok",
    "items": [
     {
+     "title": "Håndboldkvinder vinder den sidste testkamp inden EM",
+     "link": "https://www.bt.dk/haandbold/haandboldkvinder-vinder-den-sidste-testkamp-inden-em-1?referrer=RSS",
+     "published": "2026-11-28T14:36+00:00",
+     "summary": "Færøerne kunne ikke stille det store op mod Danmark, der diskede op med en håndboldlektion i Trondheim."
+    },
+    {
+     "title": "Carlos Alcaraz sender Spanien i Davis Cup-finalen",
+     "link": "https://www.bt.dk/tennis/carlos-alcaraz-sender-spanien-i-davis-cup-finalen?referrer=RSS",
+     "published": "2026-11-28T14:36+00:00",
+     "summary": "Spanien slog Storbritannien 2-0 i semifinalen og møder Italien i en gentagelse af sidste års Davis Cup-finale."
+    },
+    {
      "title": "Må først prøveløslades om 22 år: Skrækkelig sag ryster Frankrig",
      "link": "https://www.bt.dk/udland/maa-foerst-proeveloeslades-om-22-aar-skraekkelig-sag-ryster-frankrig?referrer=RSS",
      "published": "2026-11-28T14:31+00:00",
      "summary": "4. maj 2021 ventede Boutaa på Daoud uden for sit hjem i Mérignac, en forstad til Bordeaux."
-    },
-    {
-     "title": "Håndboldkvinder vinder den sidste testkamp inden EM",
-     "link": "https://www.bt.dk/haandbold/haandboldkvinder-vinder-den-sidste-testkamp-inden-em-1?referrer=RSS",
-     "published": "2026-11-28T14:29+00:00",
-     "summary": "Færøerne kunne ikke stille det store op mod Danmark, der diskede op med en håndboldlektion i Trondheim."
     },
     {
      "title": "Hummelgaard inviterer til pressemøde om finansloven for 2027",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/dagens-sparetip/freja-kalder-sig-selv-jysk-og-naerigsaadan-sparede-hun-2800-kroner-paa-designerbord?referrer=RSS",
      "published": "2026-11-28T13:02+00:00",
      "summary": "'Nybyggerne'-deltageren Freja Givskud var ingen 'handywoman', men i dag bygger hun selv sine boligdrømme. Et er faktisk overraskende nemt og billigt."
-    },
-    {
-     "title": "3,2 millioner husstande får fysisk pjece med opdaterede kriseråd",
-     "link": "https://www.bt.dk/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad?referrer=RSS",
-     "published": "2026-11-28T12:53+00:00",
-     "summary": "Samfundets svageste bør lave en huskeliste med vigtige telefonnumre i tilfælde af en krise, siger ministerie."
     }
    ]
   },
