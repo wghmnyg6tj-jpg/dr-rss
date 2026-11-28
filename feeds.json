@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T06:03+00:00",
+ "generated": "2026-11-28T06:13+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Superbakterier hos Ukraine-patienter: Frygter smitte",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/saarede-fra-ukraine-baerer-paa-superbakterier-ssi-frygter-spredning/11368259",
+     "published": "2026-11-28T06:11+00:00",
+     "summary": "Multiresistente bakterier er fundet hos 137 evakuerede ukrainere behandlet i Danmark. På et hollandsk hospital fik to børn blodforgiftning efter et udbrud"
+    },
+    {
      "title": "'De var rædselsslagne'",
      "link": "https://ekstrabladet.dk/krimi/de-var-raedselsslagne/11367899",
      "published": "2026-11-28T06:01+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/forbrug/Teknologi/openai-gaar-til-modangreb-sagsoeger-apple/11368220",
      "published": "2026-11-27T22:32+00:00",
      "summary": "Striden mellem techgiganterne tager til, og OpenAI slæber nu Apple i retten"
-    },
-    {
-     "title": "Sære scener",
-     "link": "https://ekstrabladet.dk/sport/anden_sport/nfl/vildt-syn-nfl-stjerner-toemte-iltbeholder/11367584",
-     "published": "2026-11-27T22:26+00:00",
-     "summary": "Der var taget ekstraordinære forholdsregler, da NFL-stjernerne gæstede Mexico City. Alligevel måtte en af de store iltbeholdere udskiftes allerede ved pausen"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Superbakterier hos Ukraine-patienter: Frygter smitte",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/saarede-fra-ukraine-baerer-paa-superbakterier-ssi-frygter-spredning/11368259",
+     "published": "2026-11-28T06:11+00:00",
+     "summary": "Multiresistente bakterier er fundet hos 137 evakuerede ukrainere behandlet i Danmark. På et hollandsk hospital fik to børn blodforgiftning efter et udbrud"
+    },
     {
      "title": "Styrt med militærhelikopter har dræbt otte i Peru",
      "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/styrt-med-militaerhelikopter-har-draebt-otte-i-peru/11368238",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/samfund/efter-togkaos-borgmestre-sender-appel-til-folketinget/11367320",
      "published": "2026-11-27T19:58+00:00",
      "summary": "Tre fynske borgmestre sender nu en appel til de fynskvalgte folketingsmedlemmer. De frygter, at et midlertidigt togstop kan få varige konsekvenser for de små stationer"
-    },
-    {
-     "title": "Putin præsenterer ny atomdrevet ubåd",
-     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/putin-praesenterer-ny-atomdrevet-ubaad/11368094",
-     "published": "2026-11-27T19:07+00:00",
-     "summary": "Ud over den nye atomdrevne ubåd \"Perm\", som flåden fik overdraget ved en ceremoni fredag, er fem mere på vej"
     }
    ]
   },
@@ -740,6 +740,12 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Får tæsk af Obama",
+     "link": "https://www.bt.dk/udland/faar-taesk-af-obama?referrer=RSS",
+     "published": "2026-11-28T06:04+00:00",
+     "summary": "Joe Biden skuffer både salgs- og kvalitetsmæssigt."
+    },
     {
      "title": "Læger uden Grænser: To ansatte er døde i israelsk angreb i Gaza",
      "link": "https://www.bt.dk/udland/laeger-uden-graenser-to-ansatte-er-doede-i-israelsk-angreb-i-gaza?referrer=RSS",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/politik/ny-skatteordning-skal-goere-firmacykler-mere-attraktive-fra-2028?referrer=RSS",
      "published": "2026-11-27T22:01+00:00",
      "summary": "Fra 2028 kan arbejdspladser tilbyde firmacykler på mere gunstige skattevilkår, og ansatte må bruge dem privat."
-    },
-    {
-     "title": "Efter flere røverier i købmandsbutikker: Nu er de dømt",
-     "link": "https://www.bt.dk/krimi/efter-flere-roeverier-i-koebmandsbutikker-nu-er-de-doemt?referrer=RSS",
-     "published": "2026-11-27T21:59+00:00",
-     "summary": "Samlet skal de afsone ti år og ti måneders fængsel."
     }
    ]
   },
@@ -809,6 +809,12 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Får tæsk af Obama",
+     "link": "https://www.bt.dk/udland/faar-taesk-af-obama?referrer=RSS",
+     "published": "2026-11-28T06:04+00:00",
+     "summary": "Joe Biden skuffer både salgs- og kvalitetsmæssigt."
+    },
     {
      "title": "Hustruens store frygt: 'Jeg har det forfærdeligt'",
      "link": "https://www.bt.dk/boksning/hustruens-store-frygt-jeg-har-det-forfaerdeligt?referrer=RSS",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/oevrig-sport/dansk-golfspiller-vinder-terraen-ved-turnering-i-australien?referrer=RSS",
      "published": "2026-11-28T03:38+00:00",
      "summary": "Danske Nicolai Højgaard snuser til top-10 efter en flot tredje runde ved golfturnering i Australien."
-    },
-    {
-     "title": "Uganda tester eksperimentel vaccine mod ebola",
-     "link": "https://www.bt.dk/udland/uganda-tester-eksperimentel-vaccine-mod-ebola?referrer=RSS",
-     "published": "2026-11-28T03:24+00:00",
-     "summary": "Uganda har fredag påbegyndt forsøg med eksperimentel ebolavaccine. I DR Congo gør man snart det samme."
     }
    ]
   },
