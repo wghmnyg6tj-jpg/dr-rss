@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T16:39+00:00",
+ "generated": "2026-11-28T16:49+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -195,6 +195,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Flammer i Albaniens gader: Kræver hans afgang!",
+     "link": "https://www.bt.dk/udland/flammer-i-albaniens-gader-kraever-hans-afgang?referrer=RSS",
+     "published": "2026-11-28T16:45+00:00",
+     "summary": "Det, der begyndte som protester mod et projekt med forbindelser til Donald Trumps svigersøn, har udviklet sig til et voldsomt oprør mod albanske magtelite."
+    },
+    {
+     "title": "Dobbeltbookere bliver afsløret: Sådan tager restauranter kampen op",
+     "link": "https://www.bt.dk/samfund/dobbeltbookere-bliver-afsloeret-saadan-tager-restauranter-kampen-op?referrer=RSS",
+     "published": "2026-11-28T16:40+00:00",
+     "summary": "Ny funktion giver besked ved dobbeltbooking."
+    },
+    {
      "title": "Zelenskyjs bagland: Kræver Trumps svigersøn fjernet",
      "link": "https://www.bt.dk/nyheder/zelenskyjs-bagland-kraever-trumps-svigersoen-fjernet?referrer=RSS",
      "published": "2026-11-28T16:15+00:00",
@@ -241,18 +253,6 @@
      "link": "https://www.bt.dk/udland/maa-foerst-proeveloeslades-om-22-aar-skraekkelig-sag-ryster-frankrig?referrer=RSS",
      "published": "2026-11-28T14:31+00:00",
      "summary": "4. maj 2021 ventede Boutaa på Daoud uden for sit hjem i Mérignac, en forstad til Bordeaux."
-    },
-    {
-     "title": "Hummelgaard inviterer til pressemøde om finansloven for 2027",
-     "link": "https://www.bt.dk/politik/hummelgaard-inviterer-til-pressemoede-om-finansloven-for-2027?referrer=RSS",
-     "published": "2026-11-28T14:09+00:00",
-     "summary": "Finansloven for næste år lader til at være på plads eller tæt på, eftersom der er indkaldt til pressemøde."
-    },
-    {
-     "title": "19-årig sigtet for knivdrab siger at det var selvforsvar",
-     "link": "https://www.bt.dk/krimi/19-aarig-sigtet-for-knivdrab-siger-at-det-var-selvforsvar?referrer=RSS",
-     "published": "2026-11-28T14:02+00:00",
-     "summary": "19-årig fængsles i fire uger. Der er en begrundet mistanke om, at han er skyldig i dødsvold, vurderer dommer."
     }
    ]
   },
@@ -263,6 +263,18 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Flammer i Albaniens gader: Kræver hans afgang!",
+     "link": "https://www.bt.dk/udland/flammer-i-albaniens-gader-kraever-hans-afgang?referrer=RSS",
+     "published": "2026-11-28T16:45+00:00",
+     "summary": "Det, der begyndte som protester mod et projekt med forbindelser til Donald Trumps svigersøn, har udviklet sig til et voldsomt oprør mod albanske magtelite."
+    },
+    {
+     "title": "Dobbeltbookere bliver afsløret: Sådan tager restauranter kampen op",
+     "link": "https://www.bt.dk/samfund/dobbeltbookere-bliver-afsloeret-saadan-tager-restauranter-kampen-op?referrer=RSS",
+     "published": "2026-11-28T16:40+00:00",
+     "summary": "Ny funktion giver besked ved dobbeltbooking."
+    },
     {
      "title": "Bayern-anfører ser rødt for at hive i håret i 0-0-kamp",
      "link": "https://www.bt.dk/fodbold/bayern-anfoerer-ser-roedt-for-at-hive-i-haaret-i-0-0-kamp?referrer=RSS",
@@ -310,18 +322,6 @@
      "link": "https://www.bt.dk/samfund/jyder-risikerer-at-staa-op-til-isslag-soendag?referrer=RSS",
      "published": "2026-11-28T15:28+00:00",
      "summary": "Prognoserne melder om muligt isslag i det jyske søndag morgen. Fyn og Sjælland ser ud til at gå fri."
-    },
-    {
-     "title": "Lars Løkke rejser til Indien: Skal tiltrække mere arbejdskraft",
-     "link": "https://www.bt.dk/politik/lars-loekke-rejser-til-indien-skal-tiltraekke-mere-arbejdskraft?referrer=RSS",
-     "published": "2026-11-28T15:27+00:00",
-     "summary": "'Indien har en enorm talentmasse med netop de kompetencer, som danske virksomheder efterspørger,' lyder det fra udenrigsminister Lars Løkke Rasmussen (M)."
-    },
-    {
-     "title": "Håndboldkvinder vinder den sidste testkamp inden EM",
-     "link": "https://www.bt.dk/haandbold/haandboldkvinder-vinder-den-sidste-testkamp-inden-em-1?referrer=RSS",
-     "published": "2026-11-28T15:21+00:00",
-     "summary": "Færøerne kunne ikke stille det store op mod Danmark, der diskede op med en håndboldlektion i Trondheim."
     }
    ]
   },
