@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T12:07+00:00",
+ "generated": "2026-11-28T12:17+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -504,6 +504,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Skattevæsnet fejler, og nu skylder Michael pludselig 22.000 kroner: 'Det er mafiametoder. Det er voldsomt'",
+     "link": "https://www.dr.dk/nyheder/penge/skattevaesnet-fejler-og-nu-skylder-michael-pludselig-22-000-kroner-det-er-mafiametoder-det-er",
+     "published": "2026-11-28T12:14+00:00",
+     "summary": "Skattestyrelsen beklager fejl og vil nu tage kontakt til tidligere boligejer."
+    },
+    {
      "title": "Er din løn høj eller lav?",
      "link": "https://www.dr.dk/nyheder/penge/reels/er-din-loen-hoej-eller-lav",
      "published": "2026-11-28T07:29+00:00",
@@ -586,12 +592,6 @@
      "link": "https://www.dr.dk/nyheder/indland/nets-med-advarsel-op-til-black-friday",
      "published": "2026-11-25T07:29+00:00",
      "summary": "Efter Black Friday registrerer betalingsvirksomheden omkring 15 procent flere kortreklamationer end normalt i Norden."
-    },
-    {
-     "title": "Din pension bliver stadigvæk investeret i Nvidia trods massiv kritik",
-     "link": "https://www.dr.dk/nyheder/penge/din-pension-bliver-stadigvaek-investeret-i-nvidia-trods-massiv-kritik",
-     "published": "2026-11-24T20:45+00:00",
-     "summary": "Fem af Danmarks største pensionsselskaber fastholder indtil videre deres investeringer i Nvidia trods anklager om korruption og dårlig virksomhedsledelse efter genansættelsen af Jensen Huang."
     }
    ]
   },
