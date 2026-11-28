@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T10:43+00:00",
+ "generated": "2026-11-28T10:54+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -207,6 +207,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Fynsk familie overfaldet i eget hjem - to personer anholdt",
+     "link": "https://www.dr.dk/nyheder/regionale/fyn/fynsk-familie-overfaldet-i-eget-hjem-personer-anholdt",
+     "published": "2026-11-28T10:53+00:00",
+     "summary": "De to personer skaffede sig adgang til et hjem, hvor de truede et forældrepar, datteren og hendes veninde med en kniv."
+    },
+    {
      "title": "De her ting behøver du ikke give til genbrug - det bliver alligevel smidt ud",
      "link": "https://www.dr.dk/nyheder/indland/de-her-ting-behoever-du-ikke-give-til-genbrug-det-bliver-alligevel-smidt-ud",
      "published": "2026-11-28T10:06+00:00",
@@ -289,12 +295,6 @@
      "link": "https://www.dr.dk/nyheder/indland/ny-paedofilfilm-understreger-betydningen-af-saerlig-raadgivningslinje-nu-forlaenger-red-barnet-den",
      "published": "2026-11-27T18:21+00:00",
      "summary": "Red Barnet har fået 11,2 millioner til at forlænge deres rådgivningslinje TalMedOs med fire år."
-    },
-    {
-     "title": "90.000 telefonnumre hos dansk bilkoncern er kompromitteret i stort sikkerhedsbrud",
-     "link": "https://www.dr.dk/nyheder/indland/90-000-numre-hos-dansk-bilkoncern-er-kompromitteret-i-stort-sikkerhedsbrud",
-     "published": "2026-11-27T17:36+00:00",
-     "summary": "Både Semler Gruppen, flere gymnasier og Det Danske Spejderkorps er berørt af sikkerhedsbrud hos en teleudbyder."
     }
    ]
   },
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Købte Nvidia-aktier\nfor 300.000 \nkroner",
+     "link": "https://ekstrabladet.dk/penge/perfekt-timing-koebte-nvidia-aktier-for-300.000-kroner/11367741",
+     "published": "2026-11-28T10:46+00:00",
+     "summary": "Den danske investor Tobias Storm ejer nu Nvidia-aktier for omkring 820.000 kroner. Han mener, at markedet er blevet for pessimistisk om chipgigantens fremtid"
+    },
+    {
      "title": "- Kræft er\nensomt",
      "link": "https://ekstrabladet.dk/underholdning/kongelige/udenlandskekongelige/prinsesse-kate-kraeft-er-ensomt/11367629",
      "published": "2026-11-28T10:40+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/s-profil-om-mette-frederiksen-hun-er-ikke-racist/11368375",
      "published": "2026-11-28T09:31+00:00",
      "summary": "Yildiz Akdogan (S) håber, at statsministeren dropper ordet 'befolkningsudskiftning'"
-    },
-    {
-     "title": "Raser over egen spiller: 'Du er ikke velkommen her'",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/chelsea-fans-tordner-mod-wesley-fofana-du-er-ikke-velkommen-her/11368264",
-     "published": "2026-11-28T09:19+00:00",
-     "summary": "Chelsea-fans viste utilfredshed med Wesley Fofana i form af pibekoncert og tilråb, mens Xabi Alonso forsøger at støtte spilleren"
     }
    ]
   },
@@ -1797,6 +1797,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "REI’s Cyber Week Is Full of Incredible Discounts. These 18 Are Our Favorites.",
+     "link": "https://www.outsideonline.com/outdoor-gear/gear-news/best-rei-cyber-week-deals-outdoor-gear-2026/",
+     "published": "2026-11-28T10:53+00:00",
+     "summary": "REI’s Cyber Week sale is packed with deep discounts on top outdoor brands like Patagonia, Arc’teryx, Altra, Smith, and The North Face. Score major savings on your favorite gear before it's gone."
+    },
+    {
      "title": "The Real Northern Lights Train in Norway Is Better Than the Fake AI-Generated One",
      "link": "https://www.outsideonline.com/adventure-travel/destinations/norway-northern-lights-trains/",
      "published": "2026-11-28T10:05+00:00",
@@ -1849,12 +1855,6 @@
      "link": "https://www.outsideonline.com/outdoor-adventure/environment/yosemite-national-park-boundary-change-ackerson-meadow-act/",
      "published": "2026-11-25T11:18+00:00",
      "summary": "Congress passed the Ackerson Meadow Land Interchange Act, swapping 330 acres between Yosemite National Park and Stanislaus National Forest."
-    },
-    {
-     "title": "13 Health and Wellness Gifts You’ll Want to Steal for Yourself",
-     "link": "https://www.outsideonline.com/outdoor-gear/tools/health-wellness-gifts-2026/",
-     "published": "2026-11-25T10:35+00:00",
-     "summary": "Trust us, these “healthy” gifts will actually get used."
     }
    ]
   },
