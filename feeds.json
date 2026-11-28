@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T14:02+00:00",
+ "generated": "2026-11-28T14:12+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Simpel øvelse hjælper: Få en fastere rejsning",
+     "link": "https://ekstrabladet.dk/forbrug/sundhed/simpel-oevelse-traen-dig-til-bedre-blodomloeb-i-penis/11362659",
+     "published": "2026-11-28T14:11+00:00",
+     "summary": "Det kan give 'mærkbare resultater i sengen', lyder det fra ekspert"
+    },
+    {
+     "title": "Respekten er væk: Karma er en bitch",
+     "link": "https://ekstrabladet.dk/sport/formel_1/respekten-er-vaek-karma-er-en-bitch/11366584",
+     "published": "2026-11-28T14:11+00:00",
+     "summary": "George Russell er en 'prinsesse' og Max Verstappen en egoist, som 'føler sig bedre' end alle andre. Her er historien om deres udsædvanlige fjendskab"
+    },
+    {
      "title": "Dorgu starter i Pochettinos hjemmebanedebut",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/dorgu-starter-i-pochettinos-hjemmebanedebut/11368553",
      "published": "2026-11-28T13:58+00:00",
@@ -649,18 +661,6 @@
      "link": "https://ekstrabladet.dk/nyheder/samfund/netop-landet-paa-hylderne-bidens-bog-flopper/11368369",
      "published": "2026-11-28T12:38+00:00",
      "summary": "Joe Biden topper den amerikanske bestsellerliste for fagbøger, men hans erindringer sælger langt langsommere end Barack Obamas og Bill Clintons"
-    },
-    {
-     "title": "Bekræfter: Andreas Christensen tilbage",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/spanskfodbold/bekraefter-andreas-christensen-tilbage/11368479",
-     "published": "2026-11-28T12:28+00:00",
-     "summary": "Andreas Christensen er klar til minutter, bekræfter Hansi Flick forud for kampen mod Deportivo A Coruña"
-    },
-    {
-     "title": "Bossen bekræfter: Her er Vingegaards holdnavn",
-     "link": "https://ekstrabladet.dk/sport/cykling/bossen-bekraefter-her-er-vingegaards-holdnavn/11368439",
-     "published": "2026-11-28T12:19+00:00",
-     "summary": "Vi skal vænne os til ikke at kalde Jonas Vingegaard for Visma-rytter. For det er han ikke længere"
     }
    ]
   },
@@ -743,8 +743,14 @@
     {
      "title": "Hummelgaard inviterer til pressemøde om finansloven for 2027",
      "link": "https://www.bt.dk/politik/hummelgaard-inviterer-til-pressemoede-om-finansloven-for-2027?referrer=RSS",
-     "published": "2026-11-28T13:51+00:00",
+     "published": "2026-11-28T14:09+00:00",
      "summary": "Finansloven for næste år lader til at være på plads eller tæt på, eftersom der er indkaldt til pressemøde."
+    },
+    {
+     "title": "19-årig sigtet for knivdrab siger at det var selvforsvar",
+     "link": "https://www.bt.dk/krimi/19-aarig-sigtet-for-knivdrab-siger-at-det-var-selvforsvar?referrer=RSS",
+     "published": "2026-11-28T14:02+00:00",
+     "summary": "19-årig fængsles i fire uger. Der er en begrundet mistanke om, at han er skyldig i dødsvold, vurderer dommer."
     },
     {
      "title": "Domstol afviser at stoppe britisk olieprojekt ved Falklandsøerne",
@@ -757,12 +763,6 @@
      "link": "https://www.bt.dk/politik/indkalder-til-pressemoede?referrer=RSS",
      "published": "2026-11-28T13:44+00:00",
      "summary": ""
-    },
-    {
-     "title": "19-årig sigtet for knivdrab siger at det var selvforsvar",
-     "link": "https://www.bt.dk/krimi/19-aarig-sigtet-for-knivdrab-siger-at-det-var-selvforsvar?referrer=RSS",
-     "published": "2026-11-28T13:34+00:00",
-     "summary": "19-årig fængsles i fire uger. Der er en begrundet mistanke om, at han er skyldig i dødsvold, vurderer dommer."
     },
     {
      "title": "Mindst 30 døde i luftangreb",
@@ -812,8 +812,14 @@
     {
      "title": "Hummelgaard inviterer til pressemøde om finansloven for 2027",
      "link": "https://www.bt.dk/politik/hummelgaard-inviterer-til-pressemoede-om-finansloven-for-2027?referrer=RSS",
-     "published": "2026-11-28T13:51+00:00",
+     "published": "2026-11-28T14:09+00:00",
      "summary": "Finansloven for næste år lader til at være på plads eller tæt på, eftersom der er indkaldt til pressemøde."
+    },
+    {
+     "title": "19-årig sigtet for knivdrab siger at det var selvforsvar",
+     "link": "https://www.bt.dk/krimi/19-aarig-sigtet-for-knivdrab-siger-at-det-var-selvforsvar?referrer=RSS",
+     "published": "2026-11-28T14:02+00:00",
+     "summary": "19-årig fængsles i fire uger. Der er en begrundet mistanke om, at han er skyldig i dødsvold, vurderer dommer."
     },
     {
      "title": "Domstol afviser at stoppe britisk olieprojekt ved Falklandsøerne",
@@ -826,12 +832,6 @@
      "link": "https://www.bt.dk/politik/indkalder-til-pressemoede?referrer=RSS",
      "published": "2026-11-28T13:44+00:00",
      "summary": ""
-    },
-    {
-     "title": "19-årig sigtet for knivdrab siger at det var selvforsvar",
-     "link": "https://www.bt.dk/krimi/19-aarig-sigtet-for-knivdrab-siger-at-det-var-selvforsvar?referrer=RSS",
-     "published": "2026-11-28T13:34+00:00",
-     "summary": "19-årig fængsles i fire uger. Der er en begrundet mistanke om, at han er skyldig i dødsvold, vurderer dommer."
     },
     {
      "title": "Mindst 30 døde i luftangreb",
