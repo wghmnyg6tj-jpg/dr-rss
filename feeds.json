@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T11:15+00:00",
+ "generated": "2026-11-28T11:25+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Pep Guardiola bekræfter: Sker aldrig igen",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/spanskfodbold/pep-afviser-aldrig-mere-barcelona/11368410",
+     "published": "2026-11-28T11:16+00:00",
+     "summary": "Pep Guardiola har ingen planer om at vende tilbage til Barcelona som cheftræner. Det slår spanieren selv fast i et interview, hvor han også fortæller om sin fremtid"
+    },
+    {
      "title": "Elefant stopper \nscooterfører på flugt",
      "link": "https://ekstrabladet.dk/nyheder/Udland/elefant-stopper-scooterfoerer-paa-flugt/11368122",
      "published": "2026-11-28T11:12+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/nyheder/Udland/vanvidsbryllup-500.000-mennesker-deltog/11367482",
      "published": "2026-11-28T09:53+00:00",
      "summary": "I Indiens fattigste region, Bihar, er et bryllup for en toppolitikers datter løbet med al opmærksomheden. Selv har politikeren været genstand for flere efterforskninger, herunder for mord"
-    },
-    {
-     "title": "Tv-profil alvorligt syg: Tvunget til at sige op",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/international_fodbold/tv-profil-olof-lundh-alvorligt-syg-har-graedt-meget/11368380",
-     "published": "2026-11-28T09:48+00:00",
-     "summary": "Sygdommen har tvunget den svenske tv-profil Olof Lundh til at sige sit job op. Han siger samtidig, at hans hjerne er så påvirket, at han nok aldrig kommer til at arbejde som journalist igen"
     }
    ]
   },
@@ -741,6 +741,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Sigtet efter 21-årigs død: 'Det var selvforsvar'",
+     "link": "https://www.bt.dk/krimi/sigtet-efter-21-aarigs-doed-det-var-selvforsvar?referrer=RSS",
+     "published": "2026-11-28T11:24+00:00",
+     "summary": ""
+    },
+    {
      "title": "Yaqoub Ali: Mette Frederiksen havde ret, der skal være en stærk majoritetskultur",
      "link": "https://www.bt.dk/debat/yaqoub-alimette-frederiksen-havde-ret-der-skal-vaere-en-staerk-majoritetskultur?referrer=RSS",
      "published": "2026-11-28T11:00+00:00",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/udland/kilder-i-centerpartiet-lederpost-er-paa-spil-i-strid-om-ulf-kristersson?referrer=RSS",
      "published": "2026-11-28T09:33+00:00",
      "summary": "Centerpartiet er splittet efter udmelding om, at partiet vil støtte Ulf Kristersson som svensk statsminister."
-    },
-    {
-     "title": "Frygter datalæk: 30.000 kunder ramt",
-     "link": "https://www.bt.dk/samfund/frygter-datalaek-30000-kunder-ramt?referrer=RSS",
-     "published": "2026-11-28T09:04+00:00",
-     "summary": ""
     }
    ]
   },
@@ -809,6 +809,12 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Sigtet efter 21-årigs død: 'Det var selvforsvar'",
+     "link": "https://www.bt.dk/krimi/sigtet-efter-21-aarigs-doed-det-var-selvforsvar?referrer=RSS",
+     "published": "2026-11-28T11:24+00:00",
+     "summary": ""
+    },
     {
      "title": "Dronning Margrethe uddeler millioner: Her er modtagerne",
      "link": "https://www.bt.dk/royale/dronning-margrethe-uddeler-millioner-her-er-modtagerne?referrer=RSS",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/politik/tidligere-s-folketingsmedlem-mette-frederiksen-er-ikke-racist?referrer=RSS",
      "published": "2026-11-28T09:40+00:00",
      "summary": "Yildiz Akdogan mener, at \"befolkningsudskiftning\" er en \"uheldig formulering\" fra statsministerens side."
-    },
-    {
-     "title": "Flytter på stribe: Trumps topfolk bor nu på militærbaser",
-     "link": "https://www.bt.dk/udland/flytter-paa-stribe-trumps-topfolk-bor-nu-paa-militaerbaser?referrer=RSS",
-     "published": "2026-11-28T09:40+00:00",
-     "summary": "Det sker af sikkerhedsmæssige årsager."
     }
    ]
   },

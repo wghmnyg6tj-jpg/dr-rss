@@ -1,6 +1,6 @@
 {
  "version": 2,
- "generated": "2026-11-28T11:15:12Z",
+ "generated": "2026-11-28T11:25:30Z",
  "status": {
   "lightning": "ok",
   "dmi_forecast": "ok",
@@ -20,7 +20,7 @@
     "metno": "ok"
    },
    "dmi_forecast": {
-    "fetched": "2026-11-28T11:15:12Z",
+    "fetched": "2026-11-28T11:25:30Z",
     "run": "2026-11-28T060000Z",
     "point": [
      12.49897620651484,
@@ -459,7 +459,7 @@
     }
    },
    "observations": {
-    "fetched": "2026-11-28T11:15:12Z",
+    "fetched": "2026-11-28T11:25:30Z",
     "stations": {
      "06181": {
       "name": "Jægersborg",
@@ -469,25 +469,25 @@
       ],
       "dist_km": 3.4,
       "values": {
+       "humidity": {
+        "value": 57.87,
+        "observed": "2026-11-28T11:20:00Z"
+       },
        "temp_dry": {
-        "value": 3.76,
-        "observed": "2026-11-28T11:10:00Z"
+        "value": 3.87,
+        "observed": "2026-11-28T11:20:00Z"
        },
        "wind_dir": {
-        "value": 156.5,
-        "observed": "2026-11-28T11:10:00Z"
+        "value": 158.1,
+        "observed": "2026-11-28T11:20:00Z"
        },
        "wind_max": {
-        "value": 10.7,
-        "observed": "2026-11-28T11:10:00Z"
+        "value": 9.38,
+        "observed": "2026-11-28T11:20:00Z"
        },
        "wind_speed": {
-        "value": 6.17,
-        "observed": "2026-11-28T11:10:00Z"
-       },
-       "humidity": {
-        "value": 56.39,
-        "observed": "2026-11-28T11:10:00Z"
+        "value": 5.34,
+        "observed": "2026-11-28T11:20:00Z"
        }
       }
      },
@@ -508,13 +508,13 @@
       ],
       "dist_km": 6.6,
       "values": {
-       "temp_dry": {
-        "value": 4.1,
-        "observed": "2026-11-28T11:10:00Z"
-       },
        "humidity": {
-        "value": 56.36,
-        "observed": "2026-11-28T11:10:00Z"
+        "value": 57.56,
+        "observed": "2026-11-28T11:20:00Z"
+       },
+       "temp_dry": {
+        "value": 4.05,
+        "observed": "2026-11-28T11:20:00Z"
        }
       }
      },
@@ -941,7 +941,7 @@
     "metno": "ok"
    },
    "dmi_forecast": {
-    "fetched": "2026-11-28T11:15:12Z",
+    "fetched": "2026-11-28T11:25:30Z",
     "run": "2026-11-28T060000Z",
     "point": [
      12.49897620651484,
@@ -1380,7 +1380,7 @@
     }
    },
    "observations": {
-    "fetched": "2026-11-28T11:15:12Z",
+    "fetched": "2026-11-28T11:25:30Z",
     "stations": {
      "06181": {
       "name": "Jægersborg",
@@ -1390,25 +1390,25 @@
       ],
       "dist_km": 3.5,
       "values": {
+       "humidity": {
+        "value": 57.87,
+        "observed": "2026-11-28T11:20:00Z"
+       },
        "temp_dry": {
-        "value": 3.76,
-        "observed": "2026-11-28T11:10:00Z"
+        "value": 3.87,
+        "observed": "2026-11-28T11:20:00Z"
        },
        "wind_dir": {
-        "value": 156.5,
-        "observed": "2026-11-28T11:10:00Z"
+        "value": 158.1,
+        "observed": "2026-11-28T11:20:00Z"
        },
        "wind_max": {
-        "value": 10.7,
-        "observed": "2026-11-28T11:10:00Z"
+        "value": 9.38,
+        "observed": "2026-11-28T11:20:00Z"
        },
        "wind_speed": {
-        "value": 6.17,
-        "observed": "2026-11-28T11:10:00Z"
-       },
-       "humidity": {
-        "value": 56.39,
-        "observed": "2026-11-28T11:10:00Z"
+        "value": 5.34,
+        "observed": "2026-11-28T11:20:00Z"
        }
       }
      },
@@ -1429,13 +1429,13 @@
       ],
       "dist_km": 6.0,
       "values": {
-       "temp_dry": {
-        "value": 4.1,
-        "observed": "2026-11-28T11:10:00Z"
-       },
        "humidity": {
-        "value": 56.36,
-        "observed": "2026-11-28T11:10:00Z"
+        "value": 57.56,
+        "observed": "2026-11-28T11:20:00Z"
+       },
+       "temp_dry": {
+        "value": 4.05,
+        "observed": "2026-11-28T11:20:00Z"
        }
       }
      },
@@ -1853,7 +1853,7 @@
  ],
  "location_errors": [],
  "lightning": {
-  "fetched": "2026-11-28T11:15:12Z",
+  "fetched": "2026-11-28T11:25:30Z",
   "bbox": "11.9,55.39,13.1,56.09",
   "count_last_hour": 0,
   "count_last_day": 0
