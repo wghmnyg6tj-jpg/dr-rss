@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T14:54+00:00",
+ "generated": "2026-11-28T15:05+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -207,6 +207,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Unesco-klinter skal lokke flere unge på museum",
+     "link": "https://www.dr.dk/nyheder/indland/unesco-klinter-skal-lokke-flere-unge-paa-museum",
+     "published": "2026-11-28T15:02+00:00",
+     "summary": "Verdensberømte fossiler på Mors og Fur skal give unge mere lyst til at besøge naturhistoriske museer."
+    },
+    {
      "title": "Mathilde er ny i Hjemmeværnet: ’Det handler ikke kun om at dirigere trafik’",
      "link": "https://www.dr.dk/nyheder/indland/mathilde-er-ny-i-hjemmevaernet-det-handler-ikke-kun-om-dirigere-trafik",
      "published": "2026-11-28T14:32+00:00",
@@ -289,12 +295,6 @@
      "link": "https://www.dr.dk/nyheder/indland/ny-analyse-det-er-fortsat-i-byen-og-ikke-paa-snapchat-unge-primaert-tilbydes-stoffer",
      "published": "2026-11-28T05:00+00:00",
      "summary": "Justitsministeren mener ikke, at man fra politisk side har fokuseret for meget på salg af stoffer på online platforme."
-    },
-    {
-     "title": "Før sin død fortalte Jørn Hjorting DR, hvad han håber at blive husket for",
-     "link": "https://www.dr.dk/nyheder/indland/foer-sin-doed-fortalte-joern-hjorting-dr-hvad-han-haaber-blive-husket",
-     "published": "2026-11-27T20:36+00:00",
-     "summary": "Før sin død fortalte Jørn Hjorting DR, hvad han vil huskes for, og hvad han tænker om døden."
     }
    ]
   },
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "OB fyrer Thomas Helveg",
+     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/ob-fyrer-thomas-helveg/11368610",
+     "published": "2026-11-28T15:00+00:00",
+     "summary": "OB har opsagt samarbejdet med klublegenden Thomas Helveg, bekræfter Troels Bech over for Sport Fyn"
+    },
+    {
      "title": "Hans Engell: \n- En sejr for Hummelgaard",
      "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/hans-engell-en-sejr-for-hummelgaard/11368577",
      "published": "2026-11-28T14:52+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/formel_1/respekten-er-vaek-karma-er-en-bitch/11366584",
      "published": "2026-11-28T14:11+00:00",
      "summary": "George Russell er en 'prinsesse' og Max Verstappen en egoist, som 'føler sig bedre' end alle andre. Her er historien om deres udsædvanlige fjendskab"
-    },
-    {
-     "title": "Dorgu starter i Pochettinos hjemmebanedebut",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/dorgu-starter-i-pochettinos-hjemmebanedebut/11368553",
-     "published": "2026-11-28T13:58+00:00",
-     "summary": "Patrick Dorgu er tilbage i startopstillingen, når Manchester United lørdag tager imod Brentford i Premier League"
     }
    ]
   },
@@ -741,6 +741,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Thomas Helveg færdig",
+     "link": "https://www.bt.dk/nyheder/thomas-helveg-faerdig?referrer=RSS",
+     "published": "2026-11-28T15:03+00:00",
+     "summary": ""
+    },
+    {
+     "title": "Motorvej spærret: Varevogn med i brand",
+     "link": "https://www.bt.dk/trafik/motorvej-spaerret-varevogn-med-i-brand?referrer=RSS",
+     "published": "2026-11-28T15:03+00:00",
+     "summary": ""
+    },
+    {
      "title": "Må først prøveløslades om 22 år: Skrækkelig sag ryster Frankrig",
      "link": "https://www.bt.dk/udland/maa-foerst-proeveloeslades-om-22-aar-skraekkelig-sag-ryster-frankrig?referrer=RSS",
      "published": "2026-11-28T14:31+00:00",
@@ -787,18 +799,6 @@
      "link": "https://www.bt.dk/samfund/millioner-skal-tilbagebetales-efter-mangeaarig-usikkerhed-om-gaeld?referrer=RSS",
      "published": "2026-11-28T12:01+00:00",
      "summary": "Staten skal nu tilbagebetale millioner til borgere og virksomheder, der kan have betalt ugyldig gæld."
-    },
-    {
-     "title": "Firmacyklister kan spare mindst 1200 kroner i skat med ny ordning",
-     "link": "https://www.bt.dk/politik/firmacyklister-kan-spare-mindst-1200-kroner-i-skat-med-ny-ordning?referrer=RSS",
-     "published": "2026-11-28T11:51+00:00",
-     "summary": "Der er mindst 100 kroner at hente hver måned, hvis Alternativets firmacykelforslag kommer med i finansloven."
-    },
-    {
-     "title": "Bankkrak: Lukker med øjeblikkelig virkning",
-     "link": "https://www.bt.dk/udland/bankkrak-lukker-med-oejeblikkelig-virkning?referrer=RSS",
-     "published": "2026-11-28T11:43+00:00",
-     "summary": "Amerikanske United Fidelity er lukket af myndighederne."
     }
    ]
   },
@@ -810,9 +810,21 @@
    "status": "ok",
    "items": [
     {
+     "title": "Thomas Helveg færdig",
+     "link": "https://www.bt.dk/nyheder/thomas-helveg-faerdig?referrer=RSS",
+     "published": "2026-11-28T15:03+00:00",
+     "summary": ""
+    },
+    {
+     "title": "Motorvej spærret: Varevogn med i brand",
+     "link": "https://www.bt.dk/trafik/motorvej-spaerret-varevogn-med-i-brand?referrer=RSS",
+     "published": "2026-11-28T15:03+00:00",
+     "summary": ""
+    },
+    {
      "title": "Håndboldkvinder vinder den sidste testkamp inden EM",
      "link": "https://www.bt.dk/haandbold/haandboldkvinder-vinder-den-sidste-testkamp-inden-em-1?referrer=RSS",
-     "published": "2026-11-28T14:36+00:00",
+     "published": "2026-11-28T14:57+00:00",
      "summary": "Færøerne kunne ikke stille det store op mod Danmark, der diskede op med en håndboldlektion i Trondheim."
     },
     {
@@ -856,18 +868,6 @@
      "link": "https://www.bt.dk/udland/mindst-30-doede-i-luftangreb?referrer=RSS",
      "published": "2026-11-28T13:22+00:00",
      "summary": ""
-    },
-    {
-     "title": "Forrygende skydning sikrer Grønland historisk resultat",
-     "link": "https://www.bt.dk/sport/forrygende-skydning-sikrer-groenland-historisk-resultat?referrer=RSS",
-     "published": "2026-11-28T13:10+00:00",
-     "summary": "Skiskytterne Sondre og Ukaleq Slettemark skrev historie, da duoen sikrede Grønland en femteplads."
-    },
-    {
-     "title": "Freja kalder sig selv 'jysk og nærig': Sådan sparede hun 2.800 kroner på designerbord",
-     "link": "https://www.bt.dk/dagens-sparetip/freja-kalder-sig-selv-jysk-og-naerigsaadan-sparede-hun-2800-kroner-paa-designerbord?referrer=RSS",
-     "published": "2026-11-28T13:02+00:00",
-     "summary": "'Nybyggerne'-deltageren Freja Givskud var ingen 'handywoman', men i dag bygger hun selv sine boligdrømme. Et er faktisk overraskende nemt og billigt."
     }
    ]
   },
@@ -878,6 +878,12 @@
    "url": "https://petapixel.com/feed/",
    "status": "ok",
    "items": [
+    {
+     "title": "What It’s Actually Like to Shoot With Viltrox’s 35-Pound, $100,000 Cinema Lenses",
+     "link": "https://petapixel.com/2026/11/28/what-its-actually-like-to-shoot-with-viltroxs-35-pound-100000-cinema-lenses/",
+     "published": "2026-11-28T15:00+00:00",
+     "summary": "For the last couple of years at photo and video trade shows, Chinese lens maker Viltrox has always had a pair of very attention-grabbing optics on display: the Luna 30-300mm T4 Zoom 10x ($100,000) and 42-420mm T5.6 Zoom 10x ($100,000) …"
+    },
     {
      "title": "Photographer Captured Northern England in the 1970s Before It Disappeared",
      "link": "https://petapixel.com/2026/11/28/photographer-captured-northern-england-in-the-1970s-before-it-disappeared/",
@@ -961,12 +967,6 @@
      "link": "https://petapixel.com/2026/11/25/youtube-is-suddenly-obsessed-with-views/",
      "published": "2026-11-25T18:12+00:00",
      "summary": "This year, YouTube has changed how it counts views twice — and both occurred within three months of each other, which is shifting the paradigm of expectations for creators and advertisers. It also appears both creepy and desperate on …"
-    },
-    {
-     "title": "The New York Times Cancels Adobe, the R8 II is a Hit, and Reto Does it Again | The PetaPixel Podcast",
-     "link": "https://petapixel.com/2026/11/25/the-new-york-times-cancels-adobe-the-r8-ii-is-a-hit-and-reto-does-it-again-the-petapixel-podcast/",
-     "published": "2026-11-25T18:00+00:00",
-     "summary": "This week on The PetaPixel Podcast, Chris is back from assignment and the team discusses a major development: The New York Times is forbidding the use of Adobe Photoshop 2027 because of too much (undisclosed) AI. [ Read More ]"
     }
    ]
   },
