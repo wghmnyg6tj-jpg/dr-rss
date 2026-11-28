@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T08:17+00:00",
+ "generated": "2026-11-28T08:28+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Pludselig ringede Kessler: - Mange følelser",
+     "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/mikkel-kessler-ringede-mange-foelelser/11367707",
+     "published": "2026-11-28T08:19+00:00",
+     "summary": "Mikkel Kessler er blevet en god ven for Kalle Sauerland, som derfor har specielle følelser med ind til kampen"
+    },
+    {
+     "title": "Familie truet med kniv i eget hjem",
+     "link": "https://ekstrabladet.dk/krimi/familie-truet-med-kniv-i-eget-hjem/11368329",
+     "published": "2026-11-28T08:18+00:00",
+     "summary": "En mand og en kvinde forsøgte ifølge politiet at binde en familie i Ringe natten til lørdag. En af de unge slap væk og alarmerede politiet"
+    },
+    {
      "title": "Står til bøde",
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/chokerede-danske-youtube-stjerner-i-retten-staar-til-boede/11368313",
      "published": "2026-11-28T08:16+00:00",
@@ -649,18 +661,6 @@
      "link": "https://ekstrabladet.dk/underholdning/filmogtv/ny-tv-2-chef-i-taet-samarbejde-med-selskab-bag-alle-elsker-rasmus/11367414",
      "published": "2026-11-28T07:02+00:00",
      "summary": "Sune Roland overtager posten som programdirektør på TV 2 og kommer direkte fra en stilling som direktør i Shift Studios, der havde et særdeles tæt samarbejde med Drive Studios, hvor han også havde kontor"
-    },
-    {
-     "title": "De er landets\nstørste bande",
-     "link": "https://ekstrabladet.dk/krimi/politiets-hovedfjende-ltf-er-landets-stoerste-bande/11366138",
-     "published": "2026-11-28T06:54+00:00",
-     "summary": "Loyal to Familia har 200 medlemmer - en tredjedel sidder i fængsel, lyder det fra Rigspolitichefen."
-    },
-    {
-     "title": "Skandaleramt familie\nskovler milliarder ind",
-     "link": "https://ekstrabladet.dk/penge/en-million-i-timen-familien-oestergaards-formue-er-eksploderet/11367374",
-     "published": "2026-11-28T06:51+00:00",
-     "summary": "Familien er strøget direkte op på en plads i top fem over landets rigeste"
     }
    ]
   },
@@ -810,6 +810,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Stjerneinstruktør fik chokbesked: 'Jeg var dybt skuffet'",
+     "link": "https://www.bt.dk/film-tv-og-streaming/stjerneinstruktoer-fik-chokbesked-jeg-var-dybt-skuffet?referrer=RSS",
+     "published": "2026-11-28T08:18+00:00",
+     "summary": "Til gengæld er der snart dobbelt lækkerbisken til biografgængerne"
+    },
+    {
      "title": "Kvinder ramt af kramper og aborter efter tåregas under demoer i Frankrig",
      "link": "https://www.bt.dk/udland/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig?referrer=RSS",
      "published": "2026-11-28T08:10+00:00",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/samfund/ssi-holder-oeje-superbakterier-fra-ukraine-paa-danske-hospitaler?referrer=RSS",
      "published": "2026-11-28T07:17+00:00",
      "summary": "Der bliver holdt skarpt øje med udviklingen."
-    },
-    {
-     "title": "Stukket ned med kniv: 21-årig død i nat",
-     "link": "https://www.bt.dk/krimi/stukket-ned-med-kniv-21-aarig-doed-i-nat?referrer=RSS",
-     "published": "2026-11-28T07:03+00:00",
-     "summary": "De pårørende er underrettet."
     }
    ]
   },
