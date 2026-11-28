@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T11:04+00:00",
+ "generated": "2026-11-28T11:15+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -207,10 +207,10 @@
    "status": "ok",
    "items": [
     {
-     "title": "Fynsk familie overfaldet i eget hjem - to personer anholdt",
+     "title": "Familie overfaldet i eget hjem - to personer anholdt",
      "link": "https://www.dr.dk/nyheder/regionale/fyn/fynsk-familie-overfaldet-i-eget-hjem-personer-anholdt",
      "published": "2026-11-28T10:53+00:00",
-     "summary": "De to personer skaffede sig adgang til et hjem, hvor de truede et forældrepar, datteren og hendes veninde med en kniv."
+     "summary": "De to personer skaffede sig adgang til et hjem på Fyn, hvor de truede et forældrepar, datteren og hendes veninde med en kniv."
     },
     {
      "title": "De her ting behøver du ikke give til genbrug - det bliver alligevel smidt ud",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Elefant stopper \nscooterfører på flugt",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/elefant-stopper-scooterfoerer-paa-flugt/11368122",
+     "published": "2026-11-28T11:12+00:00",
+     "summary": "Drabsmistænkt på flugt blev stoppet brat, da en elefant pludselig trådte ud på vejen i Sri Lanka"
+    },
+    {
      "title": "Frankrig rystet: Brændte ekskonen levende",
      "link": "https://ekstrabladet.dk/nyheder/samfund/frankrig-i-chok-braendte-ekskonen-levende/11368304",
      "published": "2026-11-28T10:56+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/international_fodbold/tv-profil-olof-lundh-alvorligt-syg-har-graedt-meget/11368380",
      "published": "2026-11-28T09:48+00:00",
      "summary": "Sygdommen har tvunget den svenske tv-profil Olof Lundh til at sige sit job op. Han siger samtidig, at hans hjerne er så påvirket, at han nok aldrig kommer til at arbejde som journalist igen"
-    },
-    {
-     "title": "Eksklusivt interview: \n- Han ville slå mig ihjel",
-     "link": "https://ekstrabladet.dk/underholdning/dkkendte/jackie-navarro-frygtede-det-vaerste-han-vil-slaa-mig-ihjel/11368373",
-     "published": "2026-11-28T09:31+00:00",
-     "summary": "Den 40-årige tv-kendis taler i et eksklusivt interview med Ekstra Bladet ud om den vold, hun har levet med. En mand blev tidligere på måneden dømt i sagen"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Elefant stopper \nscooterfører på flugt",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/elefant-stopper-scooterfoerer-paa-flugt/11368122",
+     "published": "2026-11-28T11:12+00:00",
+     "summary": "Drabsmistænkt på flugt blev stoppet brat, da en elefant pludselig trådte ud på vejen i Sri Lanka"
+    },
     {
      "title": "Frankrig rystet: Brændte ekskonen levende",
      "link": "https://ekstrabladet.dk/nyheder/samfund/frankrig-i-chok-braendte-ekskonen-levende/11368304",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/samfund/saarede-fra-ukraine-baerer-paa-superbakterier-ssi-frygter-spredning/11368259",
      "published": "2026-11-28T06:11+00:00",
      "summary": "Multiresistente bakterier er fundet hos 137 evakuerede ukrainere behandlet i Danmark. På et hollandsk hospital fik to børn blodforgiftning efter et udbrud"
-    },
-    {
-     "title": "Styrt med militærhelikopter har dræbt otte i Peru",
-     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/styrt-med-militaerhelikopter-har-draebt-otte-i-peru/11368238",
-     "published": "2026-11-28T05:40+00:00",
-     "summary": "En helikopter fra Perus militær var på redningsaktion, da den selv styrtede, oplyser forsvarsministerium"
     }
    ]
   },
@@ -810,6 +810,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Dronning Margrethe uddeler millioner: Her er modtagerne",
+     "link": "https://www.bt.dk/royale/dronning-margrethe-uddeler-millioner-her-er-modtagerne?referrer=RSS",
+     "published": "2026-11-28T11:05+00:00",
+     "summary": "I alt er der uddelt mere end tre millioner"
+    },
+    {
      "title": "Yaqoub Ali: Mette Frederiksen havde ret, der skal være en stærk majoritetskultur",
      "link": "https://www.bt.dk/debat/yaqoub-alimette-frederiksen-havde-ret-der-skal-vaere-en-staerk-majoritetskultur?referrer=RSS",
      "published": "2026-11-28T11:00+00:00",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/udland/flytter-paa-stribe-trumps-topfolk-bor-nu-paa-militaerbaser?referrer=RSS",
      "published": "2026-11-28T09:40+00:00",
      "summary": "Det sker af sikkerhedsmæssige årsager."
-    },
-    {
-     "title": "Databrud kan have ramt 30.000 kunder hos elnetselskab",
-     "link": "https://www.bt.dk/samfund/databrud-kan-have-ramt-30000-kunder-hos-elnetselskab?referrer=RSS",
-     "published": "2026-11-28T09:36+00:00",
-     "summary": "Et databrud hos Trefors SMS-leverandør har muligvis betydet et læk af telefonnumre og adresser på kunder."
     }
    ]
   },
