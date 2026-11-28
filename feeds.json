@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T07:05+00:00",
+ "generated": "2026-11-28T07:15+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "21-årig død efter knivstik",
+     "link": "https://ekstrabladet.dk/krimi/21-aarig-doed-efter-knivstik/11368272",
+     "published": "2026-11-28T07:10+00:00",
+     "summary": "En 21-årig mand, som fredag aften ved 18-tiden blev stukket med en kniv i Gentofte, er i nat afgået ved døden"
+    },
+    {
      "title": "Ny TV 2-chef i tæt samarbejde med \nfolkene bag 'Alle elsker Rasmus'",
      "link": "https://ekstrabladet.dk/underholdning/filmogtv/ny-tv-2-chef-i-taet-samarbejde-med-selskab-bag-alle-elsker-rasmus/11367414",
      "published": "2026-11-28T07:02+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/play/Eksternt_Indhold/Viaplay/Underholdning/koncert-evakueret-efter-mystisk-stof-politiet-deler-ny-teori/11368249",
      "published": "2026-11-28T05:38+00:00",
      "summary": "89 personer fik symptomer under en koncert med rapperen Don Toliver i Manchester. Politiet mistænker nu, at organiserede kriminelle stod bag røverier i salen"
-    },
-    {
-     "title": "USA's luftvåben ramt af hackerangreb",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/usas-luftvaaben-ramt-af-hackerangreb/11368247",
-     "published": "2026-11-28T05:28+00:00",
-     "summary": "Hackere er trængt ind på en platform, som det amerikanske luftvåben bruger til at holde styr på bomber og missiler mere end 200 steder i verden. Det er uvist, om der er stjålet data"
     }
    ]
   },
@@ -741,6 +741,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "21-årig mand dræbt med kniv - 19-årig sigtet for drabet",
+     "link": "https://www.bt.dk/krimi/21-aarig-mand-draebt-med-kniv-19-aarig-sigtet-for-drabet?referrer=RSS",
+     "published": "2026-11-28T07:12+00:00",
+     "summary": "En 19-årig mand vil lørdag blive krævet varetægtsfængslet for drab på 21-årig mand i Gentofte fredag aften."
+    },
+    {
      "title": "Stukket ned med kniv: 21-årig død i nat",
      "link": "https://www.bt.dk/krimi/stukket-ned-med-kniv-21-aarig-doed-i-nat?referrer=RSS",
      "published": "2026-11-28T07:03+00:00",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/udland/styrt-med-militaerhelikopter-har-draebt-otte-i-peru?referrer=RSS",
      "published": "2026-11-28T04:33+00:00",
      "summary": "En helikopter fra Perus militær var på redningsaktion, da den selv styrtede, oplyser forsvarsministerium."
-    },
-    {
-     "title": "Uganda tester eksperimentel vaccine mod ebola",
-     "link": "https://www.bt.dk/udland/uganda-tester-eksperimentel-vaccine-mod-ebola?referrer=RSS",
-     "published": "2026-11-28T03:24+00:00",
-     "summary": "Uganda har fredag påbegyndt forsøg med eksperimentel ebolavaccine. I DR Congo gør man snart det samme."
     }
    ]
   },
@@ -809,6 +809,12 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "21-årig mand dræbt med kniv - 19-årig sigtet for drabet",
+     "link": "https://www.bt.dk/krimi/21-aarig-mand-draebt-med-kniv-19-aarig-sigtet-for-drabet?referrer=RSS",
+     "published": "2026-11-28T07:12+00:00",
+     "summary": "En 19-årig mand vil lørdag blive krævet varetægtsfængslet for drab på 21-årig mand i Gentofte fredag aften."
+    },
     {
      "title": "Stukket ned med kniv: 21-årig død i nat",
      "link": "https://www.bt.dk/krimi/stukket-ned-med-kniv-21-aarig-doed-i-nat?referrer=RSS",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/guides/anmeldelsenaar-broedet-slaar-svinet-er-der-altsaa-noget-helt-galt-i-julevaerkstedet?referrer=RSS",
      "published": "2026-11-28T05:41+00:00",
      "summary": ""
-    },
-    {
-     "title": "Få uger efter dramatisk kamp: Bronson Reed er død",
-     "link": "https://www.bt.dk/oevrig-sport/faa-uger-efter-dramatisk-kamp-bronson-reed-er-doed?referrer=RSS",
-     "published": "2026-11-28T05:21+00:00",
-     "summary": "Dødsfaldet kommer få uger efter en dramatisk kamp."
     }
    ]
   },
