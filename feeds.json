@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T14:22+00:00",
+ "generated": "2026-11-28T14:33+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Klasseforskel: Dansk magtdemonstration i EM-generalprøve",
+     "link": "https://ekstrabladet.dk/sport/haandbold/danmark-uddeler-prygl-i-em-generalproeve/11368579",
+     "published": "2026-11-28T14:28+00:00",
+     "summary": "Færøerne kunne ikke stille det store op mod Danmark, der diskede op med en håndboldlektion i Trondheim"
+    },
+    {
+     "title": "5000 soldater \ngik land i i sex-hovedstad: \nSå ramte skuffelsen",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/5000-soldater-gik-land-i-i-sex-hovedstad-kaempe-fuser/11367619",
+     "published": "2026-11-28T14:22+00:00",
+     "summary": "5000 amerikanske soldater lagde til i Pattaya, men byens prostituerede stod tilbage med en lang næse"
+    },
+    {
      "title": "Bankkrak i USA: \nStørste i \nover to år",
      "link": "https://ekstrabladet.dk/penge/bankkrak-i-usa-stoerste-i-over-to-aar/11368488",
      "published": "2026-11-28T14:19+00:00",
@@ -649,18 +661,6 @@
      "link": "https://ekstrabladet.dk/penge/legendarisk-investors-vilde-nedtur-har-tabt-160-milliarder/11367820",
      "published": "2026-11-28T13:15+00:00",
      "summary": "Den amerikanske milliardær Carl Icahn har mistet omkring 95 procent af sin formue, og nu er hans forretningsimperium under voldsomt pres"
-    },
-    {
-     "title": "Forrygende skydning sikrer Grønland historisk resultat",
-     "link": "https://ekstrabladet.dk/sport/forrygende-skydning-sikrer-groenland-historisk-resultat/11368498",
-     "published": "2026-11-28T13:08+00:00",
-     "summary": "Skiskytterne Sondre og Ukaleq Slettemark skrev historie, da duoen sikrede Grønland en femteplads"
-    },
-    {
-     "title": "3,2 millioner husstande får fysisk pjece med opdaterede kriseråd",
-     "link": "https://ekstrabladet.dk/nyheder/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad/11368474",
-     "published": "2026-11-28T12:54+00:00",
-     "summary": "Samfundets svageste bør lave en huskeliste med vigtige telefonnumre i tilfælde af en krise, siger ministerie"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "5000 soldater \ngik land i i sex-hovedstad: \nSå ramte skuffelsen",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/5000-soldater-gik-land-i-i-sex-hovedstad-kaempe-fuser/11367619",
+     "published": "2026-11-28T14:22+00:00",
+     "summary": "5000 amerikanske soldater lagde til i Pattaya, men byens prostituerede stod tilbage med en lang næse"
+    },
     {
      "title": "Finanslov på vej: Indkalder til pressemøde",
      "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/finanslov-paa-vej-indkalder-til-pressemoede/11368526",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/Udland/vanvidsbryllup-500.000-mennesker-deltog/11367482",
      "published": "2026-11-28T09:53+00:00",
      "summary": "I Indiens fattigste region, Bihar, er et bryllup for en toppolitikers datter løbet med al opmærksomheden. Selv har politikeren været genstand for flere efterforskninger, herunder for mord"
-    },
-    {
-     "title": "S-profil om Mette Frederiksen: - Hun er ikke racist",
-     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/s-profil-om-mette-frederiksen-hun-er-ikke-racist/11368375",
-     "published": "2026-11-28T09:31+00:00",
-     "summary": "Yildiz Akdogan (S) håber, at statsministeren dropper ordet 'befolkningsudskiftning'"
     }
    ]
   },
@@ -740,6 +740,12 @@
    "url": "https://www.bt.dk/nyheder/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Må først prøveløslades om 22 år: Skrækkelig sag ryster Frankrig",
+     "link": "https://www.bt.dk/udland/maa-foerst-proeveloeslades-om-22-aar-skraekkelig-sag-ryster-frankrig?referrer=RSS",
+     "published": "2026-11-28T14:31+00:00",
+     "summary": "4. maj 2021 ventede Boutaa på Daoud uden for sit hjem i Mérignac, en forstad til Bordeaux."
+    },
     {
      "title": "Hummelgaard inviterer til pressemøde om finansloven for 2027",
      "link": "https://www.bt.dk/politik/hummelgaard-inviterer-til-pressemoede-om-finansloven-for-2027?referrer=RSS",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/udland/bankkrak-lukker-med-oejeblikkelig-virkning?referrer=RSS",
      "published": "2026-11-28T11:43+00:00",
      "summary": "Amerikanske United Fidelity er lukket af myndighederne."
-    },
-    {
-     "title": "Sigtet efter 21-årigs død: 'Det var selvforsvar'",
-     "link": "https://www.bt.dk/krimi/sigtet-efter-21-aarigs-doed-det-var-selvforsvar?referrer=RSS",
-     "published": "2026-11-28T11:24+00:00",
-     "summary": "Intet tyder - på nuværende tidspunkt - på, at hændelsen er banderelateret."
     }
    ]
   },
@@ -809,6 +809,18 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Må først prøveløslades om 22 år: Skrækkelig sag ryster Frankrig",
+     "link": "https://www.bt.dk/udland/maa-foerst-proeveloeslades-om-22-aar-skraekkelig-sag-ryster-frankrig?referrer=RSS",
+     "published": "2026-11-28T14:31+00:00",
+     "summary": "4. maj 2021 ventede Boutaa på Daoud uden for sit hjem i Mérignac, en forstad til Bordeaux."
+    },
+    {
+     "title": "Håndboldkvinder vinder den sidste testkamp inden EM",
+     "link": "https://www.bt.dk/haandbold/haandboldkvinder-vinder-den-sidste-testkamp-inden-em-1?referrer=RSS",
+     "published": "2026-11-28T14:29+00:00",
+     "summary": "Færøerne kunne ikke stille det store op mod Danmark, der diskede op med en håndboldlektion i Trondheim."
+    },
     {
      "title": "Hummelgaard inviterer til pressemøde om finansloven for 2027",
      "link": "https://www.bt.dk/politik/hummelgaard-inviterer-til-pressemoede-om-finansloven-for-2027?referrer=RSS",
@@ -856,18 +868,6 @@
      "link": "https://www.bt.dk/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad?referrer=RSS",
      "published": "2026-11-28T12:53+00:00",
      "summary": "Samfundets svageste bør lave en huskeliste med vigtige telefonnumre i tilfælde af en krise, siger ministerie."
-    },
-    {
-     "title": "Flick melder Christensen klar til comeback",
-     "link": "https://www.bt.dk/fodbold/flick-melder-christensen-klar-til-comeback?referrer=RSS",
-     "published": "2026-11-28T12:53+00:00",
-     "summary": "Andreas Christensen er i spil til minutter søndag mod Deportivo A Coruña, fortæller Hansi Flick på pressemøde."
-    },
-    {
-     "title": "I krig med gigant: 'Orker ikke det vrøvl'",
-     "link": "https://www.bt.dk/dagligvarer/i-krig-med-gigant-orker-ikke-det-vroevl?referrer=RSS",
-     "published": "2026-11-28T12:29+00:00",
-     "summary": "Erling Daell går til kamp mod Salling Group."
     }
    ]
   },
