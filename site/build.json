@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T11:46:30+00:00",
+ "generated": "2026-11-28T11:46:36+00:00",
  "built_local": "2026-11-28 12:46",
  "feeds_generated": "2026-11-28T11:46+00:00",
  "weather": {
@@ -19,7 +19,7 @@
   "foto": 10
  },
  "latest": 20,
- "bytes": 131189,
+ "bytes": 131328,
  "checks": {
   "tl_li": 24,
   "one_body_end": true,
