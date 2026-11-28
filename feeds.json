@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T11:00+00:00",
+ "generated": "2026-11-28T11:04+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -741,6 +741,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Yaqoub Ali: Mette Frederiksen havde ret, der skal være en stærk majoritetskultur",
+     "link": "https://www.bt.dk/debat/yaqoub-alimette-frederiksen-havde-ret-der-skal-vaere-en-staerk-majoritetskultur?referrer=RSS",
+     "published": "2026-11-28T11:00+00:00",
+     "summary": ""
+    },
+    {
      "title": "Ny skatteordning skal gøre firmacykler mere attraktive fra 2028",
      "link": "https://www.bt.dk/politik/ny-skatteordning-skal-goere-firmacykler-mere-attraktive-fra-2028?referrer=RSS",
      "published": "2026-11-28T10:56+00:00",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/samfund/frygter-datalaek-30000-kunder-ramt?referrer=RSS",
      "published": "2026-11-28T09:04+00:00",
      "summary": ""
-    },
-    {
-     "title": "Passagerer var rædselsslagne: Chok i luften",
-     "link": "https://www.bt.dk/udland/passagerer-var-raedselsslagne-chok-i-luften?referrer=RSS",
-     "published": "2026-11-28T08:59+00:00",
-     "summary": "Braget kunne høres ti kilometer væk."
     }
    ]
   },
@@ -809,6 +809,12 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Yaqoub Ali: Mette Frederiksen havde ret, der skal være en stærk majoritetskultur",
+     "link": "https://www.bt.dk/debat/yaqoub-alimette-frederiksen-havde-ret-der-skal-vaere-en-staerk-majoritetskultur?referrer=RSS",
+     "published": "2026-11-28T11:00+00:00",
+     "summary": ""
+    },
     {
      "title": "Ny skatteordning skal gøre firmacykler mere attraktive fra 2028",
      "link": "https://www.bt.dk/politik/ny-skatteordning-skal-goere-firmacykler-mere-attraktive-fra-2028?referrer=RSS",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/samfund/databrud-kan-have-ramt-30000-kunder-hos-elnetselskab?referrer=RSS",
      "published": "2026-11-28T09:36+00:00",
      "summary": "Et databrud hos Trefors SMS-leverandør har muligvis betydet et læk af telefonnumre og adresser på kunder."
-    },
-    {
-     "title": "Kilder i Centerpartiet: Lederpost er på spil i strid om Ulf Kristersson",
-     "link": "https://www.bt.dk/udland/kilder-i-centerpartiet-lederpost-er-paa-spil-i-strid-om-ulf-kristersson?referrer=RSS",
-     "published": "2026-11-28T09:33+00:00",
-     "summary": "Centerpartiet er splittet efter udmelding om, at partiet vil støtte Ulf Kristersson som svensk statsminister."
     }
    ]
   },
