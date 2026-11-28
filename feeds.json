@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T13:00+00:00",
+ "generated": "2026-11-28T13:10+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -207,6 +207,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "De unge tror på den gamle: 'Han vinder på knockout'",
+     "link": "https://www.dr.dk/nyheder/indland/reels/de-unge-tror-paa-den-gamle-han-vinder-paa-knockout",
+     "published": "2026-11-28T13:03+00:00",
+     "summary": ""
+    },
+    {
      "title": "Tilbagekaldelse på tilbagekaldelse: Kan du spise småkager med ro i maven?",
      "link": "https://www.dr.dk/nyheder/indland/tilbagekaldelse-paa-tilbagekaldelse-kan-du-spise-smaakager-med-ro-i-maven",
      "published": "2026-11-28T12:40+00:00",
@@ -289,12 +295,6 @@
      "link": "https://www.dr.dk/nyheder/indland/hvert-femte-barn-vil-forbyde-samlekort-i-skolen-og-sfo-en",
      "published": "2026-11-27T20:10+00:00",
      "summary": "Flere skoler rundt omkring i landet har allerede forbudt samlekortene, efter de har skabt konflikter."
-    },
-    {
-     "title": "Lukker webshop på Black Friday: 'Vil forhindre fejlkøb'",
-     "link": "https://www.dr.dk/nyheder/indland/reels/lukker-webshop-paa-black-friday-vil-forhindre-fejlkoeb",
-     "published": "2026-11-27T19:45+00:00",
-     "summary": ""
     }
    ]
   },
@@ -741,6 +741,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "19-årig sigtet for knivdrab siger at det var selvforsvar",
+     "link": "https://www.bt.dk/krimi/19-aarig-sigtet-for-knivdrab-siger-at-det-var-selvforsvar?referrer=RSS",
+     "published": "2026-11-28T13:03+00:00",
+     "summary": "19-årig fængsles i fire uger. Der er en begrundet mistanke om, at han er skyldig i dødsvold, vurderer dommer."
+    },
+    {
      "title": "Domstol afviser at stoppe britisk olieprojekt ved Falklandsøerne",
      "link": "https://www.bt.dk/udland/domstol-afviser-at-stoppe-britisk-olieprojekt-ved-falklandsoeerne?referrer=RSS",
      "published": "2026-11-28T12:56+00:00",
@@ -757,12 +763,6 @@
      "link": "https://www.bt.dk/samfund/millioner-skal-tilbagebetales-efter-mangeaarig-usikkerhed-om-gaeld?referrer=RSS",
      "published": "2026-11-28T12:01+00:00",
      "summary": "Staten skal nu tilbagebetale millioner til borgere og virksomheder, der kan have betalt ugyldig gæld."
-    },
-    {
-     "title": "19-årig sigtet for knivdrab siger at det var selvforsvar",
-     "link": "https://www.bt.dk/krimi/19-aarig-sigtet-for-knivdrab-siger-at-det-var-selvforsvar?referrer=RSS",
-     "published": "2026-11-28T11:54+00:00",
-     "summary": "En 21-årig mand afgik natten til lørdag ved døden efter flere knivstik i Gentofte. En 19-årig mand er sigtet."
     },
     {
      "title": "Firmacyklister kan spare mindst 1200 kroner i skat med ny ordning",
@@ -810,6 +810,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "19-årig sigtet for knivdrab siger at det var selvforsvar",
+     "link": "https://www.bt.dk/krimi/19-aarig-sigtet-for-knivdrab-siger-at-det-var-selvforsvar?referrer=RSS",
+     "published": "2026-11-28T13:03+00:00",
+     "summary": "19-årig fængsles i fire uger. Der er en begrundet mistanke om, at han er skyldig i dødsvold, vurderer dommer."
+    },
+    {
+     "title": "Freja kalder sig selv 'jysk og nærig': Sådan sparede hun 2.800 kroner på designerbord",
+     "link": "https://www.bt.dk/dagens-sparetip/freja-kalder-sig-selv-jysk-og-naerigsaadan-sparede-hun-2800-kroner-paa-designerbord?referrer=RSS",
+     "published": "2026-11-28T13:02+00:00",
+     "summary": "'Nybyggerne'-deltageren Freja Givskud var ingen 'handywoman', men i dag bygger hun selv sine boligdrømme. Eet er faktisk overraskende nemt og billigt."
+    },
+    {
      "title": "Domstol afviser at stoppe britisk olieprojekt ved Falklandsøerne",
      "link": "https://www.bt.dk/udland/domstol-afviser-at-stoppe-britisk-olieprojekt-ved-falklandsoeerne?referrer=RSS",
      "published": "2026-11-28T12:56+00:00",
@@ -840,12 +852,6 @@
      "summary": "Staten skal nu tilbagebetale millioner til borgere og virksomheder, der kan have betalt ugyldig gæld."
     },
     {
-     "title": "19-årig sigtet for knivdrab siger at det var selvforsvar",
-     "link": "https://www.bt.dk/krimi/19-aarig-sigtet-for-knivdrab-siger-at-det-var-selvforsvar?referrer=RSS",
-     "published": "2026-11-28T11:54+00:00",
-     "summary": "En 21-årig mand afgik natten til lørdag ved døden efter flere knivstik i Gentofte. En 19-årig mand er sigtet."
-    },
-    {
      "title": "Firmacyklister kan spare mindst 1200 kroner i skat med ny ordning",
      "link": "https://www.bt.dk/politik/firmacyklister-kan-spare-mindst-1200-kroner-i-skat-med-ny-ordning?referrer=RSS",
      "published": "2026-11-28T11:51+00:00",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/udland/bankkrak-lukker-med-oejeblikkelig-virkning?referrer=RSS",
      "published": "2026-11-28T11:43+00:00",
      "summary": "Amerikanske United Fidelity er lukket af myndighederne."
-    },
-    {
-     "title": "Hånes af egne fans for åben skærm",
-     "link": "https://www.bt.dk/fodbold/haanes-af-egne-fans-for-aaben-skaerm?referrer=RSS",
-     "published": "2026-11-28T11:36+00:00",
-     "summary": "Chelsea-spilleren begik også et par store fejl."
     }
    ]
   },
@@ -878,6 +878,12 @@
    "url": "https://petapixel.com/feed/",
    "status": "ok",
    "items": [
+    {
+     "title": "Photographer Captured Northern England in the 1970s Before It Disappeared",
+     "link": "https://petapixel.com/2026/11/28/photographer-captured-northern-england-in-the-1970s-before-it-disappeared/",
+     "published": "2026-11-28T13:00+00:00",
+     "summary": "In the 1970s, Peter Mitchell drove a delivery truck around the British city of Leeds and photographed the city between drops: shopkeepers in their doorways, factory gates, cafés, scrapyards, and terraced streets halfway to demolition. [ …"
+    },
     {
      "title": "PGYTECH RetroVa Gives the iPhone a 400mm Reach and a Real Camera Feel",
      "link": "https://petapixel.com/2026/11/27/pgytech-retrova-gives-the-iphone-a-400mm-reach-and-a-real-camera-feel/",
@@ -961,12 +967,6 @@
      "link": "https://petapixel.com/2026/11/25/the-new-york-times-cancels-adobe-the-r8-ii-is-a-hit-and-reto-does-it-again-the-petapixel-podcast/",
      "published": "2026-11-25T18:00+00:00",
      "summary": "This week on The PetaPixel Podcast, Chris is back from assignment and the team discusses a major development: The New York Times is forbidding the use of Adobe Photoshop 2027 because of too much (undisclosed) AI. [ Read More ]"
-    },
-    {
-     "title": "Hollywood and Analog Photography Power Kodak’s Fifth Consecutive Quarter of Growth",
-     "link": "https://petapixel.com/2026/11/25/hollywood-and-analog-photography-power-kodaks-fifth-consecutive-quarter-of-growth/",
-     "published": "2026-11-25T15:14+00:00",
-     "summary": "It has now been five straight quarters of growth for the transformed, resurgent Eastman Kodak. [ Read More ]"
     }
    ]
   },
