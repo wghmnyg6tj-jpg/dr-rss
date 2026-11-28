@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T09:52+00:00",
+ "generated": "2026-11-28T10:02+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -8,6 +8,12 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/senestenyt",
    "status": "ok",
    "items": [
+    {
+     "title": "30.000 kunder hos elnetselskab kan være ramt af datalæk",
+     "link": "https://www.dr.dk/nyheder/seneste/30-000-kunder-hos-elnetselskab-kan-vaere-ramt-af-datalaek",
+     "published": "2026-11-28T09:57+00:00",
+     "summary": "Datalækket er en del af et større sikkerhedsbrud hos en sms-leverandør."
+    },
     {
      "title": "Styrt med militærhelikopter har dræbt otte i Peru",
      "link": "https://www.dr.dk/nyheder/seneste/styrt-med-militaerhelikopter-har-draebt-otte-i-peru",
@@ -90,12 +96,6 @@
      "title": "Familieretshuset får igen kritik",
      "link": "https://www.dr.dk/nyheder/seneste/ny-kritik-af-familieretshuset",
      "published": "2026-11-27T12:07+00:00",
-     "summary": ""
-    },
-    {
-     "title": "Ny rigsadvokat udpeget",
-     "link": "https://www.dr.dk/nyheder/seneste/ny-rigsadvokat-udpeget",
-     "published": "2026-11-27T11:53+00:00",
      "summary": ""
     }
    ]
@@ -108,6 +108,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "30.000 kunder hos elnetselskab kan være ramt af datalæk",
+     "link": "https://www.dr.dk/nyheder/seneste/30-000-kunder-hos-elnetselskab-kan-vaere-ramt-af-datalaek",
+     "published": "2026-11-28T09:57+00:00",
+     "summary": "Datalækket er en del af et større sikkerhedsbrud hos en sms-leverandør."
+    },
+    {
      "title": "Styrt med militærhelikopter har dræbt otte i Peru",
      "link": "https://www.dr.dk/nyheder/seneste/styrt-med-militaerhelikopter-har-draebt-otte-i-peru",
      "published": "2026-11-28T04:11+00:00",
@@ -189,12 +195,6 @@
      "title": "Familieretshuset får igen kritik",
      "link": "https://www.dr.dk/nyheder/seneste/ny-kritik-af-familieretshuset",
      "published": "2026-11-27T12:07+00:00",
-     "summary": ""
-    },
-    {
-     "title": "Ny rigsadvokat udpeget",
-     "link": "https://www.dr.dk/nyheder/seneste/ny-rigsadvokat-udpeget",
-     "published": "2026-11-27T11:53+00:00",
      "summary": ""
     }
    ]
@@ -603,8 +603,14 @@
    "status": "ok",
    "items": [
     {
+     "title": "Vanvidsbryllup:\n500.000 mennesker\ndeltog",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/vanvidsbryllup-500.000-mennesker-deltog/11367482",
+     "published": "2026-11-28T09:53+00:00",
+     "summary": "I Indiens fattigste region, Bihar, er et bryllup for en toppolitikers datter løbet med al opmærksomheden. Selv har politikeren været genstand for flere efterforskninger, herunder for mord"
+    },
+    {
      "title": "Tv-profil alvorligt syg: Tvunget til at sige op",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/international_fodbold/tv-profil-olof-lundh-alvorligt-syg-har-sagt-op/11368380",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/international_fodbold/tv-profil-olof-lundh-alvorligt-syg-har-graedt-meget/11368380",
      "published": "2026-11-28T09:48+00:00",
      "summary": "Sygdommen har tvunget den svenske tv-profil Olof Lundh til at sige sit job op. Han siger samtidig, at hans hjerne er så påvirket, at han nok aldrig kommer til at arbejde som journalist igen"
     },
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/sport/anden_sport/boksning/pludselig-ringede-mikkel-kessler-mange-foelelser/11367707",
      "published": "2026-11-28T08:19+00:00",
      "summary": "Mikkel Kessler er blevet en god ven for Kalle Sauerland, som derfor har specielle følelser med ind til kampen"
-    },
-    {
-     "title": "Familie truet med kniv i eget hjem",
-     "link": "https://ekstrabladet.dk/krimi/familie-truet-med-kniv-i-eget-hjem/11368329",
-     "published": "2026-11-28T08:18+00:00",
-     "summary": "En mand og en kvinde forsøgte ifølge politiet at binde en familie i Ringe natten til lørdag. En af de unge slap væk og alarmerede politiet"
     }
    ]
   },
@@ -671,6 +671,12 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Vanvidsbryllup:\n500.000 mennesker\ndeltog",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/vanvidsbryllup-500.000-mennesker-deltog/11367482",
+     "published": "2026-11-28T09:53+00:00",
+     "summary": "I Indiens fattigste region, Bihar, er et bryllup for en toppolitikers datter løbet med al opmærksomheden. Selv har politikeren været genstand for flere efterforskninger, herunder for mord"
+    },
     {
      "title": "S-profil om Mette Frederiksen: - Hun er ikke racist",
      "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/s-profil-om-mette-frederiksen-hun-er-ikke-racist/11368375",
@@ -724,12 +730,6 @@
      "link": "https://ekstrabladet.dk/nyheder/Udland/blev-doemt-for-191-drab-nu-er-han-kendt-skyldig-i-123-drab-mere/11368030",
      "published": "2026-11-27T22:15+00:00",
      "summary": "Sektleder er kendt skyldig i drab på i alt 314 mennesker"
-    },
-    {
-     "title": "Fjern TV 2-toppen",
-     "link": "https://ekstrabladet.dk/nyheder/lederen/fjern-tv-2-toppen/11368054",
-     "published": "2026-11-27T21:55+00:00",
-     "summary": ""
     }
    ]
   },
@@ -810,6 +810,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Kendt sportsjournalist: Jeg er alvorligt syg",
+     "link": "https://www.bt.dk/film-tv-og-streaming/kendt-sportsjournalist-jeg-er-alvorligt-syg?referrer=RSS",
+     "published": "2026-11-28T09:54+00:00",
+     "summary": ""
+    },
+    {
      "title": "Camilla slap fri af Faderhuset – nu spiller kendt skuespiller hendes historie: 'Vildt på så mange måder'",
      "link": "https://www.bt.dk/danske-kendte/camilla-slap-fri-af-faderhuset--nu-spiller-kendt-skuespiller-hendes-historie-vildt-paa-saa-mange-maader?referrer=RSS",
      "published": "2026-11-28T09:48+00:00",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/samfund/frygter-datalaek-30000-kunder-ramt?referrer=RSS",
      "published": "2026-11-28T09:04+00:00",
      "summary": ""
-    },
-    {
-     "title": "Ghettobokser vil ødelægge danskernes weekend",
-     "link": "https://www.bt.dk/boksning/ghettobokser-vil-oedelaegge-danskernes-weekend?referrer=RSS",
-     "published": "2026-11-28T09:02+00:00",
-     "summary": "Mikkel Kesslers modstander er vokset op blandt banditter, og det giver motivation før lørdagens kamp."
     }
    ]
   },
@@ -1797,6 +1797,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "The Underrated Plank Variation That Strengthens Your Body for the Trail and Slopes",
+     "link": "https://www.outsideonline.com/health/training-performance/reverse-plank-hinge/",
+     "published": "2026-11-28T10:00+00:00",
+     "summary": "A personal trainer explains how to do the reverse plank hinge and how it can boost core, glute, and tricep strength in outdoor athletes."
+    },
+    {
      "title": "6 Ways to Score Free Ski Lift Tickets and Mountain Perks This Winter",
      "link": "https://www.outsideonline.com/outdoor-adventure/snow-sports/free-lift-tickets-ski-perks-2026-2027/",
      "published": "2026-11-27T11:09+00:00",
@@ -1849,12 +1855,6 @@
      "link": "https://www.outsideonline.com/culture/essays-culture/exercise-during-breast-cancer-treatment/",
      "published": "2026-11-25T10:19+00:00",
      "summary": "After a cancer diagnosis and a double mastectomy, I refused to give up the ocean. Catching waves became my lifeline through 14 months, 3 surgeries, and 21 rounds of chemotherapy and immunotherapy infusions."
-    },
-    {
-     "title": "The Tour du Mont Blanc Is Getting New Rules in 2027. Having a Guide Is More Important Than Ever.",
-     "link": "https://www.outsideonline.com/adventure-travel/destinations/europe/tour-du-mont-blanc-2027-rules-guided-hiking/",
-     "published": "2026-11-25T00:04+00:00",
-     "summary": "With annual traffic on Europe’s most popular long-distance trek rising by fifty percent in recent years, French towns want mandatory reservations and tighter guiding rules for 2027. Taking a guided trip may be the smartest way to beat the …"
     }
    ]
   },
