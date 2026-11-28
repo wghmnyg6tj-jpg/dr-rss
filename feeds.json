@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T09:41+00:00",
+ "generated": "2026-11-28T09:52+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Tv-profil alvorligt syg: Tvunget til at sige op",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/international_fodbold/tv-profil-olof-lundh-alvorligt-syg-har-sagt-op/11368380",
+     "published": "2026-11-28T09:48+00:00",
+     "summary": "Sygdommen har tvunget den svenske tv-profil Olof Lundh til at sige sit job op. Han siger samtidig, at hans hjerne er så påvirket, at han nok aldrig kommer til at arbejde som journalist igen"
+    },
+    {
      "title": "Eksklusivt interview: \n- Han ville slå mig ihjel",
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/jackie-navarro-frygtede-det-vaerste-han-vil-slaa-mig-ihjel/11368373",
      "published": "2026-11-28T09:31+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/krimi/familie-truet-med-kniv-i-eget-hjem/11368329",
      "published": "2026-11-28T08:18+00:00",
      "summary": "En mand og en kvinde forsøgte ifølge politiet at binde en familie i Ringe natten til lørdag. En af de unge slap væk og alarmerede politiet"
-    },
-    {
-     "title": "Står til bøde",
-     "link": "https://ekstrabladet.dk/underholdning/dkkendte/chokerede-danske-youtube-stjerner-i-retten-staar-til-boede/11368313",
-     "published": "2026-11-28T08:16+00:00",
-     "summary": "Tvillingebrødrene bag TrierGaming og Trierne er i retten for skjult reklame og risikerer en bøde på 140.000 kroner"
     }
    ]
   },
@@ -810,6 +810,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Camilla slap fri af Faderhuset – nu spiller kendt skuespiller hendes historie: 'Vildt på så mange måder'",
+     "link": "https://www.bt.dk/danske-kendte/camilla-slap-fri-af-faderhuset--nu-spiller-kendt-skuespiller-hendes-historie-vildt-paa-saa-mange-maader?referrer=RSS",
+     "published": "2026-11-28T09:48+00:00",
+     "summary": "At se sine egne oplevelser blive portrætteret af skuespiller Laura Kronborg Kjær har ændret Camilla Louise Johnsons blik på sig selv. Hun er tidligere ledende medlem af Faderhuset og har selv medvirket i indspilningen."
+    },
+    {
      "title": "Tidligere S-folketingsmedlem: Mette Frederiksen er ikke racist",
      "link": "https://www.bt.dk/politik/tidligere-s-folketingsmedlem-mette-frederiksen-er-ikke-racist?referrer=RSS",
      "published": "2026-11-28T09:40+00:00",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/boksning/ghettobokser-vil-oedelaegge-danskernes-weekend?referrer=RSS",
      "published": "2026-11-28T09:02+00:00",
      "summary": "Mikkel Kesslers modstander er vokset op blandt banditter, og det giver motivation før lørdagens kamp."
-    },
-    {
-     "title": "Passagerer var rædselsslagne: Chok i luften",
-     "link": "https://www.bt.dk/udland/passagerer-var-raedselsslagne-chok-i-luften?referrer=RSS",
-     "published": "2026-11-28T08:59+00:00",
-     "summary": "Braget kunne høres ti kilometer væk."
     }
    ]
   },
