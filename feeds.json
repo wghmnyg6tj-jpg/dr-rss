@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T06:13+00:00",
+ "generated": "2026-11-28T06:23+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Neestrups svære beslutning:\n- Skal man lære\n at leve med",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/international_fodbold/jacob-neestrups-svaere-beslutning-det-skal-man-laere-at-leve-med/11365846",
+     "published": "2026-11-28T06:22+00:00",
+     "summary": "Den tidligere FCK-chef havde mange overvejelser, inden han forlod København for at blive træner i Panathinaikos"
+    },
+    {
      "title": "Superbakterier hos Ukraine-patienter: Frygter smitte",
      "link": "https://ekstrabladet.dk/nyheder/samfund/saarede-fra-ukraine-baerer-paa-superbakterier-ssi-frygter-spredning/11368259",
      "published": "2026-11-28T06:11+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/underholdning/udlandkendte/kardashian-soestre-fuckede-deres-ansigter-op-min-mor-begyndte-at-graede/11367467",
      "published": "2026-11-27T22:33+00:00",
      "summary": "Khloé og Kim Kardashian tog til Sydkorea for landets populære skønhedsbehandlinger, men det gik ikke som forventet"
-    },
-    {
-     "title": "Gigant går til modangreb:\nSagsøger\nApple",
-     "link": "https://ekstrabladet.dk/forbrug/Teknologi/openai-gaar-til-modangreb-sagsoeger-apple/11368220",
-     "published": "2026-11-27T22:32+00:00",
-     "summary": "Striden mellem techgiganterne tager til, og OpenAI slæber nu Apple i retten"
     }
    ]
   },
@@ -741,6 +741,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "DMI advarer: Farligt vejr på vej",
+     "link": "https://www.bt.dk/vejret/dmi-advarer-farligt-vejr-paa-vej?referrer=RSS",
+     "published": "2026-11-28T06:21+00:00",
+     "summary": "Fænomenet kan ramme Danmark sidst på natten til søndag."
+    },
+    {
      "title": "Får tæsk af Obama",
      "link": "https://www.bt.dk/udland/faar-taesk-af-obama?referrer=RSS",
      "published": "2026-11-28T06:04+00:00",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/politik/morten-boedskov-beskyldte-rusland-for-migrantkrise-men-det-var-ikke-sandt?referrer=RSS",
      "published": "2026-11-27T22:42+00:00",
      "summary": "Ifølge mediet tjekdet.dk viser et svar fra EUs udenrigstjeneste, EEAS, at Rusland ikke stod bag migrantkrise i Ceuta i sommer."
-    },
-    {
-     "title": "Ny skatteordning skal gøre firmacykler mere attraktive fra 2028",
-     "link": "https://www.bt.dk/politik/ny-skatteordning-skal-goere-firmacykler-mere-attraktive-fra-2028?referrer=RSS",
-     "published": "2026-11-27T22:01+00:00",
-     "summary": "Fra 2028 kan arbejdspladser tilbyde firmacykler på mere gunstige skattevilkår, og ansatte må bruge dem privat."
     }
    ]
   },
@@ -809,6 +809,12 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "DMI advarer: Farligt vejr på vej",
+     "link": "https://www.bt.dk/vejret/dmi-advarer-farligt-vejr-paa-vej?referrer=RSS",
+     "published": "2026-11-28T06:21+00:00",
+     "summary": "Fænomenet kan ramme Danmark sidst på natten til søndag."
+    },
     {
      "title": "Får tæsk af Obama",
      "link": "https://www.bt.dk/udland/faar-taesk-af-obama?referrer=RSS",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/oevrig-sport/politiet-anholder-person-efter-uroligheder-mellem-ishockeyfans?referrer=RSS",
      "published": "2026-11-28T04:19+00:00",
      "summary": "En politibetjent er blevet behandlet på hospitalet efter uroligheder mellem ishockeyfans i Rødovre fredag."
-    },
-    {
-     "title": "Dansk golfspiller vinder terræn ved turnering i Australien",
-     "link": "https://www.bt.dk/oevrig-sport/dansk-golfspiller-vinder-terraen-ved-turnering-i-australien?referrer=RSS",
-     "published": "2026-11-28T03:38+00:00",
-     "summary": "Danske Nicolai Højgaard snuser til top-10 efter en flot tredje runde ved golfturnering i Australien."
     }
    ]
   },
