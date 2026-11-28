@@ -1,14 +1,14 @@
 {
- "generated": "2026-11-28T15:15:56Z",
+ "generated": "2026-11-28T15:26:13Z",
  "place": "Mørkhøj",
  "lat": 55.74,
  "lon": 12.5,
- "file": "dk.com.202611281500.500_max.h5",
- "time": "2026-11-28T15:00:00Z",
+ "file": "dk.com.202611281515.500_max.h5",
+ "time": "2026-11-28T15:15:00Z",
  "props": {
-  "datetime": "2026-11-28T15:00:00Z",
-  "created": "2026-11-28T15:13:02.570Z",
-  "scanType": "fullRange"
+  "datetime": "2026-11-28T15:15:00Z",
+  "created": "2026-11-28T15:23:03.151Z",
+  "scanType": "doppler"
  },
  "odim": {
   "what": {
@@ -19,7 +19,7 @@
    "offset": -32.0,
    "product": "DBZH",
    "source": "DMI-RADARGROUP",
-   "time": "150001",
+   "time": "151501",
    "undetect": 0.0,
    "version": "0.2"
   },
@@ -44,7 +44,7 @@
    "offset": -32.0,
    "product": "DBZH",
    "source": "DMI-RADARGROUP",
-   "time": "150001",
+   "time": "151501",
    "undetect": 0.0,
    "version": "0.2"
   },
@@ -61,7 +61,7 @@
   "10": null,
   "25": null
  },
- "nodata_share": 0.0,
+ "nodata_share": 0.127,
  "legend": [
   {
    "fra_dbz": 10,

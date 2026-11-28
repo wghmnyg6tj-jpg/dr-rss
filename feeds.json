@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T15:15+00:00",
+ "generated": "2026-11-28T15:26+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -747,14 +747,8 @@
      "summary": "Macy's Thanksgiving Day Parade var egentlig planlagt til torsdag, men dårligt vejr fik den udskudt til lørdag."
     },
     {
-     "title": "Thomas Helveg er færdig",
-     "link": "https://www.bt.dk/nyheder/thomas-helveg-er-faerdig?referrer=RSS",
-     "published": "2026-11-28T15:03+00:00",
-     "summary": ""
-    },
-    {
-     "title": "Motorvej spærret: Varevogn med i brand",
-     "link": "https://www.bt.dk/trafik/motorvej-spaerret-varevogn-med-i-brand?referrer=RSS",
+     "title": "Motorvej spærret: Varevogn i brand",
+     "link": "https://www.bt.dk/trafik/motorvej-spaerret-varevogn-i-brand?referrer=RSS",
      "published": "2026-11-28T15:03+00:00",
      "summary": ""
     },
@@ -799,6 +793,12 @@
      "link": "https://www.bt.dk/politik/32-millioner-husstande-faar-fysisk-pjece-med-opdaterede-kriseraad?referrer=RSS",
      "published": "2026-11-28T12:53+00:00",
      "summary": "Samfundets svageste bør lave en huskeliste med vigtige telefonnumre i tilfælde af en krise, siger ministerie."
+    },
+    {
+     "title": "Millioner skal tilbagebetales efter mangeårig usikkerhed om gæld",
+     "link": "https://www.bt.dk/samfund/millioner-skal-tilbagebetales-efter-mangeaarig-usikkerhed-om-gaeld?referrer=RSS",
+     "published": "2026-11-28T12:01+00:00",
+     "summary": "Staten skal nu tilbagebetale millioner til borgere og virksomheder, der kan have betalt ugyldig gæld."
     }
    ]
   },
@@ -810,6 +810,18 @@
    "status": "ok",
    "items": [
     {
+     "title": "Håndboldkvinder vinder den sidste testkamp inden EM",
+     "link": "https://www.bt.dk/haandbold/haandboldkvinder-vinder-den-sidste-testkamp-inden-em-1?referrer=RSS",
+     "published": "2026-11-28T15:21+00:00",
+     "summary": "Færøerne kunne ikke stille det store op mod Danmark, der diskede op med en håndboldlektion i Trondheim."
+    },
+    {
+     "title": "OB stopper samarbejdet med klubikonet Thomas Helveg",
+     "link": "https://www.bt.dk/fodbold/ob-stopper-samarbejdet-med-klubikonet-thomas-helveg?referrer=RSS",
+     "published": "2026-11-28T15:21+00:00",
+     "summary": "OB opsiger samarbejdet med Thomas Helveg, der senest har været scout i klubben og har tre måneders opsigelse."
+    },
+    {
      "title": "100 oppustelige figurer fylder New Yorks gader ved Thanksgiving-parade",
      "link": "https://www.bt.dk/udland/100-oppustelige-figurer-fylder-new-yorks-gader-ved-thanksgiving-parade?referrer=RSS",
      "published": "2026-11-28T15:04+00:00",
@@ -817,21 +829,15 @@
     },
     {
      "title": "Thomas Helveg er færdig",
-     "link": "https://www.bt.dk/nyheder/thomas-helveg-er-faerdig?referrer=RSS",
+     "link": "https://www.bt.dk/fodbold/thomas-helveg-er-faerdig?referrer=RSS",
      "published": "2026-11-28T15:03+00:00",
-     "summary": ""
+     "summary": "OB opsiger samarbejdet med klubikonet Thomas Helveg, der senest har været scout i klubben."
     },
     {
-     "title": "Motorvej spærret: Varevogn med i brand",
-     "link": "https://www.bt.dk/trafik/motorvej-spaerret-varevogn-med-i-brand?referrer=RSS",
+     "title": "Motorvej spærret: Varevogn i brand",
+     "link": "https://www.bt.dk/trafik/motorvej-spaerret-varevogn-i-brand?referrer=RSS",
      "published": "2026-11-28T15:03+00:00",
      "summary": ""
-    },
-    {
-     "title": "Håndboldkvinder vinder den sidste testkamp inden EM",
-     "link": "https://www.bt.dk/haandbold/haandboldkvinder-vinder-den-sidste-testkamp-inden-em-1?referrer=RSS",
-     "published": "2026-11-28T14:57+00:00",
-     "summary": "Færøerne kunne ikke stille det store op mod Danmark, der diskede op med en håndboldlektion i Trondheim."
     },
     {
      "title": "Carlos Alcaraz sender Spanien i Davis Cup-finalen",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/udland/domstol-afviser-at-stoppe-britisk-olieprojekt-ved-falklandsoeerne?referrer=RSS",
      "published": "2026-11-28T13:45+00:00",
      "summary": "Argentina mener, at olieudvinding bryder FN-resolution i strid med Storbritannien om Falklandsøerne."
-    },
-    {
-     "title": "Indkalder til pressemøde",
-     "link": "https://www.bt.dk/politik/indkalder-til-pressemoede?referrer=RSS",
-     "published": "2026-11-28T13:44+00:00",
-     "summary": ""
     }
    ]
   },
