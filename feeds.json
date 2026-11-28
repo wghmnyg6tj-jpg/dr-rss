@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T10:23+00:00",
+ "generated": "2026-11-28T10:33+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -603,6 +603,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Advokat sigtet:\nHjalp rocker med\nsorte penge",
+     "link": "https://ekstrabladet.dk/krimi/advokat-sigtet-hjalp-rocker-med-sorte-penge/11368297",
+     "published": "2026-11-28T10:29+00:00",
+     "summary": "Voldsom sag, hvor også lægesekretær, der var kæreste med rocker, lavede ulovlige CPR-opslag på sygehusets datasystemer"
+    },
+    {
      "title": "Elever dræbt i eksplosion \ni Afghanistan",
      "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/mindst-seks-elever-draebt-i-eksplosion-ved-skole-i-afghanistan/11368407",
      "published": "2026-11-28T10:17+00:00",
@@ -655,12 +661,6 @@
      "link": "https://ekstrabladet.dk/nyheder/samfund/raser-over-netflix-kys-hvad-er-der-galt-med-jer/11368317",
      "published": "2026-11-28T09:03+00:00",
      "summary": "Et videoklip med to kvinder, der kysser i en seng, og som Netflix delte på X på Thanksgiving, har fået Donald Trump Jr. til tasterne"
-    },
-    {
-     "title": "Brøndby-spiller ikke med i bussen: - Røgslør",
-     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/olti-hyseni-ikke-med-i-broendby-bussen-godt-gammeldags-roegsloer/11368346",
-     "published": "2026-11-28T08:56+00:00",
-     "summary": "Olti Hyseni kom ikke i aktion fredag aften mod Sønderjyske Fodbold, selvom han var en del af kamptruppen"
     }
    ]
   },
@@ -741,6 +741,12 @@
    "status": "ok",
    "items": [
     {
+     "title": "Forsvandt fra sygehus: Droner og hunde sat ind",
+     "link": "https://www.bt.dk/krimi/forsvandt-fra-sygehus-droner-og-hunde-sat-ind?referrer=RSS",
+     "published": "2026-11-28T10:30+00:00",
+     "summary": "Politiet gennemsøger også Kolding Sygehus indvendigt."
+    },
+    {
      "title": "Cyklist er kørt med eskorte til hospitalet efter ulykke",
      "link": "https://www.bt.dk/krimi/cyklist-er-koert-med-eskorte-til-hospitalet-efter-ulykke?referrer=RSS",
      "published": "2026-11-28T10:15+00:00",
@@ -793,12 +799,6 @@
      "link": "https://www.bt.dk/krimi/21-aarig-mand-draebt-med-kniv-19-aarig-sigtet-for-drabet?referrer=RSS",
      "published": "2026-11-28T08:45+00:00",
      "summary": "En 19-årig mand vil lørdag blive krævet varetægtsfængslet for drab på 21-årig mand i Gentofte fredag aften."
-    },
-    {
-     "title": "Kvinder ramt af kramper og aborter efter tåregas under demoer i Frankrig",
-     "link": "https://www.bt.dk/udland/kvinder-ramt-af-kramper-og-aborter-efter-taaregas-under-demoer-i-frankrig?referrer=RSS",
-     "published": "2026-11-28T08:38+00:00",
-     "summary": "Tusindvis har fået usædvanligt kraftige smerter og blødninger, efter at de deltog i demonstrationer."
     }
    ]
   },
@@ -809,6 +809,12 @@
    "url": "https://www.bt.dk/bt/seneste/rss",
    "status": "ok",
    "items": [
+    {
+     "title": "Forsvandt fra sygehus: Droner og hunde sat ind",
+     "link": "https://www.bt.dk/krimi/forsvandt-fra-sygehus-droner-og-hunde-sat-ind?referrer=RSS",
+     "published": "2026-11-28T10:30+00:00",
+     "summary": "Politiet gennemsøger også Kolding Sygehus indvendigt."
+    },
     {
      "title": "Cyklist er kørt med eskorte til hospitalet efter ulykke",
      "link": "https://www.bt.dk/krimi/cyklist-er-koert-med-eskorte-til-hospitalet-efter-ulykke?referrer=RSS",
@@ -862,12 +868,6 @@
      "link": "https://www.bt.dk/danske-kendte/elisa-lykke-om-sine-fire-kraeftforloeb-det-har-gjort-mig-mere-taknemmelig?referrer=RSS",
      "published": "2026-11-28T09:26+00:00",
      "summary": "PR-agenten Elisa Lykke har været ramt af kræft flere gange. Særligt de seneste to kræftforløb har sat dybe spor og givet hende et helt nyt syn på livet."
-    },
-    {
-     "title": "Jørn Hjortings sidste ord: Det vil han huskes for",
-     "link": "https://www.bt.dk/danske-kendte/joern-hjortings-sidste-ord-det-vil-han-huskes-for?referrer=RSS",
-     "published": "2026-11-28T09:13+00:00",
-     "summary": "Radiolegenden blev 95 år. Han nåede inden sin død at give et sidste interview til DR."
     }
    ]
   },
